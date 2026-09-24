@@ -1,7 +1,19 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T18:15:25.565537+00:00",
+  "updated_at": "2026-09-24T19:12:10.806573+00:00",
   "items": [
+    {
+      "title": "わずか2日で開発、医師が生成AIで作った医療英語アプリ｜CareNet.com - CareNet.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1JzeFZsbko3UWFFU0cwV0R1VFV1Y1ZQZDFrYmh3c2o3MThGWXpCMDkwTVowbkVZYlBpdXZ2Zm9iWTNCVjN1X1pGajQ4Q0IzMGlDczhkUVdYOEJvMTJF?oc=5",
+      "source": "CareNet.com",
+      "pub_date": "Thu, 24 Sep 2026 19:00:00 GMT"
+    },
+    {
+      "title": "生成AI×デザインで単価アップ！女性向け講座開講 - Koubo",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BZlowdDFKZjM2NjRaTVl4Zkp3OFE5WmdsOUczeDMxSldwVWJlTzhNWWFEUkxkd2NDMk5MbnJRUkFHdjJXYVE?oc=5",
+      "source": "Koubo",
+      "pub_date": "Thu, 24 Sep 2026 18:04:46 GMT"
+    },
     {
       "title": "Anthropic、Claude Opus 5.5 の価格設定を長時間のコーディングセッションに結び付ける - unite.ai",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkVwdlBvYTdDeFVSMzVyaVVoSE84UHVSYjU5ZTJoY3Z1U01kR1U0SF9sM2RtZ1RGQmV4R0o5UnRXLXBZVHBmRTRZUWNyajNSUmhHdUJYd1pWaVZ4NHBURVVSN05sSEhRbDNuZzBuSDBBby1SUUtCZXVhbFllaGFCTk41cFYwdG5tWVItZ1NaQ3gyVmc?oc=5",
@@ -33,15 +45,9 @@
       "pub_date": "Thu, 24 Sep 2026 13:23:26 GMT"
     },
     {
-      "title": "毎日のメール処理から解放される？ ClaudeのGmail自動返信機能をテストして見えたメリットと課題（ライフハッカー・ジャパン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SOFYwVVNETGhkSHBybmdaTktLVWlSUUo1MEVJMnBDOG43U0h4djlHNER2UUZ0LWc4MWVxUDBBNWp1S0M1ZlRkZVBCMGROZ1JIdWNfLTJwT2UxX0JVbFpwWTlXckZzSEYyWmtqVnRnRkFaWlNIcDY4Q1E5aGZTdGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "pub_date": "Thu, 24 Sep 2026 12:31:01 GMT"
-    },
-    {
-      "title": "Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - jp.pronews.com",
+      "title": "Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - pronews.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSW15TzB0STNpcGN0NXVnUWpJVW1ac2R4RThfNkFhWjFPRHZyRmxTVGxaUkFab1VTbXVRT2J1Nmx4X2N3NC10ci1RcU1WU3V2Rl9LX0xvNXdxSHdHd2QydA?oc=5",
-      "source": "jp.pronews.com",
+      "source": "pronews.com",
       "pub_date": "Thu, 24 Sep 2026 12:25:13 GMT"
     },
     {
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NWHpPRFhSZ3V4UjFNb2RnT3VGWHpQSG9EcHI2cEo1cXd3VWRkaG53SVVlcEpZbEtiM2t6RXpDLTZIa1VUWU1kMUprX2VSZUJFZkpURVVRUHRvYmNy?oc=5",
       "source": "最新不動産ニュースサイト「R.E.port」",
       "pub_date": "Thu, 24 Sep 2026 11:19:37 GMT"
-    },
-    {
-      "title": "【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは #Shorts - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10a0lyYTF5ZTRfWTJEZTAwZXJSYms0Wnd4M1JONHFJRE43Qjk1a2d1VnpScEV0RDRueWdDZWVhenM5UFd1M2ZnU1YtMF81VmN1VjM2VVY5Yi1xZ0x3?oc=5",
-      "source": "YouTube",
-      "pub_date": "Thu, 24 Sep 2026 11:04:01 GMT"
     }
   ]
 }
