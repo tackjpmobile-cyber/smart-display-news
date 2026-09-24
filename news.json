@@ -1,7 +1,13 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T17:11:54.204185+00:00",
+  "updated_at": "2026-09-24T18:15:25.565537+00:00",
   "items": [
+    {
+      "title": "Anthropic、Claude Opus 5.5 の価格設定を長時間のコーディングセッションに結び付ける - unite.ai",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkVwdlBvYTdDeFVSMzVyaVVoSE84UHVSYjU5ZTJoY3Z1U01kR1U0SF9sM2RtZ1RGQmV4R0o5UnRXLXBZVHBmRTRZUWNyajNSUmhHdUJYd1pWaVZ4NHBURVVSN05sSEhRbDNuZzBuSDBBby1SUUtCZXVhbFllaGFCTk41cFYwdG5tWVItZ1NaQ3gyVmc?oc=5",
+      "source": "unite.ai",
+      "pub_date": "Thu, 24 Sep 2026 16:57:36 GMT"
+    },
     {
       "title": "【参加無料・オンライン開催】ランサムウェア・生成AI時代の情報セキュリティを学ぶ、中小企業向けセミナーを10月30日に開催 - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNzE0VDZtVW5vSWNmdFVQeWs2SktEUU01NndmclhUNUNjRWUxLVNZa2lKUmV3Ty1DRmpJb2VSeWZITGhIbTBYZHdNaFNVTlI4V3ZaMHFBX1VXaEpqQlo2Z1lvRV82NVptc1Rn?oc=5",
@@ -15,9 +21,9 @@
       "pub_date": "Thu, 24 Sep 2026 15:03:53 GMT"
     },
     {
-      "title": "氏名を除けば、患者情報を生成AIに入力してもよい？ - medical.nikkeibp.co.jp",
+      "title": "氏名を除けば、患者情報を生成AIに入力してもよい？ - 日経メディカル",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpBeEtYa0NEYTFFSFJ1QnBCaEFKcDBaT0plcThnbnc5UUdxNGt3RDNLZURUSUdDRmlVdVlqcld3a3ozRDBvZTlUN1FMMzRmV3F3TDUySmZkNkJ1RVhNQ2IzR0xXZUdMcHE4c051M214TElqVXhNVXFrRF9KSHlTcDQ3REQzNk1w?oc=5",
-      "source": "medical.nikkeibp.co.jp",
+      "source": "日経メディカル",
       "pub_date": "Thu, 24 Sep 2026 14:45:14 GMT"
     },
     {
@@ -33,28 +39,22 @@
       "pub_date": "Thu, 24 Sep 2026 12:31:01 GMT"
     },
     {
-      "title": "Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - pronews.com",
+      "title": "Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - jp.pronews.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSW15TzB0STNpcGN0NXVnUWpJVW1ac2R4RThfNkFhWjFPRHZyRmxTVGxaUkFab1VTbXVRT2J1Nmx4X2N3NC10ci1RcU1WU3V2Rl9LX0xvNXdxSHdHd2QydA?oc=5",
-      "source": "pronews.com",
+      "source": "jp.pronews.com",
       "pub_date": "Thu, 24 Sep 2026 12:25:13 GMT"
     },
     {
-      "title": "パナソニック×Parame登壇 新卒採用で生成AIをどこまで任せる？AIと人の役割分担を徹底解説【9/29 無料オンライン開催｜WORKS REVIEW】 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PWktQRUNnOGpmYkktRS1aTlltT1VkM1E1NXVjMlVqSklzMmp1Tkw2UTZCRnBEZGxJUXNDTTFxR3JlLTlLb1g4VlBTWlhfNWdRaDNBWlNpMTg0a3IwcXQ0dFVQd3BoNjY5ZDcwbHUzS2o5UQ?oc=5",
-      "source": "Infoseek",
-      "pub_date": "Thu, 24 Sep 2026 12:10:02 GMT"
+      "title": "生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNGFpbFJ2VmxpaDR5VlR3eHdfaDRESFh6SVNGOWpLTkJMRGFjUWp4Umcxb0R5SjA4aGlGbDczaW9oX2hkLXZBVjdHbGxmLXJZLThHb3lITm1nYVFwNDg3YWVCWHpoLUVTeThrS0FB?oc=5",
+      "source": "au Webポータル",
+      "pub_date": "Thu, 24 Sep 2026 11:31:00 GMT"
     },
     {
-      "title": "札幌のビルで生成AI活用の空間演出技術を実証放映 - re-port.net",
+      "title": "札幌のビルで生成AI活用の空間演出技術を実証放映 - 最新不動産ニュースサイト「R.E.port」",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NWHpPRFhSZ3V4UjFNb2RnT3VGWHpQSG9EcHI2cEo1cXd3VWRkaG53SVVlcEpZbEtiM2t6RXpDLTZIa1VUWU1kMUprX2VSZUJFZkpURVVRUHRvYmNy?oc=5",
-      "source": "re-port.net",
+      "source": "最新不動産ニュースサイト「R.E.port」",
       "pub_date": "Thu, 24 Sep 2026 11:19:37 GMT"
-    },
-    {
-      "title": "生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - J-CAST ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRnVmbkRsV2lSRGJHOEpGUENBVzFYYjhYaWdzaGd6cE5qQWJXYThmVVhJeFI3Nnk3QS1RYmI5WW1SaDRaaU1YVUxmVG1iWlZlN1NyTUIwUGViTXNfcU4yTw?oc=5",
-      "source": "J-CAST ニュース",
-      "pub_date": "Thu, 24 Sep 2026 11:15:00 GMT"
     },
     {
       "title": "【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは #Shorts - YouTube",
