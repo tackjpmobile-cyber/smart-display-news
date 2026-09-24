@@ -1,0 +1,32 @@
+name: Update News
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # 毎時0分(UTC)に実行
+  workflow_dispatch:        # 手動実行ボタンからも実行可能にする
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and filter news
+        run: python fetch_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update news.json [skip ci]"
+          git push
