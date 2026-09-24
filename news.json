@@ -1,7 +1,19 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T22:12:23.660066+00:00",
+  "updated_at": "2026-09-24T23:11:36.276944+00:00",
   "items": [
+    {
+      "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多 - Ledge.ai",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IMmVkNTNzTS1VcXhTRjVYV1ZVbGt5TFlKc0dzNjBFWnlRUU5vMTRDTEI3X3IzSm1wSFFYQWhDZ2wyeXZJdGRkUGZaNlRvN2ZvS2E5RmJrSk9aV1VHTlg3SDd2Z04weFo5UE1F?oc=5",
+      "source": "Ledge.ai",
+      "pub_date": "Thu, 24 Sep 2026 23:07:53 GMT"
+    },
+    {
+      "title": "DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に - Impress Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OVGdEcHBzdjBvZEtMSVRxWWRDVlNXS2NyVG9JUDVPY1hhdmpGLW5DQlZRZ29lSGRvVFRMZVBWanM0NGlsYzdHRkptRWQzcEpCWGRWRl9aWlk2OWtWaE11amk0TFY?oc=5",
+      "source": "Impress Watch",
+      "pub_date": "Thu, 24 Sep 2026 23:00:00 GMT"
+    },
     {
       "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？ - キーマンズネット",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZTDRqZUV0Vmo5UFNBeFo4MVFPUXRtLTBDcDRKZXZiejFHQW5zYXBMMG5PSk9lc2F0dVR0MTd5UUl0a2RNWTdXeUNFeWgxQTVScGg1cm5ZbGFaTkE5OXFZU1Z2TFZPZw?oc=5",
@@ -27,6 +39,12 @@
       "pub_date": "Thu, 24 Sep 2026 21:23:22 GMT"
     },
     {
+      "title": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは - PC Watch",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaGMxUzNZTEJxbHFsRlZxVy1nWXl0aGN4R2pWdnVwMmJ6ak91cmw5ZTFnanNJM1R6bUdJNWZ4bk1kb0hSZ3ZPWWRNV0gzUWxnVE1Xd2plbzVId3RpZUxtZHVNRmhjdnZ3Y2FFQ09R?oc=5",
+      "source": "PC Watch",
+      "pub_date": "Thu, 24 Sep 2026 21:01:00 GMT"
+    },
+    {
       "title": "“Claude Code Moment” ～AIの爆発的普及はいつか～【プロの眼】 - テレ東BIZ",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yakJCeXNsd2txUE1LWU51LXRFZVRXZmZDS0lFWUFvNHRnaVh0VUZaRmZpU1BzbnBxYVV3N3BCQ05WWXk4SEJGSTNLODNIX0RKME5SU3puSDFJWlAyTmd5Zg?oc=5",
       "source": "テレ東BIZ",
@@ -43,24 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1JzeFZsbko3UWFFU0cwV0R1VFV1Y1ZQZDFrYmh3c2o3MThGWXpCMDkwTVowbkVZYlBpdXZ2Zm9iWTNCVjN1X1pGajQ4Q0IzMGlDczhkUVdYOEJvMTJF?oc=5",
       "source": "CareNet.com",
       "pub_date": "Thu, 24 Sep 2026 19:00:00 GMT"
-    },
-    {
-      "title": "生成AI×デザインで単価アップ！女性向け講座開講 - Koubo",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BZlowdDFKZjM2NjRaTVl4Zkp3OFE5WmdsOUczeDMxSldwVWJlTzhNWWFEUkxkd2NDMk5MbnJRUkFHdjJXYVE?oc=5",
-      "source": "Koubo",
-      "pub_date": "Thu, 24 Sep 2026 18:04:46 GMT"
-    },
-    {
-      "title": "Anthropic、Claude Opus 5.5 の価格設定を長時間のコーディングセッションに結び付ける - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkVwdlBvYTdDeFVSMzVyaVVoSE84UHVSYjU5ZTJoY3Z1U01kR1U0SF9sM2RtZ1RGQmV4R0o5UnRXLXBZVHBmRTRZUWNyajNSUmhHdUJYd1pWaVZ4NHBURVVSN05sSEhRbDNuZzBuSDBBby1SUUtCZXVhbFllaGFCTk41cFYwdG5tWVItZ1NaQ3gyVmc?oc=5",
-      "source": "Unite.AI",
-      "pub_date": "Thu, 24 Sep 2026 16:57:36 GMT"
-    },
-    {
-      "title": "【参加無料・オンライン開催】ランサムウェア・生成AI時代の情報セキュリティを学ぶ、中小企業向けセミナーを10月30日に開催 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNzE0VDZtVW5vSWNmdFVQeWs2SktEUU01NndmclhUNUNjRWUxLVNZa2lKUmV3Ty1DRmpJb2VSeWZITGhIbTBYZHdNaFNVTlI4V3ZaMHFBX1VXaEpqQlo2Z1lvRV82NVptc1Rn?oc=5",
-      "source": "時事ドットコム",
-      "pub_date": "Thu, 24 Sep 2026 16:10:00 GMT"
     }
   ]
 }
