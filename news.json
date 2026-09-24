@@ -1,7 +1,25 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T13:13:44.542476+00:00",
+  "updated_at": "2026-09-24T14:13:34.022038+00:00",
   "items": [
+    {
+      "title": "AnthropicがClaudeで未知の遺伝子システムを発見 - korben.info",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTQyaWwxbFlCVW5QMmRqclppeWZ5U1Rmcy01UFU0ejhCODd3bEU2TjFXVnJNQmtnUWFfRUEyRFJ1NFV6ZkVYcVk2V3NrMHpmMEwwaldOVmtGbW96QTRFbkJOY0s4T3FaUTliY3I1YnpuTDh3NU9MMXRobDlnYlh1Y3ZadFdIci0yd2c?oc=5",
+      "source": "korben.info",
+      "pub_date": "Thu, 24 Sep 2026 13:23:26 GMT"
+    },
+    {
+      "title": "毎日のメール処理から解放される？ ClaudeのGmail自動返信機能をテストして見えたメリットと課題（ライフハッカー・ジャパン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SOFYwVVNETGhkSHBybmdaTktLVWlSUUo1MEVJMnBDOG43U0h4djlHNER2UUZ0LWc4MWVxUDBBNWp1S0M1ZlRkZVBCMGROZ1JIdWNfLTJwT2UxX0JVbFpwWTlXckZzSEYyWmtqVnRnRkFaWlNIcDY4Q1E5aGZTdGs?oc=5",
+      "source": "Yahoo!ニュース",
+      "pub_date": "Thu, 24 Sep 2026 12:31:01 GMT"
+    },
+    {
+      "title": "Smode Tech、「SMODE R15」公開。OpenTrackIO、Livegrade連携や生成AI機能を強化 - pronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TSW15TzB0STNpcGN0NXVnUWpJVW1ac2R4RThfNkFhWjFPRHZyRmxTVGxaUkFab1VTbXVRT2J1Nmx4X2N3NC10ci1RcU1WU3V2Rl9LX0xvNXdxSHdHd2QydA?oc=5",
+      "source": "pronews.com",
+      "pub_date": "Thu, 24 Sep 2026 12:25:13 GMT"
+    },
     {
       "title": "パナソニック×Parame登壇 新卒採用で生成AIをどこまで任せる？AIと人の役割分担を徹底解説【9/29 無料オンライン開催｜WORKS REVIEW】 - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PWktQRUNnOGpmYkktRS1aTlltT1VkM1E1NXVjMlVqSklzMmp1Tkw2UTZCRnBEZGxJUXNDTTFxR3JlLTlLb1g4VlBTWlhfNWdRaDNBWlNpMTg0a3IwcXQ0dFVQd3BoNjY5ZDcwbHUzS2o5UQ?oc=5",
@@ -43,24 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nMElnOTlSZmhRcU8zaEN0WWFZdkhjR0tQNUlvNVdka29xY2NFSDk5c0NFa1E5WlpSX2Z3SzYwQmVGMnJjOHBRRVNoTUdfZlU?oc=5",
       "source": "Newscast.jp",
       "pub_date": "Thu, 24 Sep 2026 09:30:00 GMT"
-    },
-    {
-      "title": "小学生の約半数が生成AI利用経験も、夏休みの宿題では58.6%が使わない選択。考える力への影響を不安視 - AIsmiley",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QmtxRmlPMnJ3QVVRamlnQ3dHSmRXdzBUSTlSMHIwLWhpMGUteGlWNi0tQmFCTHBWZWtUNEc4S0JhaFF5WnJMUTFWZjVoazE4TXFqTFpHQWJuLWMtX2lPb2pobVZJcnZ5Umow?oc=5",
-      "source": "AIsmiley",
-      "pub_date": "Thu, 24 Sep 2026 09:29:20 GMT"
-    },
-    {
-      "title": "ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応 - ケータイ Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMR2VFcnBGZkNaelhOczBkdzBaYXNPdHRWc2sxZEtJLTBmQWlmNS1XM0pUamFGVlNsNHZPTHhDcEpTSVF5UmdjZ3dKSTNYMTRaSmhHWHFNZ3dzZzVYaVNpeFFFZHRObHM?oc=5",
-      "source": "ケータイ Watch",
-      "pub_date": "Thu, 24 Sep 2026 09:26:53 GMT"
-    },
-    {
-      "title": "転職活動者の26%が生成AIで企業情報を収集。利用率は口コミサイトの2倍超、事業内容や評判を重視 - AIsmiley",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cm5NQ0laa2YxY2cxT1lMSXhNWW4ySHNwUFoxU2NTOVJGcmhKX1lrVEZJRlpuSWo4X2ZkMUNHbzlqX0FNdkl0LUpJanNyeVQ2cFRkMzdkUkhtdXV6Mkdna0V3?oc=5",
-      "source": "AIsmiley",
-      "pub_date": "Thu, 24 Sep 2026 09:19:17 GMT"
     }
   ]
 }
