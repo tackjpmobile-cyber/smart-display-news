@@ -1,17 +1,23 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T16:13:38.544177+00:00",
+  "updated_at": "2026-09-24T17:11:54.204185+00:00",
   "items": [
     {
-      "title": "Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - weekly-economist.mainichi.jp",
+      "title": "【参加無料・オンライン開催】ランサムウェア・生成AI時代の情報セキュリティを学ぶ、中小企業向けセミナーを10月30日に開催 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNzE0VDZtVW5vSWNmdFVQeWs2SktEUU01NndmclhUNUNjRWUxLVNZa2lKUmV3Ty1DRmpJb2VSeWZITGhIbTBYZHdNaFNVTlI4V3ZaMHFBX1VXaEpqQlo2Z1lvRV82NVptc1Rn?oc=5",
+      "source": "時事ドットコム",
+      "pub_date": "Thu, 24 Sep 2026 16:10:00 GMT"
+    },
+    {
+      "title": "Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdTJNVFJyaTdJeGRFM2RoNHI5OURlaE5EbXBtN3VQaWNCdmlfNkZMMXhWY2NkVHZYVWdkajkyemtncWg5WmVqQ2VFX0pKS1hCMHduRklPX1F3b3NoWDVrdDZTVDA1MDZqcnpxWHNVaWp6R0poQ090VHJtMnR6dzg?oc=5",
-      "source": "weekly-economist.mainichi.jp",
+      "source": "週刊エコノミスト Online",
       "pub_date": "Thu, 24 Sep 2026 15:03:53 GMT"
     },
     {
-      "title": "氏名を除けば、患者情報を生成AIに入力してもよい？ - 日経メディカル",
+      "title": "氏名を除けば、患者情報を生成AIに入力してもよい？ - medical.nikkeibp.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpBeEtYa0NEYTFFSFJ1QnBCaEFKcDBaT0plcThnbnc5UUdxNGt3RDNLZURUSUdDRmlVdVlqcld3a3ozRDBvZTlUN1FMMzRmV3F3TDUySmZkNkJ1RVhNQ2IzR0xXZUdMcHE4c051M214TElqVXhNVXFrRF9KSHlTcDQ3REQzNk1w?oc=5",
-      "source": "日経メディカル",
+      "source": "medical.nikkeibp.co.jp",
       "pub_date": "Thu, 24 Sep 2026 14:45:14 GMT"
     },
     {
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10a0lyYTF5ZTRfWTJEZTAwZXJSYms0Wnd4M1JONHFJRE43Qjk1a2d1VnpScEV0RDRueWdDZWVhenM5UFd1M2ZnU1YtMF81VmN1VjM2VVY5Yi1xZ0x3?oc=5",
       "source": "YouTube",
       "pub_date": "Thu, 24 Sep 2026 11:04:01 GMT"
-    },
-    {
-      "title": "【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRXRGOUVSWTY2VnJhLVh1SUJGZ1VETXRSeFJyY2FJRDFGcUxaQmF6OGlhWkx0MU5oV2I0VFFMZ1RkR25pNUxkTGF2U2VMcXJYQ3JSRHhlZlBzLVFJ?oc=5",
-      "source": "YouTube",
-      "pub_date": "Thu, 24 Sep 2026 10:29:38 GMT"
     }
   ]
 }
