@@ -1,5 +1,66 @@
 {
-  "theme": "",
-  "updated_at": "",
-  "items": []
+  "theme": "生成AIの最新ニュース",
+  "updated_at": "2026-09-24T12:21:44.856987+00:00",
+  "items": [
+    {
+      "title": "生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - J-CAST ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRnVmbkRsV2lSRGJHOEpGUENBVzFYYjhYaWdzaGd6cE5qQWJXYThmVVhJeFI3Nnk3QS1RYmI5WW1SaDRaaU1YVUxmVG1iWlZlN1NyTUIwUGViTXNfcU4yTw?oc=5",
+      "source": "J-CAST ニュース",
+      "pub_date": "Thu, 24 Sep 2026 11:15:00 GMT"
+    },
+    {
+      "title": "【実践AI経営 #1】なぜ生成AIは定着しないのか？｜知識の複利ループとは - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRXRGOUVSWTY2VnJhLVh1SUJGZ1VETXRSeFJyY2FJRDFGcUxaQmF6OGlhWkx0MU5oV2I0VFFMZ1RkR25pNUxkTGF2U2VMcXJYQ3JSRHhlZlBzLVFJ?oc=5",
+      "source": "YouTube",
+      "pub_date": "Thu, 24 Sep 2026 10:29:38 GMT"
+    },
+    {
+      "title": "音声生成AIモデル「Gemini 3.8 Flash/Flash-Lite TTS」を発表 - ai.watch.impress.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0Q3J3M0EzQUdyd0pUYXJoUDJYN3R6Y2FVZDc1UzJXcWJZaFA5X0VpT0JmcUhvRWlDN05jWUh1ZDVPUkZ6YzBjLXZlZTIxVlNRREFmQmtUYlM2dl9SbkFhYUt5WQ?oc=5",
+      "source": "ai.watch.impress.co.jp",
+      "pub_date": "Thu, 24 Sep 2026 10:27:09 GMT"
+    },
+    {
+      "title": "生成AIを使う買い手への情報提供を見直す「顧客は問い合わせる前に、AIと何を決めているのか」を無料公開 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Q3I1VTRWNmxLVTFRd0I2eWUxOGROSGVoenM4V0FfUXFxZ0Q2SkZMRVNvUzRWV2dWN1NjYVpSNWJpRmxUWGNzNmpxUEttR0x1YWI4T0NpUk5CdlRUY3FPMlNQaDVOaGJIV2c?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Thu, 24 Sep 2026 10:04:08 GMT"
+    },
+    {
+      "title": "生成AIチップセットの世界市場（2026年～2032年）、市場規模（CPU、GPU、FPGA、ASIC）・分析レポートを発表 - アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpWC1ianhaZnIzMVBTZG5JRDZCUUtNUWJjNXBhU0RmQXgtSGRuOXhpTTFtM1JjaHdQaGFoQlJSd09LT2tLSnRLN29CaVlwNlU?oc=5",
+      "source": "アットプレス",
+      "pub_date": "Thu, 24 Sep 2026 09:30:00 GMT"
+    },
+    {
+      "title": "小学生の約半数が生成AI利用経験も、夏休みの宿題では58.6%が使わない選択。考える力への影響を不安視 - AIsmiley",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QmtxRmlPMnJ3QVVRamlnQ3dHSmRXdzBUSTlSMHIwLWhpMGUteGlWNi0tQmFCTHBWZWtUNEc4S0JhaFF5WnJMUTFWZjVoazE4TXFqTFpHQWJuLWMtX2lPb2pobVZJcnZ5Umow?oc=5",
+      "source": "AIsmiley",
+      "pub_date": "Thu, 24 Sep 2026 09:29:20 GMT"
+    },
+    {
+      "title": "ChatGPTの音声モード、スマホやWebでアプリ連携の作業に対応 - ケータイ Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMR2VFcnBGZkNaelhOczBkdzBaYXNPdHRWc2sxZEtJLTBmQWlmNS1XM0pUamFGVlNsNHZPTHhDcEpTSVF5UmdjZ3dKSTNYMTRaSmhHWHFNZ3dzZzVYaVNpeFFFZHRObHM?oc=5",
+      "source": "ケータイ Watch",
+      "pub_date": "Thu, 24 Sep 2026 09:26:53 GMT"
+    },
+    {
+      "title": "転職活動者の26%が生成AIで企業情報を収集。利用率は口コミサイトの2倍超、事業内容や評判を重視 - AIsmiley",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cm5NQ0laa2YxY2cxT1lMSXhNWW4ySHNwUFoxU2NTOVJGcmhKX1lrVEZJRlpuSWo4X2ZkMUNHbzlqX0FNdkl0LUpJanNyeVQ2cFRkMzdkUkhtdXV6Mkdna0V3?oc=5",
+      "source": "AIsmiley",
+      "pub_date": "Thu, 24 Sep 2026 09:19:17 GMT"
+    },
+    {
+      "title": "ローソンが生成AIを活用した商品開発に着手。AI発案の商品コンセプトからスイーツ、ベーカリー、サラダの3商品を開発、店頭販促物もAI発案を訴求（ネットショップ担当者フォーラム） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOUhVbmNDQ1ViNTZGSTFjV3NwelVmVzBRSEU0SG12Rkl0X1RHWW91enB6OXRpWWdqNGFDQkFuS1dIZ2hsMHVsVmdzekxmNFJneEpWWVNfalJzUGJGY19HMDF4N0FrOXktX2xncWV5RzZWeTAxRjdSMWJWNk1IMkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "pub_date": "Thu, 24 Sep 2026 09:01:05 GMT"
+    },
+    {
+      "title": "ノートPCを閉じても作業は止まらない、Claude Code「Cloud Sessions」正式提供と急ぐべき理由 - shiritomo",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zU3hQUlpLT2JuaVFGX2RsQWtHMjVkR3VEX2VGNFZHb2szMUdJcTBSVWVsZkNxdWh5dkc2ZmpGaFpRQQ?oc=5",
+      "source": "shiritomo",
+      "pub_date": "Thu, 24 Sep 2026 08:21:23 GMT"
+    }
+  ]
 }
