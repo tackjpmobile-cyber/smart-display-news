@@ -1,7 +1,19 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T14:13:34.022038+00:00",
+  "updated_at": "2026-09-24T15:13:25.426687+00:00",
   "items": [
+    {
+      "title": "Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdTJNVFJyaTdJeGRFM2RoNHI5OURlaE5EbXBtN3VQaWNCdmlfNkZMMXhWY2NkVHZYVWdkajkyemtncWg5WmVqQ2VFX0pKS1hCMHduRklPX1F3b3NoWDVrdDZTVDA1MDZqcnpxWHNVaWp6R0poQ090VHJtMnR6dzg?oc=5",
+      "source": "週刊エコノミスト Online",
+      "pub_date": "Thu, 24 Sep 2026 15:03:53 GMT"
+    },
+    {
+      "title": "氏名を除けば、患者情報を生成AIに入力してもよい？ - 日経メディカル",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpBeEtYa0NEYTFFSFJ1QnBCaEFKcDBaT0plcThnbnc5UUdxNGt3RDNLZURUSUdDRmlVdVlqcld3a3ozRDBvZTlUN1FMMzRmV3F3TDUySmZkNkJ1RVhNQ2IzR0xXZUdMcHE4c051M214TElqVXhNVXFrRF9KSHlTcDQ3REQzNk1w?oc=5",
+      "source": "日経メディカル",
+      "pub_date": "Thu, 24 Sep 2026 14:45:14 GMT"
+    },
     {
       "title": "AnthropicがClaudeで未知の遺伝子システムを発見 - korben.info",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTQyaWwxbFlCVW5QMmRqclppeWZ5U1Rmcy01UFU0ejhCODd3bEU2TjFXVnJNQmtnUWFfRUEyRFJ1NFV6ZkVYcVk2V3NrMHpmMEwwaldOVmtGbW96QTRFbkJOY0s4T3FaUTliY3I1YnpuTDh3NU9MMXRobDlnYlh1Y3ZadFdIci0yd2c?oc=5",
@@ -45,22 +57,10 @@
       "pub_date": "Thu, 24 Sep 2026 10:29:38 GMT"
     },
     {
-      "title": "音声生成AIモデル「Gemini 3.8 Flash/Flash-Lite TTS」を発表 - 株式会社インプレス",
+      "title": "Google、音声生成AI「Gemini 3.8 Flash/Flash-Lite TTS」を発表 30秒で声再現・SynthID対応 - 株式会社インプレス",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0Q3J3M0EzQUdyd0pUYXJoUDJYN3R6Y2FVZDc1UzJXcWJZaFA5X0VpT0JmcUhvRWlDN05jWUh1ZDVPUkZ6YzBjLXZlZTIxVlNRREFmQmtUYlM2dl9SbkFhYUt5WQ?oc=5",
       "source": "株式会社インプレス",
       "pub_date": "Thu, 24 Sep 2026 10:27:09 GMT"
-    },
-    {
-      "title": "生成AIを使う買い手への情報提供を見直す「顧客は問い合わせる前に、AIと何を決めているのか」を無料公開 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Q3I1VTRWNmxLVTFRd0I2eWUxOGROSGVoenM4V0FfUXFxZ0Q2SkZMRVNvUzRWV2dWN1NjYVpSNWJpRmxUWGNzNmpxUEttR0x1YWI4T0NpUk5CdlRUY3FPMlNQaDVOaGJIV2c?oc=5",
-      "source": "PR TIMES",
-      "pub_date": "Thu, 24 Sep 2026 10:04:08 GMT"
-    },
-    {
-      "title": "生成AIチップセットの世界市場（2026年～2032年）、市場規模（CPU、GPU、FPGA、ASIC）・分析レポートを発表 - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nMElnOTlSZmhRcU8zaEN0WWFZdkhjR0tQNUlvNVdka29xY2NFSDk5c0NFa1E5WlpSX2Z3SzYwQmVGMnJjOHBRRVNoTUdfZlU?oc=5",
-      "source": "Newscast.jp",
-      "pub_date": "Thu, 24 Sep 2026 09:30:00 GMT"
     }
   ]
 }
