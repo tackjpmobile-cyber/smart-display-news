@@ -1,11 +1,11 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T15:13:25.426687+00:00",
+  "updated_at": "2026-09-24T16:13:38.544177+00:00",
   "items": [
     {
-      "title": "Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - 週刊エコノミスト Online",
+      "title": "Book Review：非営利組織から巨大企業へ 生成AI産業の実像に迫る一冊 評者・高橋克秀 - weekly-economist.mainichi.jp",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdTJNVFJyaTdJeGRFM2RoNHI5OURlaE5EbXBtN3VQaWNCdmlfNkZMMXhWY2NkVHZYVWdkajkyemtncWg5WmVqQ2VFX0pKS1hCMHduRklPX1F3b3NoWDVrdDZTVDA1MDZqcnpxWHNVaWp6R0poQ090VHJtMnR6dzg?oc=5",
-      "source": "週刊エコノミスト Online",
+      "source": "weekly-economist.mainichi.jp",
       "pub_date": "Thu, 24 Sep 2026 15:03:53 GMT"
     },
     {
@@ -15,9 +15,9 @@
       "pub_date": "Thu, 24 Sep 2026 14:45:14 GMT"
     },
     {
-      "title": "AnthropicがClaudeで未知の遺伝子システムを発見 - korben.info",
+      "title": "AnthropicがClaudeで未知の遺伝子システムを発見 - Korben",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTQyaWwxbFlCVW5QMmRqclppeWZ5U1Rmcy01UFU0ejhCODd3bEU2TjFXVnJNQmtnUWFfRUEyRFJ1NFV6ZkVYcVk2V3NrMHpmMEwwaldOVmtGbW96QTRFbkJOY0s4T3FaUTliY3I1YnpuTDh3NU9MMXRobDlnYlh1Y3ZadFdIci0yd2c?oc=5",
-      "source": "korben.info",
+      "source": "Korben",
       "pub_date": "Thu, 24 Sep 2026 13:23:26 GMT"
     },
     {
@@ -39,6 +39,12 @@
       "pub_date": "Thu, 24 Sep 2026 12:10:02 GMT"
     },
     {
+      "title": "札幌のビルで生成AI活用の空間演出技術を実証放映 - re-port.net",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NWHpPRFhSZ3V4UjFNb2RnT3VGWHpQSG9EcHI2cEo1cXd3VWRkaG53SVVlcEpZbEtiM2t6RXpDLTZIa1VUWU1kMUprX2VSZUJFZkpURVVRUHRvYmNy?oc=5",
+      "source": "re-port.net",
+      "pub_date": "Thu, 24 Sep 2026 11:19:37 GMT"
+    },
+    {
       "title": "生成AIによる電力使用量の増加「知らない・気にかけていない」78.1％ 電力需要増に67.0％が不安 イーレックス調査 - J-CAST ニュース",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRnVmbkRsV2lSRGJHOEpGUENBVzFYYjhYaWdzaGd6cE5qQWJXYThmVVhJeFI3Nnk3QS1RYmI5WW1SaDRaaU1YVUxmVG1iWlZlN1NyTUIwUGViTXNfcU4yTw?oc=5",
       "source": "J-CAST ニュース",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRXRGOUVSWTY2VnJhLVh1SUJGZ1VETXRSeFJyY2FJRDFGcUxaQmF6OGlhWkx0MU5oV2I0VFFMZ1RkR25pNUxkTGF2U2VMcXJYQ3JSRHhlZlBzLVFJ?oc=5",
       "source": "YouTube",
       "pub_date": "Thu, 24 Sep 2026 10:29:38 GMT"
-    },
-    {
-      "title": "Google、音声生成AI「Gemini 3.8 Flash/Flash-Lite TTS」を発表 30秒で声再現・SynthID対応 - 株式会社インプレス",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0Q3J3M0EzQUdyd0pUYXJoUDJYN3R6Y2FVZDc1UzJXcWJZaFA5X0VpT0JmcUhvRWlDN05jWUh1ZDVPUkZ6YzBjLXZlZTIxVlNRREFmQmtUYlM2dl9SbkFhYUt5WQ?oc=5",
-      "source": "株式会社インプレス",
-      "pub_date": "Thu, 24 Sep 2026 10:27:09 GMT"
     }
   ]
 }
