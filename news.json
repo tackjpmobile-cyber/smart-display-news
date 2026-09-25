@@ -1,6 +1,6 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T19:10:44.239490+00:00",
+  "updated_at": "2026-09-25T20:11:41.479727+00:00",
   "items": [
     {
       "title": "「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました - mbp-japan.com",
@@ -9,10 +9,22 @@
       "pub_date": "Fri, 25 Sep 2026 18:37:45 GMT"
     },
     {
+      "title": "Anthropic、Claudeプラグイン用ディレクトリ提出ポータルを開設 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMktWY0JVZHo3cVlrZlJFNzdxd1JoZ3ZiNFdLcVRGQlNCRUt1elpxUlVMQk1nSUZ5SXZ6SmxVX3B2eXNSM1FldkdZeHV4MW5tX0stQmR3THZ6VFBNblpGTUxSMXJocHpNQzR4Nm9zT1dPOENPSkpsc1BZb2tYWDlvaE8tRWxJRHNuZDlqMm9Pcnc?oc=5",
+      "source": "Unite.AI",
+      "pub_date": "Fri, 25 Sep 2026 18:23:09 GMT"
+    },
+    {
       "title": "Anthropic、Claudeが9ループの粒子物理振幅を計算したと発表 - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajJmRFF0Y0N3TmRjaXp3U2FyWHRINVd4SXU3SzBBaXhId3ROcTRGZkJMRGFMSm1MWXRqakhCSFg0dlgyVWdEYld5Ni1ZZ3dyRGtPeHNzZU9Xcm5rX2RXX3d5cnpCMnljVUJwUWV4MnJualRTQTBQRkNXWW13eUhHWkZIRXB0R1V2Q0xFVXJyb2lRT2VXRmQ3TU93?oc=5",
       "source": "Unite.AI",
       "pub_date": "Fri, 25 Sep 2026 18:05:19 GMT"
+    },
+    {
+      "title": "【9/28(月)開催ChatGPT広告を最新実績で完全解説】成果が出るアカウントと出ないアカウントの違い、導入前に見極めるべき観点を解説 - rbbtoday.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVlFzaVU4YUs3Y3ZjNWdnTkQ5aTFyd0FnN25IVmZmY1JONFlCM0o4UUtRcWwtVnV1aTd4Rkg3VUpDelNRbVJKcmhwdXp3QkF3Wm94RFpwLTh1T2ROeVlvQTRpUk50THNTNTlkNFd3UVFaR1pZM2tKMw?oc=5",
+      "source": "rbbtoday.com",
+      "pub_date": "Fri, 25 Sep 2026 14:10:01 GMT"
     },
     {
       "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
@@ -49,18 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmlGMVJpelVPZkVpZ002dll0WXZ0OGJTZ2NMejFsOXJqWkkyTUJKakNYaUdFNWRxNlZBZEZySE1XWHBhbTM5TTk1U05QYzFDM2VzSHJ3c21hUkNmbkhkZzdXcEcxeWJtZmliaS1R?oc=5",
       "source": "au Webポータル",
       "pub_date": "Fri, 25 Sep 2026 10:04:00 GMT"
-    },
-    {
-      "title": "Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い - studyhacker.net",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcldtUVdONWUzUW8wb2x0dTM3VFRsaHRoaUJlOTBrWjlJSUozZFJIVGRrWXpvR1VXT1plSkJzSkNEMjdYQmRtWWUyei1DWC1o?oc=5",
-      "source": "studyhacker.net",
-      "pub_date": "Fri, 25 Sep 2026 10:00:00 GMT"
-    },
-    {
-      "title": "札幌市、生成AI広報官が市政情報発信 ショート動画で若者にアピール - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQWN0QlhheDRnRnQ1T1dCcEhPZ011SGRFUU5adXRUbnV4WEVSdTlwN2Jpd2hSVjdydUs3ODNMaG1VaVpuNl9sR1JiRTJJQnVHa21uN2VmdE9pSkIzS200bm11UHlGNEd5ZjVHVw?oc=5",
-      "source": "日本経済新聞",
-      "pub_date": "Fri, 25 Sep 2026 09:27:05 GMT"
     }
   ]
 }
