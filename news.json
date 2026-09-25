@@ -1,6 +1,6 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T20:11:41.479727+00:00",
+  "updated_at": "2026-09-25T21:12:12.107300+00:00",
   "items": [
     {
       "title": "「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました - mbp-japan.com",
@@ -21,10 +21,16 @@
       "pub_date": "Fri, 25 Sep 2026 18:05:19 GMT"
     },
     {
-      "title": "【9/28(月)開催ChatGPT広告を最新実績で完全解説】成果が出るアカウントと出ないアカウントの違い、導入前に見極めるべき観点を解説 - rbbtoday.com",
+      "title": "【9/28(月)開催ChatGPT広告を最新実績で完全解説】成果が出るアカウントと出ないアカウントの違い、導入前に見極めるべき観点を解説 - RBB TODAY",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVlFzaVU4YUs3Y3ZjNWdnTkQ5aTFyd0FnN25IVmZmY1JONFlCM0o4UUtRcWwtVnV1aTd4Rkg3VUpDelNRbVJKcmhwdXp3QkF3Wm94RFpwLTh1T2ROeVlvQTRpUk50THNTNTlkNFd3UVFaR1pZM2tKMw?oc=5",
-      "source": "rbbtoday.com",
+      "source": "RBB TODAY",
       "pub_date": "Fri, 25 Sep 2026 14:10:01 GMT"
+    },
+    {
+      "title": "Copilot内でWordもExcelもコード作成も。名称統一でChatGPT対抗 - PC Watch",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JZWhNSEtSSlJxUkdpQWxoY1ZOdUF4cXIzZ1BueVBxOFF6WTVLOVJxMlVtM2JQcFFOdUVVUFVNS2VEM1F4dVR3enJKQ3RtUXZ2UnhxdDVjUkM1ekpEYkVlLTJGOA?oc=5",
+      "source": "PC Watch",
+      "pub_date": "Fri, 25 Sep 2026 12:00:00 GMT"
     },
     {
       "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
@@ -55,12 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0J2UHdDc2JYc3lxLUJQQzh1Ui00cDVGLVVBUFk1TE9wZE9Na1ZXSmFfQlRwOURNN0hfa3F6VXJpWFRwVXpUY3UweG9PLUQ4VHh1Rk9MOUZIOXV5enBqaTNJc0hwOHozS0hkU3RRaDgxZDYyLVBkSGdOTXRQWTFfNFpWZEpRSmhYcVNWQ0R3?oc=5",
       "source": "Yahoo!ニュース",
       "pub_date": "Fri, 25 Sep 2026 10:06:33 GMT"
-    },
-    {
-      "title": "指輪型AIデバイス『Vocci』国内発売 会議や口述をMCP共有、ChatGPTやClaudeのコンテキスト化 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmlGMVJpelVPZkVpZ002dll0WXZ0OGJTZ2NMejFsOXJqWkkyTUJKakNYaUdFNWRxNlZBZEZySE1XWHBhbTM5TTk1U05QYzFDM2VzSHJ3c21hUkNmbkhkZzdXcEcxeWJtZmliaS1R?oc=5",
-      "source": "au Webポータル",
-      "pub_date": "Fri, 25 Sep 2026 10:04:00 GMT"
     }
   ]
 }
