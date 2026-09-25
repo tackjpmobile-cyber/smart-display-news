@@ -1,7 +1,19 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T18:13:50.807743+00:00",
+  "updated_at": "2026-09-25T19:10:44.239490+00:00",
   "items": [
+    {
+      "title": "「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました - mbp-japan.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeEtJTkFwNE81d3NWZFA0TlNfNW50dTVCQlN5bVFwT09xWGhEbFM5Y0lJYjZ6aHdUbEl6NS16VEtBQnJpLU9qT28yRUV1el84dDhRaUJLRV9kNm5ud1ozR1JjVmRYSnFa?oc=5",
+      "source": "mbp-japan.com",
+      "pub_date": "Fri, 25 Sep 2026 18:37:45 GMT"
+    },
+    {
+      "title": "Anthropic、Claudeが9ループの粒子物理振幅を計算したと発表 - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajJmRFF0Y0N3TmRjaXp3U2FyWHRINVd4SXU3SzBBaXhId3ROcTRGZkJMRGFMSm1MWXRqakhCSFg0dlgyVWdEYld5Ni1ZZ3dyRGtPeHNzZU9Xcm5rX2RXX3d5cnpCMnljVUJwUWV4MnJualRTQTBQRkNXWW13eUhHWkZIRXB0R1V2Q0xFVXJyb2lRT2VXRmQ3TU93?oc=5",
+      "source": "Unite.AI",
+      "pub_date": "Fri, 25 Sep 2026 18:05:19 GMT"
+    },
     {
       "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a0Z1WmZIRlBRZUNVT1BwU09xY2VmRVAzZENYSlliM1RWS2lZZVdBTWhFYnFGdFE3UjNYNERGbWpWZlM3ZTFLckZndHBGUjZsZ0pXbGlR?oc=5",
@@ -39,9 +51,9 @@
       "pub_date": "Fri, 25 Sep 2026 10:04:00 GMT"
     },
     {
-      "title": "Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い - STUDY HACKER",
+      "title": "Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い - studyhacker.net",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcldtUVdONWUzUW8wb2x0dTM3VFRsaHRoaUJlOTBrWjlJSUozZFJIVGRrWXpvR1VXT1plSkJzSkNEMjdYQmRtWWUyei1DWC1o?oc=5",
-      "source": "STUDY HACKER",
+      "source": "studyhacker.net",
       "pub_date": "Fri, 25 Sep 2026 10:00:00 GMT"
     },
     {
@@ -49,18 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQWN0QlhheDRnRnQ1T1dCcEhPZ011SGRFUU5adXRUbnV4WEVSdTlwN2Jpd2hSVjdydUs3ODNMaG1VaVpuNl9sR1JiRTJJQnVHa21uN2VmdE9pSkIzS200bm11UHlGNEd5ZjVHVw?oc=5",
       "source": "日本経済新聞",
       "pub_date": "Fri, 25 Sep 2026 09:27:05 GMT"
-    },
-    {
-      "title": "Anthropic、Claudeのフィルターが止めたリクエストを課金対象に - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2lyZHc2eDZ2RlI4WG1rTlhITThzVGstS3dnUVh1S0FaRXpJLTNnRVRoLVdEQnhKVk1EX3dJWWN6UWFRRktSbGJzV1FmVGNHaDhrNkpaT0dpR3RnSl9vUHB5UzNKVmpKY0EtWTJIdndYWlJ6TjBwcG9Ma1RBdy1WOWctb1lRTU9jWEFrTGR1UkczY3Q1d3N6YnZ3OA?oc=5",
-      "source": "Pasquale Pillitteri",
-      "pub_date": "Fri, 25 Sep 2026 09:18:51 GMT"
-    },
-    {
-      "title": "生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWkEycUkwVmVtTVBaMkl0TlpNUmMzVnlzXy05Q0h4WHFlQWM4V1N2b2JSZGlDMkc5dDVvcExpVDhTU0hQZ3dGdllvMmM4NXNaaEhqOEVYZ0g?oc=5",
-      "source": "NHKニュース",
-      "pub_date": "Fri, 25 Sep 2026 09:01:00 GMT"
     }
   ]
 }
