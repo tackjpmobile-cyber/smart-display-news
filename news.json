@@ -1,7 +1,43 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T01:11:28.473164+00:00",
+  "updated_at": "2026-09-25T02:11:56.440144+00:00",
   "items": [
+    {
+      "title": "アイスマイリー、「ローカルLLM・オンプレ生成AIサービス選定チェックリスト」を公開！クラウド利用が難しい企業向けに導 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiYjZWazZiVFd3WVJqWTVoZzZmQmhrSGNhMkFCeEkzZ1k0VFduRU5aUWRETGxHSGpELTA2Z1ZFb3VwemRQdGtBakdUVDNKZHQxX09qVGtQOWllVFdiYVExNEpETjhsWHplTVRETERJdDZiZi1oeXE1XzFkSQ?oc=5",
+      "source": "ニコニコニュース",
+      "pub_date": "Fri, 25 Sep 2026 02:06:21 GMT"
+    },
+    {
+      "title": "バトンズ、生成AIによる自然言語検索を搭載したM&A案件検索機能を提供 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSXhlMnN5Nnc1OXZKX3AyOXJMdVdyUVU5MGpZS3VVdzFiZE5Kc3J6V3VCRTdFZ1NPZDk0aW9meTU0MXhoVTdGOVd4eEdCU0JnUVhzU1ByVnZhcm5KRElxX1Y5aUxyYWJXQ3c?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 02:00:02 GMT"
+    },
+    {
+      "title": "工場で起点とすべきはサイバーより“現場リスク” ―― 生成AI時代にフォーティネットが推進する「OTセキュリティの標準化」 (1/2) - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZQTQwdGZnQ1NoeGxleUxnTHZVSGlrNGpiRzJ1ZXhoNTNrN3pBN3cxUXA0ZHFuR0RiOWxBeHNGR3FtS2RjQVVpQlZrczhVMkpmSG55TA?oc=5",
+      "source": "ASCII.jp",
+      "pub_date": "Fri, 25 Sep 2026 02:00:00 GMT"
+    },
+    {
+      "title": "【大幅アップデート】AIO分析ツール「トロパス」、6つの生成AIの“答えの中身”まで分析。AI競合分析やAIキーワードマップを新搭載し、2026年10月1日より提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saUkxWFItTkJlYXVWTHVOVEtQbFpNWGp0UnBQUmg1R1FlXzF6TzVaanRJaER3LVFkX2JhQ1VwcGs4WEQ3Mm53aElxb3pZdDQ0ZEs5Y015bmZ6LW8wNEpEWVZENlI4OXkxb2c?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 01:30:02 GMT"
+    },
+    {
+      "title": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wdFFVMEhCM0NsMjdTRjhrUVJ0WDRKYVU2OFFQV3BnNHpGMS1naWd2eE85amVRNjViN1RBUzJzN1BPLTEteWN1QWhMSGg2cjlLNDRzS0ZsWXNPdzUyckNObXJSamdlZUdz?oc=5",
+      "source": "ニコニコニュース",
+      "pub_date": "Fri, 25 Sep 2026 01:21:22 GMT"
+    },
+    {
+      "title": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始 - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96akNidUFEYS1hS1RWenVYUTFQSWxRd1FGRkVHNXQ5UC1YR1dib2N0ZEZvcTBTdk1PU2RVWDJiT2g0dU02eXNVNEhlU0JYSjhyRHBFZWQ1T1JnWmpWcTQ4Y2FDTXFmakp1aDQw?oc=5",
+      "source": "時事ドットコム",
+      "pub_date": "Fri, 25 Sep 2026 01:16:00 GMT"
+    },
     {
       "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第75回：Qwen-Image 2.1は商用利用に制限あり、Ming ImageはUI/UX特化だがリアル人物OKで自由度高くて期待大（西川和久） - テクノエッジ TechnoEdge",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pM013V0FwOE1RT2E3MEJzTzZrdVl4RlBIM3FhbnJXbEpXcE1XSXh6WjlpYVpCOXNVYzVxR2ZsdmY4aHBwYjloR0N0a3AteG1pUTcxYi1ERGl6d2RLLWpKZE1kYWJOTzQ?oc=5",
@@ -15,52 +51,16 @@
       "pub_date": "Fri, 25 Sep 2026 01:00:02 GMT"
     },
     {
+      "title": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント（Web担当者Forum） - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV2szWDYzemZ3Rm82bXZNZXFFd1NFYnpoVVQxcEllMHJ2eDFBcFpzSXdOd1o4ZFhDVmNVNUYwOWNkUWJwV2NWU0diYmdqdFhxdktqUXpBOGtqRFh5Yy1nanktWVIzLWxwSkhxZVNuUld0RW9LVUw4aGhTVTF1X1ctNXVFVkxHWGY4S1diaV9WaDlWSEpkTU5yMUZlT3A3NV9PSW84bXRtZ2ZONWY2c1VmR3o4ZTBCanNHWlJjdFdVcWFjcTJ2dXpfeEtMeXltRWJ6TGhHY2tMY1RMLUhTOXVfVTJ5Sy1WNUVVU2lCQlhLWDFFU09DUHIxWXZRcVFNSkFq?oc=5",
+      "source": "ｄメニューニュース",
+      "pub_date": "Fri, 25 Sep 2026 01:00:00 GMT"
+    },
+    {
       "title": "最高水準の動画生成AI「MiniMax H3」高速化を40日で極めた。本命「H3 Max」のウェイト公開はもう不要なのか？（CloseBox） - テクノエッジ TechnoEdge",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jWGZGQjRwQkN3MXBUS3FIcl94WndKX1RFaThjV1k0bUh6WExmcFNnWGphRnJXbW1GanNURVdiLVhVLVRQekh4MEJYb3lVWG9mUmlneUgtc0VQVWlMMkQyUFNzOUJzYzA?oc=5",
       "source": "テクノエッジ TechnoEdge",
       "pub_date": "Fri, 25 Sep 2026 00:35:24 GMT"
-    },
-    {
-      "title": "中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0dKZVVSekJlZXB2VWFVckY0b0JMaWJ5ZUlWYVNFYjRTN3B2cEhSODZFS1dNdTZzVEFqa3VYNjBxZXFFR0tXZmY5MXFMQjgta2k4aElvbmp6QkpyN1NIZUVfY2QxRlNuSms2NDNiUlZySFdiNjk2V3BlLTg5OWI2YklRX2F6NWl3eGduWg?oc=5",
-      "source": "合同会社ロケットボーイズ",
-      "pub_date": "Fri, 25 Sep 2026 00:30:49 GMT"
-    },
-    {
-      "title": "生成AI時代の生きがいと幸福度をテーマにしたシンポジウムを開催 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RU1ZhMUpCNjhvdDBicUthSTdqUFl4ek9zYThuQjljczNUT1NnYnI5S3VpekVDR3BPZk1KYkVQSmlDaEh3a2V2NlZnM21BdzFsM0JMQlVfajJfTTlqay1IQmVLTURjWUlES3c?oc=5",
-      "source": "PR TIMES",
-      "pub_date": "Fri, 25 Sep 2026 00:30:17 GMT"
-    },
-    {
-      "title": "OpenAI、ChatGPT広告を東南アジアと台湾に拡大——広告展開は60市場超に - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DY0lQVjZmNU5SYWprMU9WR1l0U09VRUxYcnkzU205aVVDNHFNbHE0MUh4bjN1c1NyMnE2XzM3NFF1Z2ZsdVBFbFFwSEdtbENBbEd4NFF0NVZrdlA2NzQ1bVoyQWZOVTdJenFnNHllLWpkZHVj?oc=5",
-      "source": "BigGo ファイナンス",
-      "pub_date": "Fri, 25 Sep 2026 00:25:00 GMT"
-    },
-    {
-      "title": "【2026年最新】チャッピー（ChatGPT）は無料でどこまで使える？有料版の料金・プランの違いを解説 - ホリエモンAI学校",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMFVpUjBxVWpwblJVSlNrLTNlRjhZM2JLWkxYQkh1VHR2UkVtNTZlcExQcXNxUWoteEJ1S1k4YW1fdVU5c1NBdEFObmJEZl9GRkFyY2MybVdpdGlJN21ZRGFnVUNNYkk?oc=5",
-      "source": "ホリエモンAI学校",
-      "pub_date": "Fri, 25 Sep 2026 00:16:55 GMT"
-    },
-    {
-      "title": "QommonsAI活用研修を富山県砺波市（とやまけんとなみし）で実施 — 「自課ではどう使うか」を考える、業務別の生成AI活用 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95blhZd0xyMGI4cnNZMkN4VlppMk1TU2RQem5mMmF6ZDd1Nzd4Y3oxQUdFNEg1S1ZxdVN5VjhndHhZYm5pVzk0QVpBMGpqaVk1dmRsNjhjcHhJLWdqRjJYZFlvR2ZjMmx1YXc?oc=5",
-      "source": "PR TIMES",
-      "pub_date": "Fri, 25 Sep 2026 00:00:02 GMT"
-    },
-    {
-      "title": "Google for Education「生成AIとAI エージェントが拓く高等教育機関の未来」10月開催 - ICT教育ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sV3d2WnFWWVNRRDVQNmpfSEluM0x3NFlhbjJlWVhwQzBWZnNMOG1JMzNyRHY2aDF0dzk2WWZmT2l0V2E4bnpNT2otUENqUVo4LU1LcjB2ZjIwQlpjZXFNM3hzNHpRUQ?oc=5",
-      "source": "ICT教育ニュース",
-      "pub_date": "Thu, 24 Sep 2026 23:56:46 GMT"
-    },
-    {
-      "title": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UelZlZ0I5cXg4Q1VaWDdYOFNyVzVLcWtROUNTNTZWckxLSnZMV25HTEt5VktBZThtTEhtZ3cyNzNVZTd0VVJreTFsdkUzS1E?oc=5",
-      "source": "株式会社エクサウィザーズ",
-      "pub_date": "Thu, 24 Sep 2026 23:36:34 GMT"
     }
   ]
 }
