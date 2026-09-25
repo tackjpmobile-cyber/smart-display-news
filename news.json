@@ -1,7 +1,55 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T07:13:13.070605+00:00",
+  "updated_at": "2026-09-25T08:13:17.973658+00:00",
   "items": [
+    {
+      "title": "楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある - 日経ビジネス電子版",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUktYXE4SzhaTWlUY2tDS1FIMGtmX3ljc1Q1OWFxUVJSUkxFWFpSR19TcVJlcERPMl9jdnpQTWFxbjhRZlg5WllVS0F4cWhrTEx0SFE2N0dyLUVFOVhiaVJsWkl2azVpM0s0NmtlTWlraW5RcEFSM3pNd2RqYURNTU1hd25Ldw?oc=5",
+      "source": "日経ビジネス電子版",
+      "pub_date": "Fri, 25 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "title": "「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！ - Motor Fan",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MUEJ6STVReTU5Zl9ZX2JZYjVJcXh6OWNCWk9vQ2pra0FpQ0pGZTBNQ3J5SG80b0ZqTnBzbkxEblhfTW50M1NuRi14OEUyUQ?oc=5",
+      "source": "Motor Fan",
+      "pub_date": "Fri, 25 Sep 2026 08:00:00 GMT"
+    },
+    {
+      "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 - gihyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTFlZbVNxeHlCTmcwYWxhc01KU3VCTURvM2QtRzF3WHRpWHNJUXNWN3ZBbFgzWDAtVnJ3VTE2dHRiN1hUZF9zR0hTdTI0OEE?oc=5",
+      "source": "gihyo.jp",
+      "pub_date": "Fri, 25 Sep 2026 07:59:00 GMT"
+    },
+    {
+      "title": "ChatGPT Pro Maxがリーク、OpenAIは月額500ドルのプランをCerebrasで準備 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1FfVkx5cnFPQ2tkRVhTOXhPNzRyZld1VUh4YXFTV1I4dnEzTGZ3ajNQcFNhTDZfMTMwSWhqcXVyX1lSbnlxbXhxc2RrN2owUzVJQ1g5WHJIa0VnSlBYM092cDRpbXpSekdlenJ4bnVjLU5jZW53Y1VjMk5IcUNfQVlZUQ?oc=5",
+      "source": "Pasquale Pillitteri",
+      "pub_date": "Fri, 25 Sep 2026 07:39:26 GMT"
+    },
+    {
+      "title": "Anthropic、新モデル「Claude Opus 5.5」提供開始。従来比コスト4割減で高性能なコーディング・知識労働を実現 - AIsmiley",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdXNEN2dkaEVNbHAtVVQtd29yU3B4LUMteWJBRm9kQWhONTFacVM3RXhTdjU3N3I1dHVaa2EwQ0RNUEZUME0ybWt0N1hVdWdJYk5Xb2hLYUFRQmZlbWh4RUxjaGVvaV8w?oc=5",
+      "source": "AIsmiley",
+      "pub_date": "Fri, 25 Sep 2026 07:30:48 GMT"
+    },
+    {
+      "title": "ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される - gigazine.net",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydW5iaGRXS282ejI0RDNfMlp6aGN4TTVUTWNZSHJwb05JWkJaeDh0c3oyNndOMXMtM0dTMTZSZHJRS2hrWVpkZ2UyZ2gyQUd4Q2dmVU1tR0NUeGhuajJ2OHo0a3BMal96?oc=5",
+      "source": "gigazine.net",
+      "pub_date": "Fri, 25 Sep 2026 07:30:00 GMT"
+    },
+    {
+      "title": "Opus 5.5 で使う /claude-api prompt-audit の手順、プロンプトと CLAUDE.md を整理する方法 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0wwM1JBbDNOLUdhZHd5LW1pYVNfMko5a0RxMDgzNnFHUmNNVDN3RzdJUUM0U3JBR3NUd2pZLXA2b1lnazAwS1BWUDNqbXpQdjZkVDdzU011WmRXaDZERnFWaXlLUUtfdmsyUU01a2VkY0J5T0p3TEh5WTF3M2ZuQnpOZW5tRXVpWVE?oc=5",
+      "source": "Pasquale Pillitteri",
+      "pub_date": "Fri, 25 Sep 2026 07:29:36 GMT"
+    },
+    {
+      "title": "Claude Code「クラウドセッション」正式版｜名前が指すのは実行の場所 - innovaTopia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QkRVQktIcDVLQ1BDLVR0R1d2bnluWXF2Wmh0M0NZRndfZkh2NFlFc3pYenptbjc4LWR4eVFTQXVNbXowc015LXhiZGozdmZkeE00?oc=5",
+      "source": "innovaTopia",
+      "pub_date": "Fri, 25 Sep 2026 07:13:29 GMT"
+    },
     {
       "title": "【9/29_WEB】【EC×Claude実践道場 Vol.02】 noteを”AIO対策の武器”に変える、Claude活用術 〜外注ゼ... - 通販通信ECMO",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oUzZ0RFd3cWRhQV9MSE0yT2FpNy1CN2xVVW5qZFBMUDQyUG5rb0dodWwzcDdvTXBIY01Gald4SHF6dV91UWxaWm9UUERTX0xkRmNrNHB3?oc=5",
@@ -9,58 +57,10 @@
       "pub_date": "Fri, 25 Sep 2026 07:07:15 GMT"
     },
     {
-      "title": "NTTアーバンソリュなど５社、生成AIを活用した空間演出技術の実証放映開始 - 住宅新報",
+      "title": "NTTアーバンソリュなど５社、生成AIを活用した空間演出技術の実証放映開始 - jutaku-s.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54RkVuemdkR0RqbEIzRzFLeE5QbHNkbWZ0bHlvNlptWG5TZElkb1g1cm5Xb01HNmdpUHltdWtTaXRKazRPOFMwLVUtR1habjd3?oc=5",
-      "source": "住宅新報",
+      "source": "jutaku-s.com",
       "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "アドビ、Google Geminiとの連携を開始。Claude向けプラグインにAcrobatを統合 - pronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GUTB4S3o1NjVRMnJESXVwMW1iZWFfZ180TGtQQ3pnT0hfblFLX05SLU91aVhLWTR0T093c1ZYbmZud2pvbHlEcjV2MWVpUkR2NmN3cFBFVUtNNmxmSWNWcQ?oc=5",
-      "source": "pronews.com",
-      "pub_date": "Fri, 25 Sep 2026 06:57:14 GMT"
-    },
-    {
-      "title": "AIは健康な街づくりの「助言者」になれるか？ - waseda.jp",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzdUV242X25pUHh6TkVWemczUlNiemJiTDVXMEZLMlVZTjFDWVI4cmRtdEZnQU9LN0FqUEQ4emYwdTktUllVRkdwVW95ekhZczJDSXdPSGlEdw?oc=5",
-      "source": "waseda.jp",
-      "pub_date": "Fri, 25 Sep 2026 06:18:57 GMT"
-    },
-    {
-      "title": "【大幅アップデート】AIO分析ツール「トロパス」、6つの生成AIの“答えの中身”まで分析。AI競合分析やAIキーワード - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bUZZR3pqUUxZeFFLdUN0NXVjYlRGeHFidGJzYUxPN3FZRWhSU2xGOGJIdVBMM1Z4NlZOSjc3SC0zR3pxZm1kZkRWa2xrWlpUMVhTLTlidXE5RE9BQkZjc1cyMDNlYW9fMnNveFRveTQ1T1VXYUxZRDV6WQ?oc=5",
-      "source": "ニコニコニュース",
-      "pub_date": "Fri, 25 Sep 2026 06:15:38 GMT"
-    },
-    {
-      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」 - gigazine.net",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3JkRWRpVVF1U2FFTlpwVEp0LWdPelNjNjh2NmFCSW0xMWtpQXU3eXJjTXNUU1F6anVWdEROTktLT19Ed0JqOGxqYUdOOEhRZi01Y1VRV2FnTlRsamtMWXo4SEd3VnlIVWNjSC1UVmh4VGFnNzYxenlQWGE5bVp0dEp3?oc=5",
-      "source": "gigazine.net",
-      "pub_date": "Fri, 25 Sep 2026 06:10:00 GMT"
-    },
-    {
-      "title": "アドビ、GeminiからPhotoshopなど利用可能に ClaudeはPDF直接編集（Impress Watch） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14bVFmbm1tT3diTkI4RmRFdy0wcDNRaFYwRzI1MFg3am8zRVFJUUxxaFF3bDJaZENTYjc0WkN4RVFqaW1IdGIzZnJTU1NSVXB1d1VaVDViVXQyWWs1NDZyTjVJYUo2cmVwRjF0QWVKZVZsSkx1bWVreEx3dTJuUkk?oc=5",
-      "source": "Yahoo!ニュース",
-      "pub_date": "Fri, 25 Sep 2026 06:00:00 GMT"
-    },
-    {
-      "title": "池上彰さんがまるごと一冊「生成AI」について解説 AIが教育や政治に与える影響は？ - （株）Gakken公式ブログ",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NaTI1aWxzWHVKaFNRU2h5SW45WGZGWk5lb1Q4eFRRVUNXTEJqR2daZ0hPbkpKQlBWUVZyQU5ObjVjZ1d1TmxLU3RXV0hWVWhUY3pLMFZ4WTRGclZOaWc?oc=5",
-      "source": "（株）Gakken公式ブログ",
-      "pub_date": "Fri, 25 Sep 2026 05:46:33 GMT"
-    },
-    {
-      "title": "Appleとの提携でChatGPT普及を狙ったOpenAI、期待外れだったことが裁判資料で判明 - Gadget Gate",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hTXItbkJnVzZrQ2ZLRjQ3MllHNTFNYmhyUFdYYlhjTFNTUWVpYVBGWi12VzVmX2NkdlYwYXZoQkZXVmpBaGY4X2k2SnhQTmlfa3c?oc=5",
-      "source": "Gadget Gate",
-      "pub_date": "Fri, 25 Sep 2026 05:43:00 GMT"
-    },
-    {
-      "title": "Anthropic「Claude Marketplace」を開設、業務ツールやパートナー集約 - 株式会社インプレス",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pMFdBZkdpZVRvbWotY2ctc1M3TklSTGtTLVJuZnREWm5md2VBR1dMcnZkTHBZTUVDV1Bia1IxOG9YUjhGZ3dMZWNUUFJzUFFTUGRReHVQNm54QU9kQ2xJUjB4WQ?oc=5",
-      "source": "株式会社インプレス",
-      "pub_date": "Fri, 25 Sep 2026 05:35:22 GMT"
     }
   ]
 }
