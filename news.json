@@ -1,6 +1,6 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T15:13:56.256756+00:00",
+  "updated_at": "2026-09-25T16:13:27.524435+00:00",
   "items": [
     {
       "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
@@ -33,6 +33,12 @@
       "pub_date": "Fri, 25 Sep 2026 10:06:33 GMT"
     },
     {
+      "title": "指輪型AIデバイス『Vocci』国内発売 会議や口述をMCP共有、ChatGPTやClaudeのコンテキスト化 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISmlGMVJpelVPZkVpZ002dll0WXZ0OGJTZ2NMejFsOXJqWkkyTUJKakNYaUdFNWRxNlZBZEZySE1XWHBhbTM5TTk1U05QYzFDM2VzSHJ3c21hUkNmbkhkZzdXcEcxeWJtZmliaS1R?oc=5",
+      "source": "au Webポータル",
+      "pub_date": "Fri, 25 Sep 2026 10:04:00 GMT"
+    },
+    {
       "title": "Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い - STUDY HACKER",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcldtUVdONWUzUW8wb2x0dTM3VFRsaHRoaUJlOTBrWjlJSUozZFJIVGRrWXpvR1VXT1plSkJzSkNEMjdYQmRtWWUyei1DWC1o?oc=5",
       "source": "STUDY HACKER",
@@ -51,16 +57,10 @@
       "pub_date": "Fri, 25 Sep 2026 09:18:51 GMT"
     },
     {
-      "title": "生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市 - news.web.nhk",
+      "title": "生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市 - NHKニュース",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWkEycUkwVmVtTVBaMkl0TlpNUmMzVnlzXy05Q0h4WHFlQWM4V1N2b2JSZGlDMkc5dDVvcExpVDhTU0hQZ3dGdllvMmM4NXNaaEhqOEVYZ0g?oc=5",
-      "source": "news.web.nhk",
+      "source": "NHKニュース",
       "pub_date": "Fri, 25 Sep 2026 09:01:00 GMT"
-    },
-    {
-      "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VODRTQUU3RVRJVnJUa0RuMXYtWld4U2RzNGJGcFQzT2ZFT0N0VG5QUU92bHFzQllBdHFuNEVuXzBsbHppUmZPd2FHUkt3cm0xb2lZWmtfenV5cU9xSHpnbzNaRWk3djR5ZGc?oc=5",
-      "source": "PR TIMES",
-      "pub_date": "Fri, 25 Sep 2026 08:49:02 GMT"
     }
   ]
 }
