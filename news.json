@@ -1,7 +1,19 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T11:12:20.884155+00:00",
+  "updated_at": "2026-09-25T12:16:11.089470+00:00",
   "items": [
+    {
+      "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a0Z1WmZIRlBRZUNVT1BwU09xY2VmRVAzZENYSlliM1RWS2lZZVdBTWhFYnFGdFE3UjNYNERGbWpWZlM3ZTFLckZndHBGUjZsZ0pXbGlR?oc=5",
+      "source": "教育新聞",
+      "pub_date": "Fri, 25 Sep 2026 11:55:00 GMT"
+    },
+    {
+      "title": "3Dプリンターの始め方ガイド、機種選びからClaude CodeとCodexのスキルまで - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IR1lPNTdZUGljRFVRbVJncFVkWWJpRW5KSzl5R3dMbjFIWHRjRG9fNEZOVEM1Mmw1Ukc5MVl4YUNmUHJYSTF0ZWRDNFhIVU5vY3E0YklGZDJ5a2NLejJGRm8xaE55aDAwVzJxd094X0ZXLXV6ODYyZWZFbw?oc=5",
+      "source": "Pasquale Pillitteri",
+      "pub_date": "Fri, 25 Sep 2026 11:19:26 GMT"
+    },
     {
       "title": "外国人の疑問を生成ＡＩが解決 仙台市が「やさしい日本語」を活用した国民健康保険制度の案内システム実験（仙台放送） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43RWlweUJZYWdySXY1cV9jUGV3N3U3QTlxUEZjeHFFR0tHWllFM01YeUwtU2tEZGZSS1hEU0c1UVNaOFhiVmlRSjh6N2ZfSl80bzlaVW9USmJlb0JqdWNaUGNzYVRqWlROenRkQzQwUldXazI1M0hEVDkxOVlkb2s?oc=5",
@@ -9,9 +21,9 @@
       "pub_date": "Fri, 25 Sep 2026 10:46:01 GMT"
     },
     {
-      "title": "アドビ、Gemini向けコネクタを提供開始し、Claude向けプラグインにAcrobatのツールと直接編集エディターを追加 - CGinterest",
+      "title": "アドビ、Gemini向けコネクタを提供開始し、Claude向けプラグインにAcrobatのツールと直接編集エディターを追加 - cginterest.com",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPV1VUN3ZWOXpiVWFwSTZOVklKX2dhTmNyZ1RmVUt0WEk1ZkZ3UHl3dGJsRTB0bm1DSDFrZmN4Wjd1MmxRR2E4b2haMkwzYXFWVHZYdXh6cFNidkItbVJpUEJhM0hkZzh0UDBiWE5wa0YyVDFrMFRlSnJrUEdISC1iWnhubHdNQXR3akNwNjhqVlVXUmFibVh5WnBYUEROS3I5eHAxUVd0WkF0LWxWVkJwTjc5NFEwbTNjMzIzWWxGQ3o1WmxwNnh2SE5NRUZuSUFHYjBkYks3Um1hWlJZd1BsZ0hDVjNIejlNaFFwcnViUGdpR1AtXzZZSnVWeVJITzRla24tRFdzdWxMZzY2LWx5dWxvQTFVQzd5WFlyYjJMdUw5N0FqaENkZnZQTTk5TmFUMWhUc2pMbi1zRUZENEYwMXpHV3NieFBUYm00?oc=5",
-      "source": "CGinterest",
+      "source": "cginterest.com",
       "pub_date": "Fri, 25 Sep 2026 10:18:00 GMT"
     },
     {
@@ -39,28 +51,16 @@
       "pub_date": "Fri, 25 Sep 2026 09:01:00 GMT"
     },
     {
-      "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加 - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiWUxFOUVtaEdPZ0hxZ0RYLXNmVDFMRXNnZVktUVIxZUVsLXBlU2h6TWFuZTczcENTM2MyU2MtZVJGamJIdFR6NlFpeWgyYnctb0VRS0NaYmY4ZWtfdlZuMkR3emQtZlRZREV0RHFEbU53OWQxWWVyTndn?oc=5",
-      "source": "イザ！",
-      "pub_date": "Fri, 25 Sep 2026 08:49:02 GMT"
+      "title": "「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！ (MotorFan) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGV0OEt6NTFJWnI0ZkZ3WUJkclFjeDZBODkzMHc5NkwyZkFVbXVNLWFKTVc1Y09rV0RyQ2l0YXpMb0EyZWJUc2xrRE9LNmcwR09ZbzQ2VDFYUzcyenFkRFJ1dFpQTUtDRVhwVTlFSXNJWlF5eGRnQnhHb01SM3pEVExXMklyUnExTzVMSVRR?oc=5",
+      "source": "Yahoo!ニュース",
+      "pub_date": "Fri, 25 Sep 2026 08:56:18 GMT"
     },
     {
       "title": "ChatGPTのPro新規受付が止まったさなか、月500ドル「Pro Max」の存在がコードから見つかる - shiritomo",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQT01TNTF0Rng2LXZURkg4aE9KLXdLcHRReE1PX1lpVE02MUhRV1QyQUwtekVYSklxdnNGeTlmelc3QQ?oc=5",
       "source": "shiritomo",
       "pub_date": "Fri, 25 Sep 2026 08:33:30 GMT"
-    },
-    {
-      "title": "【北海道札幌市】「アーバンネット札幌リンクタワー」で生成AIによるデジタルアート『Utsuroi Art』放映 - STRAIGHT PRESS",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VUFmZElPYlRQUjROdnNUOHh0TDFRRXZmSXNaNnpnVnlPOVhyMU9SRS1NY2xEYWFJNmJuYW1naUgycWpERWpBQlhLZWVZODNuUGpV?oc=5",
-      "source": "STRAIGHT PRESS",
-      "pub_date": "Fri, 25 Sep 2026 08:20:27 GMT"
-    },
-    {
-      "title": "SFG株式会社、生成AI領域で新たな事業構築へ - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQWhKZHFEdEd5Y25NRlM5VVJueXFLcWF5Uzc0WEhhZ0VreU9HTUY5UnoxaDExNzI4Z00zRXhIdXgyRG55eG5SRVpINUVGbmNZUFEyZlNjTzNNUFVRT29pOE93WDJIZzBFejhN?oc=5",
-      "source": "時事ドットコム",
-      "pub_date": "Fri, 25 Sep 2026 08:16:00 GMT"
     }
   ]
 }
