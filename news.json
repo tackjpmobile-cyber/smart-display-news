@@ -1,66 +1,76 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T22:12:10.945682+00:00",
+  "updated_at": "2026-09-25T23:33:27.588474+00:00",
   "items": [
     {
       "title": "OpenAIがAIエージェントの不正行為を調査、ChatGPT利用者の画像53枚が流出した - Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oY3RnQ1NuNWgzblltcTZqUnFNbHY0MFlfdURteVpzYnB0cWpZMjFIdEJ1clRTeVdZd29MZU4tRGxYcGxDU1V5aWM4bzVkZFFyWVB3VThWUzI2cE5FbHU2Sg?oc=5",
       "source": "Межа. Новини України.",
-      "pub_date": "Fri, 25 Sep 2026 21:13:38 GMT"
+      "pub_date": "Fri, 25 Sep 2026 21:13:38 GMT",
+      "body": "Google News"
     },
     {
       "title": "沖縄知事選で見えた「SNS選挙」の新局面、投稿の約9割が県外発との分析も、生成AI時代の偽情報にどう向き合う(1/6) - JBpress",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHpDTV9aalBkRU1uUUhTTmstUTNlQXlvSUZFLXptRG84Uy1PUnVUQWlaY21aTU1UdnBEM0lXbUk2emNNNzJtVkdNcUY0ODduTDJ0dHdn?oc=5",
       "source": "JBpress",
-      "pub_date": "Fri, 25 Sep 2026 21:00:00 GMT"
+      "pub_date": "Fri, 25 Sep 2026 21:00:00 GMT",
+      "body": "Google News"
+    },
+    {
+      "title": "OpenAIがコスト半減のGPT-6新モデル投入 Claude猛追とOSS包囲網で激化する価格戦：企業AIのコスト再考 - TechTargetジャパン",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQXVJaTZhcUtzWGlQVnc1ZmdvRFRQZDZEZ1psMW5WZy1YX0wtOEJ2RUtnR0xkelpjTDljcnpBNjNOdXN6SlNhaTBiRU9CbEFlVHltanRZYkNiRnRlZDhOM2c2bUtzZ2hRd3psNXJpQmQ?oc=5",
+      "source": "TechTargetジャパン",
+      "pub_date": "Fri, 25 Sep 2026 20:00:00 GMT",
+      "body": "Google News"
     },
     {
       "title": "「定額のAI」を社内でどう使い分けるか――Claudeサブスクと自律エージェントの関係が変わりました - mbp-japan.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeEtJTkFwNE81d3NWZFA0TlNfNW50dTVCQlN5bVFwT09xWGhEbFM5Y0lJYjZ6aHdUbEl6NS16VEtBQnJpLU9qT28yRUV1el84dDhRaUJLRV9kNm5ud1ozR1JjVmRYSnFa?oc=5",
       "source": "mbp-japan.com",
-      "pub_date": "Fri, 25 Sep 2026 18:37:45 GMT"
+      "pub_date": "Fri, 25 Sep 2026 18:37:45 GMT",
+      "body": "Google News"
     },
     {
       "title": "Anthropic、Claudeプラグイン用ディレクトリ提出ポータルを開設 - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMktWY0JVZHo3cVlrZlJFNzdxd1JoZ3ZiNFdLcVRGQlNCRUt1elpxUlVMQk1nSUZ5SXZ6SmxVX3B2eXNSM1FldkdZeHV4MW5tX0stQmR3THZ6VFBNblpGTUxSMXJocHpNQzR4Nm9zT1dPOENPSkpsc1BZb2tYWDlvaE8tRWxJRHNuZDlqMm9Pcnc?oc=5",
       "source": "Unite.AI",
-      "pub_date": "Fri, 25 Sep 2026 18:23:09 GMT"
+      "pub_date": "Fri, 25 Sep 2026 18:23:09 GMT",
+      "body": "Google News"
+    },
+    {
+      "title": "Museのダウンロード数がChatGPT超え、ザッカーバーグ氏の資産2,664億ドルで世界4位に浮上 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UYXVYcW5kVkVBWnQ0QVVxaFJqeHp3LUNzUHhPSTRhUWp2YXJud0tueDRTb3UxQU1hQkluYy1EMTRjNldzc29UR2xZMEo4ckhWbDl5Vk9sN3NwekJXdXpDandpRkwzeTBybml5RTBRTlhwUjVt?oc=5",
+      "source": "BigGo ファイナンス",
+      "pub_date": "Fri, 25 Sep 2026 18:19:00 GMT",
+      "body": "Google News"
     },
     {
       "title": "Anthropic、Claudeが9ループの粒子物理振幅を計算したと発表 - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajJmRFF0Y0N3TmRjaXp3U2FyWHRINVd4SXU3SzBBaXhId3ROcTRGZkJMRGFMSm1MWXRqakhCSFg0dlgyVWdEYld5Ni1ZZ3dyRGtPeHNzZU9Xcm5rX2RXX3d5cnpCMnljVUJwUWV4MnJualRTQTBQRkNXWW13eUhHWkZIRXB0R1V2Q0xFVXJyb2lRT2VXRmQ3TU93?oc=5",
       "source": "Unite.AI",
-      "pub_date": "Fri, 25 Sep 2026 18:05:19 GMT"
+      "pub_date": "Fri, 25 Sep 2026 18:05:19 GMT",
+      "body": "Google News"
     },
     {
       "title": "DoorDashのラガブ・サブー氏：LLMは「蒸留」して提供せよ、直接使うな - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CazI3WlVNN29EYlhMYS1xV2p1WHJDRHZTOEx5VWhvSFFnMjZxa053TUJqMDNVem9ieVRHcmdWQTc4YUhIUldUWDZBQmdLNXE0YTdYdWRPRDlpQQ?oc=5",
       "source": "BigGo ファイナンス",
-      "pub_date": "Fri, 25 Sep 2026 15:08:00 GMT"
+      "pub_date": "Fri, 25 Sep 2026 15:08:00 GMT",
+      "body": "Google News"
     },
     {
       "title": "Copilot内でWordもExcelもコード作成も。名称統一でChatGPT対抗 - PC Watch",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JZWhNSEtSSlJxUkdpQWxoY1ZOdUF4cXIzZ1BueVBxOFF6WTVLOVJxMlVtM2JQcFFOdUVVUFVNS2VEM1F4dVR3enJKQ3RtUXZ2UnhxdDVjUkM1ekpEYkVlLTJGOA?oc=5",
       "source": "PC Watch",
-      "pub_date": "Fri, 25 Sep 2026 12:00:00 GMT"
+      "pub_date": "Fri, 25 Sep 2026 12:00:00 GMT",
+      "body": "Google News"
     },
     {
       "title": "学校安全に生成AIやCSの活用可能性 中教審の部会で議論 - 教育新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a0Z1WmZIRlBRZUNVT1BwU09xY2VmRVAzZENYSlliM1RWS2lZZVdBTWhFYnFGdFE3UjNYNERGbWpWZlM3ZTFLckZndHBGUjZsZ0pXbGlR?oc=5",
       "source": "教育新聞",
-      "pub_date": "Fri, 25 Sep 2026 11:55:00 GMT"
-    },
-    {
-      "title": "紙図面／竣工図書をAI活用向けにデータ化、スパイダープラスとうるるBPO：BPO - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVktWd3A3LXpfLXFMZjJHV09KSTRHckg4R1JzVDdwdWhNYk12N2duRkVlYXFMZlgxQ2xvQklpZW9MakNrNnhqeURZZ0dOT3VvQWtaSWJsY29VMER6VWpRQ2diczd2ZmxPVUtFbg?oc=5",
-      "source": "ITmedia",
-      "pub_date": "Fri, 25 Sep 2026 11:00:00 GMT"
-    },
-    {
-      "title": "外国人の疑問を生成ＡＩが解決 仙台市が「やさしい日本語」を活用した国民健康保険制度の案内システム実験（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43RWlweUJZYWdySXY1cV9jUGV3N3U3QTlxUEZjeHFFR0tHWllFM01YeUwtU2tEZGZSS1hEU0c1UVNaOFhiVmlRSjh6N2ZfSl80bzlaVW9USmJlb0JqdWNaUGNzYVRqWlROenRkQzQwUldXazI1M0hEVDkxOVlkb2s?oc=5",
-      "source": "Yahoo!ニュース",
-      "pub_date": "Fri, 25 Sep 2026 10:46:01 GMT"
+      "pub_date": "Fri, 25 Sep 2026 11:55:00 GMT",
+      "body": "Google News"
     }
   ]
 }
