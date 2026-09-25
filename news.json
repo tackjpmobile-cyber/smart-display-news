@@ -1,7 +1,25 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T09:13:04.702742+00:00",
+  "updated_at": "2026-09-25T10:12:40.915269+00:00",
   "items": [
+    {
+      "title": "Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い - STUDY HACKER",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HcldtUVdONWUzUW8wb2x0dTM3VFRsaHRoaUJlOTBrWjlJSUozZFJIVGRrWXpvR1VXT1plSkJzSkNEMjdYQmRtWWUyei1DWC1o?oc=5",
+      "source": "STUDY HACKER",
+      "pub_date": "Fri, 25 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "札幌市、生成AI広報官が市政情報発信 ショート動画で若者にアピール - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQWN0QlhheDRnRnQ1T1dCcEhPZ011SGRFUU5adXRUbnV4WEVSdTlwN2Jpd2hSVjdydUs3ODNMaG1VaVpuNl9sR1JiRTJJQnVHa21uN2VmdE9pSkIzS200bm11UHlGNEd5ZjVHVw?oc=5",
+      "source": "日本経済新聞",
+      "pub_date": "Fri, 25 Sep 2026 09:27:05 GMT"
+    },
+    {
+      "title": "Anthropic、Claudeのフィルターが止めたリクエストを課金対象に - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2lyZHc2eDZ2RlI4WG1rTlhITThzVGstS3dnUVh1S0FaRXpJLTNnRVRoLVdEQnhKVk1EX3dJWWN6UWFRRktSbGJzV1FmVGNHaDhrNkpaT0dpR3RnSl9vUHB5UzNKVmpKY0EtWTJIdndYWlJ6TjBwcG9Ma1RBdy1WOWctb1lRTU9jWEFrTGR1UkczY3Q1d3N6YnZ3OA?oc=5",
+      "source": "Pasquale Pillitteri",
+      "pub_date": "Fri, 25 Sep 2026 09:18:51 GMT"
+    },
     {
       "title": "生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市 - NHKニュース",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWkEycUkwVmVtTVBaMkl0TlpNUmMzVnlzXy05Q0h4WHFlQWM4V1N2b2JSZGlDMkc5dDVvcExpVDhTU0hQZ3dGdllvMmM4NXNaaEhqOEVYZ0g?oc=5",
@@ -9,9 +27,9 @@
       "pub_date": "Fri, 25 Sep 2026 09:01:00 GMT"
     },
     {
-      "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VODRTQUU3RVRJVnJUa0RuMXYtWld4U2RzNGJGcFQzT2ZFT0N0VG5QUU92bHFzQllBdHFuNEVuXzBsbHppUmZPd2FHUkt3cm0xb2lZWmtfenV5cU9xSHpnbzNaRWk3djR5ZGc?oc=5",
-      "source": "PR TIMES",
+      "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加 - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiWUxFOUVtaEdPZ0hxZ0RYLXNmVDFMRXNnZVktUVIxZUVsLXBlU2h6TWFuZTczcENTM2MyU2MtZVJGamJIdFR6NlFpeWgyYnctb0VRS0NaYmY4ZWtfdlZuMkR3emQtZlRZREV0RHFEbU53OWQxWWVyTndn?oc=5",
+      "source": "イザ！",
       "pub_date": "Fri, 25 Sep 2026 08:49:02 GMT"
     },
     {
@@ -21,9 +39,9 @@
       "pub_date": "Fri, 25 Sep 2026 08:33:30 GMT"
     },
     {
-      "title": "【北海道札幌市】「アーバンネット札幌リンクタワー」で生成AIによるデジタルアート『Utsuroi Art』放映 - STRAIGHT PRESS",
+      "title": "【北海道札幌市】「アーバンネット札幌リンクタワー」で生成AIによるデジタルアート『Utsuroi Art』放映 - straightpress.jp",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VUFmZElPYlRQUjROdnNUOHh0TDFRRXZmSXNaNnpnVnlPOVhyMU9SRS1NY2xEYWFJNmJuYW1naUgycWpERWpBQlhLZWVZODNuUGpV?oc=5",
-      "source": "STRAIGHT PRESS",
+      "source": "straightpress.jp",
       "pub_date": "Fri, 25 Sep 2026 08:20:27 GMT"
     },
     {
@@ -43,24 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zLVFZU1lMVHY1Smk5T2xSSUxmR2t4LVJPcmgwM25SMTltTC1ZdzBERTJIYkFhRHRpdkFOaE5jcFVEaGtycDhpRjN2TTF0WXF0ZVh3enE4aXlqS0dWdllyRVJOUDZ1R3cwZG4xX2kyUjlRZFd0dVdXeVE4UE9mMEU?oc=5",
       "source": "Yahoo!ニュース",
       "pub_date": "Fri, 25 Sep 2026 08:02:06 GMT"
-    },
-    {
-      "title": "楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある - 日経ビジネス電子版",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUktYXE4SzhaTWlUY2tDS1FIMGtmX3ljc1Q1OWFxUVJSUkxFWFpSR19TcVJlcERPMl9jdnpQTWFxbjhRZlg5WllVS0F4cWhrTEx0SFE2N0dyLUVFOVhiaVJsWkl2azVpM0s0NmtlTWlraW5RcEFSM3pNd2RqYURNTU1hd25Ldw?oc=5",
-      "source": "日経ビジネス電子版",
-      "pub_date": "Fri, 25 Sep 2026 08:00:00 GMT"
-    },
-    {
-      "title": "「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！ - Motor Fan",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MUEJ6STVReTU5Zl9ZX2JZYjVJcXh6OWNCWk9vQ2pra0FpQ0pGZTBNQ3J5SG80b0ZqTnBzbkxEblhfTW50M1NuRi14OEUyUQ?oc=5",
-      "source": "Motor Fan",
-      "pub_date": "Fri, 25 Sep 2026 08:00:00 GMT"
-    },
-    {
-      "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 - gihyo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTFlZbVNxeHlCTmcwYWxhc01KU3VCTURvM2QtRzF3WHRpWHNJUXNWN3ZBbFgzWDAtVnJ3VTE2dHRiN1hUZF9zR0hTdTI0OEE?oc=5",
-      "source": "gihyo.jp",
-      "pub_date": "Fri, 25 Sep 2026 07:59:00 GMT"
     }
   ]
 }
