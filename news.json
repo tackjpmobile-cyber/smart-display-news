@@ -1,66 +1,66 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-24T23:11:36.276944+00:00",
+  "updated_at": "2026-09-25T01:11:28.473164+00:00",
   "items": [
     {
-      "title": "ゲーム開発者の85.8％が生成AIを業務利用 CESAが初調査、「人による確認・修正・監修」が最多 - Ledge.ai",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IMmVkNTNzTS1VcXhTRjVYV1ZVbGt5TFlKc0dzNjBFWnlRUU5vMTRDTEI3X3IzSm1wSFFYQWhDZ2wyeXZJdGRkUGZaNlRvN2ZvS2E5RmJrSk9aV1VHTlg3SDd2Z04weFo5UE1F?oc=5",
-      "source": "Ledge.ai",
-      "pub_date": "Thu, 24 Sep 2026 23:07:53 GMT"
+      "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第75回：Qwen-Image 2.1は商用利用に制限あり、Ming ImageはUI/UX特化だがリアル人物OKで自由度高くて期待大（西川和久） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pM013V0FwOE1RT2E3MEJzTzZrdVl4RlBIM3FhbnJXbEpXcE1XSXh6WjlpYVpCOXNVYzVxR2ZsdmY4aHBwYjloR0N0a3AteG1pUTcxYi1ERGl6d2RLLWpKZE1kYWJOTzQ?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "pub_date": "Fri, 25 Sep 2026 01:02:39 GMT"
     },
     {
-      "title": "DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に - Impress Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OVGdEcHBzdjBvZEtMSVRxWWRDVlNXS2NyVG9JUDVPY1hhdmpGLW5DQlZRZ29lSGRvVFRMZVBWanM0NGlsYzdHRkptRWQzcEpCWGRWRl9aWlk2OWtWaE11amk0TFY?oc=5",
-      "source": "Impress Watch",
-      "pub_date": "Thu, 24 Sep 2026 23:00:00 GMT"
+      "title": "AIへの指示から始める新しいプログラミング入門！『1週間でClaude Codeの基礎が学べる本』を9月25日に発売 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JNVM2YUpIY3lVMTVXLVpOUlpyWUM0c2Ria1ozTHk2dHd2ZmJYS0VzQUU5aE04eGJjYk52US1taTB4OGNXNFRRNTlsczdGLVVPRks5TW5FOEU0SkhNQ3Z6QnprUXpJeEZFYnc?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 01:00:02 GMT"
     },
     {
-      "title": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？ - キーマンズネット",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZTDRqZUV0Vmo5UFNBeFo4MVFPUXRtLTBDcDRKZXZiejFHQW5zYXBMMG5PSk9lc2F0dVR0MTd5UUl0a2RNWTdXeUNFeWgxQTVScGg1cm5ZbGFaTkE5OXFZU1Z2TFZPZw?oc=5",
-      "source": "キーマンズネット",
-      "pub_date": "Thu, 24 Sep 2026 22:00:00 GMT"
+      "title": "最高水準の動画生成AI「MiniMax H3」高速化を40日で極めた。本命「H3 Max」のウェイト公開はもう不要なのか？（CloseBox） - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jWGZGQjRwQkN3MXBUS3FIcl94WndKX1RFaThjV1k0bUh6WExmcFNnWGphRnJXbW1GanNURVdiLVhVLVRQekh4MEJYb3lVWG9mUmlneUgtc0VQVWlMMkQyUFNzOUJzYzA?oc=5",
+      "source": "テクノエッジ TechnoEdge",
+      "pub_date": "Fri, 25 Sep 2026 00:35:24 GMT"
     },
     {
-      "title": "オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上被害「画面の向こうの相手」見破る対策をITジャーナリストが指南 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fbDV1NXNDSTF6czZlMVdFNklpV19NRkhneS1sc0FRWXpxS25jS1FCOHEwU1BEWTdBMlgxQnI0b21vUl9ZVW90ZmhsdlliU0RMc3pTbTBXWDB0SWN0S0w4Z0Y3RTh1clNLUlFnWGdCWG01QQ?oc=5",
-      "source": "テレ朝NEWS",
-      "pub_date": "Thu, 24 Sep 2026 22:00:00 GMT"
+      "title": "中国がDeepSeek・Kimiのを調査か-AI蒸留によるClaudeへの情報漏洩が原因か|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0dKZVVSekJlZXB2VWFVckY0b0JMaWJ5ZUlWYVNFYjRTN3B2cEhSODZFS1dNdTZzVEFqa3VYNjBxZXFFR0tXZmY5MXFMQjgta2k4aElvbmp6QkpyN1NIZUVfY2QxRlNuSms2NDNiUlZySFdiNjk2V3BlLTg5OWI2YklRX2F6NWl3eGduWg?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "pub_date": "Fri, 25 Sep 2026 00:30:49 GMT"
     },
     {
-      "title": "生成AIで制作したドラマが中国のゴールデン枠に――問題は「作品の増えすぎ」（塚越健司） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTdYOTFaTVNVbG5SalE5Yk9zY2xWQmk0UU56RzZKdmZPQkJpX0xYOGVOMVlnYXV0eTJjdmJUV0JtQTJmZjBvM0g3QUlVcVhwcll1WnJWZ29VZkc2WWtpbmJTcm5ZWkZCYWN1akNLZlRkMXdWTVUzOG5CelF6VzRqSUgtZ29EbWFh?oc=5",
-      "source": "Yahoo!ニュース",
-      "pub_date": "Thu, 24 Sep 2026 21:41:29 GMT"
+      "title": "生成AI時代の生きがいと幸福度をテーマにしたシンポジウムを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RU1ZhMUpCNjhvdDBicUthSTdqUFl4ek9zYThuQjljczNUT1NnYnI5S3VpekVDR3BPZk1KYkVQSmlDaEh3a2V2NlZnM21BdzFsM0JMQlVfajJfTTlqay1IQmVLTURjWUlES3c?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 00:30:17 GMT"
     },
     {
-      "title": "生成AI利用率、高校生・大学生が8割超！ 社会人は5割台にとどまる【サイバーエージェント調べ】（Web担当者Forum） - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTgtZm9YN29LQVRrZHp3TFpFMEc4NjJsVG5tZ0dTYjNjdzV6Wmg5NWRYdmRTTy05OUlTUnVGNjRNbkZGeU1lM0xVbUx5VzJWS25vc1pYeWd3X1VhXzhCdmp0OWZ1QzB3UlZlU0ZrUGFMeXlHRkNBZVNicXllRmFqbjJxbDZDVXBQOHBzbU03dDkwOVlMRzR4TmJ2eXN2T0FEd0xfdEZEWm9INllVS0oxVTNFWHFvS1ptaWhjd3dR?oc=5",
-      "source": "ｄメニューニュース",
-      "pub_date": "Thu, 24 Sep 2026 21:23:22 GMT"
+      "title": "OpenAI、ChatGPT広告を東南アジアと台湾に拡大——広告展開は60市場超に - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DY0lQVjZmNU5SYWprMU9WR1l0U09VRUxYcnkzU205aVVDNHFNbHE0MUh4bjN1c1NyMnE2XzM3NFF1Z2ZsdVBFbFFwSEdtbENBbEd4NFF0NVZrdlA2NzQ1bVoyQWZOVTdJenFnNHllLWpkZHVj?oc=5",
+      "source": "BigGo ファイナンス",
+      "pub_date": "Fri, 25 Sep 2026 00:25:00 GMT"
     },
     {
-      "title": "【西川善司のグラフィックスMANIAC】DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは - PC Watch",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaGMxUzNZTEJxbHFsRlZxVy1nWXl0aGN4R2pWdnVwMmJ6ak91cmw5ZTFnanNJM1R6bUdJNWZ4bk1kb0hSZ3ZPWWRNV0gzUWxnVE1Xd2plbzVId3RpZUxtZHVNRmhjdnZ3Y2FFQ09R?oc=5",
-      "source": "PC Watch",
-      "pub_date": "Thu, 24 Sep 2026 21:01:00 GMT"
+      "title": "【2026年最新】チャッピー（ChatGPT）は無料でどこまで使える？有料版の料金・プランの違いを解説 - ホリエモンAI学校",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMFVpUjBxVWpwblJVSlNrLTNlRjhZM2JLWkxYQkh1VHR2UkVtNTZlcExQcXNxUWoteEJ1S1k4YW1fdVU5c1NBdEFObmJEZl9GRkFyY2MybVdpdGlJN21ZRGFnVUNNYkk?oc=5",
+      "source": "ホリエモンAI学校",
+      "pub_date": "Fri, 25 Sep 2026 00:16:55 GMT"
     },
     {
-      "title": "“Claude Code Moment” ～AIの爆発的普及はいつか～【プロの眼】 - テレ東BIZ",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yakJCeXNsd2txUE1LWU51LXRFZVRXZmZDS0lFWUFvNHRnaVh0VUZaRmZpU1BzbnBxYVV3N3BCQ05WWXk4SEJGSTNLODNIX0RKME5SU3puSDFJWlAyTmd5Zg?oc=5",
-      "source": "テレ東BIZ",
-      "pub_date": "Thu, 24 Sep 2026 20:45:00 GMT"
+      "title": "QommonsAI活用研修を富山県砺波市（とやまけんとなみし）で実施 — 「自課ではどう使うか」を考える、業務別の生成AI活用 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95blhZd0xyMGI4cnNZMkN4VlppMk1TU2RQem5mMmF6ZDd1Nzd4Y3oxQUdFNEg1S1ZxdVN5VjhndHhZYm5pVzk0QVpBMGpqaVk1dmRsNjhjcHhJLWdqRjJYZFlvR2ZjMmx1YXc?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 00:00:02 GMT"
     },
     {
-      "title": "Claudeが新しい酵素発見、「ほとんどの病気を治せる」に向け第一歩か - 日経クロステック",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZWpoeXdvN0lURElNb19QSklwaUJ2cHhmcmJiWkVNd2h6R3J5aERfdk5OODNveUNuOWV6WXhjWHBiNTJoOTkwRXg2UkZTeE1vWFNHRGlQZ1RjVlRkaW1JOEpFWTJSSWZ1aG1wdw?oc=5",
-      "source": "日経クロステック",
-      "pub_date": "Thu, 24 Sep 2026 20:00:00 GMT"
+      "title": "Google for Education「生成AIとAI エージェントが拓く高等教育機関の未来」10月開催 - ICT教育ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sV3d2WnFWWVNRRDVQNmpfSEluM0x3NFlhbjJlWVhwQzBWZnNMOG1JMzNyRHY2aDF0dzk2WWZmT2l0V2E4bnpNT2otUENqUVo4LU1LcjB2ZjIwQlpjZXFNM3hzNHpRUQ?oc=5",
+      "source": "ICT教育ニュース",
+      "pub_date": "Thu, 24 Sep 2026 23:56:46 GMT"
     },
     {
-      "title": "わずか2日で開発、医師が生成AIで作った医療英語アプリ｜CareNet.com - CareNet.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1JzeFZsbko3UWFFU0cwV0R1VFV1Y1ZQZDFrYmh3c2o3MThGWXpCMDkwTVowbkVZYlBpdXZ2Zm9iWTNCVjN1X1pGajQ4Q0IzMGlDczhkUVdYOEJvMTJF?oc=5",
-      "source": "CareNet.com",
-      "pub_date": "Thu, 24 Sep 2026 19:00:00 GMT"
+      "title": "エクサウィザーズグループ、生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ」を提供開始 ～個人・組織診断で課題と推進アクションを特定。全社員教育から実務変革、経営向け成果報告まで約半年で一貫提供 - 株式会社エクサウィザーズ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UelZlZ0I5cXg4Q1VaWDdYOFNyVzVLcWtROUNTNTZWckxLSnZMV25HTEt5VktBZThtTEhtZ3cyNzNVZTd0VVJreTFsdkUzS1E?oc=5",
+      "source": "株式会社エクサウィザーズ",
+      "pub_date": "Thu, 24 Sep 2026 23:36:34 GMT"
     }
   ]
 }
