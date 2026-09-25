@@ -1,7 +1,49 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-25T08:13:17.973658+00:00",
+  "updated_at": "2026-09-25T09:13:04.702742+00:00",
   "items": [
+    {
+      "title": "生成ＡＩを活用 架空の職員が登場する広報動画を作成 札幌市 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWkEycUkwVmVtTVBaMkl0TlpNUmMzVnlzXy05Q0h4WHFlQWM4V1N2b2JSZGlDMkc5dDVvcExpVDhTU0hQZ3dGdllvMmM4NXNaaEhqOEVYZ0g?oc=5",
+      "source": "NHKニュース",
+      "pub_date": "Fri, 25 Sep 2026 09:01:00 GMT"
+    },
+    {
+      "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VODRTQUU3RVRJVnJUa0RuMXYtWld4U2RzNGJGcFQzT2ZFT0N0VG5QUU92bHFzQllBdHFuNEVuXzBsbHppUmZPd2FHUkt3cm0xb2lZWmtfenV5cU9xSHpnbzNaRWk3djR5ZGc?oc=5",
+      "source": "PR TIMES",
+      "pub_date": "Fri, 25 Sep 2026 08:49:02 GMT"
+    },
+    {
+      "title": "ChatGPTのPro新規受付が止まったさなか、月500ドル「Pro Max」の存在がコードから見つかる - shiritomo",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQT01TNTF0Rng2LXZURkg4aE9KLXdLcHRReE1PX1lpVE02MUhRV1QyQUwtekVYSklxdnNGeTlmelc3QQ?oc=5",
+      "source": "shiritomo",
+      "pub_date": "Fri, 25 Sep 2026 08:33:30 GMT"
+    },
+    {
+      "title": "【北海道札幌市】「アーバンネット札幌リンクタワー」で生成AIによるデジタルアート『Utsuroi Art』放映 - STRAIGHT PRESS",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VUFmZElPYlRQUjROdnNUOHh0TDFRRXZmSXNaNnpnVnlPOVhyMU9SRS1NY2xEYWFJNmJuYW1naUgycWpERWpBQlhLZWVZODNuUGpV?oc=5",
+      "source": "STRAIGHT PRESS",
+      "pub_date": "Fri, 25 Sep 2026 08:20:27 GMT"
+    },
+    {
+      "title": "SFG株式会社、生成AI領域で新たな事業構築へ - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LQWhKZHFEdEd5Y25NRlM5VVJueXFLcWF5Uzc0WEhhZ0VreU9HTUY5UnoxaDExNzI4Z00zRXhIdXgyRG55eG5SRVpINUVGbmNZUFEyZlNjTzNNUFVRT29pOE93WDJIZzBFejhN?oc=5",
+      "source": "時事ドットコム",
+      "pub_date": "Fri, 25 Sep 2026 08:16:00 GMT"
+    },
+    {
+      "title": "四行協議会、情報交換・調査を深化 「生成ＡＩの活用」研究 - nikkinonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XSVRiSHY5YWk2TWg1UHZzU201LXQ0bWlHazhEUHpudG9TT0YtanBlY1UzYjZNenY0NktsbFFtSHRncUd2RjFSclR1S0FoOTZZUDFOU3Zn?oc=5",
+      "source": "nikkinonline.com",
+      "pub_date": "Fri, 25 Sep 2026 08:04:24 GMT"
+    },
+    {
+      "title": "【スマホ見ずに視界を共有】ChatGPT連動スマートグラス「Solos V2」の実力は？テンプル交換で充電待ちゼロになる快適さをライターが本音体験（MonoMax Web） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zLVFZU1lMVHY1Smk5T2xSSUxmR2t4LVJPcmgwM25SMTltTC1ZdzBERTJIYkFhRHRpdkFOaE5jcFVEaGtycDhpRjN2TTF0WXF0ZVh3enE4aXlqS0dWdllyRVJOUDZ1R3cwZG4xX2kyUjlRZFd0dVdXeVE4UE9mMEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "pub_date": "Fri, 25 Sep 2026 08:02:06 GMT"
+    },
     {
       "title": "楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある - 日経ビジネス電子版",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUktYXE4SzhaTWlUY2tDS1FIMGtmX3ljc1Q1OWFxUVJSUkxFWFpSR19TcVJlcERPMl9jdnpQTWFxbjhRZlg5WllVS0F4cWhrTEx0SFE2N0dyLUVFOVhiaVJsWkl2azVpM0s0NmtlTWlraW5RcEFSM3pNd2RqYURNTU1hd25Ldw?oc=5",
@@ -19,48 +61,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTFlZbVNxeHlCTmcwYWxhc01KU3VCTURvM2QtRzF3WHRpWHNJUXNWN3ZBbFgzWDAtVnJ3VTE2dHRiN1hUZF9zR0hTdTI0OEE?oc=5",
       "source": "gihyo.jp",
       "pub_date": "Fri, 25 Sep 2026 07:59:00 GMT"
-    },
-    {
-      "title": "ChatGPT Pro Maxがリーク、OpenAIは月額500ドルのプランをCerebrasで準備 - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1FfVkx5cnFPQ2tkRVhTOXhPNzRyZld1VUh4YXFTV1I4dnEzTGZ3ajNQcFNhTDZfMTMwSWhqcXVyX1lSbnlxbXhxc2RrN2owUzVJQ1g5WHJIa0VnSlBYM092cDRpbXpSekdlenJ4bnVjLU5jZW53Y1VjMk5IcUNfQVlZUQ?oc=5",
-      "source": "Pasquale Pillitteri",
-      "pub_date": "Fri, 25 Sep 2026 07:39:26 GMT"
-    },
-    {
-      "title": "Anthropic、新モデル「Claude Opus 5.5」提供開始。従来比コスト4割減で高性能なコーディング・知識労働を実現 - AIsmiley",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdXNEN2dkaEVNbHAtVVQtd29yU3B4LUMteWJBRm9kQWhONTFacVM3RXhTdjU3N3I1dHVaa2EwQ0RNUEZUME0ybWt0N1hVdWdJYk5Xb2hLYUFRQmZlbWh4RUxjaGVvaV8w?oc=5",
-      "source": "AIsmiley",
-      "pub_date": "Fri, 25 Sep 2026 07:30:48 GMT"
-    },
-    {
-      "title": "ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される - gigazine.net",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydW5iaGRXS282ejI0RDNfMlp6aGN4TTVUTWNZSHJwb05JWkJaeDh0c3oyNndOMXMtM0dTMTZSZHJRS2hrWVpkZ2UyZ2gyQUd4Q2dmVU1tR0NUeGhuajJ2OHo0a3BMal96?oc=5",
-      "source": "gigazine.net",
-      "pub_date": "Fri, 25 Sep 2026 07:30:00 GMT"
-    },
-    {
-      "title": "Opus 5.5 で使う /claude-api prompt-audit の手順、プロンプトと CLAUDE.md を整理する方法 - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0wwM1JBbDNOLUdhZHd5LW1pYVNfMko5a0RxMDgzNnFHUmNNVDN3RzdJUUM0U3JBR3NUd2pZLXA2b1lnazAwS1BWUDNqbXpQdjZkVDdzU011WmRXaDZERnFWaXlLUUtfdmsyUU01a2VkY0J5T0p3TEh5WTF3M2ZuQnpOZW5tRXVpWVE?oc=5",
-      "source": "Pasquale Pillitteri",
-      "pub_date": "Fri, 25 Sep 2026 07:29:36 GMT"
-    },
-    {
-      "title": "Claude Code「クラウドセッション」正式版｜名前が指すのは実行の場所 - innovaTopia",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QkRVQktIcDVLQ1BDLVR0R1d2bnluWXF2Wmh0M0NZRndfZkh2NFlFc3pYenptbjc4LWR4eVFTQXVNbXowc015LXhiZGozdmZkeE00?oc=5",
-      "source": "innovaTopia",
-      "pub_date": "Fri, 25 Sep 2026 07:13:29 GMT"
-    },
-    {
-      "title": "【9/29_WEB】【EC×Claude実践道場 Vol.02】 noteを”AIO対策の武器”に変える、Claude活用術 〜外注ゼ... - 通販通信ECMO",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oUzZ0RFd3cWRhQV9MSE0yT2FpNy1CN2xVVW5qZFBMUDQyUG5rb0dodWwzcDdvTXBIY01Gald4SHF6dV91UWxaWm9UUERTX0xkRmNrNHB3?oc=5",
-      "source": "通販通信ECMO",
-      "pub_date": "Fri, 25 Sep 2026 07:07:15 GMT"
-    },
-    {
-      "title": "NTTアーバンソリュなど５社、生成AIを活用した空間演出技術の実証放映開始 - jutaku-s.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54RkVuemdkR0RqbEIzRzFLeE5QbHNkbWZ0bHlvNlptWG5TZElkb1g1cm5Xb01HNmdpUHltdWtTaXRKazRPOFMwLVUtR1habjd3?oc=5",
-      "source": "jutaku-s.com",
-      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT"
     }
   ]
 }
