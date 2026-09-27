@@ -1,21 +1,7 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-27T18:14:16.992119+00:00",
+  "updated_at": "2026-09-27T19:10:49.111880+00:00",
   "items": [
-    {
-      "title": "78歳の俳優 五頭岳夫、生成AI「PixAI」に初挑戦 若き日の写真を ...",
-      "link": "https://kai-you.net/article/96510",
-      "source": "kai-you.net",
-      "pub_date": "Sun, 27 Sep 2026 11:00:00 GMT",
-      "body": "「こんなイケメンじゃないよ（笑）」アニメ調に生まれ変わった42歳の自分を見ながら、俳優・五頭岳夫さんはそう笑った。Netflixシリーズ『地面師たち』への出演が大きな話題となり、78歳となった現在も俳優として活動する五頭さん。今回、自身初となる生成AIによるイラ ..."
-    },
-    {
-      "title": "生成AIで業務改善 AIに関するアイデアを職員から募るコンテストを ...",
-      "link": "https://www.msn.com/ja-jp/money/other/%E7%94%9F%E6%88%90%EF%BD%81%EF%BD%89%E3%81%A7%E6%A5%AD%E5%8B%99%E6%94%B9%E5%96%84-%EF%BD%81%EF%BD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E8%81%B7%E5%93%A1%E3%81%8B%E3%82%89%E5%8B%9F%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E9%9D%99%E5%B2%A1%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD/ar-AA2d4v7q",
-      "source": "msn.com",
-      "pub_date": "Sun, 27 Sep 2026 08:07:01 GMT",
-      "body": "静岡県は生成ＡＩで業務改善を図ろうと、職員からＡＩに関するアイデアを募るコンテストを実施しました。 このコンテストは全職員を対象に行われました。職員が生成ＡＩで業務課題を解決した３３の事例から６つの優秀賞が選ばれ鈴木知事と平木副知事が最終審査しました。"
-    },
     {
       "title": "[みんなのケータイ]ChatGPTと人に助けられた、中国で紛失したスマホ ...",
       "link": "https://www.msn.com/ja-jp/technology/consumer-electronics/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4-chatgpt%E3%81%A8%E4%BA%BA%E3%81%AB%E5%8A%A9%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F-%E4%B8%AD%E5%9B%BD%E3%81%A7%E7%B4%9B%E5%A4%B1%E3%81%97%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8C%E7%84%A1%E4%BA%8B%E3%81%AB%E8%BF%94%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%95%B0%E6%99%82%E9%96%93%E3%81%AE%E8%A8%98%E9%8C%B2/ar-AA2d3OIK",
@@ -24,11 +10,25 @@
       "body": "海外旅行には、筆者はだいたいいつも、iPhoneとAndroidスマートフォン、それとパソコンを持って行きます。今回の中国旅行も「iPhone 15」「OPPO Find X3 Pro」、そしてパソコンという構成でした。 中国に少し慣れてきた旅行4日目。潮州のスーパーへ買い物に行き、ホテルへ戻ってきたところで事件発生。 あれ？"
     },
     {
-      "title": "編集画面から離れずAI映像生成が可能に RunwayがDaVinci Resolve向け ...",
-      "link": "https://www.msn.com/ja-jp/technology/software/%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E9%9B%A2%E3%82%8C%E3%81%9Aai%E6%98%A0%E5%83%8F%E7%94%9F%E6%88%90%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB-runway%E3%81%8Cdavinci-resolve%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E5%85%AC%E9%96%8B/ar-AA2d4i5N",
-      "source": "msn.com",
-      "pub_date": "Sun, 27 Sep 2026 06:36:26 GMT",
-      "body": "Runwayは9月23日、動画編集ソフト『DaVinci Resolve Studio』向けのプラグインを提供開始した。編集画面から離れることなく、Runwayの生成AIモデルを利用して映像や画像を生成し、そのままタイムラインに取り込めるようになった。"
+      "title": "KTの「AutoModelRouter」、LLMルーター評価で総合2位",
+      "link": "https://www.digitaltoday.co.kr/jp/view/107778/kt-ai-model-routing-technology-ranks-second-in-global-benchmark",
+      "source": "digitaltoday.co.kr",
+      "pub_date": "Sun, 27 Sep 2026 07:55:00 GMT",
+      "body": "KTは27日、自社開発のAIモデルルーティング技術「AutoModelRouter」が、大規模言語モデル（LLM）ルーターの公開ベンチマーク「Router Arena」で総合2位になったと発表した。応答精度やコスト効率、入力変化への堅牢性などで高い評価を得たという。 AutoModelRouterは、米Rice Universityの研究チームが開発したLLMルーター評価プラットフォーム「Router Arena」で総合2位になった。 Router Arenaは、約8400件のクエリを基に、AIルーターの応答精度、コスト効率、入力変化に対する堅牢性などを評価する公開ベンチマーク。学術分野で開発されたルーターに加え、Microsoftの「Azure Model Router」など商用技術も掲載している。 AutoModelRouterは、複数のAIモデルの中から、ユーザーの要求に応じて最適なモデルを自動選択する技術だ。業務の種類や難易度、知識分野を分析し、モデルごとの応答品質と利用コストを踏まえて適切なモデルに振り分ける。翻訳や単純な情報確認にはコスト効率の高いモデルを、専門分析や高度な"
+    },
+    {
+      "title": "Claudeの利用枠、GPT-6の提供先、Figmaの縦ラップ――今週押さえる3件",
+      "link": "https://note.com/fulcrum/n/nad35fa4ac506",
+      "source": "note.com",
+      "pub_date": "Sun, 27 Sep 2026 07:04:00 GMT",
+      "body": "9月22日にClaude Opus 5.5とGPT-6 Sol／Lunaが発表され、25日にFigmaのオートレイアウトが縦方向の折り返しに対応した。今週は3件を別々に読む。変わったのは、Claudeでは利用できる量、GPT-6では使える場所、Figmaでは画面の組み方だ。 AnthropicはOpus 5.5を9月22日に公開した 。ClaudeのPro・Max・Teamとシート制Enterpriseでは、5時間の利用上限を引き上げた。契約して使う人にも届く更新だ。 同社は、Opus 5に比べて出力生成が30％超速く、典型的な作業のAPI費用が既定設定で約40％下がると説明する。前者は 文章を生成する速さ の比較で、調査や確認を含む仕事全体の所要時間ではない。後者もアプリの月額料金の話ではない。価格、利用枠、作業時間を一つの「安く速くなった」にまとめると、手元で何が変わるかを見失う。 発表は、要点を先に置き、専門語を抑える書き方も改善点に挙げた。仕 様を読んだり、変更理由を文章で共有したりする仕事には気になる更新 だ。ただし、読みやすさの評価はAnthropicが示したものだ。実際の"
+    },
+    {
+      "title": "LLMの「自己整合性」は、どこで観測されたのか",
+      "link": "https://note.com/yuutsukanrinin/n/n991ce8432c86",
+      "source": "note.com",
+      "pub_date": "Sun, 27 Sep 2026 06:46:00 GMT",
+      "body": "2026年4月、Nature Machine Intelligenceに、LLMが自分の回答をどの程度維持するのか、また、後から与えられた反対情報によって判断をどの程度変更するのかを調べた論文が掲載された。 Dharshan Kumaranらによる「Competing Biases underlie Overconfidence and Underconfidence in LLMs」である。 実験は大まかに次のようなものだ。 まずLLMに問題を解かせ、回答を出させる。 その後、別のLLMが異なる回答をしたという情報を与え、最終回答をもう一度求める。このとき、 ・最初の回答をLLMに見せる／見せない ・後から与える回答が最初の回答と同じ／反対／情報なし ・後から与える回答の正答率 などの条件を変え、最終回答と確信度がどう変化するかを調べた。 主実験では会話履歴を引き継がない方式を使い、2回目のプロンプト内に必要な情報を改めて入れている。著者らはこれによって、「以前の回答が現在の文脈内に表示されていること」そのものの効果を分離しようとした。 結果として、大きく二つの現象が確認された。 一"
     },
     {
       "title": "Claudeが未知の酵素システムの発見に貢献 約950のAIが21時間探索 ...",
@@ -39,10 +39,10 @@
     },
     {
       "title": "Adobe、Gemini向けコネクタ提供開始 Claudeでは会話しながらPDF編集が ...",
-      "link": "https://realsound.jp/tech/2026/09/post-2535947.html",
-      "source": "realsound.jp",
-      "pub_date": "Sun, 27 Sep 2026 00:28:00 GMT",
-      "body": "アドビは9月24日（米国時間）、Google Geminiに向けた「Gemini向けアドビコネクタ」の提供を開始するとともに、既存の「Claude向けアドビプラグイン」にAcrobatツールを統合し、PDFやデザインを直接編集できる機能を追加したと発表した。主要なAIチャットボット上で、アドビのプロ向けツールを対話しながら使える環境を広げる取り組みとなる。 Gemini向けアドビコネクタでは、Geminiとの対話を通じてAdobe Photoshop、Adobe Lightroom、Adobe Express、Adobe Fireflyといったツールを呼び出せる。仕上がりのイメージを説明するだけで、商品写真のライティングや色の最適化、統一感のあるトリミングが行えるほか、1つのデザインを各SNS向けの最適な形に変換したり、Adobe Expressのテンプレートをキャンペーン内容に合わせてカスタマイズすることも可能となっている。 Claude向けアドビプラグインでは、今回初めてAcrobatツールが加わった。ページの削除・結合・分割によるPDFの整理、機密情報の墨消し、他ファイル形式への"
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/adobe-gemini%E5%90%91%E3%81%91%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B-claude%E3%81%A7%E3%81%AF%E4%BC%9A%E8%A9%B1%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89pdf%E7%B7%A8%E9%9B%86%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB/ar-AA2d3Gts",
+      "source": "msn.com",
+      "pub_date": "Sun, 27 Sep 2026 05:28:34 GMT",
+      "body": "アドビは9月24日（米国時間）、Google Geminiに向けた「Gemini向けアドビコネクタ」の提供を開始するとともに、既存の「Claude向けアドビプラグイン」にAcrobatツールを統合し、PDFやデザインを直接編集できる機能を追加したと発表した。主要なAIチャットボット上で、アドビのプロ向けツールを対話しながら使える環境を広げる取り組みとなる。"
     },
     {
       "title": "仕事の9割をChatGPTに相談するようになった会社員の話",
@@ -52,11 +52,11 @@
       "body": "気づけば、仕事の9割くらいをChatGPTに相談するようになりました。 SNS、口コミ返信、商品開発、メニュー制作、販促、新規出店、資料作成。最近では会社の宴会幹事まで相談しています。 でも、最初からこんな使い方をしていたわけではありません。 始めたきっかけは単純で、AIが流行っていたから。 「AIって実際どうなんだろう？」 そんな軽い気持ちで、ちょっとした相談をしてみたり、面白い画像を作ってみたり。最初は完全に遊びでした。 それが少しずつ仕事に入り込み、今では何か仕事が発生すると「まずChatGPTに相談してみよう」が当たり前になっています。 現在、飲食業界で働いて17年目。経営企画の仕事をしています。 商品開発や販促、SNS運用、メニュー制作、新規出店の検討など、仕事の内容はかなり幅広いです。 ChatGPTを使い始めた頃は、何かを「作ってもらう」感覚でした。 でも今は少し違います。 仕事が始まった段階から相談して、資料があれば共有する。途中で状況が変われば、それも伝える。そして最後のアウトプットまで一緒に進める。 そんな使い方が増えました。 もちろん、ChatGPTが出した答えを"
     },
     {
-      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol ...",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/27/news007.html",
-      "source": "itmedia.co.jp",
-      "pub_date": "Sat, 26 Sep 2026 23:00:00 GMT",
-      "body": "@茩ĂǁAƋCɂȂ\\\\ȃj[XTɁgCǂ݁hAځB́A920T𒆐SɌJꂽȃj[XCɃ`FbN܂傤I @Anthropic922AAIfuClaude Opus 5.5v𔭕\\BVȁuClaude 5.5vt@~[̑1eŁAClaude PlatformɉAAmazon Web ServicesAGoogle CloudAMicrosoft AzurełpłB @Ђɂ΁A̍Ƃŏʃf́uFable 5.1vƓ̐\\ȂAʓIȃ[N[hł̎sRXgOpus 540ႢƂBAPIi100g[N4hAo20hŁAOpus 520BLbVǂݎ0.2hƁA60ȂĂB @Ђ\\x`}[Nł́AG[WFg^R[fBO𑪂Terminal-Bench 4.066.4ƂȂAFable 5.1i55.8jOpenAIGPT-6 Astrai57.9jBAƖ[Nt[AutomationBenchƉȊwnTerminal-Bench-Science 0.1ł́AGPT-6 Astra̕B @Sʂł́AsčœЂ̉ߋō̌ʂƂȂAiboundariesj悤Ƃ鎎݂Opus 5Claude Mythos 5.185ȂƂĂB܂Athin"
+      "title": "【エラー逆引き】LLMエージェント構築で99%直面する「無限ループ ...",
+      "link": "https://note.com/black_edge_five/n/n4a94d190b90b",
+      "source": "note.com",
+      "pub_date": "Sat, 26 Sep 2026 20:15:00 GMT",
+      "body": "ここまで解説してきた解決策を現場に導入するにあたり、どのアーキテクチャをどの順番で採用すべきでしょうか。 現場で使われる代表的な3つの防御アプローチを比較表にまとめました。 | 防御アプローチ | 主な実装内容 | メリット | デメリット・注意点 | 推奨導入フェーズ | | :--- | :--- | :--- | :--- | :--- | | ルールベース制御 | ステップ数制限、重複引数ブロック、サーキットブレーカー | 実装が極めて容易で確実。コスト爆発を100%防止可能 | タスクが複雑な場合、途中で強制終了する可能性がある | 全プロジェクトで必須（Day 1） | | サマライザー分離 | 要約専用LLMの配置、メモリ階層化、短期・長期記憶の分離 | コンテキスト超過を防ぎ、数時間〜数日に及ぶ長期タスクが可能 | 要約の過程で細かな前提条件や数値情報が脱落するリスク | 本番運用・自律リサーチ（Day 2） | | セッションリセット | エラー多発時の状態クリア、チェックポイントからの巻き戻し | モデルの混乱やデッドロックを完全にリセットして再出発可能 | 直前ま"
     },
     {
       "title": "ChatGPTに任せたら11秒でサイト公開。でも「できないこと」は正直に ...",
@@ -66,11 +66,11 @@
       "body": "ChatGPT Sitesを使ってたった数秒で本気のポートフォリオを作成する方法を実体験ベースで解説。驚きの機能と注意点とは？"
     },
     {
-      "title": "生成AIなんでも展示会Vol.6に出展してきた話。",
-      "link": "https://note.com/s_tkrz/n/n6ae39b8ee89b",
-      "source": "note.com",
-      "pub_date": "Sat, 26 Sep 2026 19:41:00 GMT",
-      "body": "去る9月23日のこと、「生成AIなんでも展示会 Vol.6」に出展してきました。 その名の通り、生成AIをもちいてつくったもの全般に限らず、生成AIを（肯定的に）活用できるものを含め、生成AIに関連するジャンルを問わない内容を展示できるイベントでした。 筆者はVol.5でその存在を知り一般参加をしたのですが、知り合いから誘われてVol.6で出展側（≒サークル参加）として参加することに。 …とはいえ、筆者は生成AI技術に興味はありつつも活用して何かできているか？と考えるとちょっと微妙。 人を引く生成AIを作ったアプリなどはなかなか作れないな…という中考えたのが、前々週の記事で書いた「生成AIとどう向き合うか」という評論本形式でした。 直感的には非エンジニアの割合が少なからずいた、というところでしょうか。 後に述べますが場所がやや不利な位置ながら、男性の割合が多いものの女性でも興味を持って手に取っていただける方が多かった印象。 パーソナリティも比較的若い年代の方が少なくなく、そんな中でも 「これからの人をどう育てるか」 に問題意識を持っている方がちらほら見受けられました。 中には100人規"
+      "title": "アンソロピックの金融向け「Claude」、シュワブ・ブラックロック ...",
+      "link": "https://forbesjapan.com/articles/detail/104909",
+      "source": "forbesjapan.com",
+      "pub_date": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. トップ テクノロジー AI アンソロピックの金融向け「Claude」、シュワブ・ブラックロックなど11の顧客データ基盤と接続 AI 2026.09.26 14:00 アンソロピックの金融向け「Claude」、シュワブ・ブラックロックなど11の顧客データ基盤と接続 Jon Markman | Contributor 著者フォロー 記事を保存 Francois Eichinger - stock.adobe.com Francois Eichinger - stock.adobe.com アンソロピック（Anthropic）の「Claude」が、金融アドバイザーの業務で使われる既存の金融サービス基盤との接続を広げている。チャールズ・シュワブの顧客口座データに加え、ブラックロックやバンガードが提供する運用関連情報などをClaudeから利用できるようにし、資産運用業務へのAI導入をさらに進める。 AIによる代替懸念で売られたシュワブ、7カ"
     }
   ]
 }
