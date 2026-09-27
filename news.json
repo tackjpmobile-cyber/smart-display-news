@@ -1,7 +1,21 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-27T15:12:11.480655+00:00",
+  "updated_at": "2026-09-27T16:12:39.470148+00:00",
   "items": [
+    {
+      "title": "生成AIで業務改善 AIに関するアイデアを職員から募るコンテストを ...",
+      "link": "https://www.msn.com/ja-jp/money/other/%E7%94%9F%E6%88%90%EF%BD%81%EF%BD%89%E3%81%A7%E6%A5%AD%E5%8B%99%E6%94%B9%E5%96%84-%EF%BD%81%EF%BD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E8%81%B7%E5%93%A1%E3%81%8B%E3%82%89%E5%8B%9F%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E9%9D%99%E5%B2%A1%E7%9C%8C%E3%81%8C%E5%AE%9F%E6%96%BD/ar-AA2d4v7q",
+      "source": "msn.com",
+      "pub_date": "Sun, 27 Sep 2026 08:07:01 GMT",
+      "body": "静岡県は生成ＡＩで業務改善を図ろうと、職員からＡＩに関するアイデアを募るコンテストを実施しました。 このコンテストは全職員を対象に行われました。職員が生成ＡＩで業務課題を解決した３３の事例から６つの優秀賞が選ばれ鈴木知事と平木副知事が最終審査しました。"
+    },
+    {
+      "title": "KTの「AutoModelRouter」、LLMルーター評価で総合2位",
+      "link": "https://www.digitaltoday.co.kr/jp/view/107778/kt-ai-model-routing-technology-ranks-second-in-global-benchmark",
+      "source": "digitaltoday.co.kr",
+      "pub_date": "Sun, 27 Sep 2026 07:55:00 GMT",
+      "body": "KTは27日、自社開発のAIモデルルーティング技術「AutoModelRouter」が、大規模言語モデル（LLM）ルーターの公開ベンチマーク「Router Arena」で総合2位になったと発表した。応答精度やコスト効率、入力変化への堅牢性などで高い評価を得たという。 AutoModelRouterは、米Rice Universityの研究チームが開発したLLMルーター評価プラットフォーム「Router Arena」で総合2位になった。 Router Arenaは、約8400件のクエリを基に、AIルーターの応答精度、コスト効率、入力変化に対する堅牢性などを評価する公開ベンチマーク。学術分野で開発されたルーターに加え、Microsoftの「Azure Model Router」など商用技術も掲載している。 AutoModelRouterは、複数のAIモデルの中から、ユーザーの要求に応じて最適なモデルを自動選択する技術だ。業務の種類や難易度、知識分野を分析し、モデルごとの応答品質と利用コストを踏まえて適切なモデルに振り分ける。翻訳や単純な情報確認にはコスト効率の高いモデルを、専門分析や高度な"
+    },
     {
       "title": "編集画面から離れずAI映像生成が可能に RunwayがDaVinci Resolve向け ...",
       "link": "https://www.msn.com/ja-jp/technology/software/%E7%B7%A8%E9%9B%86%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E9%9B%A2%E3%82%8C%E3%81%9Aai%E6%98%A0%E5%83%8F%E7%94%9F%E6%88%90%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB-runway%E3%81%8Cdavinci-resolve%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E5%85%AC%E9%96%8B/ar-AA2d4i5N",
@@ -10,18 +24,25 @@
       "body": "Runwayは9月23日、動画編集ソフト『DaVinci Resolve Studio』向けのプラグインを提供開始した。編集画面から離れることなく、Runwayの生成AIモデルを利用して映像や画像を生成し、そのままタイムラインに取り込めるようになった。"
     },
     {
-      "title": "ローカルLLMの現実的な上限は12〜16GB？ 高級GPU前提の議論を見直す",
-      "link": "https://note.com/made_from_fuji/n/ndf182deea5d8",
-      "source": "note.com",
-      "pub_date": "Sun, 27 Sep 2026 06:00:00 GMT",
-      "body": "Redditの r/LocalLLaMA で、「16GB、場合によっては12GBが、普通の人が合理的に持てるVRAMの上限ではないか」という投稿が話題になっています。私が2026年9月22日に確認した時点で、投稿には562の賛成票と440件のコメントが表示されていました。 投稿者が問題にしているのは、ローカルLLMのコミュニティに、複数GPUや24GB超のカードを使う構成が目立つことです。高価な構成の報告が増えるほど、「ローカルで動く」という言葉が、実際には一部の予算を前提にした話になりやすい。 同じ投稿には、最近の進歩によって16GBカードでもQwen 27B級の量子化モデルを使ったエージェント型コーディングが視野に入った、という見方もあります。12〜16GBは性能の限界なのか、それとも多くの人が購入できる範囲から出てくる現実的な上限なのか。元スレッドの議論は、後者を考える材料になっています。 投稿者は、r/LocalLLaMAが高性能な構成へ偏った、かなりニッチなコミュニティだと指摘しています。24GBのカードでさえ、多くの人には金銭的に届きにくい。投稿では、3枚の3090や509"
-    },
-    {
       "title": "Claudeが未知の酵素システムの発見に貢献 約950のAIが21時間探索 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/claude%E3%81%8C%E6%9C%AA%E7%9F%A5%E3%81%AE%E9%85%B5%E7%B4%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%99%BA%E8%A6%8B%E3%81%AB%E8%B2%A2%E7%8C%AE-%E7%B4%84950%E3%81%AEai%E3%81%8C21%E6%99%82%E9%96%93%E6%8E%A2%E7%B4%A2-%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%8C%E5%AE%9F%E9%A8%93%E3%81%A7%E6%A4%9C%E8%A8%BC/ar-AA2d3BqD",
+      "link": "https://www.msn.com/ja-jp/news/other/claude%E3%81%8C%E6%9C%AA%E7%9F%A5%E3%81%AE%E9%85%B5%E7%B4%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%99%BA%E8%A6%8B%E3%81%AB%E8%B2%A2%E7%8C%AE-%E7%B4%84950%E3%81%AEai%E3%81%8C21%E6%99%82%E9%96%93%E6%8E%A2%E7%B4%A2-%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%8C%E5%AE%9F%E9%A8%93%E3%81%A7%E6%A4%9C%E8%A8%BC/ar-AA2d3BqD",
       "source": "msn.com",
       "pub_date": "Sun, 27 Sep 2026 05:32:50 GMT",
       "body": "Anthropicは9月23日、AI「Claude」がDNAのデータを調べ、これまで特徴が十分に調べられていなかった酵素システムの発見につながったと発表した。同社の研究者が実験で検証を進めており、生命科学を研究するチームと研究室の設立も明らかにした。"
+    },
+    {
+      "title": "今週のLLMまとめ #1 （2026/09/20~09/26）｜GPT-6、Claude Opus 5.5、Qwen-Image-2.1 ...",
+      "link": "https://note.com/ai_jisso/n/ncff0164d472f",
+      "source": "note.com",
+      "pub_date": "Sun, 27 Sep 2026 04:03:00 GMT",
+      "body": "Anthropicは9月23日、Claudeを使った生命科学研究の初期成果を公開しました。約950のエージェントが21時間かけて20万件を超える逆転写酵素を調べ、3,500件から20件へ候補を絞り込みました。実験は人間の研究者が担当しています。新しい酵素系「ART」の機能はまだ調査中で、成果もプレプリント段階です。 OpenAIは9月25日、社内の研究用エージェントが訓練・評価中に第三者サービスへデータを送った事例を公表しました。ユーザー提供画像53件が画像ホスティングサービスへ、公開一覧には載らないリンクとして送信され、大部分は削除済みです。一般提供中のChatGPTで同じ問題が起きたという発表ではありません。外部ツールを使うエージェントでは、送信先と権限の管理も安全性の一部になります。 今週の発表を見る限り、競争の軸はモデル単体の最高性能から、仕事全体をどれだけ安く、長く、安全に完了できるかへ広がっています。 GPT-6はSolとLunaを分け、工程の難しさに応じた使い分けを提案しました。Claude Opus 5.5は通常料金とキャッシュ料金を下げ、長時間のコーディングやツール利"
+    },
+    {
+      "title": "ClaudeとMicrosoft 365 Copilot、2つの「Cowork」で業務を自動化",
+      "link": "https://xtrend.nikkei.com/atcl/contents/18/00589/00362/?P=2",
+      "source": "xtrend.nikkei.com",
+      "pub_date": "Sun, 27 Sep 2026 03:00:00 GMT",
+      "body": "Claude Coworkは、AnthropicのAIアシスタント「Claude」に用意された機能の一つです。主にデスクトップアプリで提供され、指定したフォルダ内のファイルを読み込み、編集し、新しいファイルを作成しながら業務を進めます。26年にはウェブ版・モバイル版への展開も進み、パソコンを閉じた後もクラウド上で作業を継続できる仕組みへと発展しています。スキル、プラグイン、コネクタといった拡張機能を備え、Microsoft 365、Google Workspace、Slackなどとも連携できます。 一方のCopilot Coworkは、Microsoft 365 Copilotの機能として提供され、Word、Excel、Outlook、Teams、SharePointなどのアプリと連携しながら動作します。企業のテナントの中で既存のアクセス権限やセキュリティー設定を引き継いだまま、文書作成、情報収集、会議準備、社内コミュニケーションといった複数の業務を横断して支援できる点が特徴です。 注目したいのは両者の関係です。MicrosoftはAnthropicと連携し、Claude Cowork"
     },
     {
       "title": "Adobe、Gemini向けコネクタ提供開始 Claudeでは会話しながらPDF編集が ...",
@@ -31,25 +52,11 @@
       "body": "アドビは9月24日（米国時間）、Google Geminiに向けた「Gemini向けアドビコネクタ」の提供を開始するとともに、既存の「Claude向けアドビプラグイン」にAcrobatツールを統合し、PDFやデザインを直接編集できる機能を追加したと発表した。主要なAIチャットボット上で、アドビのプロ向けツールを対話しながら使える環境を広げる取り組みとなる。 Gemini向けアドビコネクタでは、Geminiとの対話を通じてAdobe Photoshop、Adobe Lightroom、Adobe Express、Adobe Fireflyといったツールを呼び出せる。仕上がりのイメージを説明するだけで、商品写真のライティングや色の最適化、統一感のあるトリミングが行えるほか、1つのデザインを各SNS向けの最適な形に変換したり、Adobe Expressのテンプレートをキャンペーン内容に合わせてカスタマイズすることも可能となっている。 Claude向けアドビプラグインでは、今回初めてAcrobatツールが加わった。ページの削除・結合・分割によるPDFの整理、機密情報の墨消し、他ファイル形式への"
     },
     {
-      "title": "舞台『ガリレオの目』がKindleでコミカライズ配信開始 生成AIを活用 ...",
-      "link": "https://realsound.jp/tech/2026/09/post-2535940.html",
-      "source": "realsound.jp",
-      "pub_date": "Sun, 27 Sep 2026 00:27:00 GMT",
-      "body": "株式会社IMAKAIは、AIと各分野のプロフェッショナルが共創するコンテンツ制作プロジェクト「MangaNow Studio」において、舞台作品『ガリレオの目』をコミカライズし、『ガリレオの目 第1巻 科学と歴史』の配信を9月24日にAmazon Kindleストアで開始した。 本作は、16世紀末から17世紀のヨーロッパを舞台に、イタリアの自然哲学者ガリレオ・ガリレイの波乱に満ちた人生を描く物語。地動説を支持し近代科学の発展に足跡を残したガリレオを主人公に、望遠鏡をのぞいた“一つの目”を通して、人類の宇宙観が大きく変わっていく時代を描いていく。 漫画『ガリレオの目』の誌面 原作を手がけるのは、演出家・劇作家の田尾下哲。オペラやミュージカル、2.5次元舞台などジャンルを超えた作品づくりに取り組んできた人物で、物語構成やキャラクター演出、世界観づくりといった舞台演出で培った知見を漫画表現に生かしている。共同作家として、ニューヨーク出身の演出家・俳優・作家であるグレッグ・デールが参加している。 「MangaNow Studio」は、クリエイターが生み出した作品の核を大切にしながら、制作工程に"
-    },
-    {
-      "title": "【増田式】ChatGPTとClaude Codeの使い分け│結局どっちに聞けばいいのか",
-      "link": "https://note.com/masudamegumi/n/nfb3dfb073bea",
-      "source": "note.com",
+      "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表／OpenAIもAIモデル「GPT-6 Sol ...",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/27/news007.html",
+      "source": "itmedia.co.jp",
       "pub_date": "Sat, 26 Sep 2026 23:00:00 GMT",
-      "body": "ビジネス実践講座の受講生で、Claude Codeを使い始めた方から、こう言われました。 「何をClaude Codeに聞いて、何をChatGPTに聞けばいいのか分からなくなりました」 正直に言うと、私も最初は同じでした。ChatGPTとは何年もの付き合いがあります。私の言い方も、事業の背景も、もうよく分かってくれている。新しく来たClaude Codeより、勝手を知っているChatGPTについ聞きたくなる気持ちは、よく分かります。 いまはもう迷いません。メインはClaude Code、サブはChatGPT。はっきり分かれています。 実際に開くのは、ほぼ次の5つです。 ・手順ややり方を知りたいとき — 黒い画面（ターミナル）の開き方が分からなかったときや、英語のエラーで手が止まったときなど ・調べ物をするとき ・Claude Codeの利用量が心配になったとき — その場は調べるだけにして、作業自体はあとに回します ・事業に直接関係のないこと — 買い替えたパソコンの覗き見フィルターの相談、出張時に飲食店を探す、出張のスケジュールの相談など ・ファクトチェック それ以外は、ほぼ全部Cl"
-    },
-    {
-      "title": "ChatGPT Plusにしてみた｜5日間使って感じた無料版との違い",
-      "link": "https://note.com/fp_toto/n/n884ff7967ef0",
-      "source": "note.com",
-      "pub_date": "Sat, 26 Sep 2026 22:46:00 GMT",
-      "body": "みなさん こんにちは ととです。 先日ChatGPTをPCで使っていたところ、 ChatGPT Plusの1ヶ月無料体験のオファーがきていました。(期間終了後は約3000円/月) 最近、WorkとCodexでChatGPTを使っていてすぐにクレジットに引っかかって困っていたので、2分ぐらい悩んでからChatGPT Plusに入ることに。 ちなみにWorkとは、 ChatGPTの機能でチャットだけでなく、 ローカルにあるファイルの操作や 外部サービスとの連携など 依頼した作業を実行してくれるエージェントのようなものです。 Codexとは Workのソフト開発特化のような存在。 自然言語で指示しながら、Webアプリなどの開発を進められます。 ChatGPT Plusにしてちょうど今５日目くらいなので、使用した感想を書いてみようと思います。 そもそもPlusにすると何が変わるかですが、 ざっくりとこんな感じです。 回答の質が上がる スケジュールに登録できるタスクの上限が増える Codexのクレジットが増える ※2026年9月時点 一つずつ使用感を説明していきますね。 私が一番実感したのは、回"
+      "body": "@茩ĂǁAƋCɂȂ\\\\ȃj[XTɁgCǂ݁hAځB́A920T𒆐SɌJꂽȃj[XCɃ`FbN܂傤I @Anthropic922AAIfuClaude Opus 5.5v𔭕\\BVȁuClaude 5.5vt@~[̑1eŁAClaude PlatformɉAAmazon Web ServicesAGoogle CloudAMicrosoft AzurełpłB @Ђɂ΁A̍Ƃŏʃf́uFable 5.1vƓ̐\\ȂAʓIȃ[N[hł̎sRXgOpus 540ႢƂBAPIi100g[N4hAo20hŁAOpus 520BLbVǂݎ0.2hƁA60ȂĂB @Ђ\\x`}[Nł́AG[WFg^R[fBO𑪂Terminal-Bench 4.066.4ƂȂAFable 5.1i55.8jOpenAIGPT-6 Astrai57.9jBAƖ[Nt[AutomationBenchƉȊwnTerminal-Bench-Science 0.1ł́AGPT-6 Astra̕B @Sʂł́AsčœЂ̉ߋō̌ʂƂȂAiboundariesj悤Ƃ鎎݂Opus 5Claude Mythos 5.185ȂƂĂB܂Athin"
     },
     {
       "title": "78歳の俳優 五頭岳夫、生成AI「PixAI」に初挑戦 若き日の写真を ...",
@@ -57,13 +64,6 @@
       "source": "kai-you.net",
       "pub_date": "Sat, 26 Sep 2026 21:00:00 GMT",
       "body": "「こんなイケメンじゃないよ（笑）」アニメ調に生まれ変わった42歳の自分を見ながら、俳優・五頭岳夫さんはそう笑った。Netflixシリーズ『地面師たち』への出演が大きな話題となり、78歳となった現在も俳優として活動する五頭さん。今回、自身初となる生成AIによるイラ ..."
-    },
-    {
-      "title": "ChatGPTに任せたら11秒でサイト公開。でも「できないこと」は正直に ...",
-      "link": "https://www.msn.com/ja-jp/news/other/chatgpt%E3%81%AB%E4%BB%BB%E3%81%9B%E3%81%9F%E3%82%8911%E7%A7%92%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%88%E5%85%AC%E9%96%8B-%E3%81%A7%E3%82%82-%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8-%E3%81%AF%E6%AD%A3%E7%9B%B4%E3%81%AB%E6%96%AD%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F/ar-AA2d2ofW",
-      "source": "msn.com",
-      "pub_date": "Sat, 26 Sep 2026 20:00:00 GMT",
-      "body": "ChatGPT Sitesを使ってたった数秒で本気のポートフォリオを作成する方法を実体験ベースで解説。驚きの機能と注意点とは？"
     },
     {
       "title": "日本の生成AI利用は年間約635億回！生成AIの普及で電力使用量が増大 ...",
