@@ -1,34 +1,55 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-28T23:12:12.075720+00:00",
+  "updated_at": "2026-09-29T00:18:18.326724+00:00",
   "items": [
     {
-      "title": "Anthropic「Claude Sonnet 5.5」発表、30%以上高速化 タスクコスト最大30%減",
-      "link": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3231569",
-      "source": "topics.smt.docomo.ne.jp",
-      "pub_date": "Mon, 28 Sep 2026 16:02:00 GMT",
-      "body": "マイナビニュース 米Anthropicは9月28日（現地時間）、AIモデル「Claude Sonnet 5.5」を発表した。「Claude Opus 5.5」に続くClaude 5.5ファミリーの第2弾で、従来のClaude Sonnet 5と比べて出力速度を30%以上高速化した。APIのトークン単価は据え置く一方、同じ作業に必要なトークン量を減らし、同社のテストではタスク当たりのコストを最大30%削減できたという。 28日より、Anthropicの各サービスに加え、Amazon Web Services、Google Cloud、Microsoft Azureで提供を開始した。Claude Platformでは「claude-sonnet-5-5」のモデルIDで利用でき、ゼロデータ保持にも対応する。 Opus 5.5が慎重な判断を必要とする複雑で自由度の高いタスクを主用途とするのに対し、Sonnet 5.5は目的や条件が比較的明確な日常業務を想定したモデルである。バグ修正などのソフトウェア開発に加え、文書やプレゼンテーション、スプレッドシートの作成、ユーザーインターフェイスのデザイン"
-    },
-    {
-      "title": "【IT速報】GitHub Copilot、Claude Sonnet 5.5が利用可能に。対応プランと ...",
-      "link": "https://note.com/zeronin_keiei/n/n5dffcb117745",
+      "title": "【完全解説】Claude Sonnet 5.5登場！性能・料金・新機能からOpus 5.5との ...",
+      "link": "https://note.com/zen_ai_lab/n/nc2089d05f413",
       "source": "note.com",
-      "pub_date": "Mon, 28 Sep 2026 16:02:00 GMT",
-      "body": "※この記事は公式発表の内容を整理したもの。確認日：2026-09-29。画面や条件は変わることがある。 何が発表されたか 変わったこと・新しくできること 使える条件 使い始める前に確認したいこと GitHubは2026年9月28日、GitHub CopilotでClaude Sonnet 5.5を一般提供すると発表した。GitHub blogのchangelogに掲載された内容だ。Claude Sonnet 5.5は、Anthropicの最新のSonnetモデルだという。対象は、日常的な開発作業でGitHub Copilotを使っているエンジニアだ。この記事では、公式ページに書かれている範囲で、何が変わり、どのプランで使え、どこで確認すればよいかを整理する。 一人で事業をしている人にとっても、開発にGitHub Copilotを使っているなら関係がある話だ。モデルの選択肢が増えることは、日々のコーディング作業の進め方に直接影響する。まずは、どのプラン・どの画面で使えるかを押さえておきたい。 公式ページによると、Claude Sonnet 5.5はAnthropicの最新のSonnetモ"
+      "pub_date": "Mon, 28 Sep 2026 17:18:00 GMT",
+      "body": "Sonnet 5と同じ料金で何が変わった？Opus 5.5との価格差は2倍。最新Claudeを徹底解説。  2026年9月28日、Anthropicが新しいAIモデル「Claude Sonnet 5.5」を正式にリリースしました。 今回注目したいのは、基本料金を引き上げることなく、新世代モデルが登場したという点です。 さらに、9月22日に登場したClaude Opus 5.5と比較すると、Sonnet 5.5のAPI料金は半額です。 では、具体的に何が違うのでしょうか？ この記事では、Anthropicの公式情報をもとに、Sonnet 5.5の特徴を解説するとともに、次の4モデルを比較します。 Claude Sonnet 5 Claude Sonnet 5.5 Claude Opus 5 Claude Opus 5.5 性能や料金だけではなく、Claude Codeでの開発、AIエージェント、Web制作、業務自動化といった実務での使い分けまで解説します。 ※2026年9月29日時点の公式情報を使用しています。 Claude Sonnet 5.5は、Anthropicが提供するSonne"
     },
     {
-      "title": "Anthropic、Claude Sonnet 5.5を発表。Sonnet 5より30%以上速く、最大30%安い",
-      "link": "https://gori.me/it/170776",
-      "source": "gori.me",
-      "pub_date": "Mon, 28 Sep 2026 15:42:00 GMT",
-      "body": "Anthropicが日本時間2026年9月29日、 新しいAIモデル「Claude Sonnet 5.5」を発表 した。「Claude 5.5」ファミリーでは、Opus 5.5に続く2番目のモデルだ。Anthropicによると、Sonnet 5より出力が30%以上速く、ほとんどの作業で最大30%安く使える。AWS、 Google Cloud、 Microsoft Azureを含むすべてのプラットフォームで、すでに利用できる。 Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work. pic.twitter.com/UvXD8mDTF1 — Claude (@claudeai) September 28, 2026  ゴリミーの記事をGoogleで見つけやすく 今後表示しない API料金（100万"
+      "title": "「完璧主義は捨てろ」ソフトバンクの生成AI活用術、250万件の ...",
+      "link": "https://www.sbbit.jp/article/sp/186316",
+      "source": "sbbit.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "今すぐビジネス＋IT会員に ご登録ください。 すべて無料！今日から使える、 仕事に役立つ情報満載！ ここでしか見られない 2万本超のオリジナル記事・動画・資料が見放題！ 完全無料 登録料・月額料なし、完全無料で使い放題！ トレンドを聞いて学ぶ 年間1000本超の厳選セミナーに参加し放題！ 興味関心のみ厳選 トピック（タグ）をフォローして自動収集！"
     },
     {
-      "title": "Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/anthropic-claude-sonnet-5-5-%E3%82%92%E7%99%BA%E8%A1%A8-30-%E4%BB%A5%E4%B8%8A%E9%AB%98%E9%80%9F%E3%81%AB-%E3%82%B3%E3%82%B9%E3%83%88%E3%81%AF%E6%9C%80%E5%A4%A730-%E6%B8%9B-claude-5-5-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%AE%E7%AC%AC2%E5%BC%BE-%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E3%81%AF-opus-5-5-%E3%81%AB%E8%BF%AB%E3%82%8B/ar-AA2d96y3",
-      "source": "msn.com",
-      "pub_date": "Mon, 28 Sep 2026 15:05:00 GMT",
-      "body": "米Anthropicは9月28日（現地時間、以下同）、「Claude Sonnet 5.5」を発表した。「Opus 5.5」に続く「Claude 5.5」ファミリーの第2弾で、先代の「Sonnet 5」からは30％以上も高速化。多くの作業でコストは最大30％安くなるという。高頻度・コスト重視の用途に向けた「Claude Haiku ..."
+      "title": "Astraは「頭脳」、Workは「仕事場」、Skillsは「会社の仕事の型 ...",
+      "link": "https://jbpress.ismedia.jp/articles/-/97190",
+      "source": "jbpress.ismedia.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "朝、会社に行くと上司からこう言われました。 「午後の経営会議までにA社について調べてほしい。競合3社とも比較して、A社にどんなAIを導入できそうか考えて、会議で使える資料にしておいて」 さて、あなたならChatGPTをどう使うでしょうか。 これまでなら、まず、「A社について調べてください」と入力したでしょう。回答が出てきたら、次に、 「競合企業を3社挙げてください」 「比較表にしてください」 「A社の課題を分析してください」 「AIの導入案を考えてください」 「経営者向けに書き直してください」 「PowerPointにしてください」 と続けます。気がつけば、ChatGPTと何回もやり取りしています。 私は2023年からChatGPTの使い方を教えてきましたが、これまでの生成AIは、かなり極端に言えば、人間が仕事を分解してAIに一つずつ作業をさせる道具でした。 人間が課長で、AIが指示待ちの部下だったわけです。 ところが、この関係が大きく変わり始めています。 2026年7月には、複雑な仕事をまとめて引き受け、調査や分析から文書、表計算、プレゼンテーションなどの成果物作成まで進める「Cha"
+    },
+    {
+      "title": "「すみませんよく分からないこと聞かれたので嘘つきました ...",
+      "link": "https://hashout.jp/ai/11564/",
+      "source": "hashout.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "「AIが嘘つく」ことへの関心は一過性の話題では終わりません。 実際に検索の動きを見ても、この種の言葉は月を通じて安定して調べられています。 答えは「軽減はできるが、なくならない」です。 Microsoftの検索連携機能（グラウンディング。 回答に元となったWeb検索結果のURLを添えて表示する仕組み）のように、AIが回答の根拠となる一次情報を明示する機能は、捏造の発生を大きく減らすとされています。 実際、2026年3月にリリースされたOpenAIの新モデルは、前バージョン比でハルシネーションを最大26.8%減らしたと報告されています。 ただしこれは「減った」であって「なくなった」ではありません。 検索連携や有料プランへの切り替えはリスクを下げる手段であって、ゼロにする手段ではない という点は押さえておく必要があります。 学術的な引用や固有名詞を伴う回答ほど、自分で一次資料に当たって確認する手間は今後も省けそうにありません。 今回の投稿がこれだけ反響を呼んだのは、AIを日常的に使う人なら誰でも一度は経験しがちな「あるある」だったからだと考えられます。 SNSでは、専門的な失敗事例よりも、"
+    },
+    {
+      "title": "格下のはずが本家超え——Claude Sonnet 5.5、コーディングでOpus 5.5を ...",
+      "link": "https://hashout.jp/ai/11562/",
+      "source": "hashout.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "Terminal-Bench 4.0は、AIエージェントに実際のターミナル操作を任せて完遂できるかを測るベンチマークです。 旧モデルのSonnet 5はここで10.3%というスコアでした。 Sonnet 5.5はそこから70.6%まで伸び、Opus 5.5の66.4%を追い抜いています。 この差について、Claudeの公式アカウントはXで次のように補足しています。 複数のベンチマークで、Sonnet 5.5は「Low」または「Medium」の処理負荷でも、Sonnet 5の最高スコアをおよそ10分の1のコストで上回った——投稿はそう報告しています。 On several benchmarks, Sonnet 5.5 at Low or Medium effort beats Sonnet 5’s best score for about a tenth of the cost. pic.twitter.com/d7uuPEe9TA 一方でAnthropicは、Opus 5.5について「680,000行規模のコード移行を1日足らずで終えた」という早期テスターの評価や、財務分析・定量リサー"
+    },
+    {
+      "title": "エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始",
+      "link": "https://prtimes.jp/main/html/rd/p/000000496.000030192.html",
+      "source": "prtimes.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "いいね！数を読み込み中です 株式会社エクサウィザーズ（東京都港区、代表取締役社長CEO：春田 真、以下エクサウィザーズ）のグループ会社である株式会社Exa Enterprise AI（東京都港区、代表取締役：大植 択真、以下Exa Enterprise AI）は、市場シェアNo.1を獲得した*1法人向け生成AIサービス「エクサベース AI *2」において、Anthropicが9月22日（米国時間）にリリースした最新モデル「Claude Opus 5.5」の提供を開始しました。 前モデル「Claude Opus 5」からコーディングや資料作成・分析の性能が向上し、上位モデル「Claude Fable 5.1」に匹敵する性能を、より低いコストで利用できる点が特徴です。長時間の自律的なエージェントタスクに強みを持つほか、METRやFrontier Designといった外部機関の評価を経て、Anthropicの行動監査でもこれまでで最も高い評価を得ています。なお、文章表現もより自然で分かりやすくなっているほか、生物学・サイバーセキュリティ分野については、上位モデルと同水準の安全対策を講じていま"
+    },
+    {
+      "title": "ClaudeとGemini「AIコーディング解決率はほぼ同じ」 でも“解き方”に ...",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news042.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "pub_date": "Mon, 28 Sep 2026 16:59:00 GMT",
+      "body": "̋L͉łB o^ij ƑSĂ܂B @JetBrains2026N8AR[fBOG[WFgɑgݍޑK͌ꃂfiLLMj̐\\]Ǝ̃pCvCuOŏЉB @G[WFg^XNǂłȂAɎߒڍׂɕ͂̂BЂAIR[fBOG[WFguJunievɁuClaude Opus 4.7vƁuGemini 3.5 Flashvgݍŕ]ʂɋĉĂB @R[fBOG[WFg̔rɍł悭gwẂAx`}[N^XN̎sʂ]eXgɍiuvBJetBrainśA̐l͉ɎghقƂǕȂƎwEB @JetBrains̓uOL̖`ŁAГx`}[N̈ЉĂB @ɂƁAClaude Opus 4.7Gemini 3.5 Flash́Ã^XNBAOpus1̎sɕ184XebvA2.79hv̂ɑ΂AGemini271Xebvv̂́ARXg1.24hɂƂǂ܂B҂̎svt@C͑SقȂĂB @Juniê悤ȃR[fBOG[WFǵAfɃt@C̉{AV{̌AR[h̕ҏWAR}heXg̎ss킹B̊ϑ\\ȃANVG[WFǵuOՁvitrajectoryj`BOՂ́AfҏWOɖӏ肵ǂAJԂǂApb`i荞񂾂ǂȂǂB @G[WFg^XNɎsꍇAOՂǂƂ"
     },
     {
       "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化 ...",
@@ -38,39 +59,18 @@
       "body": "米Anthropicは9月28日（現地時間）、「Claude Sonnet 5.5」を発表した。22日に公開した「Claude Opus 5.5」に続く、Claude 5.5ファミリーの2番目のモデルだ。前世代の「Claude Sonnet 5」より出力速度は30％以上速く、多くの作業でタスク当たりのコストは最大30％下がるという。 同社はSonnet ..."
     },
     {
-      "title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop ...",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2139093.html",
-      "source": "pc.watch.impress.co.jp",
-      "pub_date": "Mon, 28 Sep 2026 09:30:00 GMT",
-      "body": "一方、もともとあるデザインを加工したり、文字の形を保ちながら編集したり、元画像を編集したりする場合は、Nano Banana 2の方がきれいに生成してくれる印象です。Nano Banana ProとNano Banana 2は、このように使い分けています。 ―― まだモデルの特性を把握していない人は、どのように比較すればよいでしょうか？ タマケン: 自分なら、1回生成して終わりにはしません。同じモデルでも3回くらい生成して一番良いものを選び、プロンプトも変えます。さらに別のモデルも試して、その中から良いものを選びます。クレジットは消費しますが、1つのモデルだけで終わらせず、複数パターンを比較するのが良いと思います。そうしていると、自分に合うモデル、やりたいことに合うモデルの傾向が分かってきます。 Photoshop内で使う画像生成は、消費するクレジットが比較的少ないです。Firefly Web版で高画質生成をすると高くなることがありますが、Photoshop内なら消費量はたかが知れています。Creative Cloud Proプランの個人ユーザーなら毎月4,000クレジット付与されるの"
+      "title": "「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約",
+      "link": "https://www.msn.com/ja-jp/news/other/claude-marketplace-%E5%85%AC%E9%96%8B-2%E5%8D%83%E8%B6%85%E3%81%AE%E9%80%A3%E6%90%BA%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A8ai%E8%A3%BD%E5%93%81%E3%82%92%E9%9B%86%E7%B4%84/ar-AA2d8JlM",
+      "source": "msn.com",
+      "pub_date": "Mon, 28 Sep 2026 14:20:00 GMT",
+      "body": "Anthropicは9月23日、AIサービス「Claude」の連携ツールやパートナー企業の製品・サービスを探せる「Claude Marketplace」を公開した。 Claude Marketplaceは、コネクターとプラグイン、エージェントと製品、サービスパートナーを1カ所に集めたプラットフォーム。チームが使うアプリやデータをClaudeにつなげるほか、Claudeを搭載したソフトウェアの購入や ..."
     },
     {
-      "title": "TISI、JR西日本に対し「高セキュリティAPI基盤サービス」上で生成AI ...",
-      "link": "https://www.nikkei.com/article/DGXZRSP713062_Y6A920C2000000/",
-      "source": "nikkei.com",
-      "pub_date": "Mon, 28 Sep 2026 08:39:00 GMT",
-      "body": "TIS I、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与 〜「高セキュリティAPI基盤サービス」でAPI定義作成・レビュー工程の効率化と品質向上を両立〜 TISインテックグループのTISI株式会社（本社 : 東京都新宿区、代表取締役 社長執行役員 : 岡本 安史、以下 : TISI）は、西日本旅客鉄道株式会社（本社 : 大阪市北区、代表取締役社長 : 倉坂 昇治、以下 : JR西日本）に対し、セキュアなAPI基盤の設計から開発・運用までをトータルで支援する「高セキュリティAPI基盤サービス」上で、生成AIを活用しAPI開発プロセスの高度化を支援したことを発表します。これにより、API開発の効率化と品質向上を同時に実現しました。 JR西日本では、交通系アプリなどを提供する事業者から寄せられる鉄道の運行情報や遅延情報などのデータ提供要望に対応し、社内外でのデータ利活用を拡大するため、APIの開発・公開に要する期間の短縮とAPI定義ファイルの品質向上が求められていました。今回、「高セキュリティAPI基盤サービス」における生成AIを活用した実証（"
-    },
-    {
-      "title": "生成AIで商品調べたら…詐欺サイト 犯罪集団が検索結果を不正操作",
-      "link": "https://www.nikkei.com/article/DGXZQOUD281SX0Y6A820C2000000/",
-      "source": "nikkei.com",
-      "pub_date": "Mon, 28 Sep 2026 08:00:00 GMT",
-      "body": "尿酸を下げる薬の「やめどき」 Gooday 日本の強み生かせる宇宙ビジネスは？ BizGate 旅も出張も身軽にする電動圧縮バッグ 未来ショッピング 「現場で使える」英語力を測る。 スキルアップ 「いす座禅」のすすめ 大徳寺の教え art NIKKEI タイトスカート、マルニ流の着こなし THE NIKKEI MAGAZINE 仕事や転職で役立つ資格ランキング 日経転職版 セレクション 1人でかなえられない夢、実現するには何が必要ですか？ 日本精工・市井明俊社長の講評（9月28日） 日経優秀製品・サービス賞2025 日立・プリファードネットワークスなどに 日経優秀製品賞が決定 NIKKEI ニュースレター 日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら BSテレ東 「NIKKEI NEWS NEXT」「NIKKEI 日曜サロン」編集委員・記者らがニュースを解説 トレンドウオッチ 新着"
-    },
-    {
-      "title": "Claude Sonnet 5.5が出た：Opus 5.5と「モデル×推論強度」の6条件で比べて ...",
-      "link": "https://note.com/tank_ai/n/n35337aabeb00",
-      "source": "note.com",
-      "pub_date": "Mon, 28 Sep 2026 06:00:00 GMT",
-      "body": "伏せた状態で見た結果、人間とChatGPTの上位3つは同じで、正体を開けるとOpus 5.5のhigh、Sonnet 5.5のhigh、Opus 5.5のmediumでした。最下位の2つもどちらもlowで、Sonnetのlowは水滴が「おたまじゃくし」のように見え、Opusのlowは点と線だけの簡素な表現に留まっています。モデルの差より先に、推論強度の差が出た形です。 上位3つの中では見方が分かれました。ChatGPTはOpus highを1位に置き、「街の輪郭、遠近の光、細かな水滴、流れた跡が重なり、雨の窓越しに街を見ている感覚がある」と評しています。実際、Opus highだけがガラスの向こうに建物のシルエットを置き、水滴の中に背景を反転させて映し込んでいました。2位はSonnet highで、玉ボケ（光が丸くにじむ表現）の色と重なりが写真に近い、というのがChatGPTの評価です。自分（人間）はOpus mediumの、曇ったガラスを水滴が流れて通り道だけ透明になる表現が一番好みでした。ここは好みの範囲ですが、Sonnet 5.5のhighがOpus 5.5のmediumと同じ土"
-    },
-    {
-      "title": "【Claude Opus 5.5】ChatGPTしか使っていない人へ｜結局なにが速くなった ...",
-      "link": "https://note.com/ai_template_lab_/n/n84f86e155bc1",
-      "source": "note.com",
-      "pub_date": "Mon, 28 Sep 2026 05:05:00 GMT",
-      "body": "こんにちは、AI活用ラボのあいです。 「Claude Opus 5.5って、また新しいのが出たの？」 「速くなった、安くなった、ってよく聞くけど、結局どういうこと？」 「ChatGPTしか使ってないけど、乗り換えたほうがいいの？」 そんな経験、ありませんか。 AIのニュースは次々と新しいモデル名が出てきて、正直ついていくのが大変です。しかも「速度30%向上」「コスト40%削減」のような数字を見せられても、 それが自分の使い方にとってどれくらい\"良いこと\"なのか が、ピンとこないことが多いですよね。 今日は、 2026年9月22日に公開されたClaudeの新モデル「Opus 5.5」について、ChatGPTしか使っていない人にも分かるように、変わった点を3つだけに絞って整理する方法 を紹介します。乗り換えるかどうかより先に、「何がどう変わったのか」を知ることを目的にします。 ※この記事は2026年9月28日時点の情報をもとにしています。AIサービスの機能や料金は変わりやすいため、実際に使う際は最新の公式情報もあわせてご確認ください。 まず、前提を整理しておきます。 **Claude（クロ"
+      "title": "Anthropic「Claude Sonnet 5.5」発表、30%以上高速化 タスクコスト最大30%減",
+      "link": "https://news.mynavi.jp/techplus/article/20260929-5044132/",
+      "source": "news.mynavi.jp",
+      "pub_date": "Mon, 28 Sep 2026 09:09:00 GMT",
+      "body": "米Anthropicは9月28日（現地時間）、AIモデル「Claude Sonnet 5.5」を発表した。「Claude Opus 5.5」に続くClaude 5.5ファミリーの第2弾で、従来のClaude Sonnet 5と比べて出力速度を30%以上高速化した。APIのトークン単価は据え置く一方、同じ作業に必要なトークン量を減らし、同社のテストではタスク当たりのコストを最大30%削減できたという。 28日より、Anthropicの各サービスに加え、Amazon Web Services、Google Cloud、Microsoft Azureで提供を開始した。Claude Platformでは「claude-sonnet-5-5」のモデルIDで利用でき、ゼロデータ保持にも対応する。 Opus 5.5が慎重な判断を必要とする複雑で自由度の高いタスクを主用途とするのに対し、Sonnet 5.5は目的や条件が比較的明確な日常業務を想定したモデルである。バグ修正などのソフトウェア開発に加え、文書やプレゼンテーション、スプレッドシートの作成、ユーザーインターフェイスのデザインなどを主な用途とし"
     }
   ]
 }
