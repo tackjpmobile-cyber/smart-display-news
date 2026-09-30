@@ -1,13 +1,27 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-30T00:19:35.384649+00:00",
+  "updated_at": "2026-09-30T01:13:37.273670+00:00",
   "items": [
     {
-      "title": "【ChatGPT】DevDayの25発表をPlus目線で読み解く｜新機能",
-      "link": "https://note.com/shinya_latte/n/n0f243fde168a",
-      "source": "note.com",
-      "pub_date": "Tue, 29 Sep 2026 17:18:00 GMT",
-      "body": "Dotsは、クラウドに自分用のコンピューターとブラウザーを持ち、継続的な仕事を進めるAIエージェントです。 調査や資料作成、分析、開発などを進め、ユーザーの判断が必要な場面では連絡する仕組みが紹介されています。 対象はProやBusiness Premiumなど。Enterprise・Edu・Healthcareでは、管理者が有効にするベータとして案内されています。 Plusは現時点の対象に含まれていません。私はまだ使える立場ではないので、ここでは発表内容の紹介までです。 出典： Meet dots Spaceは、ページやファイル、共有する仕事をまとめる場所。Pagesは、人とChatGPTが一緒に編集できる文書です。 対象はPro・Business・Enterprise。共同編集できるスライドも同じ対象プランで、今後数週間の提供予定とされています。 これらも、現時点ではPlusが含まれていません。Plusへの提供予定は、確認できた公式情報では分かりません。 出典： ChatGPT Space Ultrafastは、GPT-6 Astraのトークン生成を高速化する上位モードです。Cod"
+      "title": "箇条書きのメモからGeminiで「完成資料」を作る方法【プロンプト ...",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/30/news030.html",
+      "source": "itmedia.co.jp",
+      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
+      "body": "ACfA΂ȂAȖʂȍƂȂ\\\\BrWlXp[\\Y܂X̂܂܂ȍ育ƁAChatGPTɕĂ݂܂񂩁H@ITW[iXg̎䖃qvvg̏`܂B QDł킹̃AIŐ邱Ƃ͂łĂA揑Ǘ\\ɎdグƂɂƂĂԂ܂BƎyɊ@͂܂H @Geminił2026N4A`bgʂWordExcel̃t@C𒼐ڐł悤ɂȂB܂ł񓚂Google hLgXvbhV[g֏oƂ͂łAŏIIOffice`̃t@CKvȏꍇ́A`ϊă_E[hЂƎԂĂB`bg璼ڏo͂ł悤ɂȂƂŁA쐬ɂ鎞Ԃ傫点B @́Ał킹̃N_Word̊揑Excel̐isǗ\\dグ܂ł̎菇ЉB ITW[iXg^C^[BAIXRA^o[XȂǂ̐VeNmW[𒆐SɎށB̑AZpX}zEKWFbgȂǂ̃r[BɁw ChatGPT xiH}jAwǂ݁IIT~rWlXuChatGPTxiECvXjȂǁBYahoo!j[XRe[^[BЃEu\\BXRƍŐVeNmW[WEB}KWuTechComm-Rv^cB @ł́AЂŊJÂڋqZ~i[ɂāAł킹ɑ菑ƂɁA쐬i߂Ă󋵂z肷B @̏ꍇA܂̓GeminiɓnāÂ悤ɎwB ȉ́AڋqAIpZ~i[ɂāAł킹ɏłB ̓eƂɊ揑肽̂ŁA܂͎̊ϓ_ŏ𐮗Ă"
+    },
+    {
+      "title": "生成AIの情報漏洩リスク、日本企業の懸念が突出。「業務で認め ...",
+      "link": "https://gentosha-go.com/articles/-/81955",
+      "source": "gentosha-go.com",
+      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
+      "body": "地政学的リスクの高まりなどを背景に、生成AIを通じた情報漏洩への警戒感が強まっている。総務省の調査によると、生成AIの活用に伴うリスクについて、日本では情報漏洩などのセキュリティ面を懸念する声が、欧米諸国や中国と比べても突出して高いことがわかった。一方、民間調査では「社内で業務利用が認められれば、生成AIを使いたい」という声が4割超に達している。AIを活用して現場の生産性を向上させるには、情報漏洩を防ぐ対策の強化や正しい知識の普及を通じ、企業が安心して導入できる環境を整えることが不可欠だ。 日本企業の情報漏洩に対する強い警戒感を示したのが、総務省の「国内外における最新の情報通信技術の研究開発及びデジタル活用の動向に関する調査研究（2026年版）」だ。  企業に生成AIの活用時に懸念するリスクを尋ねたところ、日本では「情報漏洩などのセキュリティリスク」との回答が46.4%で最多となった。一方、中国は42.7%、米国は36.9%、ドイツは31.7%にとどまっている。  各国の最多回答を見ると、ドイツは「著作権侵害」、米国と中国は「出力結果の精度への懸念」がトップだった。2番目に多かった回答"
+    },
+    {
+      "title": "【QueryLift x 筑波⼤学】⽣成AI検索における情報流通・引⽤構造の ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000000007.000162828.html",
+      "source": "prtimes.jp",
+      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
+      "body": "いいね！数を読み込み中です ▪️概要 生成AI検索対策のためのプラットフォームを提供するQueryLift株式会社は、国立大学法人筑波大学 ビジネスサイエンス系の吉田光男准教授と、生成AI検索における情報流通および引用構造に関する共同研究を開始しました。 ChatGPTやGoogle AI Overviewなど、Web検索と大規模言語モデルを組み合わせた生成AI検索の普及により、人々が情報へアクセスする方法と得られる情報の質が大きく変化しています。生成AI検索は、AIが自律してWeb上の情報を収集し、情報を引用しながら回答を生成します。一方で、生成AIがどのようなWebページを引用し、回答を構成するかどうかは産業界だけではなく学術界でも十分に解明されていません。 QueryLiftは、生成AI検索が引用する情報源の特性や、悪意ある情報によって回答が影響を受ける可能性について研究しています。その一貫として、QueryLiftが取り組んできた生成AI検索の情報操作リスクに関する研究論文「Assessing Attack Surfaces in Generative Search Engin"
     },
     {
       "title": "4日前の「Pro Max」予想が的中——ChatGPT新プラン「Pro 500」月500ドル ...",
@@ -17,18 +31,18 @@
       "body": "Pro 500の発表と同時に、既存の月200ドルプラン「Pro 200」の利用枠が10月30日から半分になることも明らかになりました。 ChatGPT WorkとCodexでの利用枠はPlusの20倍から10倍へ、チャットで使えるGPT-6 Proのメッセージ数も週200件から100件に減ります。 既存ユーザーは29日までは今の枠のまま使えて、年内に失効する2500ドル分のクレジットが一度だけ配られるとのことです。 この変更にX上では厳しい声も上がりました。 海外エンジニアのchetasluaさんは、こんな指摘を投稿しています。 「Astra Ultrafastが使えるのはPro 500（500はドルの意味）。 Pro 5xはPro100ドル、Pro20xはPro200ドルのこと。 20xを10xに改名するとは言えないから、利用枠を半分にしたとは言いたくないのだろう。 Anthropicのサブスクリプションの価値が今、跳ね上がっている」 Astra Ultrafast will be available in pro 500 subscription < here 500 is $ >"
     },
     {
-      "title": "「Claude Code」の真価は併用にあり 4つのインターフェース使い分けと ...",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news006.html",
-      "source": "atmarkit.itmedia.co.jp",
-      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
-      "body": "̋L͉łB o^ij ƑSĂ܂B @O܂ł́AAIuR[`vusb`ɗiߓvւƕςAl̊J̌5̕ωi 1 jƁA`[J5̊i 2 jƂċL܂B3̍񂩂́A悢𓮂܂BClaude CodeGĂ݂悤ƊĂAЖ{LQlɂĂ݂ĂB @Claude Code[JPCg@́A傫3܂B^[~iœCLIiR}hCC^tF[XjŁAGfB^ɓVisual Studio CodeiVS Codejg@\\ŁAGUIiOtBJ[U[C^tF[Xjő삷DesktopAvCode^ułB @̂悤ɏƁAuWebłȂvƎvl邩܂B{Lł́A[JŎg3uvƂĔrA㔼ŃNEhœWebłƂ̈ႢĂ܂B @[J3ClaudefeݒL܂Aӂȏʂ͂ꂼႢ܂B̂߁AǂꂩɌ߂̂ł͂܂B^XN̓rŏ芷Ė肠܂B{LŏЉnYIAЂȌ^̐CLIŁAVS Codeg@\\łƂŐi߂܂B @3̃S[́AނgāA슴Eӗ̈Egݍ킹̌邱ƂłBCXg[菇ôړIł͂܂BZbgAbv͍ŏɍiĂ܂B @ȂA{eňdg݂ɂ́AT[`vr[iK̂̂܂܂܂BΉvL̗vۂ͋@\\ƂɈقȂAftHgijŖ̂̂܂B{Aڂ̓e͎M_i2026N9{jƂĂ܂B󋵂͕pɂ"
-    },
-    {
       "title": "生成AIを「使う」から「任せる」へ―ChatGPT・Gemini・Claude・Copilot対応 ...",
       "link": "https://mainichi.jp/articles/20260930/pr2/00m/020/029000c",
       "source": "mainichi.jp",
       "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
       "body": "ChatGPT中心の構成からツール横断の構成へ。プロンプトの基本とリスク対策から、指示文でAIの役割を固定する方法、社内文書を根拠に回答させる仕組みの体験まで、非IT職でも受講できる実践プログラム インターネット・アカデミー株式会社（代表取締役：西洸人、本社：東京都新宿区、以下インターネット・ ..."
+    },
+    {
+      "title": "DeepL、音声から音声翻訳がついに正式版に ChatGPT・Claude連携も",
+      "link": "https://www.msn.com/ja-jp/technology/software/deepl-%E9%9F%B3%E5%A3%B0%E3%81%8B%E3%82%89%E9%9F%B3%E5%A3%B0%E7%BF%BB%E8%A8%B3%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E6%AD%A3%E5%BC%8F%E7%89%88%E3%81%AB-chatgpt-claude%E9%80%A3%E6%90%BA%E3%82%82/ar-AA2deij8",
+      "source": "msn.com",
+      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
+      "body": "DeepLジャパンは29日、リアルタイム音声翻訳サービス「DeepL Voice」の新機能やMCP対応に関する報道関係者向け説明会を開催した。一般提供を開始した音声から音声へのリアルタイム翻訳機能や、Windows/Mac向けデスクトップアプリなどを紹介した。 音声から音声への翻訳が遂に正式リリース DeepL ..."
     },
     {
       "title": "OpenAI、「ChatGPT」のサブスクを再編 月200ドルプランは利用枠半減",
@@ -38,39 +52,25 @@
       "body": "米OpenAIが「ChatGPT」の個人向け有料プラン「Pro」を再編した。これまで月額200ドルだったプランの料金は据え置く一方、主に「ChatGPT Work」や「Codex」で使える利用枠を従来の半分にする。同時に、さらに上位となる月額500ドルの「Pro 500」を新設した。 OpenAIでChatGPTとCodexを担当するThibault ..."
     },
     {
-      "title": "ChatGPTに「月500ドル」（8万円弱）のプランが追加に。8倍速モード ...",
-      "link": "https://www.msn.com/ja-jp/news/other/chatgpt%E3%81%AB-%E6%9C%88500%E3%83%89%E3%83%AB-8%E4%B8%87%E5%86%86%E5%BC%B1-%E3%81%AE%E3%83%97%E3%83%A9%E3%83%B3%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%AB-8%E5%80%8D%E9%80%9F%E3%83%A2%E3%83%BC%E3%83%89ultrafast%E3%81%8C%E5%88%A9%E7%94%A8%E5%8F%AF/ar-AA2ddP9g",
+      "title": "【激論】飲食店のメニュー表に生成AIの料理画像を使うのはアリ ...",
+      "link": "https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/%E6%BF%80%E8%AB%96-%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AE%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E8%A1%A8%E3%81%AB%E7%94%9F%E6%88%90ai%E3%81%AE%E6%96%99%E7%90%86%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%AF%E3%82%A2%E3%83%AA-%E3%83%8A%E3%82%B7-%E6%99%82%E9%96%93%E7%9F%AD%E7%B8%AE-%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E5%AE%9F%E7%89%A9%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%81%B8%E3%81%AE%E9%81%95%E5%92%8C%E6%84%9F%E3%82%82/ar-AA2dezf5",
+      "source": "msn.com",
+      "pub_date": "Tue, 29 Sep 2026 16:00:00 GMT",
+      "body": "飲食店のメニュー表に生成AIで作った料理画像を使用することについて、賛否両論の議論が巻き起こっています。お店側の時間や経費を削減できるメリットがある一方で、実物との違いに違和感を覚えるという声もあがっています。"
+    },
+    {
+      "title": "ChatGPTに「月500ドル」（8万円弱）のプランが追加に。\"8倍速モード ...",
+      "link": "https://www.msn.com/ja-jp/technology/tech-companies/chatgpt%E3%81%AB-%E6%9C%88500%E3%83%89%E3%83%AB-8%E4%B8%87%E5%86%86%E5%BC%B1-%E3%81%AE%E3%83%97%E3%83%A9%E3%83%B3%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%AB-8%E5%80%8D%E9%80%9F%E3%83%A2%E3%83%BC%E3%83%89-%E3%81%A7%E5%8F%A9%E3%81%8D%E3%81%BE%E3%81%8F%E3%82%8C/ar-AA2ddP9g",
       "source": "msn.com",
       "pub_date": "Tue, 29 Sep 2026 15:20:49 GMT",
       "body": "ChatGPTに月500ドルの新プラン「Pro 500」が登場。最大8倍速処理を実現するUltrafastモードで開発効率を加速させられます。"
     },
     {
-      "title": "DevDay 2026 は、ChatGPT を話し相手から働き手と作業場に組み替える ...",
-      "link": "https://note.com/zephel01/n/nbc8263123c13",
-      "source": "note.com",
-      "pub_date": "Tue, 29 Sep 2026 09:46:00 GMT",
-      "body": "OpenAI の DevDay 2026 が、2026年9月29日にサンフランシスコで開かれた。公式リキャップの英語版にはこうある。 \"DevDay 2026 is our biggest yet, with more than 20 major announcements\" DevDay 2026 は過去最大で、20を超える主要な発表があった(自分の訳)。 一覧を上から読むと、かなり散らかって見える。エージェント、モデル、Codex、プラグイン、共同編集、料金プラン。項目どうしの関係がつかみにくい。 並べ直してみると、中心にあるのは新モデルではなかった。ChatGPT を、こちらが手を離している間も動く「働き手」と、人とエージェントが同じ場で作業する「面」に組み替える。その土台として、課金とアプリの基盤を整える。20件超は、だいたいこの形に収まる。 自分なりに5つの軸に分けてみた。 働き手: dots 働き手を回すコストと速度: GPT-6.1 Sol、Ultrafast 作る側の道具: Codex、Decisions API、Agents API 人とエージェントの作業面: Spa"
-    },
-    {
-      "title": "ChatGPTがユーザーに電話をかけてくる。次世代型AIエージェント機能 ...",
-      "link": "https://www.gizmodo.jp/article/2609-chatgpt-dots-ai-agent-phone-call/",
-      "source": "gizmodo.jp",
-      "pub_date": "Tue, 29 Sep 2026 09:31:00 GMT",
-      "body": "ChatGPTのAIエージェントと電話で通話しているところ。 Image: OpenAI 2026年9月30日、OpenAIが開発者向けイベント「DevDay 2026」が始まり、キーノート（基調講演）が行われました。 その中で発表されたChatGPTの新機能「Dots」がちょっとすごそうです。本日からChatGPT Proユーザーなどに対してロールアウトされる機能なのですが、 AIエージェントが今までより強化され、必要があればユーザーに問い合わせてくるなど、より主体的に動く ようになっているんです。 Image: OpenAI Advertisement ChatGPTに「Your dot」というメニューが追加され、ここから 自分専用のAIエージェント（dot） を作れるようになります。 Image: OpenAI dotには 好きな名前とアイコンを設定 できます。 Image: OpenAI dotはクラウド上で動作するAIエージェントで、PCはもちろん、スマホからでも仕事の指示を出せます。dotは仮想コンピュータを持っていて、ブラウザやアプリを使ってさまざまな作業を行えます。そう"
-    },
-    {
-      "title": "原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白 ...",
-      "link": "https://www.oricon.co.jp/news/2483299/full/",
-      "source": "oricon.co.jp",
-      "pub_date": "Tue, 29 Sep 2026 08:00:00 GMT",
-      "body": "32年ぶりの日本開催に沸く愛知・名古屋2026アジア競技大会。キヤノンは撮影から医療機器、大会運営まで多岐にわたってサポートしている。  俳優・本郷奏多と声優・緒方恵美が東京ゲームショウで『ダンガンロンパ』秘話を明かす。ゲーマー本郷奏多の新作体験プレイも披露！  Prime Videoが日本発の作品への投資を2倍以上に拡充を発表。Amazon MGM スタジオ日本責任者のバディ・マリーニ氏へインタビュー。  首都高、10年で維持管理コストが約1.4倍に…労務費・材料費の高騰等により10月に料金を改定！その全貌に迫る  東京ゲームショウに声優・大塚明夫＆黒田崇矢が登場！マウスコンピューター・G TUNEで新作ゲームをプレイし、見せた大胆テクとは？  東京ゲームショウに潜入！YouTuberたこまるとVTuber社築がゲーミングPCを語りつくし。マウスコンピューターのおすすめ機種は？"
-    },
-    {
-      "title": "Claude Sonnet 5.5とSonnet 5の違い、使い分け",
-      "link": "https://note.com/mo0980/n/na238eb6cd4f9",
-      "source": "note.com",
-      "pub_date": "Tue, 29 Sep 2026 05:36:00 GMT",
-      "body": "2026年9月28日、Claude Sonnet 5.5（Anthropicが作る中型のAIモデル）が公開されました。この記事では、Sonnet 5から何が変わったのかを、公式情報で確かめられた範囲で整理します。後半では、Opus 5.5（上位モデル）などとの使い分けも考えます。 私自身はまだ使い込めていないので、ここに書くのは「調べて分かったこと」です。使い分けは、公式の説明と私の見立てを分けて書きます。 Sonnet 5.5は、「5.5世代」の2つ目のモデルです。9月22日にOpus 5.5（上位モデル）が出て、その続きにあたります。API（外部の仕組みからAIを呼び出す窓口）で指定する名前は `claude-sonnet-5-5` です。 公式の説明を短くまとめると、次の3点です。 文章を出力する速さが、Sonnet 5より30%以上速い 料金の表は同じだが、少ない量で同じ仕事を終えるため、作業あたり最大30%安くなる 得意なのは、範囲がはっきりした日常の作業（バグの修正、資料やスライドや表の作成） 2つ目のポイントは、料金の値下げではありません。料金はトークン（AIが文章を処理"
+      "title": "新種の\"判断だけAI\"が無料で使える「Laya」がオープンソースで登場 ...",
+      "link": "https://www.msn.com/ja-jp/news/other/%E6%96%B0%E7%A8%AE%E3%81%AE%E5%88%A4%E6%96%AD%E3%81%A0%E3%81%91ai%E3%81%8C%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-laya-%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A7%E7%99%BB%E5%A0%B4-jev%E3%81%AE%E7%B4%8478%E5%80%8D%E9%AB%98%E9%80%9F-%E7%94%9F%E6%88%90ai%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97/ar-AA2dehB2",
+      "source": "msn.com",
+      "pub_date": "Tue, 29 Sep 2026 15:20:31 GMT",
+      "body": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、文章を生成せず判断だけする、オープンソースの意思決定AIモデル「Laya」を取り上げます。インドのAI企業Convai Innovationsが開発しました。"
     }
   ]
 }
