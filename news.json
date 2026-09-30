@@ -1,7 +1,42 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-09-30T06:17:11.352966+00:00",
+  "updated_at": "2026-09-30T07:15:06.470723+00:00",
   "items": [
+    {
+      "title": "「声」もパブリシティー権の保護対象に 津田健次郎さんのAI声模倣 ...",
+      "link": "https://news.yahoo.co.jp/articles/3842e6b471fb0f8d5e4d792ed6b0f74540b356e9",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Wed, 30 Sep 2026 00:14:00 GMT",
+      "body": "東京地方裁判所（写真：ITmedia NEWS） 生成AIで自身の声を模倣したとみられる動画の無断投稿を巡り、声優の津田健次郎さんが動画投稿アプリ「TikTok」の運営会社に動画の削除を求めていた訴訟で、東京地裁は9月30日の判決で、人の声も肖像と同様にパブリシティー権の保護対象になり得るとの判断を示した。 【画像】「人の声は、人の肖像と同様に個人の人格の象徴」とした判決文（出典：東京地裁の判決文、以下同） これまで日本の法律に「声の権利」の明記はなく、司法判断の例もほとんどなかった。削除請求自体は、動画が既に消えているとして棄却した。 判決は、人の声は肖像と同様に「個人の人格の象徴」だと位置付けた。その上で、実演家の声を無断で使う行為は、その声に商品の販売などを促す顧客吸引力があり、もっぱらその利用を目的とする場合にはパブリシティー権の侵害に当たると解するのが相当だとした。ただし、問題の動画が削除済みであることから、今回の動画が侵害に当たるかどうかの判断はしていない。 訴状によると、氏名不詳の投稿者が2024年7月から25年9月にかけて、津田さんの声質に似せたナレーションを付けた都市"
+    },
+    {
+      "title": "【2026年9月最新】ChatGPTはここまで変わった｜OpenAIの新発表を初心者 ...",
+      "link": "https://note.com/nakako_youtube/n/n7c3f664dd0a4",
+      "source": "note.com",
+      "pub_date": "Wed, 30 Sep 2026 00:14:00 GMT",
+      "body": "「ChatGPTに新機能が増えすぎて、結局何が変わったのかわからない」 そんな人に向けて、2026年9月29日に開催されたOpenAI DevDay 2026の発表を、専門用語をできるだけ使わずに整理します。 今回の発表は、単なる“少し賢い新モデル”の追加ではありません。 ひと言でまとめると、 ChatGPTは「質問に答えるAI」から「仕事を継続して任せられるAI」へ 進み始めました。 この記事では、20件以上の発表の中から、一般ユーザーやクリエイターに関係の深いものだけを厳選します。 ※本記事は2026年9月30日時点のOpenAI公式発表をもとに作成しています。機能の提供地域・対象プランは今後変わる可能性があります。 1．GPT-6.1 Solが登場し、高性能AIがより現実的な価格になった 2．「Dots」によって、AIが継続的な仕事を担当できるようになった 3．ChatGPT内で人とAIが共同作業する「Space」と「Pages」が登場した 4．プラグインが“追加機能”から“作業画面”へ進化した 5．AIがパソコンを操作する仕組みが、開発者向けにも開放された 順番に見ていきましょ"
+    },
+    {
+      "title": "声にも「パブリシティー権」認める＝生成AIで模倣、人気声優訴え ...",
+      "link": "https://www.msn.com/ja-jp/news/other/%E5%A3%B0%E3%81%AB%E3%82%82-%E3%83%91%E3%83%96%E3%83%AA%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E6%A8%A9-%E8%AA%8D%E3%82%81%E3%82%8B-%E7%94%9F%E6%88%90%EF%BD%81%EF%BD%89%E3%81%A7%E5%A3%B0%E6%A8%A1%E5%80%A3-%E4%BA%BA%E6%B0%97%E5%A3%B0%E5%84%AA%E8%A8%B4%E3%81%88-%E6%9D%B1%E4%BA%AC%E5%9C%B0%E8%A3%81/ar-AA2deXzI",
+      "source": "msn.com",
+      "pub_date": "Tue, 29 Sep 2026 23:40:30 GMT",
+      "body": "生成ＡＩ（人工知能）を使って自身の声を無断で模倣した動画が公開されたとして、人気声優の津田健次郎さんが短編動画投稿アプリＴｉｋＴｏｋ（ティックトック）運営会社に対し、動画の削除を求めた訴訟の判決が３０日、東京地裁であった。高橋彩裁判長は、著名人が自身の名前や肖像から生じる商業的価値を独占できる「パブリシティー権」の保護対象に人の声も含まれるとの判断を示した。"
+    },
+    {
+      "title": "ChatGPTがユーザーに電話をかけてくる。次世代型AIエージェント機能 ...",
+      "link": "https://www.gizmodo.jp/article/2609-chatgpt-dots-ai-agent-phone-call/",
+      "source": "gizmodo.jp",
+      "pub_date": "Tue, 29 Sep 2026 23:30:00 GMT",
+      "body": "ChatGPTのAIエージェントと電話で通話しているところ。 Image: OpenAI 2026年9月30日、OpenAIが開発者向けイベント「DevDay 2026」が始まり、キーノート（基調講演）が行われました。 その中で発表されたChatGPTの新機能「Dots」がちょっとすごそうです。本日からChatGPT Proユーザーなどに対してロールアウトされる機能なのですが、 AIエージェントが今までより強化され、必要があればユーザーに問い合わせてくるなど、より主体的に動く ようになっているんです。 Image: OpenAI Advertisement ChatGPTに「Your dot」というメニューが追加され、ここから 自分専用のAIエージェント（dot） を作れるようになります。 Image: OpenAI dotには 好きな名前とアイコンを設定 できます。 Image: OpenAI dotはクラウド上で動作するAIエージェントで、PCはもちろん、スマホからでも仕事の指示を出せます。dotは仮想コンピュータを持っていて、ブラウザやアプリを使ってさまざまな作業を行えます。そう"
+    },
+    {
+      "title": "津田健次郎の声を巡る”模倣動画”生成AI裁判判決 日俳連「津田 ...",
+      "link": "https://www.msn.com/ja-jp/news/other/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A3%B0%E3%82%92%E5%B7%A1%E3%82%8B-%E6%A8%A1%E5%80%A3%E5%8B%95%E7%94%BB-%E7%94%9F%E6%88%90ai%E8%A3%81%E5%88%A4%E5%88%A4%E6%B1%BA-%E6%97%A5%E4%BF%B3%E9%80%A3-%E6%B4%A5%E7%94%B0%E3%81%95%E3%82%93%E3%81%AE%E6%B4%BB%E5%8B%95%E3%82%92%E6%94%AF%E6%8C%81%E3%81%97-%E3%81%9D%E3%81%AE%E5%8B%87%E6%B0%97%E3%81%AB%E6%84%9F%E8%AC%9D/ar-AA2dfuX7",
+      "source": "msn.com",
+      "pub_date": "Tue, 29 Sep 2026 23:19:52 GMT",
+      "body": "生成人工知能（AI）によって自身の声を無断で模倣した動画が投稿されていることから、声優の津田健次郎が、TikTok運営会社に動画の削除を求めた裁判で、東京地裁は30日、請求を退けた。この裁判判決を受け、日本俳優連合は公式Xを更新した。"
+    },
     {
       "title": "原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白 ...",
       "link": "https://www.oricon.co.jp/news/2483299/full/",
@@ -11,66 +46,31 @@
     },
     {
       "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で ...",
-      "link": "https://www.msn.com/ja-jp/news/other/%E4%B8%AD%E5%9B%BD%E3%81%AEglm-53%E3%81%AFclaude-mythos-preview%E7%B4%9A%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E8%83%BD%E5%8A%9B%E3%82%92%E6%8C%81%E3%81%A4%E4%B8%80%E6%96%B9%E3%81%A7%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96%E3%81%8C%E4%B8%8D%E5%8D%81%E5%88%86-%E3%81%A8anthropic%E3%81%8C%E8%AD%A6%E5%91%8A/ar-AA2deGZh",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E4%B8%AD%E5%9B%BD%E3%81%AEglm-5-3%E3%81%AFclaude-mythos-preview%E7%B4%9A%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E8%83%BD%E5%8A%9B%E3%82%92%E6%8C%81%E3%81%A4%E4%B8%80%E6%96%B9%E3%81%A7%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96%E3%81%8C%E4%B8%8D%E5%8D%81%E5%88%86-%E3%81%A8anthropic%E3%81%8C%E8%AD%A6%E5%91%8A/ar-AA2deGZh",
       "source": "msn.com",
       "pub_date": "Tue, 29 Sep 2026 21:05:00 GMT",
       "body": "中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度なサイバー攻撃能力を持つモデルが実効性のあ ..."
     },
     {
-      "title": "ChatGPTが「業務委託先」に? 仕事を丸投げできるAIが続々登場",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt%E3%81%8C-%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E5%85%88-%E3%81%AB-%E4%BB%95%E4%BA%8B%E3%82%92%E4%B8%B8%E6%8A%95%E3%81%92%E3%81%A7%E3%81%8D%E3%82%8Bai%E3%81%8C%E7%B6%9A%E3%80%85%E7%99%BB%E5%A0%B4/ar-AA2deKPk",
+      "title": "ChatGPTに「月500ドル」（8万円弱）のプランが追加に。“8倍速モード”で叩きまくれ",
+      "link": "https://www.msn.com/ja-jp/news/other/chatgpt%E3%81%AB-%E6%9C%88500%E3%83%89%E3%83%AB-8%E4%B8%87%E5%86%86%E5%BC%B1-%E3%81%AE%E3%83%97%E3%83%A9%E3%83%B3%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%AB-8%E5%80%8D%E9%80%9F%E3%83%A2%E3%83%BC%E3%83%89ultrafast%E3%81%8C%E5%88%A9%E7%94%A8%E5%8F%AF/ar-AA2ddP9g",
       "source": "msn.com",
-      "pub_date": "Tue, 29 Sep 2026 18:45:00 GMT",
-      "body": "OpenAIが9月29日、AIエージェント「dots」を発表した。ユーザーに代わって継続的に仕事を進めるツールで、GPT-6 Astraを基盤とする。"
-    },
-    {
-      "title": "【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！",
-      "link": "https://www.jiji.com/jc/article?k=000000223.000056138&g=prt",
-      "source": "jiji.com",
-      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
-      "body": "データ提供 2026年09月30日09時16分 ［シフトプラス株式会社］ 自治体AI zevoに新たなLLMモデルが追加、Claude Opus 5.5がご利用可能に！ シフトプラス株式会社（代表取締役：中尾 裕也、本店：宮崎県都城市宮丸町3070番地1／本社：大阪府大阪市西区江戸堀2丁目1番1号 江戸堀センタービル８階／以下シフトプラス）は都城市と共同開発を行った、ChatGPT/Claude/Geminiなどの生成AIを自治体のLGWAN環境で活用できるシステム「自治体AI zevo（ゼヴォ）」において、新たにClaude Opus 5.5を全利用自治体へ提供開始したことをお知らせいたします。 ■新たにClaude Opus 5.5を追加！利用可能なAIモデル数がさらに増えました！ Claude Opus 5.5（拡張思考モード）を追加しました。 自治体AI zevoではChatGPT /Claude /Geminiの3つの生成AIシリーズをご利用いただけますが、今回Claudeシリーズにおいて新たなAIモデルが利用可能となり、Claude Opus 5.5（拡張思考モード）の提供"
-    },
-    {
-      "title": "Uravation、Claude Codeの業務自動化を「動いた」で終わらせない「PoC ...",
-      "link": "https://www.asahi.com/and/pressrelease/16926815",
-      "source": "asahi.com",
-      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
-      "body": "PRESS RELEASE ※配信会社から提供された企業や団体等のプレスリリースを原文のまま掲載しており、朝日新聞社が取材・執筆した記事ではありません。お問い合わせは、各情報配信元にお願いいたします。 配信元： PRTIMES 2026.09.30"
-    },
-    {
-      "title": "もうMCPサーバは不要なのか？ 代わりになる技術を開発者が提唱：LLM ...",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news047.html",
-      "source": "atmarkit.itmedia.co.jp",
-      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
-      "body": "̋L͉łB o^ij ƑSĂ܂B @uModel Context ProtocolviMCPj́AAnthropic2024N11ɌJAAIG[WFgOT[rXf[^ɂȂvgRBڑ̕WɂAc[APIƂɌʂ̘AgvOKvȂȂ邽ߊJRXg팸ł鑼AxMCPT[o΁AuClaudevuCursorvƂقȂAINCAgŋʂėpł邽ߑ݉^p̌}ƂbgB @ŊOVXe⃍[Jւ̋͂ȃANZX߁AsANZXƎiႭj΍̊Ǘs\\ƏRɂȂ郊XNB܂AK͌ꃂfiLLMjnȎɊOT[rXڑp̋ZpƂĕywiAxXgvNeBX̒~ςWrł邽߁AE^pRXgƂfbgwEĂB @MCṔg݉lhɂāA\\tgEFAGWjA΂𓊂B @\\tgEFAGWjÃ}nVEpe2026N914inԁjAg̃uOMCPxɂȂ闝Rl@LJĂBɂƁAMCṔuAIfقǌȂɐ݌vꂽ╨vłALLM̂̐_\\͂R[fBO\\͂Iɐi݂ɂĂ͈ȑOقǂ̉lȂȂĂƂB @MCPoꂵ2024NAAIG[WFg[Nt[̐M͒ႭAAIf̔ėpi͂悤jIȐ_\\݂ƔׂČIB̂悤ȊŁAOT[rXƂ̘Ag\\ɂMCP͐Y傫グALLM̕yƂƂɋ}ɍ̗p"
-    },
-    {
-      "title": "Claude Opus 5.5、68万行を1日未満？？しかも40%安い",
-      "link": "https://note.com/airealworldbench/n/nb141d4115341",
-      "source": "note.com",
-      "pub_date": "Tue, 29 Sep 2026 16:52:00 GMT",
-      "body": "Claudeの新モデル「Opus 5.5」が出ました。 性能が上がった。 ここまでは、AIの新モデルではよくある話です。 でも今回かなり気になるのが、 「高性能になったのに、安くなっている」 ことです。 Anthropicによると、Claude Opus 5.5は多くの仕事でClaude Fable 5.1級の性能を出しながら、Opus 5と比べて典型的な従量課金ワークロードでは約40%低いコストで動かせるとしています。 さらに早期利用者の事例では、 「68万行規模のコード移行を1日未満で完了した」 ケースまで紹介されています。 ただし、これはすべての68万行プロジェクトを1日で終わらせられるという意味ではありません。 あくまで特定の早期利用者による事例です。 ではOpus 5.5は、何が変わったのでしょうか。 ■ まず「Opus」ってどんなモデル？ Claudeには、用途や性能によって複数のモデルがあります。 その中でもOpusは、複雑な仕事を長時間進めることを想定した上位モデルです。 たとえば、 ・大規模なコード修正 ・複雑なデバッグ ・長時間動くAIエージェント ・資料や文書の作"
-    },
-    {
-      "title": "ChatGPTで1500万円稼げるケースも、副業の「常識を覆す」プロンプト",
-      "link": "https://forbesjapan.com/articles/detail/105232",
-      "source": "forbesjapan.com",
-      "pub_date": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. 9/25メルマガ配信 Forbes JAPAN 2026年11月号をもっと楽しむ｜読みどころガイド トップ テクノロジー AI ChatGPTで1500万円稼げるケースも、副業の「常識を覆す」プロンプト AI 2026.09.30 13:00 ChatGPTで1500万円稼げるケースも、副業の「常識を覆す」プロンプト Rachel Wells | Contributor 著者フォロー 記事を保存 stock.adobe.com stock.adobe.com ChatGPTに副業や不労所得のアイデアを尋ねると、「ニュースレターを始める」「講座を開設する」「オンラインコーチングサービスを立ち上げる」といった、ネット上でよく見かける定番の答えがすぐに返ってくる。そして、ユーザーはそれを実行に移すことになる。 これでは、AI（人工知能）を使ってお金を稼ぐ方法としては、かなり退屈だと思わないだろうか。 最もスマートなプロフェッショナルは、"
-    },
-    {
-      "title": "ChatGPTのアドビプラグインがより「Photoshopライク」に",
-      "link": "https://dc.watch.impress.co.jp/docs/news/2144379.html",
-      "source": "dc.watch.impress.co.jp",
-      "pub_date": "Tue, 29 Sep 2026 15:23:00 GMT",
-      "body": "Special Site デジカメ Watch をフォローする 最新記事  ニュース 1950年代の名玉「Zunow 50mm F1.1」に着想した大口径標準レンズ 真ちゅう＋アルミの金属鏡筒に金色のマウント基部   ニュース 7Artisans、金属鏡筒の薄型AFレンズを海外発表 厚さ約3cmの「AF 18mm F2 APS-C」   ニュース AI写真編集プラットフォーム「Imagen」の編集機能が強化 編集・セレクト・納品の順序に縛られない新ワークフローも   ニュース ChatGPTのアドビプラグインがより「Photoshopライク」に ブラシやスライダーなどを利用可能   ニュース ローカル鉄道の「ご当地つり革」にあなたのメッセージが 南足柄市のふるさと納税返礼品 5万円以上の寄附から   ニュース ノルウェー発のブランドからマウンテンシャツとカメラベスト カメラ用バッテリーを保温しながら収納 冬の撮影に   ニュース 本日発売 9月30日（水）｜Sigmaから「軽くて明るい」レンズ2本   ニュース 高級馬革素材「コードバン」のカメラ用ハンドストラップ   レビュー・使いこ"
-    },
-    {
-      "title": "ChatGPTに「月500ドル」（8万円弱）のプランが追加に。\"8倍速モード ...",
-      "link": "https://www.msn.com/ja-jp/technology/tech-companies/chatgpt%E3%81%AB-%E6%9C%88500%E3%83%89%E3%83%AB-8%E4%B8%87%E5%86%86%E5%BC%B1-%E3%81%AE%E3%83%97%E3%83%A9%E3%83%B3%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%AB-8%E5%80%8D%E9%80%9F%E3%83%A2%E3%83%BC%E3%83%89-%E3%81%A7%E5%8F%A9%E3%81%8D%E3%81%BE%E3%81%8F%E3%82%8C/ar-AA2ddP9g",
-      "source": "msn.com",
-      "pub_date": "Tue, 29 Sep 2026 15:20:49 GMT",
+      "pub_date": "Tue, 29 Sep 2026 20:55:00 GMT",
       "body": "ChatGPTに月500ドルの新プラン「Pro 500」が登場。最大8倍速処理を実現するUltrafastモードで開発効率を加速させられます。"
+    },
+    {
+      "title": "企業の生成AI利用9.2%",
+      "link": "https://www.nikkei.com/article/DGKKZO99016020Z20C26A9EP0000/",
+      "source": "nikkei.com",
+      "pub_date": "Tue, 29 Sep 2026 18:59:00 GMT",
+      "body": "低賃金を長引かせた日本の「現場力」 BizGate 大人の本革ヴィンテージショルダー 未来ショッピング 最新★大学別年収ランキング2026 日経転職版 ワインツーリズム 1泊15万円超も THE NIKKEI MAGAZINE 尿酸を下げる薬の「やめどき」 Gooday 2026年 世界の注目都市 世界の高級不動産 複合カフェ王者・快活CLUBの秘密 BizGate セレクション 1人でかなえられない夢、実現するには何が必要ですか？ 日本精工・市井明俊社長の講評（9月28日） 日経優秀製品・サービス賞2025 日立・プリファードネットワークスなどに 日経優秀製品賞が決定 NIKKEI ニュースレター 日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら BSテレ東 「NIKKEI NEWS NEXT」「NIKKEI 日曜サロン」編集委員・記者らがニュースを解説 トレンドウオッチ 新着"
+    },
+    {
+      "title": "AWSがソウルでClaude最新モデル提供 国内処理促進",
+      "link": "https://biz.chosun.com/jp/jp-it/2026/09/30/FAPEGJ2C3JBRPHIDD4F3URIA4U/",
+      "source": "biz.chosun.com",
+      "pub_date": "Tue, 29 Sep 2026 18:55:00 GMT",
+      "body": "IT AWSがソウルでClaude最新モデル提供 国内処理促進 입력 2026.09.30. 15:55 조선비즈 구글 검색 먼저 보기 アマゾンウェブサービスのロゴ。/AWS 韓国企業と公的機関がデータを海外に送らずにAnthropicの最新人工知能（AI）モデルを活用できるようになった。 アマゾンウェブサービス（AWS）は30日、生成AIサービス「アマゾンベッドロック」のソウルリージョンで「Claude Opus 5」と「Claude Sonnet 5」を提供すると明らかにした。リージョンはクラウドサービスを提供する地理的拠点である。 今回の導入により、AIが質問を分析し回答を生成する推論作業が国内で行われる。AWSは海外インフラへのデータ送信プロセスを減らして応答速度を高め、金融・医療・公的分野のデータ国内処理要件の充足にも資する、と説明した。 Opus 5は複雑なコーディングや企業業務に、Sonnet 5は処理速度と性能をともに要する文書分析・顧客対応などに活用できる。別途インフラを変更せずに推論プロファイルを選択すればよく、既存のAWSのアクセス権限管理と利用記録追跡機能も"
     }
   ]
 }
