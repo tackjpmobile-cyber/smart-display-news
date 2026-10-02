@@ -1,27 +1,20 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-02T04:13:53.963230+00:00",
+  "updated_at": "2026-10-02T05:13:08.870341+00:00",
   "items": [
     {
-      "title": "Claudeは銀行業務をどう変える？Barclaysの実績と開発者への導入計画",
-      "link": "https://note.com/crisp_jacana7057/n/n9b6ac6e112bc",
+      "title": "【Claude Sonnet 5.5とは】速度30％増・費用最大30％減――Opus 5.5との ...",
+      "link": "https://note.com/popinsight_ikeda/n/ne971da86be0e",
       "source": "note.com",
-      "pub_date": "Thu, 01 Oct 2026 21:13:00 GMT",
-      "body": "BarclaysはClaudeの活用を、社内知識検索やメール処理から開発・旧システムの刷新へ広げる。10月1日のAnthropicの発表では、運用中の用途と今後の展開目標が示された。問い合わせ業務やシステム移行を担当する人には、『何人が使うか』と『何が改善したか』を分けて読むことが役立つ。 [1]  2026年10月1日発表｜実績と計画を分ける。本文と出典番号を対応させて整 理。 社内知識検索は2025年から稼働し、利用した従業員は1万6千人超、検索は100万回超と発表されている。市場部門では、日約12万件のメールを分類し、情報を補い、処理先を決める用途が紹介された。すべてのメールをAIだけで解決したという発表ではない。 [1] 一方、Claude Codeの利用者を開発者の50%へ広げるのは2026年末までの目標で、2027年には過半数への展開を見込む。これは導入計画であり、開発工数の削減率や移行の成功率ではない。 [1] 知識検索の仕組みとして挙げられたRAGは、質問に関係する文書を探してから、その情報をAIに渡して答えさせる方式だ。Anthropicの別の技術資料は、文書を細かく"
+      "pub_date": "Thu, 01 Oct 2026 22:13:00 GMT",
+      "body": "2026年9月28日、Anthropicが「Claude Sonnet 5.5」を公開しました。Claude 5.5ファミリーの2つ目のモデルです。 価格は前モデルのSonnet 5と同じなのに、同社のテストでは、タスク1件あたりの費用が最大30％下がりました。出力の速さも30％以上上がっています。 単価が同じで、なぜ費用が下がるのか。上位のOpus 5.5があるなかで、どう使い分けるのか。この記事では、役割・費用・effort・競合との比較の4つの軸を順に見たうえで、最後に明日から試せることをまとめます。 AnthropicはSonnet 5.5を 、バグ修正や、文書・スライド・表計算の資料づくりといった「範囲の明確な日常業務」に強いモデルと位置づけています。複雑で、慎重な判断が続く仕事を担うのは、同じ5.5ファミリーのOpus 5.5です。 発表の要点は3つあります。出力はSonnet 5より30％以上速く、100万トークンあたりの価格は入力2ドル・出力10ドルでSonnet 5と同じ。そのうえで、同じ仕事に必要なトークンが減り、タスク1件あたりの費用は最大30％低くなったといいま"
     },
     {
-      "title": "Claudeが1時間使えなくなった日、「ログアウトしないで」の注意書き ...",
-      "link": "https://note.com/riko_ai_note/n/na6a6a5ed9492",
+      "title": "「自分専用のChatGPTを作ろう」が終わる日。GPTs廃止を3分で",
+      "link": "https://note.com/lucky_fox8724/n/nf9ac0529ebea",
       "source": "note.com",
-      "pub_date": "Thu, 01 Oct 2026 21:13:00 GMT",
-      "body": "寝かしつけが終わって、リビングの電気を一つだけ残して、ノートパソコンを開く。私の作業はそこから30分くらいです。9月29日の夜も、流れはいつもとまったく同じでした。 違ったのは、Claudeが開かなかったこと。 そのとき私がやろうとしたことが、あとから知った情報だといちばんやってはいけない操作でした。今日はその話を書きます。 下の子を寝かせて部屋を出たのが23時すぎ。物音を立てないように廊下を歩いて、キッチンで麦茶を一杯飲んで、席につく。ここまでで5分は使ってしまうので、残りは実質25分。 新しいチャットを開いて最初のメッセージを送ったら、送信のあとがくるくる回ったまま動きません。 最初に疑ったのは自分の家のWi-Fiでした。スマホでニュースサイトを開いてみたら普通に見える。じゃあパソコン側かな、と思ってブラウザを閉じて開き直す。変わらない。 このあたりで、そこそこ焦っていたと思います。夜中に子どもが起きてくることもあるので、この30分は本当に30分しかない。今日は書き出しだけでも進めたかったのに。 で、次に手が伸びたのが「いったんログアウトして入り直す」でした。 私、パソコンで困った"
-    },
-    {
-      "title": "生成AIは「クラウドで使うもの」から変わる？ローカルLLMが ...",
-      "link": "https://note.com/shine98/n/nacf3886c26fc",
-      "source": "note.com",
-      "pub_date": "Thu, 01 Oct 2026 21:13:00 GMT",
-      "body": "生成AIを使う。 そう聞くと、今では多くの人が、 「ChatGPTを開く」 「WebブラウザからAIサービスを使う」 「API経由でクラウドのLLMを呼び出す」 といった使い方をイメージするのではないでしょうか。 実際、現在の生成AIサービスの多くはクラウド上で動いています。 ところが最近、少しずつ面白い変化が起きています。 「AIをクラウドから呼び出す」のではなく、「AIそのものを手元のPCで動かす」 という方向です。 2026年9月、東京ゲームショウ2026で紹介されたローカルLLMの活用事例が、その変化を象徴しています。 ASCII.jpの記事では、マウスコンピューターの「DAIV CX」を使い、128GBのユニファイドメモリーのうち最大96GBをVRAMとして利用し、ローカルLLMをゲーム開発に活用するデモが紹介されました。 しかも、単にチャットをするだけではありません。 AIキャラクター同士を会話させる。 ゲームをAIに自動プレイさせる。 何千回、何万回とデバッグさせる。 画像や動画生成のワークフローをAIで支援する。 ここまで来ると、ローカルLLMは単なる「ChatGPTの"
+      "pub_date": "Thu, 01 Oct 2026 22:12:00 GMT",
+      "body": "5分で終わります。 自分が作ったGPTsの「指示文（Instructions）」を、メモアプリやドキュメントにコピーして保存する 一緒にアップロードした資料ファイルが、自分の手元にも残っているか確認する そのGPTsが毎日の仕事に組み込まれているなら、同じ指示文をふつうのチャットに貼って同じ結果が出るか試す 人が公開したGPTsに頼っている作業は、何をしているGPTなのかを1行で書き出しておく 会社や学校のアカウントで使っている場合は、管理者からの案内が来ていないかを確認する いちばん大事なのは1つめです。GPTsの正体は、突き詰めればあなたが書いた指示文です。指示文さえ手元にあれば、置き場所が変わっても作り直せます。 ここに書いた日程は、報道やヘルプ記載をもとにした現時点の予定です。OpenAI自身が変更の可能性を示しているため、実際の運用は公式の案内で確認してください。 「廃止」という言葉だけが独り歩きしがちですが、既存のGPTsがすぐ消えるという話ではないと伝えられています。あわてて何かを解約する必要はありません。 移行先としてプラグインが案内されていると報じられていますが、初心"
     },
     {
       "title": "Claude Codeを自分好みにカスタムできるMod機能が登場",
@@ -31,18 +24,32 @@
       "body": "AIコーディングエージェントのClaude Codeに、動作やUIを自分好みにカスタムできるMod機能が追加されました。ModはTypeScriptで記述可能で、Claude Code自身にModの作成を依頼することもできます。"
     },
     {
-      "title": "「LibreOffice」に7件の脆弱性、うち5件は「Claude」が発見／対策済み ...",
-      "link": "https://www.msn.com/ja-jp/technology/%E5%85%A8%E8%88%AC/libreoffice-%E3%81%AB7%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7-%E3%81%86%E3%81%A15%E4%BB%B6%E3%81%AF-claude-%E3%81%8C%E7%99%BA%E8%A6%8B-%E5%AF%BE%E7%AD%96%E6%B8%88%E3%81%BF%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92/ar-AA2dnAiz",
-      "source": "msn.com",
-      "pub_date": "Thu, 01 Oct 2026 19:45:00 GMT",
-      "body": "・窓の杜から ダウンロード The Document Foundationは9月21日（中央ヨーロッパ夏時間）、オフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。細工されたドキュメントを開くことで、メモリの破損や情報の読み取りが引き起こされる可能性があるという。 今回公表された脆弱性は、以下の7件（括弧内は「CVSS ..."
+      "title": "ChatGPTのサブスクを他社アプリへ持ち込む、OpenAIが広げるAI利用枠の ...",
+      "link": "https://xenospectrum.com/chatgpt-sign-in-subscription-apps/",
+      "source": "xenospectrum.com",
+      "pub_date": "Thu, 01 Oct 2026 16:45:00 GMT",
+      "body": "OpenAIは9月29日の「DevDay 2026」で、ChatGPT PlusやProに含まれるAIの利用枠を、対応する外部アプリでも使えるようにする「Sign in with ChatGPT」の拡張を発表した。 ChatGPTアカウントによるログイン自体は幅広い利用者が使えるが、外部アプリのAI処理にChatGPTプランの利用枠を使えるのは、対象となるPlus・Pro利用者だ。DevinやNo ..."
     },
     {
-      "title": "Hugging FaceのローカルLLMモデル名「Q4_K_M」「A3B」の読み方と失敗し ...",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news004.html",
-      "source": "atmarkit.itmedia.co.jp",
-      "pub_date": "Thu, 01 Oct 2026 16:59:00 GMT",
-      "body": "@lWindows PCȂGGUFAMacȂGGUFMLXIԁBГT[oŕ̃[U[ɒ񋟂ȂAsafetensorsiFP8łȂǁj܂AWQ^GPTQvLLMgݍ킹AƂ̂{IȎgB @ʎqiQuantizationjƂ́Af̏d݁iljA菭ȂrbgŋߎIɕ\\ZpłBႦ16bit̐l4bitxɒu邱ƂŁAiVRAM^RAMj̏ʂ啝ɍ팸łB̑㏞ƂāA񓚂̕iixj͂킸ɒቺB @LLM͐́̕AvZʂf[^ǂݏoɍEB̂߁AfȂقǐxオ₷BA͂vvgǂݍޏ͂ނvZʂxzIȂ̂ŁAʎqĂȂƂ͌ȂB @GGUF̗ʎqł́Ad݂𐔏\\`256Ƃ́uubNvɋ؂AubNƂɁuXP[i{jvĐlߎĂB̃XP[Ȃǂ̕⏕񂪉镪Aۂ̕σrbg͖ڏ̃rbg菭ȂB @ʎq́̕At@CɂuQ4_K_MvȂǂ̋LŔfłB i1jn @uQv͒ʏ̗ʎqAq́u_0^_1vƁu_Kv̌nɑBuIQv́ui-quantsvƌĂ΂VnŁȀd݂܂Ƃ߂āA炩ߗpӂl̑gݍ킹\\iR[hubNjߎB2`3bit̒ႢrbgłATCYK-quantsiۂ₷BACPUŎsƒxȂ邱Ƃ_ɒӂĂقB i2jrbg @u8^6^5^4^3^2v́A1"
+      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt%E3%81%ABai%E3%81%A7%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E8%A9%A6%E7%9D%80%E6%A9%9F%E8%83%BD%E3%81%A8%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E3%81%AE%E6%9B%B8%E9%A1%9E%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf%E5%8C%96%E6%A9%9F%E8%83%BD/ar-AA2dnIC2",
+      "source": "msn.com",
+      "pub_date": "Thu, 01 Oct 2026 15:18:12 GMT",
+      "body": "米OpenAIは10月1日（現地時間）、ChatGPTのリリースノートを更新し、ショッピング関連の新機能と、カメラで書類をスキャンする新機能を紹介した。 ショッピング関連では、服やアクセサリーをバーチャル試着できる機能を追加した。Webおよびモバイル版で利用可能だ。「秋物のシャツを探して」などと頼むと表示される商品情報カードに「試着する」ボタンが追加された。日本語版のChatGPTでも、国内のEC ..."
+    },
+    {
+      "title": "Claude Sonnet 4.5は11月30日で止まります。自分のMacをgrepしたら、入れ ...",
+      "link": "https://note.com/hacklog_stealth/n/n9751ef2585af",
+      "source": "note.com",
+      "pub_date": "Thu, 01 Oct 2026 06:02:00 GMT",
+      "body": "Anthropic が `claude-sonnet-4-5-20250929`（Claude Sonnet 4.5）の提供終了日を出しました。 2026年11月30日 です。その日を過ぎると、このモデルIDを指定したリクエストは失敗します。 自分で書いたスクリプトなら覚えていますが、厄介なのは「人が書いたものを入れっぱなし」の場所です。そこで自分の Mac をまるごと grep して、古いモデルIDが残っていないかを調べました。結果、 自分のスクリプトは0件でしたが、3月に入れたきり更新していないプラグインのスキル4つに古いIDが入っていて、そのうち1つは最初から存在しないIDでした 。 この記事で分かること 公式ページで確認した Sonnet 4.5 の日付と、ほかの古いモデルの状況 古いモデルIDを Claude Code に渡すと、実際に何が起きるか（4種類試した結果） 自分の環境を同じように点検する grep と、見落としやすい場所 Anthropic の「Model deprecations」ページ（ platform.claude.com/docs/en/about-cl"
+    },
+    {
+      "title": "【DevDay 2026 #20】OpenAI「@ChatGPT in Slack and Microsoft Teams」完全解説。AIが ...",
+      "link": "https://note.com/kitworks/n/n65eff9996ec4",
+      "source": "note.com",
+      "pub_date": "Thu, 01 Oct 2026 05:26:00 GMT",
+      "body": "OpenAI DevDay 2026の25テーマを、1本ずつ掘り下げる連載。第20回は @ChatGPT in Slack and Microsoft Teams です。 前回の #19 Create teams and share tasks では、定例報告のような繰り返す仕事を「個人のタスク」ではなく「チームの仕事」として持てるようになったことを見ました。 今回の発表は、そのChatGPTをさらに チームが普段いる場所 へ連れてきます。 AIが、チームの会話に入る。 SlackやMicrosoft Teamsのチャンネル、スレッド、DMで @ChatGPT とメンションする。 すると、いま話している内容を要約したり、プロジェクト概要を作ったり、バグを調べて修正案を用意したり、接続済みの社内ツールを使って仕事を進めたりできる。 OpenAIがDevDay 2026で発表したのは、単なる「Slack / Teams連携」ではありません。 組織専用のChatGPTエージェントが、チーム会話の参加者として働く仕組み です。 公式： DevDay 2026 Recap 日本語版： DevDa"
     },
     {
       "title": "FastMetal、OpenAI「GPT-6.1 Sol」とClaude Sonnet 5.5を提供開始",
@@ -59,18 +66,11 @@
       "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. 【谷本有香｜tHe ROOM vol.2】 「文化」は生き残るための知恵？ー西村勇哉 トップ テクノロジー AI Claudeでスタートアップのウェブサイトを構築する：ステップバイステップ・プロンプトガイド AI 2026.10.01 11:01 Claudeでスタートアップのウェブサイトを構築する：ステップバイステップ・プロンプトガイド Rahul Dogra | Contributor 著者フォロー 記事を保存 Adobe Stock Adobe Stock Claude Codeはランレート売上高で25億ドル（約3930億円）を突破し、現在 公開GitHubコミットのおよそ4% を書いている。この数字は、多くの創業者が見逃している事実を示唆する。これはもはや目新しいチャットボットの余興ではない。プログラマーではない人々が実際の製品を世に出すために活用している、実用的な開発ツールなのだ。 結論から言おう。Claudeでスタート"
     },
     {
-      "title": "話すだけ・撮るだけで施術カルテが完成！完全ローカルAI「LOCAI Voice ...",
-      "link": "https://www.jiji.com/jc/article?k=000000002.000160175&g=prt",
-      "source": "jiji.com",
-      "pub_date": "Thu, 01 Oct 2026 02:16:00 GMT",
-      "body": "PR TIMES 『装甲騎兵ボトムズ 灰色の魔女』第1作の描き下ろしアート×ムビチケが数量限定で販売開始！ 『サイレント・ウィッチ』原作刊行5周年記念！藤実なんな氏描き下ろしB4キャラファイングラフ登場！依空まつり氏＆藤実なんな氏のダブル直筆サイン入り限定版がカドストで抽選販売決定！ 『ヨッシーとフカシギの図鑑』完全攻略本が本日10月2日に発売！ 71種のコース、55種の生き物、1637種の調査実績を網羅し、図鑑コンプリートへと導く一冊！ 『サイレントヒルf』公式設定資料集が12月7日に発売！ 秘蔵の設定素材と資料をたっぷり掲載！ 「『BLACK LAGOON』 25th Anniversary POP UP SHOP in マルイ」の開催が決定！ TRAVAS TOKYO×アニメ「NEEDY GIRL OVERDOSE」 POP UP SHOP in AMNIBUS STORE -green-が開催決定！ 大河幻想ラジオドラマ「魔道祖師」POP UP STORE in ロフトの開催が決定！ 「TVアニメ『BLACK TORCH』 POP UP SHOP in AMNIBUS STOR"
-    },
-    {
-      "title": "Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした",
-      "link": "https://www.msn.com/ja-jp/news/other/anthropic%E3%81%AE%E5%96%B6%E6%A5%AD%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AFclaude%E3%81%AE%E8%87%AA%E5%8B%95%E8%BF%94%E4%BF%A1%E3%81%A7%E6%88%90%E7%B4%84%E4%BB%B6%E6%95%B0%E3%82%9225%E5%80%8D%E3%81%AB%E3%81%97%E3%81%9F/ar-AA2djiyY",
+      "title": "はてな匿名ダイアリー、“AI増田”増えるかも ChatGPTから直接投稿 ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E3%81%AF%E3%81%A6%E3%81%AA%E5%8C%BF%E5%90%8D%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC-ai%E5%A2%97%E7%94%B0-%E5%A2%97%E3%81%88%E3%82%8B%E3%81%8B%E3%82%82-chatgpt%E3%81%8B%E3%82%89%E7%9B%B4%E6%8E%A5%E6%8A%95%E7%A8%BF-%E6%97%A9%E3%81%8F%E3%82%82%E8%B3%9B%E5%90%A6/ar-AA2dk7lw",
       "source": "msn.com",
-      "pub_date": "Wed, 30 Sep 2026 19:40:00 GMT",
-      "body": "Anthropicで営業開発リーダーを務めるカール・ジョンソン氏が、ほとんどの問い合わせにAI・Claudeが対応している状況と、それによって営業チームの働き方がどのように変わったのかについて解説しています。"
+      "pub_date": "Wed, 30 Sep 2026 22:05:00 GMT",
+      "body": "はてなは9月30日、「はてな匿名ダイアリー」をChatGPTから利用できるプラグインを実験的に公開した。"
     }
   ]
 }
