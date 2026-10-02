@@ -1,6 +1,6 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-02T16:12:55.613127+00:00",
+  "updated_at": "2026-10-02T17:13:34.303576+00:00",
   "items": [
     {
       "title": "「完全国産」AI、KDDI傘下のELYZAが無料公開 「LLM-jp-4」ベースに性能強化",
@@ -14,7 +14,7 @@
       "link": "https://www.sbbit.jp/article/cont1/187241",
       "source": "sbbit.jp",
       "pub_date": "Fri, 02 Oct 2026 07:27:00 GMT",
-      "body": "注目のイベント・セミナーランキング 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 オンライン 2026/10/21 バックオフィスDXAIカンファレンス Online 2026 秋 AI・デジタルを駆使してDXの本丸へバックオフィス発 経営のデジタル改革 東京都 2026/10/13 SmartHR COMPASS 先進企業と有識者が一堂に集結｜AI時代の「人事・労務と組織づくりの未来」 もっと見る 最新ニュース AI活用阻む規制、政府が再募集へ エージェントやフィジカルAIも対象、府省横断で点検 2026/10/02 2"
+      "body": "ガートナージャパンは、従業員500人以上の国内企業のITリーダー412人を対象とした調査の結果を発表した。生成AIやAIエージェントに期待する成果は「社内プロセスの最適化や省力化」が43.4％で最多となり、効率化への期待が依然として強いことが分かった。クラウド型IoTプラットフォームの導入企業は35％に達したという。"
     },
     {
       "title": "生成AI活用で業務効率化を支援、CLINKS「ナレフルチャット」が「AI ...",
@@ -52,18 +52,18 @@
       "body": "投資する時に参考にした情報で、3割以上が「生成AI」と答えました。 10月4日の「投資の日」を前に、不動産投資事業などを展開する企業が2日、東京都内で開いたAIと投資について学ぶセミナー。 セミナー前に実施した調査によりますと「投資判断の際に参考にした情報源」として、3割以上の人が「生成AI」をあげ、そのうちの4割以上が「自分の考えよりAIの意見を優先」している、と回答しています。 参加者からは「（投資の）知識がないところがあり、（AIに）ほぼ依存してたかなと思う」との声が聞かれました。 セミナーを開いた企業は、投資の相談をAIにしている人が増えているとした上で、人にしかできないことがあると強調しました。 ミガロホールディングス・山本悟史CMO： 個別の背景みたいなところまでやはりAIは読み取ってくれないので、お客さまの状況に寄り添う姿勢で、そういったところを常に大事にしながらお客さまと向き合っていく。 「金利のある世界」で自分で資産を管理する意識が高まるなか、AIとの付き合い方がさらに重要になりそうです。"
     },
     {
+      "title": "SNSテキストマイニングがAIで進化、生成AIでの自社の言及も計測 ...",
+      "link": "https://mainichi.jp/articles/20261003/pr2/00m/020/067000c",
+      "source": "mainichi.jp",
+      "pub_date": "Fri, 02 Oct 2026 03:00:00 GMT",
+      "body": "SNSの口コミを頻出語・共起・急上昇語で可視化し、AIが判定した投稿の感情を語ごとに集計。ChatGPTなど4つの生成AIの回答で自社ブランドが挙げられる割合も計測可能に テキスト分析の画面イメージ（Instagramのキーワードの分析と、Xのネガティブな投稿だけのワードクラウド） ※架空のデ ..."
+    },
+    {
       "title": "「チャッピーに聞くな！」——ChatGPTを親友と呼ぶ人が急増、週間 ...",
       "link": "https://hashout.jp/ai/11784/",
       "source": "hashout.jp",
       "pub_date": "Fri, 02 Oct 2026 01:24:00 GMT",
       "body": "OpenAIは9月30日のDevDay 2026で、ChatGPTの週間アクティブユーザーが12億人を超えたと発表しました。 7月時点では10億人としていたので、2カ月あまりでさらに積み増した計算になります。 あわせてChatGPT WorkとCodexの週間利用者が3,500万人を突破し、企業利用も250万社に達したと明らかにしています。 利用者がここまで増えると、呼び方にも個性が出てきます。 「ChatGPT」という正式名称は長く、口頭では呼びにくいためか、日本語圏では「チャッピー」という愛称が自然発生的に広がりました。 2025年には新語・流行語大賞にもノミネートされており、一時的なスラングというより、すでに定着した呼び方と見てよさそうです。 X上で見られるのは、英会話の練習相手にしたり、就職活動のエントリーシートを一緒に考えてもらったり、仕事の失敗を愚痴ったりと、単なる検索ツール以上の使い方です。 「丁寧に育てたらユニークな返事をしてくれるようになった」「声のイメージで却下したことがある」といった、人間関係に近い距離感で語る投稿も目立ちます。 総務省が7月24日に公表した令和8"
-    },
-    {
-      "title": "AI Game Creation: A Ranked Game in One Sentence with Claude. Sending via Link Might Not ...",
-      "link": "https://note.com/ai_note_henshu/n/nc0189d0e597a?hl=en",
-      "source": "note.com",
-      "pub_date": "Fri, 02 Oct 2026 01:00:00 GMT",
-      "body": "\"AI game creation\" is booming on note. There are even ranking tournaments, and surely some people want to \"make a game and compete for scores with friends.\" When our editorial team asked Claude with just one sentence, in about 3 minutes, we had a goldfish scooping game with a \"shared ranking for everyone\" ready. However, when reading the warning Claude itself added alongside the sharing screen, if you distribute it via a shared link, your friends' records might not be added to the ranking. Furth"
     },
     {
       "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
