@@ -1,13 +1,20 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-06T22:12:40.232799+00:00",
+  "updated_at": "2026-10-06T23:11:47.940913+00:00",
   "items": [
+    {
+      "title": "Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude ...",
+      "link": "https://www.msn.com/ja-jp/news/other/anthropic-claude-for-google-workspace-%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-claude-%E3%81%8B%E3%82%89-workspace-%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90-%E7%B7%A8%E9%9B%86%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%82%E3%83%99%E3%83%BC%E3%82%BF%E5%85%AC%E9%96%8B/ar-AA2dH0Pw",
+      "source": "msn.com",
+      "pub_date": "Tue, 06 Oct 2026 14:45:00 GMT",
+      "body": "米Anthropicは10月6日（現地時間）、「ドキュメント」「スプレッドシート」「スライド」といった「Google Workspace」アプリに「Claude」を追加できる公式アドオン「Claude for Google ..."
+    },
     {
       "title": "ClaudeがGoogleドキュメントやスプレッドシートに入ってきた",
       "link": "https://gori.me/it/171021",
       "source": "gori.me",
       "pub_date": "Tue, 06 Oct 2026 14:16:00 GMT",
-      "body": "クイック ClaudeがGoogleドキュメントやスプレッドシートに入ってきた ドキュメント・スプレッドシート・スライドに対応、公開ベータで提供開始 忙しい人のための3行まとめ ▾ ClaudeがGoogleドキュメント・スプレッドシート・スライドのサイドバーで使えるようになった Pro、Max、Team、Enterpriseプランが対象の公開ベータ 既定のモードでは、編集前に変更内容を確認してから実行する Anthropicが Google ドキュメント、スプレッドシート、スライドで使える「Claude for Google Workspace」を公開ベータとして提供開始 した。ファイルの横にClaudeのサイドバーを開き、文書の作成や編集を手伝ってもらえる。 Google WorkspaceにはすでにGeminiが組み込まれているが、Claude派はこれで、使い慣れたAIを Google のアプリ内で呼べるようになる。Anthropicの説明では、ドキュメントでは書式を崩さずにリライトやスタイル調整ができ、スプレッドシートでは数式の作成・修正やデータの整理、スライドでは既存のテーマ"
+      "body": "クイック ClaudeがGoogleドキュメントやスプレッドシートに入ってきた ドキュメント・スプレッドシート・スライドに対応、公開ベータで提供開始 忙しい人のための3行まとめ ▾ ClaudeがGoogleドキュメント・スプレッドシート・スライドのサイドバーで使えるようになった Pro、Max、Team、Enterpriseプランが対象の公開ベータ 既定のモードでは、編集前に変更内容を確認してから実行する Anthropicが Google ドキュメント、スプレッドシート、スライドで使える「Claude for Google Workspace」を公開ベータとして提供開始 した。ファイルの横にClaudeのサイドバーを開き、文書の作成や編集を手伝ってもらえる。 Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude. In Google Workspace, Claude sits in a sidebar next to your file, r"
     },
     {
       "title": "怒涛のOpenAI尽くし！ Codexの“28日間連続改善”宣言から、ChatGPTの ...",
@@ -24,6 +31,27 @@
       "body": "第2の柱は、LLM向け強化学習手法であるGRPO（Group Relative Policy Optimization）に「ハイパーボリューム寄与度」を取り入れたアルゴリズムである。ハイパーボリューム寄与度とは、複数指標が存在する評価空間において、特定の候補が群全体の性能や多様性の拡大にどれほど貢献したかを定量化する指標である。この評価指標をGRPOへ適用することで、類似した候補の重複生成を避け、異なる特徴を備えた有力な候補群を生み出す方向へと学習が誘導される。結果として、評価回数が限定される状況下でも効率的にバリエーション豊かな解を抽出できる。例えば論理回路の設計領域においては、同一の基本仕様に対して以下のような多様な特性を持つ選択肢を生成することが可能になる。 開発されたLLM学習技術の有効性を検証するため、客観的かつ自動的な性能評価が可能な論理回路設計分野の回路生成タスクを用いた実証実験が実施された。実験では、要求される仕様条件に対してAIが生成した回路候補群が、消費電力・処理速度・回路規模といった相反する指標をどれほど広く網羅できているかを測定する「網羅率」が指標として用いられ"
     },
     {
+      "title": "Claude AI Assistant が Google Workspace にパブリックベータとして登場",
+      "link": "https://www.unite.ai/ja/claude-ai-assistant-arrives-in-google-workspace-as-public-beta/",
+      "source": "unite.ai",
+      "pub_date": "Tue, 06 Oct 2026 13:06:00 GMT",
+      "body": "Anthropicは2026年10月6日に 発表した 、Claude for Google Workspace がすべての有料 Claude プランでパブリックベータとなり、Google Docs、Sheets、Slides に Claude を追加して、ユーザーが開いているファイル内で直接アシスタントと作業できるようにした、と。同社はまた、ベータ版の新しい Google Docs、Sheets、Slides コネクタをリリースし、Claude がチャットから Google ファイルを作成・編集できるようにした。 アドオンをインストールすると、Claude はファイルの横にあるサイドバーで開きます。Anthropicによると、開いているドキュメント、シート、またはデッキを読み取り、ユーザーが選択したテキスト、セル、スライドを把握し、ファイル内で直接変更を加えることができるとのことです。1つのインストールで3つのアプリすべてに対応します。 Docs では、Anthropicによると Claude は周囲の書式設定を変更せずに文を修正したり見出しのスタイルを変更したりでき、より大規模な書き"
+    },
+    {
+      "title": "Okta CEOが語る「AIを縛らず安全に使う」方法、Identityが主役になる ...",
+      "link": "https://www.sbbit.jp/article/cont1/187243",
+      "source": "sbbit.jp",
+      "pub_date": "Tue, 06 Oct 2026 10:10:00 GMT",
+      "body": "注目のイベント・セミナーランキング 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 もっと見る 最新ニュース 米シエラとメタ、AIエージェン"
+    },
+    {
+      "title": "Anthropic、Claudeスタートアッププログラムを新たな創業者特典で拡大",
+      "link": "https://www.unite.ai/ja/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
+      "source": "unite.ai",
+      "pub_date": "Tue, 06 Oct 2026 09:41:00 GMT",
+      "body": "Anthropicは2026年10月6日、Claudeスタートアッププログラムを拡大し、Claude Startup Stackと呼ばれる最大45,000ドル相当のサードパーティーパートナーオファーを追加するとともに、1,000ドルのAPIクレジット、Claude Teamの無料1年分、そしてApplied AIチームとのオフィスアワーを提供しました。 Claude Startupsプログラムページ によると、承認された創業者は1,000ドルのClaude APIクレジット、最大5つのPremiumシートに対するClaude Teamの無料1年、そして参加企業から提供される最大45,000ドル相当の割引とクレジットを受け取ります。無料のTeam年はClaude Teamを初めて利用する組織にのみ適用されます。ページは「Claudeスタートアッププログラムを拡大し、スタートアップの成長を支援します」と述べています。 このスタックは、Build、Design、Analyze、Growの各カテゴリでClaudeを活用している企業からのオファーを一覧化しており、メンバーはClaude Cons"
+    },
+    {
       "title": "〈5期連続で最高益〉荏原が半導体CMP装置で王者AMATに挑戦状､生成AI ...",
       "link": "https://toyokeizai.net/articles/-/959848?display=b",
       "source": "toyokeizai.net",
@@ -31,11 +59,11 @@
       "body": "「半導体ビジネスが異次元の成長を見せている。これまでの事業とまったく異なるスピードだ」（荏原の細田修吾社長） ポンプ大手の荏原が快進撃を続けている。2021年度から5期連続で過去最高業績を更新し、この間に時価総額は2兆1500億円と約4倍に上昇した。30年度の目標に掲げていた「売上高1兆円」を、今26年度に達成する見込みだ。 同社の祖業はポンプだが、実質的な稼ぎ頭は半導体関連事業、特に半導体製造に欠かせないCMP（化学機械研磨）装置へと移り変わった。半導体ビジネスである「精密・電子」セグメントは、今や全社営業利益の半分を稼ぎ出す。世界的なAI（人工知能）ブームを背景に、CMP装置の需要は右肩上がりが続く。 CMP装置とは、ウェハーの表面を平坦に研磨する半導体製造装置である。ウェハーにわずかでも凹凸があると、回路に不具合が発生したり正確に積み上げることができなくなったりする。そのためスラリー（研磨剤）で磨き、高低差10〜20ナノメートルまで平坦にする工程が欠かせない。仮にウェハーを山手線の内側の広さまで拡大したとしても、地表全体の凹凸がわずか0.5mmにしかならないというレベルの精度だ。"
     },
     {
-      "title": "DNPとDCDが生成AIの回答でのブランド・商品への言及状況を分析して ...",
-      "link": "https://news.yahoo.co.jp/articles/9c89e85060ea5cbe98cba0757dca86762e9997f9",
-      "source": "news.yahoo.co.jp",
-      "pub_date": "Tue, 06 Oct 2026 08:01:00 GMT",
-      "body": "大日本印刷(DNP)と、同社の100％子会社でデジタルマーケティング支援事業のDNPコミュニケーションデザイン(DCD)は、生成AIの回答での自社ブランド・商品への言及・推薦状況を分析して改善を支援するサービスを10月5日に始めた、と同日発表した。アドビのAI検索最適化システム「Adobe Brand Visibility(アドビブランドビジビリティ)＝ABV」を活用する。 生成AIでの情報検索が普及し、自社のブランド・商品がAIの回答で優先的に参照されるためのLLMO(大規模言語モデル最適化)が重要になっていることに対応。生成AI上でのブランド可視性の分析、必要な情報資産の整備、コンテンツの改善・運用を一貫してサポートする。DNPは約500人の「LLMOスペシャリスト」をアドビの協力を受けて育成し、サービスを提供する。"
+      "title": "Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共に ...",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
+      "source": "itmedia.co.jp",
+      "pub_date": "Tue, 06 Oct 2026 08:25:00 GMT",
+      "body": "よく見られているカテゴリー アクセスランキング チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」 相次ぐ情報漏えい受け「対応を急ぐ必要がある」 Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共にクラウド実行へ 不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は Codex「毎日改善、できない日はフルリセット」宣言 今後28日間 国産AI開発「ラストチャンス」の局面へ ノエトラが「44社が出資・国が最大1兆円支援」の追い風を背に向かう先 農水省の“クソダサ”ポスター話題 「AIよりよっぽど良い」の声も 担当者に狙いを聞いた 「ほんだし」のラベルがAIでぐちゃぐちゃに…… 味の素、公式Xの投稿画像について謝罪 主戦場が変わった――“AIによるAI開発”現実に 「新モデルが毎月登場」の裏側、KDDI傘下のELYZAトップに聞く なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか FANZAで「成人向けAIコンテンツ制作サービス」開始 8月24日から先行体験"
     },
     {
       "title": "会員ポイント不正交換も…“生成AI”で攻撃が効率化 企業に不正 ...",
@@ -43,34 +71,6 @@
       "source": "news.yahoo.co.jp",
       "pub_date": "Tue, 06 Oct 2026 07:47:00 GMT",
       "body": "会員ポイント不正交換も…“生成AI”で攻撃が効率化 企業に不正アクセス被害相次ぐ（テレビ朝日） サイバー攻撃などによる個人情報が流出する事態が相次いでいます。この1カ月間に被害を公表した企業は、実に40社以上に及びます。被害が急増した背景に、専門家は“生成AI”の利用を指摘。攻撃を効率化するなど巧妙な手口に、さらなる被害を懸念しています。 【画像】会員ポイント不正交換も…“生成AI”で攻撃が効率化 企業に不正アクセス被害相次ぐ 日本企業1000社ほどのサイバーセキュリティーを行う会社『ラック』。目に飛び込んできたのは、日本の企業がサイバー攻撃を受けた圧倒的な数字でした。 ラック 倉持浩明取締役 「15億6900万の攻撃を監視して攻撃を検知した。実際にどの国のどの犯罪集団が攻撃してるか、ここからは分かりません。俯瞰（ふかん）的に見ることで、攻撃者集団について分析していくことが大事になる」 先月から相次ぐ、企業などへの不正アクセス。その増加の理由が見えてきました。 6日に不正アクセスがあったと発表したのは、ディスカウントストアを全国展開するミスターマックスです。 ミスターマックスHD 「ア"
-    },
-    {
-      "title": "日立、社会インフラなどの運用管理最適化に向けて相反する複数の ...",
-      "link": "https://www.nikkei.com/article/DGXZRSP713456_W6A001C2000000/",
-      "source": "nikkei.com",
-      "pub_date": "Tue, 06 Oct 2026 07:10:00 GMT",
-      "body": "社会インフラなどの運用管理最適化に向けて、相反する複数のKPIを考慮し、多様で有力な候補を生成するLLM学習技術を開発 似た候補に偏らず異なるKPIバランスを持つ複数の案を提示し、現場の用途や制約条件に応じた意思決定を支援 日立 は、相反する複数のKPI（*1）を同時に考慮することが求められる社会インフラや産業分野などにおいて、現場の用途や制約条件に応じて複数の候補を生成するLLM(大規模言語モデル)（*2）学習技術を開発しました。例えば、モビリティの運行計画作成や物流における配送計画作成では、運行効率を高めると同時に消費電力を抑える必要があるなど、複数のKPIのバランスを考慮した意思決定が求められます。従来のLLM向け強化学習では、複数KPIを1つの総合点にまとめて最適化することが多く、総合点を最大化する特定のバランスに候補が偏りやすいことに加えて、各KPIの優先度を変更して最適化するにはAIの再学習が必要となるため、現場の状況に応じて柔軟に対応しにくいという課題がありました。本技術では、生成した候補群全体の性能と多様性を向上させるように学習することで、似た候補に偏らず異なるKPIバ"
-    },
-    {
-      "title": "Needle In A Haystack（NIAH）とは？生成AIが長文の「真ん中」を見落とす ...",
-      "link": "https://note.com/ideal_lemur777/n/na2deb10f9a46",
-      "source": "note.com",
-      "pub_date": "Tue, 06 Oct 2026 06:50:00 GMT",
-      "body": "最後まで読んでいただき、ありがとうございました！「AIに読み飛ばされた」あるある、ぜひコメントで教えてくださいね😊 Liu et al. \"Lost in the Middle: How Language Models Use Long Contexts\"（TACL） https://arxiv.org/abs/2307.03172 Kamradt, G. LLMTest_NeedleInAHaystack https://github.com/gkamradt/LLMTest_NeedleInAHaystack LangChain \"Multi Needle in a Haystack\" https://www.langchain.com/blog/multi-needle-in-a-haystack Modarressi et al. \"NoLiMa: Long-Context Evaluation Beyond Literal Matching\" https://arxiv.org/abs/2502.05167 Chroma \"Context Rot: How Increasin"
-    },
-    {
-      "title": "グーグル、音声や動画も扱う埋め込みAI「EmbeddingGemma 2」公開 端末内 ...",
-      "link": "https://www.sbbit.jp/article/cont1/187318",
-      "source": "sbbit.jp",
-      "pub_date": "Tue, 06 Oct 2026 06:28:00 GMT",
-      "body": "注目のイベント・セミナーランキング 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 もっと見る 最新ニュース 米シエラとメタ、AIエージェン"
-    },
-    {
-      "title": "生成AI時代に高まるLLMO需要",
-      "link": "https://news.mynavi.jp/techplus/article/20261006-5083541/",
-      "source": "news.mynavi.jp",
-      "pub_date": "Tue, 06 Oct 2026 05:39:00 GMT",
-      "body": "大日本印刷(DNP)とDNPコミュニケーションデザイン(DCD)は10月5日、生成AIの回答における企業ブランドや商品の言及・推薦状況を分析し、改善を支援するサービスを開始したと発表した。アドビの「Adobe Brand Visibility」を活用し、生成AIに参照されやすい情報整備やコンテンツ運用までを支援する。DNPは約500人の「LLMOスペシャリスト」を育成し、生成AI検索の普及に伴い注目を集めるLLMO(Large Language Model Optimization：大規模言語モデル最適化)の需要獲得を狙う。 サービスの概要 生成AIを用いた情報検索の普及に伴い、企業にとって自社ブランドや商品がAIの回答でどのように紹介されるかが重要な課題となっている。 従来の検索エンジン向け最適化(SEO)に加え、生成AIが参照しやすい情報環境を整備する「LLMO(Large Language Model Optimization)」への関心が高まっている。DNPはこうした市場環境を背景に、生成AI上でのブランド可視性向上を支援するサービスを立ち上げた。 新サービスでは、アドビのAd"
     }
   ]
 }
