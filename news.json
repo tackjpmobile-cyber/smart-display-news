@@ -1,41 +1,69 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-07T01:15:10.590556+00:00",
+  "updated_at": "2026-10-07T02:13:35.902868+00:00",
   "items": [
     {
       "title": "AI画像生成によって結果が逆転した画像を、人間の専門家は見抜けるか",
       "link": "https://note.com/pharma_i_cist/n/n05d3011090fd",
       "source": "note.com",
-      "pub_date": "Tue, 06 Oct 2026 18:15:00 GMT",
+      "pub_date": "Tue, 06 Oct 2026 19:13:00 GMT",
       "body": "24人の評価者の成績（平均）は、以下のようになりました。 正答率 ：50.5 ± 6.9％ 感度 （AI生成画像を正しく見抜いた割合）：38.5 ± 18.9％ 特異度 （元々の画像を正しく見抜いた割合）：61.5 ± 17.7％ 特に感度が低く、 AI生成画像の多くを正しく見抜くのが難しかった と解釈できます。 著者らは、「今回のAI生成画像では、評価者の目視の判断をすり抜けられるくらいの自然さが保たれていた」と考察しています。 3種類の検出ツールの成績は、以下のようになりました。 AI or Not AUC：0.790（95%信頼区間 [0.695, 0.885] ） Is It AI AUC：0.733（95%信頼区間 [0.645, 0.821] ） Illuminarty AUC：0.485（95%信頼区間 [0.372, 0.598] ） AI or NotとIs It AIのAUCは、いずれもIlluminartyのAUCより有意に高い値となっていましたが、AI or NotとIs It AIの間に有意差は確認されませんでした。 例えば基準値を0.185（今回のデータにお"
     },
     {
       "title": "「200万人が使うChrome拡張機能」のキケンすぎる本性。ChatGPTとの会話 ...",
       "link": "https://news.yahoo.co.jp/articles/a81d7435478b389d540f0aa9d6313777c1a34adc",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Tue, 06 Oct 2026 18:15:00 GMT",
+      "pub_date": "Tue, 06 Oct 2026 19:13:00 GMT",
       "body": "「200万人が使うChrome拡張機能」のキケンすぎる本性。ChatGPTとの会話も抜かれてしまう（かみやまたくみ） Chrome拡張機能は、Google Chromeにさまざまな機能を自由に追加・カスタマイズできるプログラムで、Chrome Web Storeからダウンロードできます。 特に人気があるのが広告ブロッカーですが…その中のひとつ「Poper Blocker」についてセキュリティを専門とする企業Bay Area Labs Inc.が次のように述べています。 「ほとんどの広告ブロッカーはすばらしいが、これは最悪だ」 同社がPoper Blockerのコードを解析したところ、ユーザーのPCからさまざまな情報を盗み出すマルウェア的な機能が多数あったそうです。 何よりおそろしいのは、2026年10月7日時点でもChrome Web Storeに掲載されていてインストールできてしまう点です。 まず、Poper Blockerをインストールすると「データ共有に同意したら高度な広告ブロック機能が使えますよ」というポップアップが何度も何度も出るそうです。データ共有に同意すると一切出なくなり"
-    },
-    {
-      "title": "Claude Coworkの作業は「クラウドで動く」のが標準に。仕事で使う人が ...",
-      "link": "https://note.com/good_poppy696/n/n1ec4ec026e9c",
-      "source": "note.com",
-      "pub_date": "Tue, 06 Oct 2026 18:15:00 GMT",
-      "body": "2026-10-06 に、ITmedia AI+ が「Claude」のエージェント機能「Cowork」の仕様変更を報じました。10月6日以降、Coworkのタスクはクラウドで実行されるようになり、ユーザーのPCの中だけで動かす設定「このコンピュータのみ」オプションが削除される、という内容です。 Coworkは、チャットで答えを返すだけでなく、フォルダ内のファイルを読んだり、資料を作ったり、整理したりといった「複数ステップの作業」を代わりに進めてくれる機能です。Pro・Max・Team・Enterpriseといった有料プランで提供されています。 Anthropicの公式ヘルプでも、Coworkのセッションは標準でクラウド実行になり、AIの作業の流れ（エージェントループ）やコードの実行はAnthropicのサーバー上で行われ、セッションやファイルはClaudeのアカウントに保存されると説明されています。一部の技術メディアでは、今回ローカル専用モードがなくなるのはPro・Maxのユーザーが中心だと報じられています。一方で、既存のデスクトップ展開ではローカル実行が引き続き使えるとされています。"
     },
     {
       "title": "【最新情報】ClaudeがGoogleドキュメント・スプレッドシート ...",
       "link": "https://note.com/duke_technology/n/n5771d066920a",
       "source": "note.com",
-      "pub_date": "Tue, 06 Oct 2026 18:15:00 GMT",
+      "pub_date": "Tue, 06 Oct 2026 19:13:00 GMT",
       "body": "🎤 DJI Mic 3（送信機2台＋受信機＋充電ケース）を楽天市場で見る 🎤 DJI Mic 3（2 TX＋1 RX＋充電ケース）をAmazonで見る 公式の発表 によると、手順は次のとおりです。 Google Workspace Marketplace から、Claudeのアドオンをインストールする Googleドキュメントなどのファイルを開き、 拡張機能 → Claude → Open Claude を選ぶ Claudeのアカウントでサインインする Claudeの画面からGoogleのファイルを編集したい場合は、 Googleドキュメント・スプレッドシート・スライドのコネクタ を有効にします。TeamやEnterpriseのプランでは、先に管理者がコネクタを有効にする必要があります。会社のGoogle Workspaceでは、管理者がドメイン全体やグループにアドオンを配ることもできます。 詳しい設定は、 公式ヘルプの案内 にまとまっています。 発表の投稿には、1万を超える「いいね」が付きました。一般の利用者の声を、匿名で要約します。 「標準では、編集のたびに確認を求める。機能の多さ"
     },
     {
-      "title": "メタクロシス、AIモデルの着画 一度で複数パターン作成",
-      "link": "https://www.nikkei.com/article/DGXZQOUC296YT0Z20C26A7000000/",
-      "source": "nikkei.com",
+      "title": "Googleドキュメント・スプレッドシート・スライドにClaude統合 Anthropic ...",
+      "link": "https://www.excite.co.jp/news/article/Escala_3234291/",
+      "source": "excite.co.jp",
+      "pub_date": "Tue, 06 Oct 2026 19:13:00 GMT",
+      "body": "米Anthropicは10月6日（現地時間）、Googleドキュメント、Googleスプレッドシート、Googleスライドで同社のAI「Claude」を利用できるアドオン「Claude for Google Workspace」のパブリックベータを開始した。Claudeの有料プランで利用でき、Google Workspace Marketplaceからインストールする。 アドオンを導入すると、ドキ ..."
+    },
+    {
+      "title": "Googleドキュメントやスプシから「Claude」を利用 新アドオン公開",
+      "link": "https://www.msn.com/ja-jp/news/other/google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%84%E3%82%B9%E3%83%97%E3%82%B7%E3%81%8B%E3%82%89-claude-%E3%82%92%E5%88%A9%E7%94%A8-%E6%96%B0%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E5%85%AC%E9%96%8B/ar-AA2dHQzH",
+      "source": "msn.com",
+      "pub_date": "Tue, 06 Oct 2026 18:17:01 GMT",
+      "body": "Anthropicは6日(米国時間)、Claudeにおいて、Google ドキュメント、スプレッドシート、スライドに対応した。Google Workspaceから、新しいアドオンとGoogle ドキュメント、スプレッドシート、スライドのコネクタ(ベータ版)を使うことで、ファイル内にClaudeを組み込んだり、Claudeから直接ファイルを編集したりできるようになる。 「Claude for Goo ..."
+    },
+    {
+      "title": "マーケティング業務を自社で回せる形へ。生成AIを活用した内製化 ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000000007.000175585.html",
+      "source": "prtimes.jp",
       "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
-      "body": "亀田さん「就職しても文化祭はある」 BizGate 収納力を備えた多機能スリングバッグ 未来ショッピング 最新★大学別年収ランキング2026 日経転職版 ジャケット、セリーヌ流で自由に THE NIKKEI MAGAZINE 腰痛改善に「最強ピラティス」 Gooday 世界各地の高級不動産をご紹介！ 世界の高級不動産 快活CLUB「自分取り戻す場」で無双 BizGate セレクション 多様なメンバーが力を合わせるために必要なことは？ JFEホールディングス・北野嘉久社長（10月5日） 日経優秀製品・サービス賞2025 日立・プリファードネットワークスなどに 日経優秀製品賞が決定 NIKKEI ニュースレター 日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら BSテレ東 「NIKKEI NEWS NEXT」「NIKKEI 日曜サロン」編集委員・記者らがニュースを解説 トレンドウオッチ 新着"
+      "body": "いいね！数を読み込み中です クリサク株式会社（東京都渋谷区）は、専任・兼任を問わずマーケティングを担当する方に向けた「マーケティングAI内製化・自動化支援」を、2026年10月7日に開始しました。担当者自身が生成AIを使って制作・運用を実践し、自社で業務を進められるようになることを目指す伴走型の支援です。LP制作、GA4（Googleアナリティクス4）などのレポート自動化、業務ツールの試作を中心に、1つの業務から取り組めます。初回相談は無料で、オンラインで実施します。 東京商工リサーチが2025年7月30日〜8月6日に実施した企業向け調査（有効回答6,645社）では、会社全体または部門で生成AIの活用を推進している企業は25.2%で、中小企業では23.4%でした。活用を推進していない理由について回答した4,358社のうち、55.1%が「推進するための専門人材がいない」を選択しています（複数回答）。※1 専門人材の採用だけに頼らず、いまの担当者が生成AIを日々の仕事で使えるようにすることも、活用を進める選択肢の1つです。本サービスでは、次のようなマーケティング業務の困りごとを起点に、取り"
+    },
+    {
+      "title": "ユーロモニター、AIを活用した次世代Passportの提供を開始（PR TIMES）",
+      "link": "https://mainichi.jp/articles/20261007/pr2/00m/020/108000c",
+      "source": "mainichi.jp",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "- Passport Connectを搭載し、信頼できる市場情報をMicrosoft Copilotなどの生成AIツールで活用可能に- APIおよびMCPを通じて、Passportの市場情報を企業システム、ダッシュボード、ワークフローへ連携- 市場、消費者、企業、経済に関するインサイトを統合し、 ..."
+    },
+    {
+      "title": "25年愛され続ける国産データ分析基盤「Dr.Sum」がIT部門を解放する ...",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/07/news006.html",
+      "source": "atmarkit.itmedia.co.jp",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "@Ƃ̃f[^piޒAГ̃CtxITGWjÁAf[^}[g̗⌻ꂩ̓˔Iȃf[^o˗̑ΉɒǂꂪłBGWjAׂ̕炵Aꃆ[U[gWvƂ╪͂uf[^vxĂ̂AECOA[NP̍Yf[^}lWgՁuDr.SumvłB2001N̒a25NAȂITGWjȂoI΂ꑱĂ̂A̗RƍŐV̐iECOA[NP Dr.SumJ ̍OƁA[hA[LeNg̐YɎf܂B Q@COBIc[AȂYDr.Sum25NőI΂ꑱĂ̂ł傤H A@cƉ̃f[^yɑgݑւuNXWvv݂̎ƁAJ҂ڃ[U[̐𕷂N_̊J邽߂łB @25NOA[\\[Vł͌ŒIȃtH[}bg\\łABIc[̑߂ĂCOíu{lɂ͍ȂvƂۑ肪܂BŁAyɃNXWvł鍑Y͊ՂƂDr.SumJ܂B܂AJo[炪IC^ItCŌڋqƒڑΘbA̎v⍢育Ƃ𔧂ŊJ̐ƂĂ܂BCSVt@CuŃf[^荞ށuC|[g^XNv@\\Aŏ̃o[Wɂ͂Ȃ̂́Aڋq̐󂯂đfǉꂽ@\\̈łB Q@K̖͂cȃf[^ɑ΂āADr.Sum͂ǂ̂悤ɂĈ|IȏXs[hƈ^p𗼗Ă̂łH A@f[^ŏuCGWvƁÃe[uςȂunCubhvɂėĂ܂B @f[^I[_[ɑAfBXNx[X̃GWł͌EĂ߁A2017NɃ"
+    },
+    {
+      "title": "業務過多の福祉事業者に特化した実務型AI研修「WelvieAI」、2026年10月 ...",
+      "link": "https://mainichi.jp/articles/20261007/pr2/00m/020/111000c",
+      "source": "mainichi.jp",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "記録・請求・シフト作成など福祉現場の具体的な実務をを題材に、AIを使った生産性向上を目指す 株式会社フェアテクノロジーズは、2026年10月7日より、福祉特化型AI研修「WelvieAI」の新規提供を開始します。 「WelvieAI」は、2ヶ月間のオンライン研修を通じ、汎用的なAIスキルだけ ..."
     },
     {
       "title": "ClaudeはChatGPTの約5倍使える？SemiAnalysisが定額プランの「API換算価値 ...",
@@ -43,34 +71,6 @@
       "source": "xenospectrum.com",
       "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
       "body": "SemiAnalysisは2026年10月5日、AIの定額プランを実測した調査を公表し、Claude Opus 5.5を使う月 200ドル のClaude契約は、GPT-6.1 Solを使う同価格帯のChatGPT契約と比べ、約5倍の「API換算価値」があると報告した。ツールを使いながら複数の処理を進めるエージェント型の作業を想定した結果で、OpenAIが月 200ドル のPro ..."
-    },
-    {
-      "title": "Googleドキュメント・スプレッドシート・スライドにClaude統合 Anthropic ...",
-      "link": "https://www.msn.com/ja-jp/news/techandscience/google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%ABclaude%E7%B5%B1%E5%90%88-anthropic%E3%81%8C%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E5%85%AC%E9%96%8B/ar-AA2dImmU",
-      "source": "msn.com",
-      "pub_date": "Tue, 06 Oct 2026 16:48:29 GMT",
-      "body": "米Anthropicは10月6日（現地時間）、Googleドキュメント、Googleスプレッドシート、Googleスライドで同社のAI「Claude」を利用できるアドオン「Claude for Google Workspace」のパブリックベータを開始した。Claudeの有料プランで利用でき、Google Workspace ..."
-    },
-    {
-      "title": "Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude ...",
-      "link": "https://www.msn.com/ja-jp/news/other/anthropic-claude-for-google-workspace-%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-claude-%E3%81%8B%E3%82%89-workspace-%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90-%E7%B7%A8%E9%9B%86%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%82%E3%83%99%E3%83%BC%E3%82%BF%E5%85%AC%E9%96%8B/ar-AA2dH0Pw",
-      "source": "msn.com",
-      "pub_date": "Tue, 06 Oct 2026 14:45:00 GMT",
-      "body": "米Anthropicは10月6日（現地時間）、「ドキュメント」「スプレッドシート」「スライド」といった「Google Workspace」アプリに「Claude」を追加できる公式アドオン「Claude for Google ..."
-    },
-    {
-      "title": "ClaudeがGoogleドキュメントやスプレッドシートに入ってきた",
-      "link": "https://gori.me/it/171021",
-      "source": "gori.me",
-      "pub_date": "Tue, 06 Oct 2026 14:16:00 GMT",
-      "body": "クイック ClaudeがGoogleドキュメントやスプレッドシートに入ってきた ドキュメント・スプレッドシート・スライドに対応、公開ベータで提供開始 忙しい人のための3行まとめ ▾ ClaudeがGoogleドキュメント・スプレッドシート・スライドのサイドバーで使えるようになった Pro、Max、Team、Enterpriseプランが対象の公開ベータ 既定のモードでは、編集前に変更内容を確認してから実行する Anthropicが Google ドキュメント、スプレッドシート、スライドで使える「Claude for Google Workspace」を公開ベータとして提供開始 した。ファイルの横にClaudeのサイドバーを開き、文書の作成や編集を手伝ってもらえる。 Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude. In Google Workspace, Claude sits in a sidebar next to your file, r"
-    },
-    {
-      "title": "怒涛のOpenAI尽くし！ Codexの“28日間連続改善”宣言から、ChatGPTの ...",
-      "link": "https://realsound.jp/tech/2026/10/post-2545224.html",
-      "source": "realsound.jp",
-      "pub_date": "Tue, 06 Oct 2026 14:00:00 GMT",
-      "body": "国内外で新サービスの発表やアップデート情報などが絶えない昨今のAI業界。 1日の間にこれまでの常識が変わるようなリリースがあったりと、AI関連のトピックは目まぐるしい速度で更新されている。 先日行われたDevDayから毎日のように新情報を出しているOpenAIだが、10月5日にはなんと「Codex」の28日間に及ぶ“毎日改善”まで宣言された。機能面でも、ChatGPTでの画像広告のテスト導入や、AI生成テキストを識別する“透かし”の導入も発表されるなど、怒涛のリリースラッシュの様相を見せている。 OpenAIでCodexを率いるティボ・ソティオ氏が、「今後28日間にわたりCodexを毎日1つずつ改善するか、改善できない日は利用枠をフルリセットする」と自身のXに投稿した。 Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the imp"
     }
   ]
 }
