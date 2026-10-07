@@ -1,13 +1,41 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-07T03:13:45.034198+00:00",
+  "updated_at": "2026-10-07T04:13:42.337954+00:00",
   "items": [
+    {
+      "title": "Claudeは25日間に何回止まったか 公式ステータスを30分おきに見張っ ...",
+      "link": "https://note.com/maudi/n/n74a110164bca",
+      "source": "note.com",
+      "pub_date": "Tue, 06 Oct 2026 21:13:00 GMT",
+      "body": "見張りの仕組み 見張り番のスクリプト（札 cs20260913a）が status.claude.com の公開情報を定期的に読み、前回と比べて何かが変わった時だけ 台帳.jsonl に1行を追記します。記録の時刻が毎時 :21 と :51 にそろっているので、 30分おきに見回っている ことが記録そのものから分かります。 そのため、この記事の「何時に始まって何時に戻った」は、 見張り番が気づいた時刻 です。公式の発生時刻とは最大30分ずれます。 帳面は追記専用で、消したり書き直したりはしません。人が読むためのページ（公式ステータス台帳）は、別のスクリプト（cs20261007b）が台帳から毎回作り直しています。 記録には4つの段階があります。 段階意味件数 重大部品が「一部障害」以上、または影響の大きい事案13注意性能低下など軽いもの1変化影響なしの事案の出入り・名前の変更など2回復全体が正常に戻った・事案が解消した7 時刻はすべて日本時間です。公式の英文は筆者が日本語に訳しています（原文は台帳に英文のまま残しています）。 見張りを始めた時点で、すでに進行中でした。公式の説明を訳すと"
+    },
     {
       "title": "有料ChatGPTアカウント16円、「脱獄」プロンプト50円…犯罪AI闇市場 ...",
       "link": "https://news.yahoo.co.jp/expert/articles/b41eaab8defd85aa6597f1b864b18f47169efa00",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Tue, 06 Oct 2026 20:13:00 GMT",
+      "pub_date": "Tue, 06 Oct 2026 21:12:00 GMT",
       "body": "有料ChatGPTアカウント16円、「脱獄」プロンプト50円…犯罪AI闇市場4,000件の投稿分析 （ 写真:イメージマート ） 有料チャットGPTのアカウントが10セント（約16円）、AIの安全対策を外す「脱獄」プロンプトが32セント（約50円）――。  サイバー犯罪目的のAIツールが、一般向けの生成AIとほぼ同じ無料やサブスクリプション（月額販売）の形でオンライン提供されている。  米セキュリティ企業「ハルシオン」が闇市場の約4,000件の投稿を調べた報告書を10月6日に公表した。  宣伝は半年足らずで月50件未満から1,400件超に急増。報告書は「参入障壁は実質ゼロ」と指摘する。  犯罪の「商用AI」はサイバー攻撃をどう変えるのか。  （犯罪目的の）AIツールへの関心は爆発的に高まった。AIツールを宣伝するメッセージは、2025年後半の月間50件未満から、2026年2月までに1,400件以上に増加した。  「ハルシオン」は10月6日に公開した 報告書 で、そう指摘する。  報告書が取り上げている犯罪目的の「AIaaS（サービスとしてのAI）」は、専用の設備や専門知識を持たなくても"
+    },
+    {
+      "title": "AI画像生成によって結果が逆転した画像を、人間の専門家は見抜けるか",
+      "link": "https://note.com/pharma_i_cist/n/n05d3011090fd",
+      "source": "note.com",
+      "pub_date": "Tue, 06 Oct 2026 21:07:00 GMT",
+      "body": "24人の評価者の成績（平均）は、以下のようになりました。 正答率 ：50.5 ± 6.9％ 感度 （AI生成画像を正しく見抜いた割合）：38.5 ± 18.9％ 特異度 （元々の画像を正しく見抜いた割合）：61.5 ± 17.7％ 特に感度が低く、 AI生成画像の多くを正しく見抜くのが難しかった と解釈できます。 著者らは、「今回のAI生成画像では、評価者の目視の判断をすり抜けられるくらいの自然さが保たれていた」と考察しています。 3種類の検出ツールの成績は、以下のようになりました。 AI or Not AUC：0.790（95%信頼区間 [0.695, 0.885] ） Is It AI AUC：0.733（95%信頼区間 [0.645, 0.821] ） Illuminarty AUC：0.485（95%信頼区間 [0.372, 0.598] ） AI or NotとIs It AIのAUCは、いずれもIlluminartyのAUCより有意に高い値となっていましたが、AI or NotとIs It AIの間に有意差は確認されませんでした。 例えば基準値を0.185（今回のデータにお"
+    },
+    {
+      "title": "Claudeで「Googleドキュメント」直接編集 スプレッドシート、スライド ...",
+      "link": "https://www.msn.com/ja-jp/technology/software/claude%E3%81%A7-google%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-%E7%9B%B4%E6%8E%A5%E7%B7%A8%E9%9B%86-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88-%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%82%82-workspace%E5%90%91%E3%81%91%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E5%85%AC%E9%96%8B/ar-AA2dIaQx",
+      "source": "msn.com",
+      "pub_date": "Tue, 06 Oct 2026 20:28:37 GMT",
+      "body": "米Anthropicは10月6日（現地時間）、Googleドキュメント、スプレッドシート、スライドにClaudeを組み込めるアドオン「Claude for Google Workspace」β版を公開した。各サービスのサイドバーでClaudeを呼び出し、ファイルを直接編集できる。Claudeの全有料プランで利用できる ..."
+    },
+    {
+      "title": "Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能 ...",
+      "link": "https://www.msn.com/ja-jp/news/other/google%E3%81%8C%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai-nano-banana-21-%E3%82%92%E5%85%AC%E9%96%8B-%E4%BA%BA%E7%89%A9%E3%81%AE%E4%B8%80%E8%B2%AB%E6%80%A7%E3%82%84%E7%B7%A8%E9%9B%86%E6%A9%9F%E8%83%BD%E3%81%8C%E5%90%91%E4%B8%8A/ar-AA2dIMwv",
+      "source": "msn.com",
+      "pub_date": "Tue, 06 Oct 2026 20:16:00 GMT",
+      "body": "Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Google検索のグラウンディングを改善していま ..."
     },
     {
       "title": "Googleドキュメントやスプシから「Claude」を利用 新アドオン公開",
@@ -17,6 +45,20 @@
       "body": "Anthropicは6日(米国時間)、Claudeにおいて、Google ドキュメント、スプレッドシート、スライドに対応した。Google Workspaceから、新しいアドオンとGoogle ドキュメント、スプレッドシート、スライドのコネクタ(ベータ版)を使うことで、ファイル内にClaudeを組み込んだり、Claudeから直接ファイルを編集したりできるようになる。 「Claude for Goo ..."
     },
     {
+      "title": "マーケティング業務を自社で回せる形へ。生成AIを活用した内製化 ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000000007.000175585.html",
+      "source": "prtimes.jp",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "いいね！数を読み込み中です クリサク株式会社（東京都渋谷区）は、専任・兼任を問わずマーケティングを担当する方に向けた「マーケティングAI内製化・自動化支援」を、2026年10月7日に開始しました。担当者自身が生成AIを使って制作・運用を実践し、自社で業務を進められるようになることを目指す伴走型の支援です。LP制作、GA4（Googleアナリティクス4）などのレポート自動化、業務ツールの試作を中心に、1つの業務から取り組めます。初回相談は無料で、オンラインで実施します。 東京商工リサーチが2025年7月30日〜8月6日に実施した企業向け調査（有効回答6,645社）では、会社全体または部門で生成AIの活用を推進している企業は25.2%で、中小企業では23.4%でした。活用を推進していない理由について回答した4,358社のうち、55.1%が「推進するための専門人材がいない」を選択しています（複数回答）。※1 専門人材の採用だけに頼らず、いまの担当者が生成AIを日々の仕事で使えるようにすることも、活用を進める選択肢の1つです。本サービスでは、次のようなマーケティング業務の困りごとを起点に、取り"
+    },
+    {
+      "title": "【スポーツナビ】生成AIがプロ野球の試合状況を解説する新機能「AI ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000001816.000129774.html",
+      "source": "prtimes.jp",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "いいね！数を読み込み中です LINEヤフー株式会社（以下、LINEヤフー）が運営するスポーツ総合サイト「スポーツナビ」（スマートフォンブラウザー版）は、「プロ野球」の試合詳細ページで新機能「AI野球解説（β版）」（以下、本機能）の提供を開始しました。プロ野球クライマックスシリーズ（CS）の開幕に先駆けて提供する本機能は、試合を観戦しながら、AIが生成する解説によって試合の注目ポイントをリアルタイムで確認できます。  本機能では、スコアやプレー速報だけでは分かりにくい「いま、この場面のどこに注目すると試合をより楽しめるのか」を、AIが解説します。 打者が打席に入った時や投手交代、イニング終了といった試合中のさまざまなタイミングで、現在の試合状況や選手成績、対戦成績などをもとにAIが注目ポイントを提示します。 これにより、野球に詳しいユーザーだけでなく、選手のデータや試合の背景を知らないユーザーでも、「この打席がなぜ重要なのか」「この選手はどんな特徴があるのか」「この対戦にはどんな注目ポイントがあるのか」などを把握しながら、試合観戦をより深く楽しめます。  ＜注目ポイントの表示＞ 試合詳細"
+    },
+    {
       "title": "ClaudeはChatGPTの約5倍使える？SemiAnalysisが定額プランの「API換算価値 ...",
       "link": "https://xenospectrum.com/claude-chatgpt-subscription-value-conditions/",
       "source": "xenospectrum.com",
@@ -24,53 +66,11 @@
       "body": "SemiAnalysisは2026年10月5日、AIの定額プランを実測した調査を公表し、Claude Opus 5.5を使う月 200ドル のClaude契約は、GPT-6.1 Solを使う同価格帯のChatGPT契約と比べ、約5倍の「API換算価値」があると報告した。ツールを使いながら複数の処理を進めるエージェント型の作業を想定した結果で、OpenAIが月 200ドル のPro ..."
     },
     {
-      "title": "ClaudeがGoogle文書を直接編集、公開ベータで業務スキルも持ち込み ...",
-      "link": "https://xenospectrum.com/claude-google-workspace-editing-beta/",
-      "source": "xenospectrum.com",
+      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充 ...",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
+      "source": "itmedia.co.jp",
       "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
-      "body": "Anthropicは2026年10月6日、Google Docs・Sheets・Slidesの中で文書や資料を直接編集できる「Claude for Google Workspace」の公開ベータを開始した。Claudeの会話画面からGoogleファイルを作成・編集できる専用コネクターも同時に公開し、すべての有料プランを対象としている。公式発表によると、Googleアプリ内のサイドバーでも、普段Cl ..."
-    },
-    {
-      "title": "「200万人が使うChrome拡張機能」のキケンすぎる本性。ChatGPTとの会話 ...",
-      "link": "https://www.msn.com/ja-jp/technology/software/200%E4%B8%87%E4%BA%BA%E3%81%8C%E4%BD%BF%E3%81%86chrome%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD-%E3%81%AE%E3%82%AD%E3%82%B1%E3%83%B3%E3%81%99%E3%81%8E%E3%82%8B%E6%9C%AC%E6%80%A7-chatgpt%E3%81%A8%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%82%E6%8A%9C%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86/ar-AA2dIzkG",
-      "source": "msn.com",
-      "pub_date": "Tue, 06 Oct 2026 16:30:00 GMT",
-      "body": "人気Chrome拡張機能「Poper Blocker」のコードを解析したところ、閲覧履歴やAIとの会話を取得する“悪意あるデータ共有機能”があることがわかったとセキュリティ専門企業が報告しています。"
-    },
-    {
-      "title": "Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude ...",
-      "link": "https://www.msn.com/ja-jp/news/other/anthropic-claude-for-google-workspace-%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-claude-%E3%81%8B%E3%82%89-workspace-%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90-%E7%B7%A8%E9%9B%86%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%82%E3%83%99%E3%83%BC%E3%82%BF%E5%85%AC%E9%96%8B/ar-AA2dH0Pw",
-      "source": "msn.com",
-      "pub_date": "Tue, 06 Oct 2026 14:45:00 GMT",
-      "body": "米Anthropicは10月6日（現地時間）、「ドキュメント」「スプレッドシート」「スライド」といった「Google Workspace」アプリに「Claude」を追加できる公式アドオン「Claude for Google ..."
-    },
-    {
-      "title": "怒涛のOpenAI尽くし！ Codexの“28日間連続改善”宣言から、ChatGPTの ...",
-      "link": "https://realsound.jp/tech/2026/10/post-2545224.html",
-      "source": "realsound.jp",
-      "pub_date": "Tue, 06 Oct 2026 14:00:00 GMT",
-      "body": "国内外で新サービスの発表やアップデート情報などが絶えない昨今のAI業界。 1日の間にこれまでの常識が変わるようなリリースがあったりと、AI関連のトピックは目まぐるしい速度で更新されている。 先日行われたDevDayから毎日のように新情報を出しているOpenAIだが、10月5日にはなんと「Codex」の28日間に及ぶ“毎日改善”まで宣言された。機能面でも、ChatGPTでの画像広告のテスト導入や、AI生成テキストを識別する“透かし”の導入も発表されるなど、怒涛のリリースラッシュの様相を見せている。 OpenAIでCodexを率いるティボ・ソティオ氏が、「今後28日間にわたりCodexを毎日1つずつ改善するか、改善できない日は利用枠をフルリセットする」と自身のXに投稿した。 Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the imp"
-    },
-    {
-      "title": "Claude Startupsプログラムに、Claude Codeと一緒に申し込んでみた",
-      "link": "https://note.com/gensekikobo/n/nd374e7a399a8",
-      "source": "note.com",
-      "pub_date": "Tue, 06 Oct 2026 13:17:00 GMT",
-      "body": "原石工房｜自分で原石を光らせる 2026年10月7日 10:17 Anthropicが、スタートアップ向けの支援プログラム「Claude Startups」を広げると発表しました（2026年10月6日）。 一人で事業をしている私でも申し込めそうだったので、Claude Codeに手伝ってもらいながら申請してみました。 この記事では、 そもそもClaude Startupsとは何か 申請をClaude Codeとどう分担して進めたか を、実際の画面と一緒に書いておきます。 Claudeを使ってプロダクトや事業を作っている創業者向けの支援プログラムです。 審査に通ると、次のものがもらえます。 Claude Team ：最大5席（Premium）を1年間無料。ただし、新しくTeamを始める組織だけが対象 APIクレジット ：1,000ドル分。受け取ってから6か月で失効 パートナー特典 ：ElevenLabs、Gamma、Granolaなど、AIツール各社の割引やクレジット。合計で最大45,000ドル相当 オフィスアワー ：AnthropicのApplied AIチームとの45分のライブ相談会"
-    },
-    {
-      "title": "Anthropic、スタートアップ支援拡充 Claude Teamを1年無償提供",
-      "link": "https://www.digitaltoday.co.kr/jp/view/111399/anthropic-expands-startup-support-offers-claude-team-free-for-a-year",
-      "source": "digitaltoday.co.kr",
-      "pub_date": "Tue, 06 Oct 2026 12:55:00 GMT",
-      "body": "Anthropicは、スタートアップ向け支援プログラム「Claude for Startups」を拡充した。採択企業に対し、チーム向け有料プラン「Claude Team」を1年間無償提供するほか、APIクレジット1000ドル（約15万円）を付与する。TechCrunchが6日、報じた。 Anthropicは今回の内容を、「SF Tech Week」のイベントで明らかにした。 拡充後の「Claude for Startups」に採択された企業は、「Claude Team」を1年間無料で利用できる。利用枠は最大5席。 あわせて、「Claude」を活用した開発に使えるAPIクレジット1000ドルも提供する。 参加企業は「Claude Marketplace」も利用できる。自社サービス向けプラグインを開発できるほか、AnthropicのAI応用チームによるオンラインのオフィスアワーを予約し、相談することも可能だ。 対象は、設立から5年以内の企業、または直近2年以内に資金調達を実施した企業。申請は「Claude for Startups」のプログラムページで受け付ける。 Anthropicは今回"
-    },
-    {
-      "title": "Googleドキュメント・スプレッドシート・スライドにClaude統合 Anthropic ...",
-      "link": "https://news.mynavi.jp/article/20261007-5088100/",
-      "source": "news.mynavi.jp",
-      "pub_date": "Tue, 06 Oct 2026 11:48:00 GMT",
-      "body": "米Anthropicは10月6日（現地時間）、Googleドキュメント、Googleスプレッドシート、Googleスライドで同社のAI「Claude」を利用できるアドオン「Claude for Google Workspace」のパブリックベータを開始した。Claudeの有料プランで利用でき、 Google Workspace Marketplace からインストールする。 アドオンを導入すると、ドキュメント、スプレッドシート、スライドのサイドバーでClaudeを利用できるようになる。Claudeは開いているファイルや選択した文章、セル、スライドの内容を読み取り、質問への回答に加えて、ファイルを直接編集できる。 ドキュメントでは文章の修正や書き換え、構成変更に対応する。既存の書式を維持したまま文章を修正でき、大きな書き換えでは、変更箇所を示す提案カードをサイドバーに表示し、ユーザーが適用するかどうかを選択できる。 スプレッドシートでは数式の作成、ピボットテーブルやグラフの生成、新しいタブの追加などを行える。データの結合やクリーニングでは、一部の範囲をPythonで処理し、その結果をシー"
+      "body": "プログラム参加組織には、サイバー悪用を監視するためにデータ保持が求められる。 今秋後半に提供予定の「Enterprise Frontier Safeguards」（EFS） が利用可能になれば、対象組織は自社が管理するクラウドインフラにデータを保存できるようになる。EFSの提供開始までは、「Claude Fable 5.1」または「Claude Mythos 5.1」をゼロデータ保持で利用している組織は、CVPもゼロデータ保持で利用できる。 同社は各枠の有効性を検証するため、多段階のサイバー作戦を現実的な制約下で計画・実行できるかを測る評価「CyScenarioBench」で、各枠向けに調整した安全対策を適用した「Claude Opus 5.5」をテストした。10の課題を各枠で5回ずつ試行した結果、CVPを利用しない場合は全てのタスクが最初のプロンプトでブロックされた。「Defense Access」では50回中46回が途中でブロックされ、残る4回は成功した。「Red Team Access」ではブロックは発生せず、50回中34回のタスクを完了した。これは安全対策を適用しない場合（「S"
     }
   ]
 }
