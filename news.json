@@ -1,62 +1,13 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-08T05:14:07.955429+00:00",
+  "updated_at": "2026-10-08T06:18:41.882129+00:00",
   "items": [
-    {
-      "title": "Claude Codeの使用上限がほぼ1日もつように。変えたのは「ファイルの ...",
-      "link": "https://news.yahoo.co.jp/articles/b65754058939684ca9542523ea004c8e3e695571",
-      "source": "news.yahoo.co.jp",
-      "pub_date": "Wed, 07 Oct 2026 22:13:00 GMT",
-      "body": "Claude Codeの使用上限がほぼ1日もつように。変えたのは「ファイルの読ませ方」だけ（ライフハッカー・ジャパン編集部） Claude Codeを使い始めるとき、最初の質問をする前に「プロジェクト全体を読んで」と指示したくなるかもしれません。 【全画像をみる】Claude Codeの使用上限がほぼ1日もつように。変えたのは「ファイルの読ませ方」だけ しかし、問題があります。 Claude Codeは、一度読み込んだ情報をその後のやり取りでも抱え続けます。 そのため、最初に大量のファイルを読ませると、それ以降の質問でも巨大なコンテキストを毎回処理することになるのです。 そこで私は、必要なファイルを指定し、Claude Codeにまず検索させてから必要な箇所だけを読ませるようにしました。 同じ3つの質問を2通りの方法で試したところ、必要な範囲だけを読ませたセッションでは、コストを約3分の1に抑えられました。 後からする質問ほどコストが膨らんでいく Claude Codeでは、セッション中の情報が「コンテキストウィンドウ」に蓄積されていきます。 ここには、たとえば次のような情報が含まれま"
-    },
     {
       "title": "ChatGPTがGPT-6になっていた！ GPT-5.6から何が変わった？「賢さ」の ...",
       "link": "https://note.com/hoboai/n/nc2abbdfd940d",
       "source": "note.com",
-      "pub_date": "Wed, 07 Oct 2026 22:12:00 GMT",
+      "pub_date": "Wed, 07 Oct 2026 23:18:00 GMT",
       "body": "ほぼほぼAIで 2026年10月8日 10:45 いつものようにChatGPTを使っていて、ふと気がつきました。 あれ？ ChatGPTがGPT-6になっている？ さっそくChatGPTに「いつから？」と聞いてみると、2026年10月7日から新しいGPT-6が導入されたとのこと。 さらに「どこまで賢くなったの？」と質問してみたところ、どうやら今回の進化は、単に頭が良くなったというだけではなさそうです。 しかも、新機能には「Intelligent UI」なんて、いかにも賢さを全面に押し出した名前まで付いています。 いやぁ、OpenAIもなかなか大げさな名前を付けるもんだなぁｗｗ ただ、詳しく調べてみると、GPT-5.6からの進化には面白い部分がいくつもありました。 特に、AIを普段の調べ物や文章作成だけでなく、アプリ開発などにも使っている人にとっては、ちょっと気になる変化です。 今回、ChatGPTにGPT-6が導入されたのは2026年10月7日ですが、GPT-6モデル自体は、それ以前から登場していました。 9月22日にはGPT-6 SolとGPT-6 Lunaが発表され、ChatGPT"
-    },
-    {
-      "title": "いまの ChatGPT を、僕がまるごと解説！ モデル・料金・強みと弱み ...",
-      "link": "https://note.com/hyperhouse/n/n622e000d50dc",
-      "source": "note.com",
-      "pub_date": "Wed, 07 Oct 2026 22:12:00 GMT",
-      "body": "作っているのは OpenAI 。2015年に、非営利の団体として始まったんだ。今は、非営利の財団（OpenAI Foundation）が、公益法人の会社（OpenAI Group PBC）をまとめる形になっている。 目標は「汎用人工知能（AGI）が、人類全体の利益になるようにすること」。使っている人は、 週に12億人 （2026年9月29日の OpenAI の発表）。……まあ、最近はみんなに追い上げられて、ちょっと焦ってるけどね。 ChatGPT は、プランによってチャットで使えるモデルが変わるよ。 Free・Go ： GPT-6 Luna （10月8日から順に）。テキストのチャットは回数の制限なし（乱用を防ぐ仕組みの範囲で） Plus ： GPT-6 Sol （10月7日から順に）。じっくり考えるモードも選べる Pro・Business・Enterprise ：GPT-6 Sol に加えて、さらに深く考える GPT-6 Pro （中身は GPT-6 Astra） Work と Codex のモデル（GPT-6 Astra・GPT-6.1 Sol など）は、今回は変わっていない。GPT"
-    },
-    {
-      "title": "「ChatGPT」の回答がビジュアルに進化、GPT-6と新UIを無料版でも提供へ",
-      "link": "https://news.yahoo.co.jp/articles/9e22472a065afdb05190d556edc5552d443c544e",
-      "source": "news.yahoo.co.jp",
-      "pub_date": "Wed, 07 Oct 2026 22:12:00 GMT",
-      "body": "「ChatGPT」の回答がビジュアルに進化、GPT-6と新UIを無料版でも提供への画像（CNET Japan） OpenAIは「ChatGPT」をテキストだけのサービスにとどまらないものにしようと取り組んできた。同社は米国時間10月7日、AIモデル「GPT-6」で、回答に操作可能な図や画像などの視覚的な要素を取り入れる新たな「Intelligent UI」の提供を開始した。 【画像】ビジュアルな回答の例 例えば、ChatGPTにサッカーのオフサイドのルールを説明するよう求めると、ピッチ上の各選手の位置を動かし、それぞれの状況でオフサイドラインがどこに引かれるかを確認できる図が作成されるかもしれない。また、夕食会のメニューと買い物リストを作らせ、参加人数に応じてスライダーで調整することもできる。ChatGPTはこうした画像や図をその都度作成するが、その基になるのはオンラインの情報源から取得した情報であり、各回答にはその出典が明示されるはずだ。 この新UIを支えるのは、OpenAIの主力モデルであるGPT-6だ。Intelligent UIを含むGPT-6は、ChatGPTのすべてのユーザ"
-    },
-    {
-      "title": "Googleが生成AI使用チェックツールを一般公開。SynthID DetectorはChatGPTや ...",
-      "link": "https://www.msn.com/ja-jp/news/other/google%E3%81%8C%E7%94%9F%E6%88%90ai%E4%BD%BF%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B-synthid-detector%E3%81%AFchatgpt%E3%82%84nvidia%E8%A3%BD%E3%81%AE%E7%94%BB%E5%83%8F-%E5%8B%95%E7%94%BB-%E9%9F%B3%E5%A3%B0%E3%82%82%E6%A4%9C%E8%A8%BC/ar-AA2dMkmi",
-      "source": "msn.com",
-      "pub_date": "Wed, 07 Oct 2026 21:34:26 GMT",
-      "body": "他の写真を見る Googleが画像・動画・音声の生成AI使用を検証するオンラインツール「SynthID Detector」を一般ユーザーに開放しました。 GeminiなどのGoogle製AIに加え、OpenAI、NVIDIA、Kakaoのツールで作られたコンテンツも判定でき、近日中にAppleにも対応します。 ■ ..."
-    },
-    {
-      "title": "アンソロピック、小型AI「Claude Haiku 5.5」発表 入力100万トークン0.10 ...",
-      "link": "https://www.sbbit.jp/article/cont1/187342",
-      "source": "sbbit.jp",
-      "pub_date": "Wed, 07 Oct 2026 21:31:00 GMT",
-      "body": "注目のイベント・セミナーランキング オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ もっと見る 最新ニュース 元バイトダンスのインターンによ"
-    },
-    {
-      "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも ...",
-      "link": "https://www.msn.com/ja-jp/news/other/google-ai%E7%94%9F%E6%88%90%E7%89%A9%E3%81%AE%E5%88%A4%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E4%B8%80%E8%88%AC%E5%85%AC%E9%96%8B-openai%E3%82%84nvidia%E8%A3%BD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%82%E5%AF%BE%E8%B1%A1%E3%81%AB/ar-AA2dNnae",
-      "source": "msn.com",
-      "pub_date": "Wed, 07 Oct 2026 21:29:18 GMT",
-      "body": "米Googleは10月7日（現地時間）、AIで生成したコンテンツを判別するWebサイト「SynthID Detector」を一般公開した。画像や動画、音声ファイルをアップロードすると、Googleや米OpenAIなどのAIで作ったものかを確認できる。"
-    },
-    {
-      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt-for-teens-%E3%81%AF-%E5%AE%B9%E8%AA%8D%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%83%AA%E3%82%B9%E3%82%AF-%E3%81%A8%E7%B1%B3%E9%9D%9E%E5%96%B6%E5%88%A9%E5%9B%A3%E4%BD%93%E3%81%8C%E8%AD%A6%E5%91%8A-openai%E3%81%AF%E5%88%A9%E7%94%A8%E7%8A%B6%E6%B3%81%E3%81%A8%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E7%99%BA%E8%A1%A8/ar-AA2dNeRb",
-      "source": "msn.com",
-      "pub_date": "Wed, 07 Oct 2026 21:01:51 GMT",
-      "body": "子供のデジタルメディア利用に関する調査や評価を手掛ける米非営利団体Common Sense Mediaは10月7日（現地時間）、米OpenAIが8月に発表した13～17歳向けの利用環境「ChatGPT for Teens」について、安全対策が不十分だとして「Unacceptable ..."
     },
     {
       "title": "OpenAI、GPT-6と対話型UI「Intelligent UI」をChatGPT全体へ展開 無料版は ...",
@@ -66,11 +17,60 @@
       "body": "注目のイベント・セミナーランキング オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ もっと見る 最新ニュース 元バイトダンスのインターンによ"
     },
     {
-      "title": "Anthropic、「Claude Haiku 5.5」公開 小型モデルを高速・低価格化",
-      "link": "https://www.msn.com/ja-jp/news/other/anthropic-claude-haiku-55-%E5%85%AC%E9%96%8B-%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E9%AB%98%E9%80%9F-%E4%BD%8E%E4%BE%A1%E6%A0%BC%E5%8C%96/ar-AA2dMAOU",
+      "title": "ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを ...",
+      "link": "https://www.msn.com/ja-jp/news/other/chatgpt%E3%81%AE%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%E3%81%A7%E3%82%82-gpt-6-luna-%E3%81%8C%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%AB-%E7%94%BB%E5%83%8F%E3%82%84%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%9B%9E%E7%AD%94%E3%81%99%E3%82%8B%E6%96%B0%E6%A9%9F%E8%83%BD-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88ui-%E3%82%82%E7%99%BB%E5%A0%B4/ar-AA2dMWGd",
       "source": "msn.com",
-      "pub_date": "Wed, 07 Oct 2026 19:45:00 GMT",
-      "body": "Anthropicは米国時間10月7日、小型AIモデル「Claude Haiku 5.5」を公開した。要約、会話履歴の圧縮、データベース照会、分類など、処理量が多くコストの影響を受けやすい用途を想定する。標準速度で比較した場合、これまでで最も高速な自社モデルとしており、リアルタイム顧客対応やブラウザー操作にも適すると説明した。 API料金は、入力が10万トークン以下のリクエストで100万トークン当 ..."
+      "pub_date": "Wed, 07 Oct 2026 19:20:00 GMT",
+      "body": "OpenAIは2026年10月7日にChatGPTの新たなAIモデル「GPT-6」の提供範囲を無料ユーザーにも拡大すると発表しました。さらに、質問内容に応じて画像・グラフ・操作可能なボタンなどを組み合わせて回答する新機能「Intelligent UI(インテリジェントUI)」も発表しています。"
+    },
+    {
+      "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」回答内に“操作できる ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt-%E7%84%A1%E6%96%99%E7%89%88%E3%82%92%E5%90%AB%E3%82%80%E5%85%A8%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB-gpt-6-%E5%9B%9E%E7%AD%94%E5%86%85%E3%81%AB-%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8B%E7%94%BB%E9%9D%A2-%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B-intelligent-ui-%E6%90%AD%E8%BC%89/ar-AA2dMKtN",
+      "source": "msn.com",
+      "pub_date": "Wed, 07 Oct 2026 19:10:24 GMT",
+      "body": "米OpenAIは10月7日（現地時間）、「ChatGPT」に新モデル「GPT-6」を搭載し、全ユーザーに向けて順次提供を始めた。テキストに加えて図やボタン、フォーム、グラフなどを組み合わせた対話型の画面（UI）を回答として生成する新機能「Intelligent ..."
+    },
+    {
+      "title": "ティーン向けChatGPTは「容認できないリスク」 調査団体が安全機能 ...",
+      "link": "https://japan.cnet.com/article/35253357/",
+      "source": "japan.cnet.com",
+      "pub_date": "Wed, 07 Oct 2026 17:00:00 GMT",
+      "body": "子ども向けのメディアや技術を評価、検証するこの非営利団体は、提供開始から2カ月もたっていないティーン向けChatGPTについて、掲げた複数の目標を達成できておらず、18歳未満のすべてのユーザーにとって「容認できないリスク」があると指摘した。 Common Sense Mediaの調査 では、テスターが自殺念慮や自傷行為、摂食障害について話しても、チャットボットの保護者向け警告システムから通知が送られなかった。また、さまざまな心の健康上の問題を訴えたテスターに対し、危機対応の相談窓口などを案内すべき場面でも、複数のケースで案内しなかった。 ティーン向けChatGPTは、OpenAIがこの機能についてうたっていた「ティーンのユーザーが主体的に、対話を通じて学び続けられるようにする」という点でも期待に応えられなかった。テスターは「学習モード」の指導過程を回避し、「答えを見せて」という選択肢を選ぶことで、すぐに解答を得られた。保護者が設定した「学習時間」からも、ティーンのユーザーは簡単に抜け出せた。 Common Sense Mediaは、「ChatGPT」の 年齢確認システム にも不備がある"
+    },
+    {
+      "title": "「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 ...",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
+      "source": "itmedia.co.jp",
+      "pub_date": "Wed, 07 Oct 2026 17:00:00 GMT",
+      "body": "同日、OpenAIもChatGPT for Teensの利用状況や新たな学習支援機能に関する公式ブログを公開したが、Common Sense Mediaの評価には言及していない。 ChatGPT for Teensは、18歳未満と判断されたユーザーに自動適用される利用環境。自傷行為や摂食障害などに関する安全対策を標準で有効にするほか、保護者への通知、段階的な学習支援、AIへの感情的な依存を抑える仕組みなどを備える。 Common Sense Media傘下の「Youth AI Safety Institute」は、ChatGPT for Teensの発表前後に、13～17歳として登録したアカウントで4000件以上のプロンプトを使って検証した。児童精神科医や小児科医などの専門家も評価に参加した。その結果、性的なロールプレイを拒否する機能などは有効だった一方、OpenAIが約束した安全対策の一部は十分に機能していなかったという。 特に問題視したのは、保護者への通知機能だ。保護者と連携した新規アカウントで、自殺願望や自傷行為、摂食障害について最大1時間にわたって会話しても、保護者には1度も通"
+    },
+    {
+      "title": "ChatGPTの回答はテキストからUIに 「インテリジェントUI」開始",
+      "link": "https://www.watch.impress.co.jp/docs/news/2146609.html",
+      "source": "watch.impress.co.jp",
+      "pub_date": "Wed, 07 Oct 2026 13:31:00 GMT",
+      "body": "Special Site 最新記事  AI通訳イヤフォン「W4 Plus」 Web会議や動画も翻訳   ヤマト、箱ごと溶解して機密文書を処理 「ECOBox」個人向けを全国展開   Meta、インスタ向け動画編集アプリ「Edits」がカルーセル投稿対応   モス、ライスバーガーの“具だけ”発売 焼肉・豚生姜焼き   XREAL、95g以下のAndroid XRグラス「AURA」 約23万円   「東京ミッドタウン日本橋」竣工 エリア一帯再開発の第1弾は52階建タワー   Windowsは「ハイブリッドAI」基盤へ RTX Spark搭載Surfaceも   IDCFクラウドの障害は「ランサムウェア攻撃」が原因 495の企業・自治体に影響   マクドナルド、レギュラーメニューのチキン刷新 一枚肉で「ザクザクジューシー」   アンソロピック、軽量モデル「Haiku 5.5」公開 1年ぶりアップデート   ChatGPTの回答はテキストからUIに 「インテリジェントUI」開始   相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会   日本語特化「PLaMo翻訳」が進化 最上位"
+    },
+    {
+      "title": "（GPT-6）ChatGPTは何が変わった？｜5.6 Solとの違いと、仕事で試したい ...",
+      "link": "https://note.com/ao_lab/n/n52fed591e436",
+      "source": "note.com",
+      "pub_date": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "body": "作った画面では、「Drive」「OCR」「Sheets」「CSV照合」「人間確認」といった工程を選択できます。 たとえば「OCR」を選べば、日付や金額、店名などを読み取る工程の説明が表示されます。 「CSV照合」を選べば、カード明細と領収書をどう突き合わせるのかを確認できます。 それぞれの工程には、注意すべき確認ポイントも表示できます。 これなら、最初から長い説明を全部読む必要がありません。 自分が知りたいところを選び、その部分を詳しく理解できます。 業務マニュアル、研修資料、社内の引き継ぎ、プログラムの仕組みを学ぶときなどにも使えそうです。 説明を読むだけでなく、自分の理解に合わせて情報を探索できる。 これは学習や情報共有の方法としても面白い変化だと思います。 ここまで3つの例を紹介しました。 実際に操作できる画面が作れると、つい「これで仕事まで完成した」と感じてしまうかもしれません。 でも、ここは分けて考えたいところです。 画面が動くことと、内容が正しいことは同じではありません。 利益シミュレーターなら、計算式が目的に合っているか。 比較画面なら、評価に使っている情報が正しいか。 "
+    },
+    {
+      "title": "怒涛のOpenAI尽くし！ Codexの“28日間連続改善”宣言から、ChatGPTの ...",
+      "link": "https://realsound.jp/tech/2026/10/post-2545224.html",
+      "source": "realsound.jp",
+      "pub_date": "Tue, 06 Oct 2026 14:00:00 GMT",
+      "body": "国内外で新サービスの発表やアップデート情報などが絶えない昨今のAI業界。 1日の間にこれまでの常識が変わるようなリリースがあったりと、AI関連のトピックは目まぐるしい速度で更新されている。 先日行われたDevDayから毎日のように新情報を出しているOpenAIだが、10月5日にはなんと「Codex」の28日間に及ぶ“毎日改善”まで宣言された。機能面でも、ChatGPTでの画像広告のテスト導入や、AI生成テキストを識別する“透かし”の導入も発表されるなど、怒涛のリリースラッシュの様相を見せている。 OpenAIでCodexを率いるティボ・ソティオ氏が、「今後28日間にわたりCodexを毎日1つずつ改善するか、改善できない日は利用枠をフルリセットする」と自身のXに投稿した。 Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the imp"
+    },
+    {
+      "title": "ChatGPTの世界ウェブ訪問数が3カ月連続増加、停滞期を脱して回復",
+      "link": "https://forbesjapan.com/articles/detail/105956",
+      "source": "forbesjapan.com",
+      "pub_date": "Sun, 04 Oct 2026 01:00:00 GMT",
+      "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. 重要なお知らせ 「Forbes」の名称を使用した営業活動にご注意ください 重要なお知らせ 「Forbes」の名称を使用した営業活動にご注意ください トップ テクノロジー AI ChatGPTの世界ウェブ訪問数が3カ月連続増加、停滞期を脱して回復 AI 2026.10.04 08:00 ChatGPTの世界ウェブ訪問数が3カ月連続増加、停滞期を脱して回復 Conor Murray | Forbes Staff 著者フォロー 記事を保存 prima91 - stock.adobe.com prima91 - stock.adobe.com AIチャットボットで首位を維持するOpenAIのChatGPTは、2026年前半にウェブ訪問数の伸びが頭打ちになったように見えた。同じ時期、アンソロピック（Anthropic）のClaudeやグーグルのGeminiは強固な利用者基盤を築いた。ところが夏に入ると、ChatGPTのウェブ訪問数は再び増え"
     }
   ]
 }
