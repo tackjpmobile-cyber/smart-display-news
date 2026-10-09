@@ -1,76 +1,76 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-09T06:18:16.939810+00:00",
+  "updated_at": "2026-10-09T07:16:05.891948+00:00",
   "items": [
+    {
+      "title": "CINCが「ChatGPT」の回答生成でウェブ検索に使われたキーワードが ...",
+      "link": "https://news.yahoo.co.jp/articles/e9858d837815dfeb702ebeff066e8c86b2576cbb",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 09 Oct 2026 00:15:00 GMT",
+      "body": "マーケティングソリューション事業のCINC(シンク)は、AI開発の米国Open AIが提供する生成AI「ChatGPT」が回答を生成する際にウェブ検索で使ったキーワード(検索クエリ)が分かるブラウザ拡張機能を開発した、と10月8日発表した。同社内用「Google Chrome」の拡張機能。ユーザーが入力したプロンプト(指示文)ではなく、ChatGPTが回答するために使用したウェブ検索語句が把握できる。 ChatGPTは質問に答える際、必要に応じてウェブ検索し、取得した情報に基づいて回答を生成する。CINCが開発したブラウザ拡張機能は、入力されたプロンプトに対し、回答生成の過程でウェブ検索に使用したキーワードや参照されたページのURL、タイトルなどを取得。質問と最終的な回答では把握しにくかった情報分析が可能になり、AI検索最適化(GEO/LLMO)の分析や施策の検討に活用する。"
+    },
     {
       "title": "Anthropicが規約改定、Claudeへの「継続的で不必要な虐待」を11月12日 ...",
       "link": "https://note.com/ai_masaki/n/n8541fde6fade",
       "source": "note.com",
-      "pub_date": "Thu, 08 Oct 2026 23:18:00 GMT",
+      "pub_date": "Fri, 09 Oct 2026 00:15:00 GMT",
       "body": "ここまでの4節は、Claudeに何をさせるか、どう接するかという「使い方」の話でした。同じ日、Anthropicは「誰に最も高性能なモデルを渡すか」についても動いています。8日に発表されたAnthropic Cyber Missionで、柱はOSS ScannerとCritical Infrastructure Defense Program（CIDP）の2つです。 こちらは公式発表のみの単独情報で、独立したメディアの続報は、執筆時点で確認できていません。以下はAnthropicの発表に基づきます。 OSS Scannerは、参加したオープンソースプロジェクトをAnthropicの最も能力の高いモデルで定期的にスキャンする無料サービスで、Google OSS-Fuzzに着想を得ています。費用はDefender Advantage Fundが負担します。公式ページでは執筆時点で『Enrolled projects receive periodic scans from our most capable models, free of charge.』と表記されています。 メンテナーには、"
     },
     {
       "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加 ...",
       "link": "https://news.yahoo.co.jp/articles/0b6a504047edd206c144a04e51a626b920d1f5f9",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Thu, 08 Oct 2026 23:18:00 GMT",
+      "pub_date": "Fri, 09 Oct 2026 00:15:00 GMT",
       "body": "（写真：ITmedia AI＋）（写真：ITmedia AI＋） 米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 新サービスのモデル選択画面 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新モデル「Gemini 4 Argon」に加えて、米Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。サブー氏は、他のクローズドモデル、オープンモデルも今後追加される予定だとしている。 今回発表されたGemini Agentと、既存の「Gemini」アプリや「Gemini Enterprise」との関連性については明言されていない。また、個人向け「Gemini AI」プランや、企業向けの「Google Workspace」「Gemini Enterprise」のどのプランでGemi"
     },
     {
-      "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/ai%E3%82%92%E3%81%84%E3%81%98%E3%82%81%E3%81%AA%E3%81%84%E3%81%A7-anthropic-claude%E3%81%B8%E3%81%AE%E8%99%90%E5%BE%85%E3%82%92%E7%A6%81%E6%AD%A2/ar-AA2dRIW3",
+      "title": "Anthropic、「Claude」への虐待を禁止 選挙・武器・監視のルールも改定",
+      "link": "https://news.yahoo.co.jp/articles/79b2ce8f8765ffbcdc8e1f8da1e9be66e7b75ae0",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 09 Oct 2026 00:15:00 GMT",
+      "body": "Anthropic、「Claude」への虐待を禁止 選挙・武器・監視のルールも改定の画像（CNET Japan） Anthropicは米国時間10月8日、生成AI「Claude」の利用規約を11月12日付けで改定すると発表した。 【画像をすべて見る】Anthropic、「Claude」への虐待を禁止 選挙・武器・監視のルールも改定 多くの変更は既存ルールの明確化だが、モデルに対する「継続的で不必要な虐待的または残酷な行為」を新たに禁止した点が注目を集めている。The Vergeによると、利用規約の大幅な更新は1年超ぶりとなる。 Anthropicによると、対象は明確な目的がないまま、モデルに対して残酷な行為を繰り返す極端な事例に限られる。一般的な不満や反論、暗い題材の創作、モデルの試験や研究は対象外だ。同社はすでに、Claude.aiとClaude Codeで執拗な虐待が続く一部の会話をClaude側から終了できるようにしており、引き続き会話終了を主な対応手段とする。 規約では、Claudeを使って偽アカウントや架空ニュースサイトを運営する行為をすでに禁じているが、その規定はさまざまな"
+    },
+    {
+      "title": "「生成AIでコンサル不要」に創業100年マッキンゼーの答え、自ら ...",
+      "link": "https://www.sbbit.jp/article/cont1/186635",
+      "source": "sbbit.jp",
+      "pub_date": "Fri, 09 Oct 2026 00:10:00 GMT",
+      "body": "注目のイベント・セミナーランキング 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ もっと見る 最新ニュース 米HPE、AMD第6世代EPY"
+    },
+    {
+      "title": "ChatGPT、音声アップロードに対応 文字起こし・要約が可能に",
+      "link": "https://www.msn.com/ja-jp/news/other/chatgpt-%E9%9F%B3%E5%A3%B0%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AB%E5%AF%BE%E5%BF%9C-%E6%96%87%E5%AD%97%E8%B5%B7%E3%81%93%E3%81%97-%E8%A6%81%E7%B4%84%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB/ar-AA2dSwzI",
       "source": "msn.com",
-      "pub_date": "Thu, 08 Oct 2026 18:45:00 GMT",
-      "body": "Anthropicは10月8日、Claudeの利用ポリシーを改定し、目的のない執拗で残酷な言動をモデルに向ける行為を禁止事項に加えた。"
+      "pub_date": "Thu, 08 Oct 2026 23:35:19 GMT",
+      "body": "対応形式はWAV、MP3/MPEG、OGG/OGA、WebM、PCM、FLAC、AAC、M4A、MP4で、最大512MBまでアップロードできる。WebMとMP4については動画として識別される場合は対象外。"
     },
     {
-      "title": "Anthropic、Claudeへの不必要な「虐待的」言動を禁止 利用規約を改定",
-      "link": "https://sumahodigest.com/?p=73239",
-      "source": "sumahodigest.com",
+      "title": "無料版ChatGPTにもGPT-6導入!回答に操作できるUIを生成",
+      "link": "https://www.msn.com/ja-jp/news/other/%E7%84%A1%E6%96%99%E7%89%88chatgpt%E3%81%AB%E3%82%82gpt-6%E5%B0%8E%E5%85%A5%E5%9B%9E%E7%AD%94%E3%81%AB%E6%93%8D%E4%BD%9C%E3%81%A7%E3%81%8D%E3%82%8Bui%E3%82%92%E7%94%9F%E6%88%90/ar-AA2dRRRi",
+      "source": "msn.com",
+      "pub_date": "Thu, 08 Oct 2026 22:44:53 GMT",
+      "body": "ChatGPTは、単なるチャットではなくインタラクティブなものになる――OpenAIは10月7日(現地時間)、ChatGPTに最新モデル「GPT-6」を全プランで順次展開すると発表した。有料のPlus、Pro、Business、Enterpriseプランでは同日から、FreeプランとGoプランでも10月8日から提供が始まる。なお、アップデートが適用されるのは ..."
+    },
+    {
+      "title": "平成ギャルになれる生成AIフォトブース、ギャル雑誌『egg』と ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000000216.000020107.html",
+      "source": "prtimes.jp",
       "pub_date": "Thu, 08 Oct 2026 17:00:00 GMT",
-      "body": "AI開発企業のAnthropicは2026年10月8日、AIアシスタント「Claude」の利用ポリシーを改定し、明確な目的もなく、継続的にClaudeへ虐待的・残酷な言動を向ける行為を禁止しました。今回の変更は極端なケースを対象としたもので、回答への不満を伝えたり、AIの応答を厳しく批判したりする通常の利用まで制限するものではありません。新しいポリシーは11月12日に適用される予定です。 Anthropicによると、今回のルールは、ユーザーが明確な目的もなく、繰り返しAIモデルに対して残酷な振る舞いをするケースを想定しています。一方、通常の不満や反論、ダークなテーマを扱う創作、モデルの性能検証や研究などは対象外です。 Claudeには以前から、執拗に攻撃的な言動を続けるユーザーとの会話を終了する仕組みが導入されています。今回の改定後も、主な対応手段は会話の終了となります。Claudeが会話を打ち切ると、そのスレッドでは追加のメッセージを送れなくなりますが、別の会話には影響しません。 Anthropicは2025年8月、AIのウェルビーイングに関する研究の一環として、Claudeが一部の"
+      "body": "『egg』は、1995年9月に創刊され、当時の渋谷女子高生のリアルなギャルカルチャーを切り取ったことで、最盛期には発行部数50万部を誇ったモンスターマガジンです。誌名には、「まだタマゴ（egg）状態なモデルたちと読者みんなで一緒に成長したい」という意味が込められています。  2014年5月に休刊しましたが、2018年3月にWEB版として復活。現在は「#やっぱ令和もギャルっしょ」を掲げ、YouTubeを軸にしたデジタル発信を中心に展開しています。TikTokは120万フォロワーを超えるなど、若年層に圧倒的な影響力を持ち、ギャルカルチャーの最前線を牽引しています。 〈egg（エッグ）公式SNS〉 Webサイト： https://eggegg.jp/ Instagram： https://www.instagram.com/new_eggofficial X： https://x.com/new_eggofficial TikTok： https://www.tiktok.com/@eggtok YouTube： https://youtube.com/@eggchannel 所在地：東京都"
     },
     {
-      "title": "株式会社国際調達情報、FastMetalでAnthropic社の新モデル「Claude Haiku 5.5 ...",
-      "link": "https://voix.jp/business-cards/fastmetal-anthropic-claude-haiku-5-5-launch/",
-      "source": "voix.jp",
+      "title": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に ...",
+      "link": "https://prtimes.jp/main/html/rd/p/000000716.000071591.html",
+      "source": "prtimes.jp",
       "pub_date": "Thu, 08 Oct 2026 17:00:00 GMT",
-      "body": "「Claude Haiku 5.5」は、要約やデータベースへの問い合わせ、分類など、コストを重視した用途向けに設計されています。前世代モデルに比べ、平均で約75%低いコストで利用できることが特徴です。また、推論の深さを調整できる機能を持つ初の小型モデルでもあります。 対応機能としては、ツール呼び出し、構造化出力、画像入力があり、これらの機能は実際の呼び出しで動作確認がされています。コンテキスト長は100万トークンで、柔軟な情報処理が可能です。 料金は、リクエスト時に入力するトークンの量によって2段階に分かれています。入力が10万トークンを超えるリクエストでは、入力・出力ともに10万トークン以下の場合の5倍の単価となります。このような料金設定により、大量の問い合わせや文書要約などの用途において、コストを抑えることができます。 利用するには、まず「FastMetal」のウェブサイトでアカウントを登録し、APIキーを発行します。その後、クレジットカードまたは銀行振込で残高をチャージし、指定されたAPIエンドポイントにリクエストを送信します。すでにFastMetalを利用している場合は、既存の"
+      "body": "イベント名 第10回 AI・業務自動化 展【秋】（Japan DX & AX Week【秋】内） 会期 2026年10月21日（水）～10月23日（金） 開催時間 10:00～17:00 会場 幕張メッセ（国際展示場 展示ホール1～8） 主催 RX Japan合同会社 当社ブース 小間番号：7ホールA33-6（6小間） 参加方法 来場事前登録制 来場登録は以下よりお申し込みください。 https://x.gd/xIxvK ＜ https://www.buildspi.jp/ ＞ 『ビルスピ（旧：TECH PLAY Academy）』は、「変革は、外注できない。」をスローガンに、企業のDX人材育成を支援するサービスです。ツールや知識の習得で終わることなく、現場活用と定着にこだわり、これまでに大手企業100社以上で研修を実施し、満足度95％超、リピート率90％超を実現。 生成AI、データサイエンス、事業開発、エンジニアなど各分野の専門家が設計した「オーダーメイド型」研修で、業務課題に直結する\"成果を生み出す人材\"を育成しています。 ＜ https://persol-innovation.c"
     },
     {
-      "title": "インターネット・アカデミー、既存システムの仕様書化・リ ...",
-      "link": "https://mainichi.jp/articles/20261009/pr2/00m/020/035000c",
-      "source": "mainichi.jp",
+      "title": "『ハイド＆シーク』生成AI使用理由",
+      "link": "https://www.asahi.com/and/entertainment/16952239",
+      "source": "asahi.com",
       "pub_date": "Thu, 08 Oct 2026 17:00:00 GMT",
-      "body": "要件定義から実装までのAI駆動開発と、AIによる既存システムの仕様書化・リファクタリングを全6回・12時間で体系的に習得 法人向けのAI研修・ITエンジニア研修を提供するインターネット・アカデミー株式会社は、Claude Codeを活用した新規開発の効率化と既存システムの保守・改修を目的とした ..."
-    },
-    {
-      "title": "アンソロピック、Claudeに「Dashboards」「Motion」追加 Docsなど3機能は ...",
-      "link": "https://www.sbbit.jp/article/cont1/187373",
-      "source": "sbbit.jp",
-      "pub_date": "Thu, 08 Oct 2026 15:26:00 GMT",
-      "body": "注目のイベント・セミナーランキング 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ もっと見る 最新ニュース 第一興商、委託先PCのマルウェ"
-    },
-    {
-      "title": "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用 ...",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Thu, 08 Oct 2026 00:25:00 GMT",
-      "body": "サイバーセキュリティの能力はHaiku 4.5を大きく上回るが、「Claude Opus 5」にも及ばないとしている。そのためセーフガードはHaiku 4.5より厳しい一方で、最近の他のモデルよりは緩くした。Sonnet 5.5より幅広い防御的な作業を認めるが、ペネトレーションテストなど攻撃者が使いやすい手法はブロックする。 System Cardによると、Sonnet 5.5などと異なり、ブロックした際に別のモデルへ振り替える仕組みはない。生物学分野のセーフガードは、Sonnet 5やSonnet 5.5、Opus 5と同じだ。 プロンプトインジェクションへの耐性も高めた。米Gray Swanのベンチマークでは、15回の試行で攻撃が成功する確率がHaiku 4.5の83.2％から7.1％に下がった。ただしSonnet 5.5やOpus 5.5と比べると弱く、残る弱点の多くはGUIを使うコンピュータ操作にあるという。 自動行動監査では、問題のない依頼を断る過剰な拒否が、テストした中で最も多かった。ハルシネーションは最近の他のモデルより多く、Haiku 4.5と同程度だった。漏えいした正"
-    },
-    {
-      "title": "アンソロピック、小型AI「Claude Haiku 5.5」発表 入力100万トークン0.10 ...",
-      "link": "https://www.sbbit.jp/article/cont1/187342",
-      "source": "sbbit.jp",
-      "pub_date": "Wed, 07 Oct 2026 21:31:00 GMT",
-      "body": "注目のイベント・セミナーランキング 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 東京都 2026/10/09 Security Management Conference Roadshow 2026 秋 東京 地政学リスク、経済安全保障、AIの進化により高まる脅威いま考える日本企業のサプライチェーン レジリエンス 東京都 2026/10/09 Agentic AI Frontier Day 2026 東京 チャット指示から自律稼働へ業務を完遂するエージェンティックなAI オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ もっと見る 最新ニュース 第一興商、委託先PCのマルウェ"
-    },
-    {
-      "title": "Claudeで「Googleドキュメント」直接編集 スプレッドシート、スライド ...",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002081/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Wed, 07 Oct 2026 05:26:00 GMT",
-      "body": "アドオン「Claude for Google Workspace」では、Googleドキュメント／スプレッドシート／スライドの画面で開いているファイルをClaudeが直接読み、選択中のテキストやセル、スライドを認識して変更を加えられる。 Googleドキュメントでは、周囲の書式を変えずに文を直したり、見出しのスタイルを変えたりできる。大きな書き換えは、サイドバー「提案カード」として示し、採用か却下を選べる。 Googleスプレッドシートでは、数式やピボットテーブル、グラフを作成したり、データの結合やクリーニングでは、Pythonで処理した結果をシートに書き戻したりできる。 Googleスライドでは、作成中の資料と同じレイアウトやテーマを使って新しいスライドを追加できる。作成後には要素の重なりやはみ出し、読みにくいテキストを自ら確認して指摘する。 Claudeにどこまで任せるかはユーザーが決める。デフォルトは編集のたびに承認を求める「Ask before edits」モード。確認なしで変更を反映する「Accept all edits」モードも選べる。"
+      "body": "このパンがすごい！ 黄金色に輝く正確無比のクロワッサン 三軒茶屋で出会う唯一無二の個性／CRESALTA BAKERY（東京都） ※アクセスは過去7日間で集計しています。"
     }
   ]
 }
