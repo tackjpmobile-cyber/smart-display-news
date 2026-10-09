@@ -1,7 +1,63 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-09T09:15:28.929934+00:00",
+  "updated_at": "2026-10-09T10:14:45.225002+00:00",
   "items": [
+    {
+      "title": "生成AI「ChatGPT」日本の月間利用者数は推計2670万人──約2年で695%増加",
+      "link": "https://news.yahoo.co.jp/articles/4b900122bdcd19f70e944979b92a09b25c7badec",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 09 Oct 2026 03:14:00 GMT",
+      "body": "「2026年 生成AIユーザー動向調査」 マーケティング調査会社・ヴァリューズが、国内における主要な生成AIサービスの利用動向をまとめた「2026年 生成AIユーザー動向調査」を発表した。 【画像】約2年間で695％増加──ChatGPTのユーザー数推移を見る 調査によれば、ChatGPTの2026年5月時点の月間アクティブユーザー数（MAU）は2670万人と推計。2024年6月時点では336万人で、約2年間で695％増加したという。 年代別では20代の利用頻度が最も高く、月21日以上生成AIを利用する「ヘビーユーザー」は約17％に達している。 調査はChatGPT、Gemini、Claude、Microsoft Copilot、Perplexity AI、Agent iの6サービスを対象。ヴァリューズが保有する国内250万人規模のインターネット行動ログを分析した内容となっている。 ※ユーザー数は実測値ではなく拡大推計値となる。 ヴァリューズは2026年5月時点の各生成AIサービスのMAUを比較したところ、最も利用者数が多かったのがChatGPTの2670万人だったと報告。 2024年"
+    },
+    {
+      "title": "CINCが「ChatGPT」の回答生成でウェブ検索に使われたキーワードが ...",
+      "link": "https://news.yahoo.co.jp/articles/e9858d837815dfeb702ebeff066e8c86b2576cbb",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 09 Oct 2026 03:14:00 GMT",
+      "body": "マーケティングソリューション事業のCINC(シンク)は、AI開発の米国Open AIが提供する生成AI「ChatGPT」が回答を生成する際にウェブ検索で使ったキーワード(検索クエリ)が分かるブラウザ拡張機能を開発した、と10月8日発表した。同社内用「Google Chrome」の拡張機能。ユーザーが入力したプロンプト(指示文)ではなく、ChatGPTが回答するために使用したウェブ検索語句が把握できる。 ChatGPTは質問に答える際、必要に応じてウェブ検索し、取得した情報に基づいて回答を生成する。CINCが開発したブラウザ拡張機能は、入力されたプロンプトに対し、回答生成の過程でウェブ検索に使用したキーワードや参照されたページのURL、タイトルなどを取得。質問と最終的な回答では把握しにくかった情報分析が可能になり、AI検索最適化(GEO/LLMO)の分析や施策の検討に活用する。"
+    },
+    {
+      "title": "Anthropicが規約改定、Claudeへの「継続的で不必要な虐待」を11月12日 ...",
+      "link": "https://note.com/ai_masaki/n/n8541fde6fade",
+      "source": "note.com",
+      "pub_date": "Fri, 09 Oct 2026 03:14:00 GMT",
+      "body": "ここまでの4節は、Claudeに何をさせるか、どう接するかという「使い方」の話でした。同じ日、Anthropicは「誰に最も高性能なモデルを渡すか」についても動いています。8日に発表されたAnthropic Cyber Missionで、柱はOSS ScannerとCritical Infrastructure Defense Program（CIDP）の2つです。 こちらは公式発表のみの単独情報で、独立したメディアの続報は、執筆時点で確認できていません。以下はAnthropicの発表に基づきます。 OSS Scannerは、参加したオープンソースプロジェクトをAnthropicの最も能力の高いモデルで定期的にスキャンする無料サービスで、Google OSS-Fuzzに着想を得ています。費用はDefender Advantage Fundが負担します。公式ページでは執筆時点で『Enrolled projects receive periodic scans from our most capable models, free of charge.』と表記されています。 メンテナーには、"
+    },
+    {
+      "title": "国内漏洩155件のTier表、さくらの専有LLM、28万スターのスキル集｜amu ...",
+      "link": "https://note.com/bhrtaym/n/n115525ed8968",
+      "source": "note.com",
+      "pub_date": "Fri, 09 Oct 2026 02:56:00 GMT",
+      "body": "amu_lab｜AI検証ジャーナル 2026年10月9日 09:56 2026年10月9日（金） 社内LLMやエージェントの導入を稟議にかける生産技術・IT担当へ。今日は、AIに何を預けるかを決める物差しとして漏洩事案の分類表を見たうえで、国内で始まった専有・定額のLLM基盤と、小さく組み替える設計で伸びたスキル集を順に追います。 ・【報道ベース】個人が公開する2026年の国内漏洩一覧が、155件をSSSからDの6段階に分類している。AIサービスに預けるデータの区分けに転用できる。 ・【報道ベース】さくらインターネットが専有・定額のマネージド型LLM基盤を始めた。従量課金APIと自前GPUの間を埋める。 ・【一次情報確認済み】mattpocock/skillsは、工程を丸ごと持つ方式を避け、小さく組み替えやすいスキルの束にした。社内の型づくりの参考になる。 確度 : 報道ベース 個人が公開している2026年の国内情報漏洩・不正アクセスの一覧に、Tier表が付きました。10月9日更新の時点で155件を、SSSからDまでの6段階に分けています。内訳はSSSが1件、SSが6件、Sが49件、A"
+    },
+    {
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加 ...",
+      "link": "https://news.yahoo.co.jp/articles/0b6a504047edd206c144a04e51a626b920d1f5f9",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 09 Oct 2026 02:44:00 GMT",
+      "body": "（写真：ITmedia AI＋）（写真：ITmedia AI＋） 米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 新サービスのモデル選択画面 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新モデル「Gemini 4 Argon」に加えて、米Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。サブー氏は、他のクローズドモデル、オープンモデルも今後追加される予定だとしている。 今回発表されたGemini Agentと、既存の「Gemini」アプリや「Gemini Enterprise」との関連性については明言されていない。また、個人向け「Gemini AI」プランや、企業向けの「Google Workspace」「Gemini Enterprise」のどのプランでGemi"
+    },
+    {
+      "title": "アマゾンが新型タブレットを発表 生成AIサービス「アレクサ ...",
+      "link": "https://www.sankei.com/article/20261009-ZXC3TAJVGNNK5CBPUM2ZLVQ42U/",
+      "source": "sankei.com",
+      "pub_date": "Fri, 09 Oct 2026 02:23:00 GMT",
+      "body": "山中で遭難の16歳少年、登山計画にAI「クロード」利用 救助隊は「ルートの盲信」警鐘 JR東でも600万件漏洩か ビューカード所有者や「えきねっと」会員など 東証上場の不動産会社デュアルタップの宅建免許取り消し 社外取締役が有罪確定を申告せず 「漏洩連絡が来た…」自分の個人情報が流出したら？ 二次被害を防ぐ、対処法と日頃の備え 「日本らしく細部にこだわり」ゴスロリ、欧州に逆輸入 ドイツの「お茶会」に各国から参集 マクドナルド、チキンの新レギュラー商品発売 ザクザクでジューシーなバーガーなど21日から 楽天モバイル「ローミング継続」条件はエリア外だけか KDDIとマップでは「食い違い」 「たけのこの里」台湾進出 「きのこの山」と「どっち派？」人気投票、選挙カーで演説も アマゾンが新型タブレットを発表 生成AIサービス「アレクサ・プラス」搭載の3機種 消費減税の財源「確実に示す」 片山さつき財務相 「日本版DOGE」での捻出にも意欲 産経新聞社法人サービス一覧 紙面購読のお申し込み 産経新聞をフォローして情報を受け取ろう"
+    },
+    {
+      "title": "「生成AIは言語の壁越える」サイバー攻撃大規模化で企業からの ...",
+      "link": "https://www.fnn.jp/articles/-/1130016",
+      "source": "fnn.jp",
+      "pub_date": "Fri, 09 Oct 2026 01:47:00 GMT",
+      "body": "企業などを狙った不正アクセスの被害が止まりません。 新たにローソンでも個人情報が流出したほか、ブックオフでも会員情報が漏えいした可能性があると発表しました。 被害は5000万件以上に上っています。 ランチタイムの東京・新橋では、相次ぐ個人情報流出に「（アプリやサイトに）登録しすぎてて…。自分の知らないところで悪用されてるかもしれない。今も私の情報がどこかで使われてるかもしれない」「やばいですね、どうすればいいんですかね…」「怖い、怖いけど、もう自分の情報は自分で守るしかないのかなと」と不安の声が上がりました。 9日午後、JR東日本の子会社でクレジットカードを手掛けるビューカードは、最大約403万件の会員のメールアドレスが漏えいした可能性があると発表しました。 止まらない不正アクセスによる情報漏えい。 FNNのまとめでは、企業からの個人情報の流出などが5000万件以上に上ることが分かりました。 さらに、9日も新たな流出発覚が続々と明らかになっています。 旅行サイトのスカイチケットを運営するアドベンチャーは、不正アクセスによって利用客の個人情報約1464万件が流出したと発表。 パスポート番"
+    },
+    {
+      "title": "「もう18歳未満はChatGPT禁止!」という勧告が出ました",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E3%82%82%E3%81%8618%E6%AD%B3%E6%9C%AA%E6%BA%80%E3%81%AFchatgpt%E7%A6%81%E6%AD%A2-%E3%81%A8%E3%81%84%E3%81%86%E5%8B%A7%E5%91%8A%E3%81%8C%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F/ar-AA2dSdrc",
+      "source": "msn.com",
+      "pub_date": "Fri, 09 Oct 2026 01:35:00 GMT",
+      "body": "信頼しちゃダメです。 子どもがAIを活用することのデメリットを憂い、利用禁止に動くところも増えています。当のAI開発側も予防措置として、安全に子どもたちが利用できる環境整備を公言。しかしながら、アピールされているほど十分な対策は講じられていないとの指摘が飛び出したりしていますよ。 ChatGPT for Teensで安全とアピール ..."
+    },
     {
       "title": "歩留まり改善は「LLMだけでは不十分」 米AI新興の挑戦",
       "link": "https://news.yahoo.co.jp/articles/da062a58954ae735d1208656af66009fe770afbf",
@@ -15,62 +71,6 @@
       "source": "note.com",
       "pub_date": "Fri, 09 Oct 2026 01:24:00 GMT",
       "body": "CS224Vは、Stanford大学で2026年秋に開講されている、プロジェクト中心のAgentic AI研究科目だ。 担当するMonica Lam教授は、コンパイラ、プログラム解析、自然言語インターフェースなどを研究してきたコンピューター科学者である。現在率いるOVAL Labでは、WikiChat、STORM、SUQL、SPINACH、Genie Worksheetsなど、LLMを実際の情報システムへ組み込むための研究を続けている。 この講義を象徴する言葉が、イントロダクション資料にある。 「The Last 10% is 90% of the problem」 試作品で70％の精度を出すことと、医療、法律、金融、科学研究で使える95％以上の信頼性を実現することは、同じ問題ではない。 最初の70％は、強いモデルとAPIを組み合わせれば作れる。残りの精度を引き上げるには、例外処理、知識の鮮度、検索漏れ、矛盾、長い文脈、複数ステップの失敗、説明責任まで設計しなければならない。 この「最後の10％」こそが、実用Agentの本体なのである。 CS224Vのテーマも、そこへ集中している。 ・"
-    },
-    {
-      "title": "歩留まり改善は「LLMだけでは不十分」 米AI新興の挑戦：従来型AIと ...",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/09/news053.html",
-      "source": "eetimes.itmedia.co.jp",
-      "pub_date": "Thu, 08 Oct 2026 18:30:00 GMT",
-      "body": "@Emergence AÍAƎ́uj[tH[}AIvt@uX̃[J[Ŏ^pg݂i߂ĂBЂ̌ڋqł鐂^foCX[J[iIDMj́At@uւ̓Kpg߂ĂƂB @Ђ́A̐HŐf[^̊pɂ͂ĂBʂ̃EGn[ɖ肪gyOɁAvZX򉻂̏o邱ƂڎwB @Emergence AI̋nݎ҂ŃGO[NeBu`FA}𖱂߂Satya NittáA2026N917`19ɃChEj[f[ŊJÂꂽ̎YƂ̍ۓWuSEMICON India 2026vɂāAEE Times̃C^r[ɉAũ`bv̐Yxȏ㍂߂邱Ƃ͂łȂAAIp΁AEGn[1瓾Ǖi`bvmɑ₷ƂłvƏqׂB @Nittáũ`bv̎vAǂ̃t@utғŐYĂ̂ŁAȏEGn[̏ʂ𑝂₷Ƃ͂łȂBsɘa邽߂ɂ́AEGn[1̗Ǖi`bv𑝂₷ȂB̂߂ɂ̓f[^͂KvvƏqׂB @NittaɂƁAj[tH[}AÍAK͌ꃂfiLLMj̑nƁA`Iȃ[ɊÂ]^AIłV{bNAǏgݍ킹̂BV{bNAÍAfB[v[jOoꂷȑOAAI̒SIȃAv[`ƂB @uASYĂAV{bNAI؂vƂdg݂BLLM͊mIɉ񓚂𐶐̂ŁAЂ́A~bVNeBJȖɂăGWjAMłuؖ\\ȁv"
-    },
-    {
-      "title": "国内漏洩155件のTier表、さくらの専有LLM、28万スターのスキル集｜amu ...",
-      "link": "https://note.com/bhrtaym/n/n115525ed8968",
-      "source": "note.com",
-      "pub_date": "Thu, 08 Oct 2026 12:56:00 GMT",
-      "body": "amu_lab｜AI検証ジャーナル 2026年10月9日 09:56 2026年10月9日（金） 社内LLMやエージェントの導入を稟議にかける生産技術・IT担当へ。今日は、AIに何を預けるかを決める物差しとして漏洩事案の分類表を見たうえで、国内で始まった専有・定額のLLM基盤と、小さく組み替える設計で伸びたスキル集を順に追います。 ・【報道ベース】個人が公開する2026年の国内漏洩一覧が、155件をSSSからDの6段階に分類している。AIサービスに預けるデータの区分けに転用できる。 ・【報道ベース】さくらインターネットが専有・定額のマネージド型LLM基盤を始めた。従量課金APIと自前GPUの間を埋める。 ・【一次情報確認済み】mattpocock/skillsは、工程を丸ごと持つ方式を避け、小さく組み替えやすいスキルの束にした。社内の型づくりの参考になる。 確度 : 報道ベース 個人が公開している2026年の国内情報漏洩・不正アクセスの一覧に、Tier表が付きました。10月9日更新の時点で155件を、SSSからDまでの6段階に分けています。内訳はSSSが1件、SSが6件、Sが49件、A"
-    },
-    {
-      "title": "「LLMから見えている地域」を問い直す。",
-      "link": "https://www.sankei.com/pressrelease/prtimes/P55KEZTPIFIQ5KNMDAIOJV5M6Y/",
-      "source": "sankei.com",
-      "pub_date": "Thu, 08 Oct 2026 03:10:00 GMT",
-      "body": "山中で遭難の16歳少年、登山計画にAI「クロード」利用 救助隊は「ルートの盲信」警鐘 「最も重いものよりもさらに一段重いことが適当」 同志社国際高の助成金減額で京都知事 ベッドの入院患者を無断撮影しSNS投稿、「まじ暇」とテロップ 千葉西総合病院の看護師 新型コロナワクチン接種後に14歳女子中学生死亡、司法解剖で因果関係を認定 徳島大 JR東でも600万件漏洩か ビューカード所有者や「えきねっと」会員など 東大漕艇部で地獄の日々を送る フランス語は6点以下、原著の日本語訳を丸暗記しました 元プロ野球選手の暴力団幹部逮捕 300万円詐取か 山梨県警 「万策尽きた」南海フェリー航路消滅へ 焦る和歌山シビアな徳島 対岸温度差と見えぬ希望 バチカンの日本大使公邸でウナギのかば焼き紹介イベント 規制反対の立場を説明 担任の女性教諭、女子中学生を自宅に招き入れわいせつ行為繰り返す 千葉県、懲戒免職処分 極端な成果主義で統治不全、法令軽視で「ガンガン売る人採用」 … 2026/10/8 23:00 攻撃は「事件」の顔で訪れる 政界十六夜 石井聡 2026/10/9 14:00 生物多様性、50年で7"
-    },
-    {
-      "title": "約1.9kgで3000億パラメーターのLLMをローカル実行、日本HPの最新 ...",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news024.html",
-      "source": "monoist.itmedia.co.jp",
-      "pub_date": "Wed, 07 Oct 2026 17:00:00 GMT",
-      "body": "@{HP p[\\iVXeYƖ{ ACSrWlX{ v_Ng}l[W̒RqV́uʏRyzenvZbTƑ傫قȂ̂́AGPU\\ɍ_BfBXN[g̃OtBbNXJ[hɂ~bhWNX̐\\A1`bvSoCɍڂĂvƐB @HP ZBook Ultra G3a 16 inch́ARyzen AI MAX PRO 400V[Y̗̍pɂAOtBbNX\\͂mۂȂA➑̂̏^^^}Beʂő192GBɊg債Ajt@Cĥő160GBVRAMƂĊ蓖ĂB̃\\ɂALLMiK͌ꃂfjɓǂݍŏAINT4i4rbgjōő3000p[^[̃f[JsłƂBȂA192GBڍ\\̔̔Jn2026N12̗\\肾B @IfoCXłAIɂANEhւ̈ˑx␄_RXg̗}}B݌vJA͂Ȃǂ̋ƖŁAԂꏊɂƂȂAI̎s񋟂ƂB @vZbT́uRyzen AI Max PRO 485vuRyzen AI Max PRO 490vuRyzen AI Max+ PRO 495v3ނpӂBŏʂRyzen AI Max+ PRO 49516RA^32XbhŁAGPUɁuAMD Radeon 8065SOtBbNXv̗pANPU\\͍ő55TOPSƂȂB @HP "
-    },
-    {
-      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Fri, 02 Oct 2026 08:20:00 GMT",
-      "body": "よく見られているカテゴリー アクセスランキング Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定 止まらない不正アクセス、背景にAIの“超高速攻撃”か 識者「使われていない方が不自然」 履歴書100通に1通「AIだけが読める文字」 20万件調査でわかった“就活ハック”の手口 米研究 富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？ Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表 「Amazonキッズタブレット」は日本でも発売へ “クールジャパン機構の二の舞”か？ 2兆円支援のラピダス、2ナノ半導体工場あっても拭えぬ「顧客不在」の懸念 「当然、攻撃者はAIを悪用する」――不正アクセスに対峙する国家サイバー統括室を直撃、日本の情報をどう守る？ Googleが「Gemini 4 Argon」発表 “10カ月の沈黙”を破り、AI開発競争の首位奪還へ AI“狂騒の半年”を振り返る Mythos公開、Fable停止、GPT-6登場――翻弄されない“堅実"
-    },
-    {
-      "title": "Hugging FaceのローカルLLMモデル名「Q4_K_M」「A3B」の読み方と失敗し ...",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news004.html",
-      "source": "atmarkit.itmedia.co.jp",
-      "pub_date": "Thu, 01 Oct 2026 16:59:00 GMT",
-      "body": "@lWindows PCȂGGUFAMacȂGGUFMLXIԁBГT[oŕ̃[U[ɒ񋟂ȂAsafetensorsiFP8łȂǁj܂AWQ^GPTQvLLMgݍ킹AƂ̂{IȎgB @ʎqiQuantizationjƂ́Af̏d݁iljA菭ȂrbgŋߎIɕ\\ZpłBႦ16bit̐l4bitxɒu邱ƂŁAiVRAM^RAMj̏ʂ啝ɍ팸łB̑㏞ƂāA񓚂̕iixj͂킸ɒቺB @LLM͐́̕AvZʂf[^ǂݏoɍEB̂߁AfȂقǐxオ₷BA͂vvgǂݍޏ͂ނvZʂxzIȂ̂ŁAʎqĂȂƂ͌ȂB @GGUF̗ʎqł́Ad݂𐔏\\`256Ƃ́uubNvɋ؂AubNƂɁuXP[i{jvĐlߎĂB̃XP[Ȃǂ̕⏕񂪉镪Aۂ̕σrbg͖ڏ̃rbg菭ȂB @ʎq́̕At@CɂuQ4_K_MvȂǂ̋LŔfłB i1jn @uQv͒ʏ̗ʎqAq́u_0^_1vƁu_Kv̌nɑBuIQv́ui-quantsvƌĂ΂VnŁȀd݂܂Ƃ߂āA炩ߗpӂl̑gݍ킹\\iR[hubNjߎB2`3bit̒ႢrbgłATCYK-quantsiۂ₷BACPUŎsƒxȂ邱Ƃ_ɒӂĂقB i2jrbg @u8^6^5^4^3^2v́A1"
-    },
-    {
-      "title": "AI利用料金の急増を招く「LLMジャッキング」をセキュリティ専門家 ...",
-      "link": "https://japan.zdnet.com/article/35253085/",
-      "source": "japan.zdnet.com",
-      "pub_date": "Wed, 30 Sep 2026 02:30:00 GMT",
-      "body": "Here's my content 企業が懸念すべきは、人工知能（AI）の暴走だけではない。企業のAIモデルやコンピューティングリソースへのアクセス権を販売する地下経済も急速に拡大している。セキュリティ専門家がそのように警告している。 Google Threat Intelligence Groupでチーフアナリストを務めるJohn Hultquist氏が Financial Times に語ったところによると、LLMジャッキングと呼ばれる攻撃が2026年に入って「大幅な増加」を見せているという。この傾向が続けば、企業に多額の損失がもたらされる可能性がある。 クリプトジャッキングを思い浮かべた人は、いい線をいっている。クリプトジャッキングは、盗んだコンピューティングリソースを使って暗号資産を違法にマイニングする行為だが、LLMジャッキングはそのAI版で、他者が所有しているAI能力やAIリソースを利用する。 サイバー犯罪の観点で言えば、認証情報やAPIキーを入手して、企業のAIアカウントへの正規アクセス権を取得しようとする行為を指す言葉だ。こうしたアカウントは、利用上限が高く設定されてい"
-    },
-    {
-      "title": "もうMCPサーバは不要なのか？ 代わりになる技術を開発者が提唱：LLM ...",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news047.html",
-      "source": "atmarkit.itmedia.co.jp",
-      "pub_date": "Tue, 29 Sep 2026 17:00:00 GMT",
-      "body": "̋L͉łB o^ij ƑSĂ܂B @uModel Context ProtocolviMCPj́AAnthropic2024N11ɌJAAIG[WFgOT[rXf[^ɂȂvgRBڑ̕WɂAc[APIƂɌʂ̘AgvOKvȂȂ邽ߊJRXg팸ł鑼AxMCPT[o΁AuClaudevuCursorvƂقȂAINCAgŋʂėpł邽ߑ݉^p̌}ƂbgB @ŊOVXe⃍[Jւ̋͂ȃANZX߁AsANZXƎiႭj΍̊Ǘs\\ƏRɂȂ郊XNB܂AK͌ꃂfiLLMjnȎɊOT[rXڑp̋ZpƂĕywiAxXgvNeBX̒~ςWrł邽߁AE^pRXgƂfbgwEĂB @MCṔg݉lhɂāA\\tgEFAGWjA΂𓊂B @\\tgEFAGWjÃ}nVEpe2026N914inԁjAg̃uOMCPxɂȂ闝Rl@LJĂBɂƁAMCṔuAIfقǌȂɐ݌vꂽ╨vłALLM̂̐_\\͂R[fBO\\͂Iɐi݂ɂĂ͈ȑOقǂ̉lȂȂĂƂB @MCPoꂵ2024NAAIG[WFg[Nt[̐M͒ႭAAIf̔ėpi͂悤jIȐ_\\݂ƔׂČIB̂悤ȊŁAOT[rXƂ̘Ag\\ɂMCP͐Y傫グALLM̕yƂƂɋ}ɍ̗p"
     }
   ]
 }
