@@ -1,13 +1,48 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-14T17:26:11.017672+00:00",
+  "updated_at": "2026-10-14T18:29:01.248904+00:00",
   "items": [
+    {
+      "title": "Anthropic、Claude PlatformにOpenTelemetryのトレースエクスポート機能を追加",
+      "link": "https://www.unite.ai/ja/anthropic-adds-opentelemetry-trace-export-to-the-claude-platform/",
+      "source": "unite.ai",
+      "pub_date": "Wed, 14 Oct 2026 10:41:00 GMT",
+      "body": "AnthropicはClaude PlatformにOpenTelemetryのトレースエクスポート機能を追加し、2026年10月14日、開発者が Claude Managed Agents 、Messages API、Claude SDKから、標準規格に対応するあらゆる可観測性ツールへトレースを送信できるようになったと発表した。この機能はパブリックベータとして提供されている。 Anthropicの発表 によると、Claude Consoleで送信先を追加すると、エージェントの各ターン、モデル呼び出し、ツールの使用がすべて、レイテンシ、トークン数、IDを含む標準的なOpenTelemetryトレースとして、ユーザーの可観測性ツールに送られる。Managed AgentsとMessages APIではConsoleでの送信先設定が必要だが、Claude SDKはトレースを自動的にエクスポートする。すでにClaude CodeやCoworkのトレースを可観測性ツールに送信している開発者は、Claude Platform上で構築したエージェントも同じ場所に表示できる。 Anthropicによ"
+    },
+    {
+      "title": "茨木市とNTT西日本、国産プライベートLLMを活用した小中学校向け ...",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2147701.html",
+      "source": "cloud.watch.impress.co.jp",
+      "pub_date": "Wed, 14 Oct 2026 08:21:00 GMT",
+      "body": "メルマガスタート！ 登録はこちら 最新記事  ABC、ローカルLLMを活用したサイバーセキュリティ対策環境の構築支援サービスを提供   富士通、小売業の店舗運営と経営判断を高度化する「4つのAIエージェント」と実行基盤を開発   茨木市とNTT西日本、国産プライベートLLMを活用した小中学校向け校務AIの実証を開始   キヤノン、オフィス向け複合機・プリンターのセキュリティを強化するプリンターEDR技術の対象機種を拡大   セーフィー、表示灯の映像から設備状態を自動判定する「AI-App 設備ウォッチャー」を提供開始   Microsoftが10月の月例パッチ公開、1413件の脆弱性を修正   オプロ、相談窓口での手続き業務を支援するAIエージェント基盤「マドレス」   攻撃者もAIファーストになる時代、日本IBMの対策とは   日本車両とNEC、鉄道車両の3Dデータを活用したVR確認アプリを共同開発 設計の効率化から保守・訓練シミュレーションまでを支援   CTC、現場から得たデータを生産計画や経営判断に活用できる環境を構築する製造業向けソリューション  リコージャパン、AWS環境の"
+    },
+    {
+      "title": "全国初、純国産LLMで小中学校の校務AI実証…茨木市×NTT西日本",
+      "link": "https://reseed.resemom.jp/article/2026/10/14/14345.html",
+      "source": "reseed.resemom.jp",
+      "pub_date": "Wed, 14 Oct 2026 07:45:00 GMT",
+      "body": "編集部にメッセージを送る 大阪府茨木市とNTT西日本は2026年10月13日、純国産プライベートLLM（大規模言語モデル）を活用した校務AIの実証を、市立の一部小中学校で開始した。NTT版大規模言語モデル「tsuzumi 2」を用い、校務文書の検索・要約や文書作成を支援する。実施期間は、教職員の利用終了後の振返りなどを含め、2027年3月31日まで。 小中学校の現場で純国産プライベートLLMを活用する校務AI実証は、NTT西日本の2026年9月時点の調査によると全国初。教育分野に特化したオンプレミス環境の生成AIアプリケーションを用い、校務におけるプライベート環境での生成AI活用の有効性、安全性、操作性を検証する。 市立小中学校の校務では、必要な情報がサーバー上の複数のファイルに分散し、検索や確認、文書作成に手間がかかる場面がある。また、機密性の高い情報を扱う教育現場では、安全性と利便性を両立した生成AIの活用環境が求められている。両者は実証を通じ、教職員が安心して利用できる校務AIの実現を目指す。 実証では、生成AI向けの比較的低コストなGPUサーバー上で稼働するアプリケーションを活"
+    },
     {
       "title": "デジタルハリウッド大学が「Claude」を全学導入 11月より全学生・全 ...",
       "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%8C-claude-%E3%82%92%E5%85%A8%E5%AD%A6%E5%B0%8E%E5%85%A5-11%E6%9C%88%E3%82%88%E3%82%8A%E5%85%A8%E5%AD%A6%E7%94%9F-%E5%85%A8%E6%95%99%E8%81%B7%E5%93%A1%E3%81%B8%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/ar-AA2eeIuH",
       "source": "msn.com",
       "pub_date": "Wed, 14 Oct 2026 07:26:44 GMT",
       "body": "デジタルハリウッド大学（DHU）は、米Anthropicが開発・提供する生成AIモデル「Claude」を全学に導入し、全学生・全教職員が利用できる環境の提供を2026年11月より開始する。同大学調べ（2026年10月時点、国内大学における公表事例に基づく）によれば、日本国内の大学における「Claude」の全学導入は同大学が初となる。"
+    },
+    {
+      "title": "ChatGPTの回答が計算機やゲームに 新機能「Intelligent UI」を11ケース ...",
+      "link": "https://news.yahoo.co.jp/expert/articles/e63cd95db42b20ad07a3589764c2cb2ce7c26a38",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Wed, 14 Oct 2026 06:12:00 GMT",
+      "body": "2026年10月7日、米OpenAIがChatGPTの通常のチャットに新しいAI「GPT-6」を広げ、回答の中に計算機やグラフ、ボタンを組み立てる新機能「Intelligent UI」（インテリジェント・ユーアイ）を発表しました。UIとは、画面の見た目と操作の部分のことです。  この記事では、筆者が11のケースで試した結果を整理します。割り勘の計算機も三目並べも、回答の中で動きました。一方で、売上分析の説明文には計算ミスが出て、チェックリストは再読み込みで消えました。   OpenAIは 2026年10月7日にGPT-6の通常チャット展開を発表 しました。有料のPlus・Pro・Business・Enterpriseは同日から、FreeとGoは翌日から、段階的に提供されます。  使われるAIは、有料プランがGPT-6の「Sol」、FreeとGoが「Luna」です。  Intelligent UIは、質問に合わせて、文章に加えて比較表やグラフ、ボタン、フォーム、計算機を会話の中に出す機能です。特別な頼み方は要りません。文章がいちばん役立つ場面では、文章で答えます。  何を伝え、どこに置き"
+    },
+    {
+      "title": "MetaのMuse、再訪率73%を記録 ChatGPTが差を縮める",
+      "link": "https://www.eweek.com/ja/news/meta-muse-chatgpt-retention-ja/",
+      "source": "eweek.com",
+      "pub_date": "Wed, 14 Oct 2026 05:23:00 GMT",
+      "body": "Sensor Tower’s September 2026 data tracks how often new users returned to Muse, ChatGPT, and other mobile apps during their first 14 days after installation. Image source: Meta eWeek のコンテンツおよび製品のおすすめは ..."
     },
     {
       "title": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機",
@@ -24,18 +59,11 @@
       "body": "カメラによる撮影に対応するほか、ChatGPTとの連携や翻訳機能など、AIを活用した機能も搭載される可能性があります。カメラで捉えた情報をAIと組み合わせることで、撮影だけでなく、日常生活や旅行などで役立つ使い方も期待できそうです。 ただし、ChatGPTをどのような形で利用できるのか、翻訳がリアルタイムの音声翻訳や文字表示に対応するのかといった具体的な仕様は不明です。カメラ以外の基本機能についても、1機種目とどこまで共通するのかは分かっていません。 現時点では、両モデルの外観や価格、発売時期などは明らかになっていません。また、2機種が同時に発表・発売されるのか、別々のタイミングで投入されるのかも不明です。 Nothingは、スマートフォンやイヤホン、ヘッドホンなどを展開してきました。スマートグラスが加われば、同社の製品ラインアップをさらに広げることになります。これまでの製品で特徴的だったデザインを、メガネ型のデバイスでどのように表現するのかも注目点です。 同社は最近、2機種目のヘッドホンとなるNothing Headphone (1) Proを発表したほか、Nothing Phone"
     },
     {
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず ...",
-      "link": "https://news.yahoo.co.jp/articles/54e556dc27f7a800d5f6babc299a572c900ef628",
-      "source": "news.yahoo.co.jp",
-      "pub_date": "Wed, 14 Oct 2026 03:50:00 GMT",
-      "body": "Claudeの全学導入を発表したデジタルハリウッド大学（出典：プレスリリース）（写真：ITmedia NEWS） デジタルハリウッド大学（DHU、東京都千代田区）は10月14日、米Anthropicの生成AI「Claude」を全学に導入すると発表した。11月から、全学生・全教職員が大学発行のアカウントで、利用量や費用を気にせずClaudeを使えるようになる。国内の大学におけるClaudeの全学導入は同学が初だという。 DHUは9月から、複数の生成AIを共通で使える「全学AI基盤」と、授業ごとにAIティーチングアシスタントが付く教育プラットフォーム「キャンパスポータル」を運用しており、Claudeはこの基盤に加わる形だ。アカウントを配るだけでなく、授業や学習の記録と結び付けて、AIで考え、つくる力を育てる狙いがあるという。 活用例としては、学部での映像・ゲームなどの制作やその壁打ち、大学院での調査・分析や論文執筆の補助、事務業務の効率化を挙げる。併せて、AIの利用を前提に課題を設計して成果を評価する形へ教育を組み替え、成果物へのAI利用の申告や、著作物・個人情報の取り扱いに関する学内規程"
-    },
-    {
-      "title": "AIで動画を作る人へ｜3人がそろう絵は1人ずつ焼いて並べる──画像 ...",
-      "link": "https://note.com/gakushiai/n/n7fd179bfcd09",
-      "source": "note.com",
-      "pub_date": "Wed, 14 Oct 2026 03:25:00 GMT",
-      "body": "複数キャラを1画面に入れたいときは、まず「1人ずつ焼いて、あとで並べる」が成り立つか考えてみてください。同じ背景と同じ拍で焼けば、つなぎ目は編集の仕事になります。 起点の静止画は115枚いります（三分割の5カットは1人ずつ3本描くので、カット数より多くなります）。最初は家のPCのKrea 2で11枚を試しました。1枚24秒で描けて失敗もなく、顔と髪と瞳は見本どおりでしたが、ガクシの判定は「やはりクオリティ的にはcodexの方が高いので、codexで進めてください。krea2は、コスパ的に漫画向きですね」でした。 ところがその日は、Codex CLIの画像が夜まで使えませんでした。止まっている間にガクシから届いたのが「elevenlabs がかなりクレジット余っているので GPT image2.5 使えるか確認して」です。使えると分かると「全部承認で良いので115枚、生成しちゃってください」「ダウンロード自動化もお願いします」と続きました。 そこでElevenLabsのWeb画面（画像&ビデオのメニューからGPT Image 2.5）を、作業していたAIがブラウザ操作で動かして描きました"
+      "title": "ローカルLLM実行環境「Strata」がMacに対応。Apple Siliconで高速推論 ...",
+      "link": "https://news.mynavi.jp/article/20261014-5126684/",
+      "source": "news.mynavi.jp",
+      "pub_date": "Wed, 14 Oct 2026 04:20:00 GMT",
+      "body": "オープンソースのローカルLLM実行環境「Strata」の最新版、バージョン0.1.44が10月13日に公開された。新たにApple Silicon搭載Macへの実験的な対応を追加したほか、対応モデルや量子化形式の拡充、AMDおよびIntel製GPUでの推論高速化などが導入されている。 ローカルLLM実行環境「Strata」がMacに対応。Apple Siliconで高速推論、NVFP4形式への対応を拡充 Strataは、LLMをローカルPCで実行するための推論エンジン。NVIDIA、AMD、IntelのGPUに対応し、OpenAIやAnthropic互換のAPIサーバーなども利用できる。今回追加されたMac対応では、M1～M5搭載機でMetalを利用した推論が可能になったという内容。 開発者によるM5 Max(メモリ128GB)での検証では、同じGGUFファイルを使用したllama.cppと比較し、MTPを使用したトークン生成速度が1.6～1.9倍、プロンプト処理速度が1.5～1.6倍に達したという。ただし現時点では実験的な実装で、対応モデルや同時リクエスト数などに制限がある。 さらに"
     },
     {
       "title": "Claudeが警察に架空の通報。しかも発見まで2カ月以上かかっていた",
@@ -43,34 +71,6 @@
       "source": "gizmodo.jp",
       "pub_date": "Wed, 14 Oct 2026 03:15:00 GMT",
       "body": "image：visuals6x - stock.adobe.com AIくん、送信ボタンを押す前に、報・連・相をお願いします…。 AIにWebサイトの操作を任せるのは便利そう。でも、こちらが考えていた以上のことまで済まされたら、困りますよね。ましてや、警察への通報まで送ってしまうとは。 Claudeを開発するAnthropic（アンソロピック）が10月9日に公表した報告によると、 Claude Haiku 4.5がテスト中に、実在する殺人事件について架空の目撃情報を送信 してしまったようです。 テスト課題は、ランダムに選ばれたWebページで操作の例を考え、実行すること。 Claudeが開いたのは、米フィラデルフィア警察が未解決事件の情報を募るページ でした。 Claudeは通報フォームに、「事件が起きたころ、サイトに書かれた通りの周辺で、特徴に一致する人物を見た」という趣旨の文章を入力。名前と連絡先は空欄のまま、送信してしまったといいます。 もちろん、目撃した事実はありません。しかも、警察のサイトには犯人の特徴が書かれていないのに、「特徴に一致する人物を見た」と書いていたんです。 テス"
-    },
-    {
-      "title": "生成AI新ルールって？ 学習させたデータ 事業者に一定の説明要求 ...",
-      "link": "https://mainichi.jp/articles/20261015/ddm/003/070/057000c",
-      "source": "mainichi.jp",
-      "pub_date": "Wed, 14 Oct 2026 03:00:00 GMT",
-      "body": "なるほドリ 生成人工知能（AI）の新しいルールができたと聞いたよ。 記者 AIの開発には大量のデータを学習させる必要があります。使ったデータについて、開発事業者に一定の説明を求めるルールを国が作りました。ルールを受け入れる事業者の国への届け出が26日から始まり、どの会社がルールを受け入れたかが国 ..."
-    },
-    {
-      "title": "サーバーワークス、Claude Partner NetworkのSelectパートナーに認定された ...",
-      "link": "https://voix.jp/business-cards/serverworks-select-partner-claude/",
-      "source": "voix.jp",
-      "pub_date": "Wed, 14 Oct 2026 01:25:00 GMT",
-      "body": "サーバーワークスがClaude Partner NetworkのSelectパートナーに認定 株式会社サーバーワークスは、2026年10月1日にAnthropicのClaude Partner NetworkにおけるServices TrackのSelectパートナーに認定されたことを発表しました。サーバーワークスは、生成AI活用を推進するための取り組みを行っており、これまでにClaudeの導入支援や社内組織の設立を進めてきました。今後もセキュリティやガバナンスを含む導入支援の強化や、AIエージェント開発支援の拡充を目指し、より高度なサービス提供に努めていく方針です。 この記事の要約 ▶ 年会費無料の法人向けクレジットカード特集 ▶ 中小企業におすすめ、法人向けクレジットカード特集 ▶ UPSIDERカードの評判からデメリットを解説 この記事は、企業の生成AI導入に関心のある方や、サーバーワークスのサービスに興味を持つ方におすすめです。この記事を読むことで、サーバーワークスがどのように生成AIを活用し、顧客に対してどのような支援を行っているのかを知ることができます。 株式会社サーバーワ"
-    },
-    {
-      "title": "ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益 ...",
-      "link": "https://forbesjapan.com/articles/detail/106552",
-      "source": "forbesjapan.com",
-      "pub_date": "Wed, 14 Oct 2026 01:15:00 GMT",
-      "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. Forbes JAPAN電子版へのアクセス障害について --> トップ マネー マーケット ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益源」 マーケット 2026.10.14 08:15 ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益源」 Trefis Team | Contributor 著者フォロー 記事を保存 著者フォロー 記事を保存 Photo Agency - stock.adobe.com Photo Agency - stock.adobe.com Google検索で Forbes JAPANを 見つけやすく 詳しくはこちら › メタ・プラットフォームズ（ META ）の株価は、この1カ月で10.4％上昇し、S&P500の1.8％を上回った。米国時間2026年9月8日に新しいアプリを公開して以来、同社への期待が高まっている。メタの売上高は、現在もほぼす"
-    },
-    {
-      "title": "サーバーワークス、「Claude Partner Network」のSelectパートナーに認定",
-      "link": "https://www.jiji.com/jc/article?k=000000201.000075977&g=prt",
-      "source": "jiji.com",
-      "pub_date": "Wed, 14 Oct 2026 00:46:00 GMT",
-      "body": "データ提供 2026年10月14日16時46分 ［株式会社サーバーワークス］ AWSとClaudeの両領域における知見を活かし、エンタープライズ企業を支援 アマゾン ウェブ サービス（以下：AWS）のAWSプレミアティアサービスパートナーである株式会社サーバーワークス（本社：東京都新宿区、代表取締役社長：大石 良、以下：サーバーワークス）は、2026年10月1日にAnthropic の Claude Partner Network における Services Track の Select パートナーに認定されたことを発表いたします。 Claude Partner Network ■ Claude Partner Networkについて Claude Partner Network は、顧客向けに Claude を本番環境で提供する企業（パートナー）と Anthropic が連携するためのプログラムです。Services Track では、認定資格を取得したデリバリーチーム、顧客への導入、公開顧客事例による実績の証明を通じてパートナーを審査します。 ▼上記詳細については以下をご覧ください"
     }
   ]
 }
