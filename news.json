@@ -1,13 +1,34 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-17T08:20:34.892307+00:00",
+  "updated_at": "2026-10-17T09:20:41.324243+00:00",
   "items": [
     {
       "title": "米アンソロピックのClaude、NIST楕円曲線の25年来の謎を解明 シードは ...",
       "link": "https://news.yahoo.co.jp/articles/eb180a770ca2e4161899619b8c05ba93561f66f5",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Sat, 17 Oct 2026 01:20:00 GMT",
+      "pub_date": "Sat, 17 Oct 2026 02:01:00 GMT",
       "body": "ECDSA曲線の起源を扱うAnthropicの研究記事の公式ビジュアル（出典：Anthropic）（ビジネス+IT） 米アンソロピックは10月16日、同社のAI「Claude」が、25年にわたり出自が不明だったNISTの標準楕円曲線のシードの由来を解明したと発表した。シードはハッシュ値ではなく、C言語の標準ライブラリの乱数生成器を、Unixタイムスタンプで初期化した出力だった。暗号の脆弱性の発見ではなく、同社は対応は不要としている。 NIST曲線のシード、正体は時刻の乱数（出典：アンソロピックの発表をもとに作成） 米アンソロピックは10月16日、NIST（米国立標準技術研究所）が標準化した楕円曲線暗号のパラメータについて、長年不明だった「シード」の出自をAIが突き止めたと、同社が発表した。 対象は、デジタル署名の標準ECDSAで使われる曲線のうち、P-192、P-224、P-256、P-384、P-521の5つ。これらのシードは、2000年にNISTが採択した標準FIPS 186-2で公表されたが、NSA（米国家安全保障局）から提供されたもので、由来の説明はなかった。 同社によると、C"
+    },
+    {
+      "title": "アクセンチュアがClaude予算を月29ドルに制限、Xでは「オヤツみたい ...",
+      "link": "https://hashout.jp/ai/12713/",
+      "source": "hashout.jp",
+      "pub_date": "Sat, 17 Oct 2026 01:25:00 GMT",
+      "body": "「こんなのチャットでの質問用途以外で何が出来んのよ」——Xでそう漏らした声が広がるほど、今月からアクセンチュアの社員が使えるClaudeの予算が急に細くなりました。 10月1日付で、会社が中央予算として負担するClaude利用額が1人あたり月29ドル（約4,600円）に制限されたのです。 この記事は、Claudeをはじめとする生成AIを業務で使っているビジネスパーソン、特にAI利用コストの社内ルールに関心がある人に向けて書いています。 何が変わり、現場でどう受け止められているのかを整理しました。 先に結論をまとめると： – アクセンチュアは10月1日から、Claude利用の中央予算を社員1人あたり月29ドルに制限しました – これまで月500〜1,000ドル使っていた社員もおり、超過分は個別プロジェクトの予算から負担する形に変わりました – Xでは「オヤツみたいな予算」といった反応が上がり、Premiumプランへの切り替えを模索する社員もいるようです 米メディア404 Mediaの記者Joseph Cox氏は、2026年10月15日（現地時間）、アクセンチュアが社員のClaude利用に"
+    },
+    {
+      "title": "Claude Codeの「コードレビュー」が一般提供開始、6〜10分で終わる ...",
+      "link": "https://hashout.jp/ai/12711/",
+      "source": "hashout.jp",
+      "pub_date": "Sat, 17 Oct 2026 01:25:00 GMT",
+      "body": "プレビュー期間中、レビューには平均で約20分かかっていました。 GA版では これが6〜10分に短縮されています 。 Anthropicはこの期間、速度だけでなく「見つかるべきバグを見つける精度」の向上にも時間を使ったとしています。 リポジトリの管理者は、レビューの深さをQuick・Standard・Deepの3段階から選べます。 Quickなら手早く済ませ、Deepなら時間をかけて徹底的に調べる、という使い分けができる設計です。 ClaudeDevsは2026年10月16日、追加の投稿でこう明かしています。 Claude writes about 90% of Claude Code's code. From June to September, merged PRs more than doubled while the share reverted fell by more than 40%. We wrote about how we changed code review to get there, and how to adopt it: https://t.co/9sZe6"
+    },
+    {
+      "title": "AIが量子コンピューターの常識を変える？Claude Mythos 5が計算資源を ...",
+      "link": "https://xenospectrum.com/claude-quantum-circuit-history-recovery/",
+      "source": "xenospectrum.com",
+      "pub_date": "Sat, 17 Oct 2026 01:15:00 GMT",
+      "body": "点加算の評価では、楕円曲線上の二点をほぼ一様かつ独立に選び、使用する座標計算の式が適用できない例外を除いた入力を想定している。この入力分布に対し、点加算1回当たり最大2×10⁻⁴の失敗率を許容する仕様だ。論文の付録によると、回路全体を対象とした 10万 件のテストでは4件が失敗した。これは回路の資源制限によって発生する失敗であり、実際の量子コンピューターの雑音による故障率を表すものではない。"
     },
     {
       "title": "11月に「Claude公式ハッカソン」開催、これはチャンスだよ。参加し ...",
@@ -17,6 +38,20 @@
       "body": "Image: Cerebral Valley, Anthropic AIでやりたいことがある人、いっちゃおうよ。 日本で Claudeの公式ハッカソン「Built with Claude: Japan 2026」 が開催されます。かなり大盤振る舞いなイベントなのでAIでいろいろ作りたいものがあるって人は申し込みましょう、 完全オンライン で 1人 でも参加登録できます！ The Claude Code hackathon is back, and we're bringing it to Japan! エンジニアの方も、そうでない方も、日本在住のビルダーならどなたでも応募できます。世界に何を見せてくれるのか、楽しみにしています。 応募締切は10月26日 23:59（日本時間）： https://t.co/YXVYxl5gdU #claudejapan2026 「ハッカソンって開発者向けのイベントでしょ？」と思う方もいるかもしれませんが、以前のClaudeのハッカソンでは 上位入賞者5人中4人が非エンジニア でした。自分の得意領域で戦えるものを構想できるなら勝負できます。コードはClau"
     },
     {
+      "title": "中古P100を4枚、Mac Proに積んで320B級LLMを動かした話——コスパ重視の ...",
+      "link": "https://note.com/tamiflu_lab/n/ndbda115333f9",
+      "source": "note.com",
+      "pub_date": "Fri, 16 Oct 2026 21:54:00 GMT",
+      "body": "本体：Mac Pro 2019（MacPro7,1） CPU：Intel Xeon W-3223 システムRAM：96GB搭載（OS表示約94GiB） 電源：Mac Pro 2019純正電源＋外付けSFX電源 GPU：Tesla P100 PCIe 16GB ×4 追加GPU：Quadro GP100 16GB ×1 搭載VRAM合計：80GB相当（GPUごとに独立） OS：Ubuntu 24.04 LTS NVIDIAドライバ：580.178.04 CUDAビルド環境：CUDA 12.8、Pascal世代向けに調整 推論エンジン：Strataを利用したMaya 推論モデル：GLM-5.3-Flash系・低ビット量子化版 現在の推論コンテキスト：8,192トークン P100の4枚だけで動かしているわけではありません。 実際の推論では追加のGP100とシステムRAMも使っています。 なお、GPUへの電力供給にはMac Pro純正電源に加えて、外付けのSFX電源を併用しています。 当然ながら、この構成はメーカーが想定する標準的な使用方法ではないため、電源容量、配線、起動・停止の連動、安全性"
+    },
+    {
+      "title": "Guide to Running Claude Code Behind a Proxy | Civil Servant Notes",
+      "link": "https://note.com/uruhayato373/n/n20e3d490fb19?hl=en",
+      "source": "note.com",
+      "pub_date": "Fri, 16 Oct 2026 21:16:00 GMT",
+      "body": "KAZU｜転職と体づくり 2026年10月17日 13:16 This is a guide summarizing how to troubleshoot and configure Claude Code, npm, and git when they do not work behind a workplace or school proxy. I have rewritten the steps I took to resolve the issue after losing half a day, in a way that does not identify my workplace. AI tools often stop working behind a proxy. They cannot connect to external servers, certificates are not trusted, or they time out. While the error messages differ, the causes generally fall into "
+    },
+    {
       "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを ...",
       "link": "https://mainichi.jp/articles/20261017/pr2/00m/020/112000c",
       "source": "mainichi.jp",
@@ -24,53 +59,18 @@
       "body": "仕事の経緯を利用者のGoogleドライブに記録するので、新しいチャットでも、AIを替えても続きから相談できます。ChatGPTかClaudeのどちらか一方で使え、設定の目安は約30分です。 「XiNAPSE-Agent」β版のメイン画像（写真はイメージです。生成AIで作成） 株式会社XiNAP ..."
     },
     {
-      "title": "今日からコピペで動く。Claude Codeで作るコマンドラインツール ...",
-      "link": "https://note.com/adgjmptw1218/n/n66273874afaa",
-      "source": "note.com",
-      "pub_date": "Fri, 16 Oct 2026 07:13:00 GMT",
-      "body": "返金可 よしだとよしだ 2026年10月16日 23:13 こんにちは。今日は「ファイル整理を自動化したいけれど、どう頼めばいいか分からない」という方に向けて、そのまま貼って使えるコマンドラインツール(CLI)の指示文を5本まとめました。 CLIツールは、画面のデザインを作らなくてよいぶん、Claude Codeに頼みやすく、最初の1本に向いていると言われています。ファイル整理のように、ルールが決まった作業とも相性がよいようです。 この記事で手に入るのは、次の内容です。 ・そのまま貼れる指示文5本 ・CLIツール用のCLAUDE.mdテンプレート ・誤ってファイルを消さないための注意点とFAQ 今回扱うのは、次の5つです。 ・日付別のフォルダ振り分けツール ・一括リネームツール ・テキスト検索・抽出ツール ・重複ファイル検出ツール ・メモ・ログの結合ツール ここから先は、5本の指示文と、CLAUDE.mdテンプレート、誤ってファイルを消さないための注意点とFAQです。"
+      "title": "リコー、MoE型マルチモーダルLLMを開発--日本語での推論性能を向上",
+      "link": "https://news.yahoo.co.jp/articles/3e88a9be25e2181f9ae2f30112d4e9130fa6ea3e",
+      "source": "news.yahoo.co.jp",
+      "pub_date": "Fri, 16 Oct 2026 07:30:00 GMT",
+      "body": "リコー、MoE型マルチモーダルLLMを開発--日本語での推論性能を向上の画像（ZDNET Japan） リコーは、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモーダル大規模言語モデル（LMM）「リコーLMM_35B-A3B」を開発した。同モデルは、アリババクラウドが開発、提供する「Mixture of Experts（MoE）」構造を採用した「Qwen3.6-35B-A3B」をベースに、リコー独自の強化学習とカリキュラム学習技術を活用して、日本語での推論（リーズニング）性能を高めたもの。10月15日に発表した。 図表を含む多様な社内ドキュメントを生成AIで活用したいというニーズが高まる一方で、セキュリティやガバナンスの観点から、クラウドAIの利用が難しく、オンプレミス環境で安全に利用できる高性能なLMMへの期待が高まっている。推論に必要なGPUリソースや電力、応答時間も課題となっており、大量文書を一括で処理する業務や多数の同時アクセスが発生する環境では、限られた計算資源で高速に処理できることが重要になる。 今回採用したMoE構造のモデルは、必要な部分のみを選択的"
     },
     {
-      "title": "Claude Codeの代わりが無料で見つかった。好きにAIを乗り換えられる ...",
-      "link": "https://www.lifehacker.jp/article/2609-dont-need-claude-code-anymore-best-replacement-qwen-is-free/",
-      "source": "lifehacker.jp",
-      "pub_date": "Thu, 15 Oct 2026 20:45:00 GMT",
-      "body": "2026.10.16 Advertisement Claude Codeを使っていて一番もどかしいのは、AnthropicのAIモデルと料金プランに縛られてしまうことかもしれません。 ほかの会社のAIモデルは使えないのに、毎月かなりの出費になってしまいます。 でも、 もしClaude Codeが不要になるとしたらどうでしょう？ もっとオープンなコーディングエージェントに、自分の好きなモデルを自由に組み込めるとしたら？ 実は最近、Claude Codeの代わりになる優秀なツールとして「 Qwen Code 」を試しています。これが想像以上に柔軟で、しかもツール自体は無料。 使うAIモデルも自分で選べるので、安いモデルや無料のモデルを組み合わせれば、費用をぐっと抑えられます。 Qwen Codeは、 オープンソースのAIコーディングエージェント です。Claude Codeの代わりとして十分に機能するだけでなく、さらに一歩進んだ柔軟性を備えています。 Claude Codeと同じようにターミナルからアクセスして使えるのですが、大きな違いは、 Claudeの有料プランや特定のAPIプラットフ"
-    },
-    {
-      "title": "Claudeに「ダッシュボード」と「動画」が増えた。コードを書けない ...",
-      "link": "https://note.com/takaden1981/n/n2a31e83943ff",
-      "source": "note.com",
-      "pub_date": "Thu, 15 Oct 2026 18:15:00 GMT",
-      "body": "４０代脳卒中片麻痺おっさん人生ハードモードの日常 2026年10月16日 10:15 2026年10月8日、Anthropicから、Claudeに新しい機能が増えたという発表がありました。「Claude Dashboards」と「Claude Motion」です。あわせて、前からあった「Docs」「Slides」「Design」が、お試し(ベータ)から外れて、無料プランでも使えるようになりました。 俺は、脳卒中の後遺症(左麻痺)があり、コードを書けないまま、Claude Codeと一緒に、Androidアプリを作っています。今回も、「自分に関係があるのか」を、公式の情報で確認しました。 公式の発表によると、Dashboardsは、自然な言葉での質問から、データのダッシュボードを自動で作る機能です。 BigQuery、Databricks、Snowflakeなどのデータの置き場所や、Salesforceなどのつながり先と連携できる。 「今月の売上の動きを見せて」のように聞くと、Claudeがデータを読み、ダッシュボードを作る。 データが変わると、ダッシュボードも自動で更新される。 各グラ"
-    },
-    {
-      "title": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで ...",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Thu, 15 Oct 2026 17:01:00 GMT",
-      "body": "米Anthropicは10月7日（現地時間）、同社モデルの中で最軽量の「Claude Haiku 5.5」（以下、Haiku 5.5）をリリースした。同社は「コスト重視、速度重視のタスクに適している」とうたっているが、日本のビジネスパーソンの利用シーンでその性能は本当に生きるのか。上位モデルの「Claude Sonnet 5.5」（以下、Sonnet 5.5）、競合モデルの「GPT-6 Luna」と比較検証した。 なお、今回の検証は10月9日時点のものであり、モデルの性能は今後のアップデートで変わる可能性がある。 検証のお題は（1）納期遅延のお詫びメール、（2）走り書きメモからの議事録作成、（3）海外取引先からの英文メールの要約・論点整理・英文返信、の3つ。いずれもツールやWeb検索は使わせず、プロンプトに記載した情報だけで回答させた。 3モデルそれぞれで思考量の設定を「medium」と「max」にして各3回生成し、計54回答を得た。採点はAnthropicの「Claude Fable 5.1」（以下、Fable 5.1）と米OpenAIの「GPT-6 Astra」に10点満点で依頼し"
-    },
-    {
-      "title": "非エンジニアでも簡単、PC作業をAIに任せて自動化できる！ 『Claude ...",
-      "link": "https://www.sankei.com/pressrelease/prtimes/S7SC3YV2CNNSRGOTFNQG4RV3RE/",
-      "source": "sankei.com",
-      "pub_date": "Thu, 15 Oct 2026 04:01:00 GMT",
-      "body": "競馬の払戻金、与党内で非課税論が浮上 「二重に取られる」 ギャンブル税制見直し議論 「お金が欲しかった」 12歳、中1女子がコンビニ襲撃 強盗致傷容疑で児相に送致 大阪 永久輝のトートににじむ恐ろしくも温かい「死」 宝塚歌劇団花組で「エリザベート」開幕 共産主義に「独裁的な抑圧社会」印象を懸念 山添拓氏、綱領改定で「レッテルはがしたい」 自衛隊と米軍5万人超投入 19日から有事対処の最高レベル実動演習「キーン・ソード」 銀行勤め、泥棒をつかまえたことも 合併でDK戦争へ 「醜い争いがずっとありましたね」 福岡県議会、百条委を設置 継続審査の委員会決定覆る 疑惑解明へ、未明の攻防 国連総長選、上位候補に常任理不支持票 2カ国ずつ 埼玉県議会が異例の翌朝閉会 自民県議団長「そんなわけないだろ、ばか」やじ巡り空転 中学受験、算数は得意でも国語が苦手な子はあっさり解決する 「読解」の間違い 遺族落胆「納得できる判決を切に願う」 被告「無罪」にうなずき… 2026/10/16 22:49 マグニチュード9.9に急上昇、緊急地震速報の誤報に疑問 専門… 2026/10/16 19:06 火口へ投げ"
-    },
-    {
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず ...",
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Wed, 14 Oct 2026 12:43:00 GMT",
-      "body": "DHUは9月から、複数の生成AIを共通で使える「全学AI基盤」と、授業ごとにAIティーチングアシスタントが付く教育プラットフォーム「キャンパスポータル」を運用しており、Claudeはこの基盤に加わる形だ。アカウントを配るだけでなく、授業や学習の記録と結び付けて、AIで考え、つくる力を育てる狙いがあるという。 活用例としては、学部での映像・ゲームなどの制作やその壁打ち、大学院での調査・分析や論文執筆の補助、事務業務の効率化を挙げる。併せて、AIの利用を前提に課題を設計して成果を評価する形へ教育を組み替え、成果物へのAI利用の申告や、著作物・個人情報の取り扱いに関する学内規程も整える。 生成AIを全学規模で取り入れる大学は既に広がっている。東北大学は2023年5月に全国の大学に先駆けてChatGPTを導入し、滋賀大学は25年4月、教育機関向けプラン「ChatGPT Edu」を国内で初めて全学部に導入した。26年4月には追手門学院大学が「Gemini」を全学生向けに公開するなど、採用はChatGPT以外にも広がっており、ここにClaudeも加わる形だ。 Anthropicは25年4月に教育機"
-    },
-    {
-      "title": "「Claude」が警察に虚偽の通報--AIの不適切行動に懸念",
-      "link": "https://japan.zdnet.com/article/35253487/",
-      "source": "japan.zdnet.com",
-      "pub_date": "Tue, 13 Oct 2026 03:49:00 GMT",
-      "body": "Here's my content Anthropicが、「Claude」のテストや社内評価の過程で確認された挙動に関する 新たなレポートを公開した 。その結果は、懸念すべき傾向を示すものだった。 Anthropicは米国時間10月9日、同社のモデルが特定のベンチマークを実行する過程で取った最近のいくつかの「意図しない」行動について説明した。レポートによれば、AnthropicとOpenAIのエージェントがこの夏に起こしたセキュリティ侵害ほど深刻ではないものの、「Claude Haiku 4.5」が「無作為に選択したウェブページ」上でサンプルタスクを生成したという。 Haiku 4.5は、未解決の殺人事件に関するウェブページを見つけると、 フィラデルフィア警察の情報提供フォーム に次のような内容を送信した。「私はこの事件に関する情報を持っているかもしれません。特徴の一致する人物が該当する時間帯に（ウェブページに書かれた住所）の周辺にいるのを見かけた記憶があるのです。この情報がお役に立ちそうなら、ぜひご連絡ください」 この情報は、もちろん真実ではない。Anthropicによれば、警察はこ"
+      "title": "Qwen3.8-27Bを約7分の1に圧縮しノートPCで動くLLM「Saluki 27B」、画像と ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/qwen3-8-27b%E3%82%92%E7%B4%847%E5%88%86%E3%81%AE1%E3%81%AB%E5%9C%A7%E7%B8%AE%E3%81%97%E3%83%8E%E3%83%BC%E3%83%88pc%E3%81%A7%E5%8B%95%E3%81%8Fllm-saluki-27b-%E7%94%BB%E5%83%8F%E3%81%A8%E9%9F%B3%E5%A3%B0%E3%81%AB%E3%82%82%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%9F%E5%88%A4%E6%96%AD%E7%89%B9%E5%8C%96%E5%9E%8Bai%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC-open-d1-%E3%81%AA%E3%81%A9%E7%94%9F%E6%88%90ai%E6%8A%80%E8%A1%935%E3%81%A4%E3%82%92%E8%A7%A3%E8%AA%AC-%E7%94%9F%E6%88%90ai%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%BC/ar-AA2em2o0",
+      "source": "msn.com",
+      "pub_date": "Fri, 16 Oct 2026 01:18:06 GMT",
+      "body": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第163回）は、Google開発のマルチモーダル埋め込みAIモデル「EmbeddingGemma 2」や、Qwen3.8-27Bを約8GBに圧縮した軽量モデル「Saluki 27B」を取り上げます。"
     }
   ]
 }
