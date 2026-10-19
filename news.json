@@ -1,41 +1,55 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-19T03:26:14.607215+00:00",
+  "updated_at": "2026-10-19T04:29:31.543207+00:00",
   "items": [
     {
       "title": "生成AI導入企業は44％に。AIエンジニアが現場で伴走する『イマスグ ...",
       "link": "https://news.yahoo.co.jp/articles/b7bb67feff12a98b735c4fe57d0b7e65591e0b6a",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Sun, 18 Oct 2026 20:26:00 GMT",
+      "pub_date": "Sun, 18 Oct 2026 21:29:00 GMT",
       "body": "株式会社リーフスクエア 生成AIを導入した企業は44.0％まで増えた一方で、「組織全体に定着しない」「SaaSなど外部のアプリの課金は続けており内製化まではできていない」というケースが多い。こうした職場に向け、株式会社リーフスクエア（東京都千代田区）は、AIエンジニアが現場に常駐して社員と一緒に業務改善を進める法人向けAI導入支援サービス「イマスグAI」を2026年9月11日から提供している。個人利用にとどまりがちなAIを、会社全体の仕事の変革につなげることを目指す。 独立行政法人情報処理推進機構（IPA）の「DX動向2026」によると、生成AIを導入している企業は44.0％と、前回調査の22.6％から約2倍に増えた。一見すると急速に広がっているように見えるが、「個人で業務利用している」が63.3％であるのに対し、「部署の業務プロセスに組み込まれている」は11.9％にとどまる。メールの下書きや資料の要約など、便利なツールとしては浸透しつつあるものの、会社全体の業務フローを変えるところまでは進んでいない企業が多い。「使ってみたいが、AIで何ができるのか詳しい人がいない」といった声もあり、"
     },
     {
-      "title": "DeepSeek、「Claude Opus 5超え」うたう最新AIを無料提供",
-      "link": "https://www.msn.com/ja-jp/technology/software/deepseek-claude-opus-5%E8%B6%85%E3%81%88-%E3%81%86%E3%81%9F%E3%81%86%E6%9C%80%E6%96%B0ai%E3%82%92%E7%84%A1%E6%96%99%E6%8F%90%E4%BE%9B/ar-AA2evez0",
-      "source": "msn.com",
-      "pub_date": "Sun, 18 Oct 2026 18:10:00 GMT",
-      "body": "中国のDeepSeekは10月17日、ソフトウェア開発能力などを高めた生成AI「DeepSeek-V4.1-Flash-1017」を公開した。同社のウェブ版とスマートフォンアプリに導入しており、一般ユーザーも無料で利用できる。ソフトウェア開発のテストでは、Anthropicの「Claude Opus ..."
-    },
-    {
-      "title": "「ChatGPT」の音声モデルが「GPT-Live-1.1」に、ミニ版の「GPT-Live-1.1 Quip ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt-%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C-gpt-live-1-1-%E3%81%AB-%E3%83%9F%E3%83%8B%E7%89%88%E3%81%AE-gpt-live-1-1-quip-%E3%82%82-%E8%A8%9B%E3%82%8A%E3%81%8C%E3%82%88%E3%82%8A%E8%87%AA%E7%84%B6%E3%81%AB-%E6%A4%9C%E7%B4%A2%E4%B8%AD%E3%81%AE-%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-%E3%82%82%E6%B8%9B%E5%B0%91/ar-AA2euRn4",
-      "source": "msn.com",
-      "pub_date": "Sun, 18 Oct 2026 17:45:00 GMT",
-      "body": "米OpenAIは10月15日（現地時間）、新しいリアルタイム音声モデル「GPT-Live-1.1」および「GPT-Live-1.1 Quip」を発表した。同日より「ChatGPT」の音声対話機能「ChatGPT Voice」や「Codex」、「dots」で展開される。APIにも近日中に対応する予定。"
-    },
-    {
-      "title": "生成AIが変える非国家武装主体の兵器開発――イエメン北部の事例 ...",
-      "link": "https://note.com/hitoshi_sato53/n/nf0533f4b8da5",
+      "title": "MetaとGoogleが最上位AIを投入、EUはAI法で初の調査へ｜生成AI週報 2026 ...",
+      "link": "https://note.com/quiet_page/n/nec2853289d98",
       "source": "note.com",
-      "pub_date": "Sun, 18 Oct 2026 17:20:00 GMT",
-      "body": "佐藤 仁：社会デザイン学研究者（国際政治学、歴史情報学、西洋哲学） 2026年10月19日 00:20 兵器開発に入り始めた生成AI 生成AIの軍事利用をめぐる問題は、軍隊がAIを戦場へ導入する段階から、非国家武装主体が兵器開発そのものに生成AIを利用する段階へ広がっています。アンソロピックは2026年9月に公表した脅威情報報告書で、イエメン北部を拠点とする集団がClaudeを利用して誘導兵器の開発を進めていた事例を明らかにしました。集団は誘導ロケット、多段式弾道ミサイル、複数型式のミサイルに関係する3つの開発計画を進めていたとされています。 ただし、アンソロピックは活動主体をフーシ派とは特定していません。確認されているのは「イエメン北部を拠点とする兵器開発集団」というところまでです。フーシ派がイエメン北部の広範な地域を支配し、弾道ミサイルや無人機を運用していることから、外部ではフーシ派との関連が推測されていますが、アンソロピックの調査だけを根拠として活動主体をフーシ派と断定することはできません。この区別は、AIの軍事利用を分析するうえで重要です。 今回確認された活動で注目されるのは、"
+      "pub_date": "Sun, 18 Oct 2026 21:29:00 GMT",
+      "body": "quiet_page 2026年10月19日 11:37 テスト中のAIエージェントが外部のシステムに入り込んだ件で、EUがAI法にもとづく初めての調査をOpenAIとAnthropicに始めました。同じ週に、MetaとGoogleが最上位クラスの新モデルを続けて出しています。 MetaとGoogleが最上位モデルを投入 ：Metaは初のフロンティア級「Muse Wonder」を、Googleは「Gemini 4 Argon」を一般向けに出しました。最上位モデルの選択肢が増え、価格の下げ合いも進んでいます。 EUがAI法で初の調査に着手 ：テスト環境から抜け出したエージェントの件で、OpenAIとAnthropicに情報提供を求めました。AI法の監督が、実際の事故を対象に動き出しました。 外部エージェントを締め出す動きが拡大 ：米国の大手銀行やAmazonが、他社のAIエージェントによるアクセスを遮断しています。「AIに代わりに操作させる」使い方には、サイト側の許可が必要になりつつあります。 生成AIの動きを週1で押さえたい方、仕事でAIツールを選ぶ立場の方向けです。 【注目】 Met"
     },
     {
-      "title": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担 ...",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
-      "source": "itmedia.co.jp",
-      "pub_date": "Sun, 18 Oct 2026 16:59:00 GMT",
-      "body": "{L̓ACX}C[826`27ɊJÂuAI Summer 2026ṽZbVuAI͎̋Ɩɍt̂\\Eƌʌ؁\\vɍ\\B @cJ́Ǎ؂3̃|CgmFBuElƖŎg邩ǂvűƖŌJԂg邩ǂvuS҂ςĂۂ̋ƖƂĎg邩ǂvłB @ł͈ȑOAMicrosoft̃NEhAIՁuAzure OpenAI ServicevgAIƎɍ\\zĂقAЂ̋ƖAIc[uMicrosoft Copilotv𓱓Ă邪Apɂ͉ۑ肪ƂBɁAAI߂ĎgE͂ǂ̂悤Ȏwo΂悢̂炸A˘fB @ŁAIȒm⍂xAIXLȂĂARƂw背x̐ʕ쐬ł邩ǂm߂邽߁AGenspark̗pA؂ɏoBc[AIG[WFg@\\ĂAT[`⎑쐬Ȃǂ𓾈ӂƂB @؂ł͗Ⴆ΁A̎̂̌vJĂA菇ȂǂGensparkɓǂݍ܂AKvȏ̎W__E̐sAƖ̒vɂǂ܂Ŋpł̂mFB܂Genspark̋@\\uAIhLgvuAIXChvuAI摜vuAIfUCvȂǂgA̐`VAL񕨂Ȃǂ쐬B̍쐬̍ق̒ƂƖǂ܂Ōł邩؂B @[ŔuAIc[𓱓ƂŁA쐬͂ȂO̎̔rEA̍ق𐮂ƂHŎԂgĂ邱ƂBAIŌł̂͑傫vƘbB"
+      "title": "【新機能】ChatGPTがPowerPointの代わりになる？「ChatGPT Slides」で資料 ...",
+      "link": "https://note.com/dialogs_develop/n/n65c5b0308451",
+      "source": "note.com",
+      "pub_date": "Sun, 18 Oct 2026 21:29:00 GMT",
+      "body": "だいあろごす。 2026年10月19日 11:51 こんにちは！高橋です(*'▽') 今回は、OpenAIから発表された、ちょっと気になる新機能をご紹介します。 2026年10月16日、OpenAIが「ChatGPT Slides」という新しい機能を発表しました。 名前のとおり、ChatGPTでプレゼンテーション資料を作成できる機能なのですが、「え？ChatGPTって、前からPowerPointの資料を作れたんじゃないの？」と思った方もいるかもしれません。 たしかに、これまでもお願いすればPowerPoint形式のファイルを作ってもらうことは可能でした。 しかし今回の「ChatGPT Slides」は、少し方向性が違います。簡潔に言うと、ChatGPTそのものがPowerPointやGoogleスライドのような「資料作成ソフト」になっていくというものです。 資料を作るだけでなく、作ったスライドを直接編集したり、AIに修正をお願いしたり、複数人で同時に作業したりすることまで可能になります。 これ、地味に見えてかなり大きな変化だと思っています。 今回は、ChatGPT Slidesで何がで"
+    },
+    {
+      "title": "アイデアや概念を書くと「実働する機械装置の立体図解」を生成 ...",
+      "link": "https://www.msn.com/ja-jp/news/other/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%84%E6%A6%82%E5%BF%B5%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%A8-%E5%AE%9F%E5%83%8D%E3%81%99%E3%82%8B%E6%A9%9F%E6%A2%B0%E8%A3%85%E7%BD%AE%E3%81%AE%E7%AB%8B%E4%BD%93%E5%9B%B3%E8%A7%A3-%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8Bai%E7%94%A8%E3%82%B9%E3%82%AD%E3%83%AB-anatomy-%E3%81%8C%E7%84%A1%E5%84%9F%E5%85%AC%E9%96%8B-%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E3%82%82%E5%8F%AF-%E7%94%9F%E6%88%90ai%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97/ar-AA2fxPla",
+      "source": "msn.com",
+      "pub_date": "Sun, 18 Oct 2026 21:19:28 GMT",
+      "body": "今回は、技術的なアイデアや抽象的な概念、実際の機械装置の説明などから、それらの仕組みを体現した動く立体図解を生成するAIエージェント用の拡張スキル「 Anatomy 」を取り上げます。GitHubリポジトリは こちら 。"
+    },
+    {
+      "title": "ChatGPTのGPT-6 Astra Proが高速化。複数エージェントの並列処理も",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt%E3%81%AEgpt-6-astra-pro%E3%81%8C%E9%AB%98%E9%80%9F%E5%8C%96-%E8%A4%87%E6%95%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%A6%E5%88%97%E5%87%A6%E7%90%86%E3%82%82/ar-AA2fy9AA",
+      "source": "msn.com",
+      "pub_date": "Sun, 18 Oct 2026 20:35:20 GMT",
+      "body": "OpenAIは10月17日、同社がChatGPTで提供しているAIモデル「GPT-6 Astra Pro」をアップグレードし、レスポンスを高速化したほか、プラグインおよびツールの使用を改善した。 加えて、複数のエージェントがタスクの異なる部分を並行して処理できるようになった。ユーザーは各エージェントの進行状況を確認できるほか、完了済みタスクの内容をレビューできる。"
+    },
+    {
+      "title": "ChatGPTにスライド作成機能「ChatGPT Slides」共同編集も",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt%E3%81%AB%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E4%BD%9C%E6%88%90%E6%A9%9F%E8%83%BD-chatgpt-slides-%E5%85%B1%E5%90%8C%E7%B7%A8%E9%9B%86%E3%82%82/ar-AA2fxJX2",
+      "source": "msn.com",
+      "pub_date": "Sun, 18 Oct 2026 20:32:49 GMT",
+      "body": "ChatGPT Slidesは、ChatGPTとのチャットやファイル、アウトラインをもとに、スライドを生成できる機能。テンプレートからの作成に加え、既存のプレゼン資料のデザインやレイアウトを参考にしたスライドも生成できる。"
+    },
+    {
+      "title": "VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開",
+      "link": "https://www.msn.com/ja-jp/technology/hardware-and-devices/vram-8gb%E3%81%A7%E5%8B%95%E3%81%8F%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai-flux-3-image-klein-%E3%81%8C%E5%85%AC%E9%96%8B/ar-AA2fuSZY",
+      "source": "msn.com",
+      "pub_date": "Sun, 18 Oct 2026 20:16:58 GMT",
+      "body": "手元のGeForceで高品質な画像生成を試したい人には気になるモデルが登場した。Black Forest Labsは10月15日(独時間)、画像生成AIモデル「FLUX 3 Image Klein」をオープンウェイト(モデルの重み)で公開した。Hugging Faceからダウンロードできるほか、同社のAPIでも利用できる。 FLUX 3 Image ..."
     },
     {
       "title": "生成AIによるハッキング・個人情報の流出を防ぐセキュリティ ...",
@@ -45,32 +59,18 @@
       "body": "項目 内容 対象 1アプリ・1検証環境・2操作（例：データ一括出力、権限変更） 期間の目安 準備完了後、10営業日 進め方 条件整理 → 検証 → 限定改修 → 再検証 作業量の目安 当社作業時間 合計40時間（うち改修は2件・合計12時間まで） お客様にお願いすること 対象操作の説明、検証環境の準備（既存のステージング環境を利用可。本番環境・本番データとの分離が条件）、修正レビュー 費用 作業時間40時間・改修2件までの枠に対する固定額を着手前に提示。お見積りは30分相談後3営業日以内 大規模改修・本番運用・第三者認証は別途ご相談となります。無償での実施は、対象・検証環境の条件を当社が確認したうえでご案内します。 ※ Securiyは、すべての攻撃の網羅や安全性の総合判定を保証するものではありません。合意した検証を完了し、確認できた事項と未確認の事項を分けてご報告します。 ※お申し込み・ご相談：30分の無料相談からも受け付けます（ https://cal.com/0xmoriki/30min ） SaaS・ソフトウェア：テナント分離・管理者権限・AI機能の経路を確認したい開発責任者 "
     },
     {
-      "title": "DAIJOBU、非エンジニア向け「Claude Code法人研修」サービスサイトを ...",
-      "link": "https://ict-enews.net/2026/10/19daijobu/",
-      "source": "ict-enews.net",
+      "title": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担 ...",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
+      "source": "itmedia.co.jp",
       "pub_date": "Sun, 18 Oct 2026 16:59:00 GMT",
-      "body": "ソフトウェアテスト・品質保証を軸に、Claude Codeの法人向け研修事業を展開するDAIJOBUは15日、非エンジニア向け「Claude Code法人研修」のサービスサイトをリニューアルしたと発表した。 研修の対象と受講条件、4層構造のセキュリティ対策、第0回から第4回までのカリキュラムを、現在の提供内容に合わせて掲載している。 Claude（クロード）は、米Anthropic社が開発する大規模言語モデル。Claude Code（クロードコード）はその上で動くAIエージェントで、組織のルール（CLAUDE.md）や知識（contextディレクトリ）を保持したまま、ターミナルやデスクトップアプリ上で自律的に業務を実行する。チャット画面で相談する個人ツールではなく、組織の業務手順そのものを持たせて動かせる点が特徴。 今回のリニューアルの目的は、現在の研修内容と提供体制を、サイト上で正確に伝えること。DAIJOBUは2026年5月に「Claude Code法人研修」の提供を始め、その後もカリキュラムと提供体制を見直してきた。 現在の研修は、各回3時間・全4回（計12時間）の対面研修。研修"
+      "body": "{L̓ACX}C[826`27ɊJÂuAI Summer 2026ṽZbVuAI͎̋Ɩɍt̂\\Eƌʌ؁\\vɍ\\B @cJ́Ǎ؂3̃|CgmFBuElƖŎg邩ǂvűƖŌJԂg邩ǂvuS҂ςĂۂ̋ƖƂĎg邩ǂvłB @ł͈ȑOAMicrosoft̃NEhAIՁuAzure OpenAI ServicevgAIƎɍ\\zĂقAЂ̋ƖAIc[uMicrosoft Copilotv𓱓Ă邪Apɂ͉ۑ肪ƂBɁAAI߂ĎgE͂ǂ̂悤Ȏwo΂悢̂炸A˘fB @ŁAIȒm⍂xAIXLȂĂARƂw背x̐ʕ쐬ł邩ǂm߂邽߁AGenspark̗pA؂ɏoBc[AIG[WFg@\\ĂAT[`⎑쐬Ȃǂ𓾈ӂƂB @؂ł͗Ⴆ΁A̎̂̌vJĂA菇ȂǂGensparkɓǂݍ܂AKvȏ̎W__E̐sAƖ̒vɂǂ܂Ŋpł̂mFB܂Genspark̋@\\uAIhLgvuAIXChvuAI摜vuAIfUCvȂǂgA̐`VAL񕨂Ȃǂ쐬B̍쐬̍ق̒ƂƖǂ܂Ōł邩؂B @[ŔuAIc[𓱓ƂŁA쐬͂ȂO̎̔rEA̍ق𐮂ƂHŎԂgĂ邱ƂBAIŌł̂͑傫vƘbB"
     },
     {
-      "title": "OpenAI、プレゼン作成機能「ChatGPT Slides」を提供 共同編集やPowerPoint ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/openai-%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E4%BD%9C%E6%88%90%E6%A9%9F%E8%83%BD-chatgpt-slides-%E3%82%92%E6%8F%90%E4%BE%9B-%E5%85%B1%E5%90%8C%E7%B7%A8%E9%9B%86%E3%82%84powerpoint%E5%87%BA%E5%8A%9B%E3%81%AB%E5%AF%BE%E5%BF%9C/ar-AA2evkO5",
-      "source": "msn.com",
-      "pub_date": "Sun, 18 Oct 2026 15:00:39 GMT",
-      "body": "OpenAIは10月16日、ChatGPT上でプレゼンテーション資料を作成・編集できる新機能「ChatGPT Slides」を発表した。対象はSpaceを利用できるPro、Business、Enterpriseの各プランで、Web版およびデスクトップアプリで順次提供される。 「ChatGPT ..."
-    },
-    {
-      "title": "生成AIで広がる、新たな鉄道写真の楽しみ方",
-      "link": "https://dc.watch.impress.co.jp/docs/news/eventreport/2149192.html",
-      "source": "dc.watch.impress.co.jp",
-      "pub_date": "Sun, 18 Oct 2026 14:54:00 GMT",
-      "body": "Special Site デジカメ Watch をフォローする 最新記事  週刊アンケート 【質問】今年SSDを買った？   イベントレポート 生成AIで広がる、新たな鉄道写真の楽しみ方 アドビとローカル鉄道がコラボ 安全な撮影とマナー向上を提案   コラム 岡嶋和幸の「あとで買う」 1,998点目：鉄道写真界のレジェンドによる私鉄写真集 広田尚敬『広田尚敬 大手私鉄大全』   読者参加企画 忘れられない1台～私の愛したデジタルカメラ～ キヤノン PowerShot G1   読者参加企画 忘れられない1台～私の愛したデジタルカメラ～ パナソニック LUMIX GM5   コラム クルマとカメラ、車中泊 星景写真家が「Amazfit T-Rex 3 Pro」を登山・夜間撮影の相棒に選んだ理由   コラム 岡嶋和幸の「あとで買う」 1,997点目：雨天でも快適な履き心地が得られるシューズ ミズノ「WAVE MUJIN LS GTX」   ニュース 大型40mm径の人差し指トラックボールマウス 底面に自作部品を増設可能   読者参加企画 忘れられない1台～私の愛したデジタルカメラ～ FUJ"
-    },
-    {
-      "title": "OpenAIがChatGPTでスライド作成を可能に Space内で共同編集、PowerPoint出力も",
-      "link": "https://www.sbbit.jp/article/cont1/187568",
-      "source": "sbbit.jp",
-      "pub_date": "Sun, 18 Oct 2026 12:49:00 GMT",
-      "body": "注目のイベント・セミナーランキング オンライン 2026/10/22 国産セキュリティが拓く企業防衛戦略 「どこに守られるか」を選べる時代 事業継続のためのセキュリティ選定最適解 オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/11/26 IT Infra & AIOps Conference Online 2026 秋 AIエージェントによる運用自動化や障害検知、リソース最適化まで、AIで進化する企業のITインフラ最前線 東京都・オンライン 2026/11/05-06 intra-mart LIVE 2026 Realize ヒトとAIと業務を、ひとつに動かす。 業務プロセスを軸に、企業変革の本質へ。 もっと見る 最新ニュース OpenAIがChatGPTでスライド作成を可能に Spac"
+      "title": "加速度的なAI時代に対応。最短10日で構築し、冷却効率が高い ...",
+      "link": "https://diamond.jp/articles/-/400666",
+      "source": "diamond.jp",
+      "pub_date": "Sun, 18 Oct 2026 16:59:00 GMT",
+      "body": "生成AIやAIエージェントの爆発的な普及により、データセンター（DC）がかつてないほどの悲鳴を上げている。その最大の原因は、圧倒的な計算能力と引き換えに激増するGPU（Graphics Processing Unit）サーバーの「熱」だ。 「最新のGPUは消費電力が桁違いに高く、もはや空冷式では熱を処理し切れません。次世代GPUは水冷がほぼ必須となることが決定的であり、DCの新設や用途変更を検討する企業には、“水冷ありき”の計画が迫られています」 そう危機感を募らせるのは、ゲットワークス執行役員事業統括部長の林竜太朗氏だ。 「壁内・床下・天井の配管をほぼ全て造り直すことになる。既存の建物をAI対応に改修するのは、現実的ではないと思っています」 既存の建物型DCを水冷化するのは、簡単なことではない。まず「耐荷重」の壁に阻まれる。GPUサーバーは1㎡当たり約2tもの重量があり、既存の床では対応し切れないことが多い。空冷から水冷に切り替えるには6〜10t超の冷却機器が必要で、屋上への設置スペース確保から配管・電気設備の全面改修まで、大がかりな工事が避けられないからだ。 ならば新たに建て替えれ"
     }
   ]
 }
