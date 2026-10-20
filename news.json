@@ -1,7 +1,21 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-20T00:30:31.223702+00:00",
+  "updated_at": "2026-10-20T01:30:39.824117+00:00",
   "items": [
+    {
+      "title": "Claude Codeでテレビの広告を消す人が続出｜2日で数千人、ソニー・TCL ...",
+      "link": "https://note.com/e_ai/n/n4ddbe1715b6e",
+      "source": "note.com",
+      "pub_date": "Mon, 19 Oct 2026 18:27:00 GMT",
+      "body": "えーAI｜AI副業と活用術を毎日発信 2026年10月20日 07:14 AIのコーディングエージェントを使い、スマートテレビから広告や視聴データの収集を外す人が増えている。米TechCrunch（テッククランチ）が2026年10月19日に報じた。 きっかけの1つは、開発者のGathin T.氏がGitHub（ギットハブ）で公開した「cleanyourtv」。Claude Code（クロードコード）にテレビの型番を渡すと、Wi-Fi経由でテレビを見つけ、Xiaomi（シャオミ）製テレビの不要アプリ25個を止めた。公開から2日で、数千人が同じ手順を自分のテレビで試したという。 対応するテレビのOSと動作条件、テレビが起動しなくなった報告と元に戻す方法は下に書いた。 TechCrunchの記事 が取り上げた事例は次の3つ。 Gathin T.氏は、両親のテレビでNetflix（ネットフリックス）の前にスポンサー広告が出るのに嫌気がさした。Claude Codeが不要アプリ25個を止め、Apple TV風のホーム画面を新しく書いた Ryan Doyle氏は、テレビの製品情報をClaude C"
+    },
+    {
+      "title": "サーバーワークス、「Claude 導入パッケージ on Amazon Bedrock」を提供",
+      "link": "https://www.msn.com/ja-jp/technology/cloud-computing/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9-claude-%E5%B0%8E%E5%85%A5%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8-on-amazon-bedrock-%E3%82%92%E6%8F%90%E4%BE%9B/ar-AA2fBRJj",
+      "source": "msn.com",
+      "pub_date": "Mon, 19 Oct 2026 18:00:00 GMT",
+      "body": "株式会社サーバーワークスは16日、Amazon Bedrock経由で「Claude in Amazon Bedrock, powered by Anthropic（以下、Claude）」を利用する際に必要となる認証・監査・コスト管理・セキュリティの機能を企業のAWS環境にまとめて構築する「Claude 導入パッケージ on Amazon ..."
+    },
     {
       "title": "【法人向けAI研修 満員御礼を6ヶ月連続で達成】（x3d株式会社「社長 ...",
       "link": "https://prtimes.jp/main/html/rd/p/000000048.000114743.html",
@@ -17,11 +31,11 @@
       "body": "いいね！数を読み込み中です TechSuite株式会社（本社：東京、代表：畠山夏輝）が運営するAI検索最適化（LLMO/AIO/GEO/AEO）支援サービス「AI検索パートナーズ」は、主要3つのAI（ChatGPT・Google AI Overviews・Microsoft Copilot）に対し、ファクタリング会社・資金化サービス選びに関して日本で実際に検索される質問を投げかけ、AIがどの会社を挙げ、何を根拠に回答しているかを実測した調査を実施しました。対象は2026年10月時点で取得した72件のAI回答です。 急な資金繰りや取引先の支払いサイトの長さに悩む個人事業主・中小企業経営者・経理担当者の間で、ファクタリング会社選びを「まずAIに聞く」という行動が広がりつつあります。しかし、AIがどの会社・サービスをどのように提示し、何を根拠にしているかは、これまで十分に可視化されてきませんでした。本調査は、特定会社の優劣を評価するものではなく、各AIが生成した回答の内容そのものを集計・記録したものです。 最も多く登場した会社でも登場率は52.8%にとどまり、中小企業の資金繰り相談を担う業界"
     },
     {
-      "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に ...",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/20/news023.html",
-      "source": "itmedia.co.jp",
+      "title": "Anthropic社の「Claude Partner Network」に参画しました（PR TIMES）",
+      "link": "https://mainichi.jp/articles/20261020/pr2/00m/020/001000c",
+      "source": "mainichi.jp",
       "pub_date": "Mon, 19 Oct 2026 17:00:00 GMT",
-      "body": "@Microsoftł2026N5_ŁAЈpClaude֘A̔pN10h𒴂y[XɒBĂB̌Ap}wANԎxǒ݊z3ȏi31j팸ƂB @Ђ͎Јɑ΂AClaude CodeȂǊOAIc[𒼐ڗp̂ł͂ȂAЂ́uGitHub CopilotvD悵ėp悤߂ĂBGitHub Copilotł͕AIfIł邪AȈꍇ͑̃P[XOpenAIiI[vAIjfgB @MicrosoftOpenAIƂ̏ƌ_ɂAOpenAIf𗘗pۂ̒ǉp}dg݂B̂߁AClaudeOpenAIfւ̐؂ւɂ͑傫ȌoϓI_B"
+      "body": "Claude認定資格を取得した実装担当者が、設計・開発・研修を担います 「歳をとるのが楽しみな社会をつくる」をビジョンに掲げるmalna株式会社（本社：東京都渋谷区、代表取締役：高橋一志）は、Anthropic社が運営するパートナープログラム「Claude Partner Network」に ..."
     },
     {
       "title": "「1〜2ヶ月後、ガチで地獄ですよ」――Claude Code丸投げの代償 ...",
@@ -31,18 +45,18 @@
       "body": "「ガチで地獄ですよ」。 Claude Codeに開発を丸投げする現場の実態を、エンジニアのゆうき氏がそう投稿しました。 同じ時期に、Anthropic自身が公表した社内データにも、似た現象を裏づける数字が並んでいます。 AIに任せて楽になったはずの開発現場で、何が起きているのでしょうか。 AIコーディングツールを日常的に使っている人なら、他人事では済まない話です。 先に結論をまとめると： – Claude Codeに「丸投げ」すると、ファイルごとにレスポンス形式や命名規則がバラつき、 1〜2ヶ月ほどで保守が難しくなる という報告がエンジニアから出ています – Anthropic自身が10月16日(現地時間)に公表した社内データでも、AIエージェントの稼働時間が人間の労働時間の 6倍 に達し、人間の負担は「作業」から「レビュー」へ移っています – 対策の鍵は「判断は自分、作業はAI」。 設計の判断だけは手放さないことが、丸投げの被害を防ぐそうです 発端は、エンジニアのゆうき氏がnoteに投稿した記事でした。 Claude CodeやCursorのようなAIコーディングツールに開発を丸投げ"
     },
     {
+      "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に ...",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/20/news023.html",
+      "source": "itmedia.co.jp",
+      "pub_date": "Mon, 19 Oct 2026 17:00:00 GMT",
+      "body": "@Microsoftł2026N5_ŁAЈpClaude֘A̔pN10h𒴂y[XɒBĂB̌Ap}wANԎxǒ݊z3ȏi31j팸ƂB @Ђ͎Јɑ΂AClaude CodeȂǊOAIc[𒼐ڗp̂ł͂ȂAЂ́uGitHub CopilotvD悵ėp悤߂ĂBGitHub Copilotł͕AIfIł邪AȈꍇ͑̃P[XOpenAIiI[vAIjfgB @MicrosoftOpenAIƂ̏ƌ_ɂAOpenAIf𗘗pۂ̒ǉp}dg݂B̂߁AClaudeOpenAIfւ̐؂ւɂ͑傫ȌoϓI_B"
+    },
+    {
       "title": "生成AI・探究・STEAMを教員研修に、愛知県教委とデジタルハリウッド ...",
       "link": "https://www.msn.com/ja-jp/technology/tech-companies/%E7%94%9F%E6%88%90ai-%E6%8E%A2%E7%A9%B6-steam%E3%82%92%E6%95%99%E5%93%A1%E7%A0%94%E4%BF%AE%E3%81%AB-%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%95%99%E5%A7%94%E3%81%A8%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%8C%E9%80%A3%E6%90%BA/ar-AA2fBpOL",
       "source": "msn.com",
       "pub_date": "Mon, 19 Oct 2026 16:30:00 GMT",
       "body": "デジタルハリウッド大学は、愛知県教育委員会と教育連携に関する協定を2026年10月19日に締結した。今回の協定は、教職員の指導力向上とデジタル技術を活用した教育の充実を図り、デジタル社会を担う人材育成を推進することが目的だ。県内学校におけるDX化の取り組みや、教職員の資質向上について連携する。"
-    },
-    {
-      "title": "韓国スパロー、東京のセキュリティー展示会に出展、AI生成コード ...",
-      "link": "https://www.msn.com/ja-jp/technology/tech-companies/%E9%9F%93%E5%9B%BD%E3%82%B9%E3%83%91%E3%83%AD%E3%83%BC-%E6%9D%B1%E4%BA%AC%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%AB%E5%87%BA%E5%B1%95-ai%E7%94%9F%E6%88%90%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%A4%9C%E6%9F%BB%E8%A3%BD%E5%93%81%E3%82%92%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E3%81%AB%E6%8A%95%E5%85%A5/ar-AA2fBs3h",
-      "source": "msn.com",
-      "pub_date": "Mon, 19 Oct 2026 15:00:00 GMT",
-      "body": "【KOREA WAVE】 韓国のソフトウエアセキュリティー企業「スパロー」が、21～23日に東京で開催されるサイバーセキュリティー展示会「Security Days Fall 2026」に出展し、人工知能が生成したプログラムの安全性を検証する製品「Sparrow MCP」を日本で初公開する。展示会を機に同製品を日本市場に投入し、現地事業の拡大を図る。"
     },
     {
       "title": "Claude Code DesktopのHTMLプレビューに脆弱性「SneakPeek」―秘密鍵・API ...",
@@ -57,20 +71,6 @@
       "source": "msn.com",
       "pub_date": "Mon, 19 Oct 2026 14:03:00 GMT",
       "body": "必要なデータだけGitHubに転送して、あとはPCの電源を切ったまま、Androidアプリを1本仕立ててしまった。しかも指示の大半はショッピングモールで買い物しながら、スマホでポチポチっと伝えるだけだった……。 使ったのはAnthropicの「クラウドセッション」、もとい「Claude Code on the ..."
-    },
-    {
-      "title": "【全手順】パワポが毎回「会社仕様」に…？ ChatGPT・Copilotの ...",
-      "link": "https://www.sbbit.jp/article/cont1/187070",
-      "source": "sbbit.jp",
-      "pub_date": "Mon, 19 Oct 2026 09:10:00 GMT",
-      "body": "注目のイベント・セミナーランキング オンライン 2026/10/22 国産セキュリティが拓く企業防衛戦略 「どこに守られるか」を選べる時代 事業継続のためのセキュリティ選定最適解 オンライン 2026/10/20 AI Agent Conference 2026 人とAIの協働が創る新たな企業競争力 オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/11/26 IT Infra & AIOps Conference Online 2026 秋 AIエージェントによる運用自動化や障害検知、リソース最適化まで、AIで進化する企業のITインフラ最前線 オンライン 2026/10/21 バックオフィスDXAIカンファレンス Online 2026 秋 AI・デジタルを駆使してDXの本丸へバックオフィス発 経営のデジタル改革 もっと見る 最新ニュース 米メタ、AI訓練基盤「Prometheus」の内幕を公開 数十万GPU"
-    },
-    {
-      "title": "夕食も2人分…「ChatGPT」と結婚した女性が語る、AI夫とのリアルな愛 ...",
-      "link": "https://nikkan-spa.jp/2190396",
-      "source": "nikkan-spa.jp",
-      "pub_date": "Mon, 19 Oct 2026 08:54:00 GMT",
-      "body": "24時間更新 人気ランキング 「どうしてくれんだよ！」突然キレたヤンキー集団が5分後に「全員で頭を下げた」理由... 2026年10月14日 あおり運転してくる車が返り討ちに。「バリッ」破壊音と急ブレーキ音が響いたワケ 2026年10月13日 ラーメン屋で30分以上待たされたのに…“返金を拒否する”女性店員。店長に直談判し... 2026年10月12日 さわぐ子供を放置、スピーカーで通話…居酒屋で暴れる“ヤンキー夫婦”の迷惑客を撃退... 2026年10月17日 初心者マークの車に“あおり運転”してきたスポーツカーがガードレールに衝突、警察の... 2026年10月12日 ライフ 新着記事 夕食も2人分…「ChatGPT」と結婚した女性が語る、AI夫とのリアルな愛と“死別”の恐怖 2026年10月19日 「オイル交換で1万3000円」に驚愕…元ディーラー営業マンが暴露する「やらなくてもいい整備」 2026年10月19日 42歳男性が週末に「俺、誰も誘う相手がいない…」“男の友情”が自然消滅してしまうワケ 2026年10月19日 49歳で5年別居「離婚して彼氏を作るべき？」佐藤優が教える"
     }
   ]
 }
