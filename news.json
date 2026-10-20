@@ -1,7 +1,35 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-20T13:35:31.054557+00:00",
+  "updated_at": "2026-10-20T14:27:14.194745+00:00",
   "items": [
+    {
+      "title": "生成AIで観光業の問い合わせ対応を効率化！ 『DSチャットボット ...",
+      "link": "https://www.nishinippon.co.jp/item/1551016/",
+      "source": "nishinippon.co.jp",
+      "pub_date": "Tue, 20 Oct 2026 06:41:00 GMT",
+      "body": "全国・海外ニュース ニュースリリース 生成AIで観光業の問い合わせ対応を効率化！ 『DSチャットボット』が観光業向け専用ページを公開 配信会社提供のプレスリリースを原文のまま掲載しており、西日本新聞社が取材・執筆した記事ではありません。お問い合わせは各配信元へお願いいたします。 ニュースリリース 拡大 多言語での観光案内や24時間365日の問い合わせ対応など、AIチャットボットの活用方法を紹介 株式会社ディーエスブランド（本社:長崎県長崎市、販売本部:東京都中央区、代表取締役社長:下山大祐、以下「当社」）は、AIチャットボットサービス「DSチャットボット」の観光業向け専用ページを公開したことをお知らせいたします。 近年、観光業では、電話やメールによる問い合わせ対応の負担や、訪日外国人観光客への多言語対応などが課題となっています。こうした課題への対策として注目されているのが、生成AIを活用して利用者からの質問に自動で回答するAIチャットボットです。 今回公開した専用ページでは、観光業におけるAIチャットボットの活用方法や導入のメリット、「DSチャットボット」の特長について紹介しています。"
+    },
+    {
+      "title": "JPXと日立、取引システムの運用監視に生成AIを本格適用 PoCの判断 ...",
+      "link": "https://www.sbbit.jp/article/cont1/187602",
+      "source": "sbbit.jp",
+      "pub_date": "Tue, 20 Oct 2026 06:18:00 GMT",
+      "body": "注目のイベント・セミナーランキング オンライン 2026/10/22 国産セキュリティが拓く企業防衛戦略 「どこに守られるか」を選べる時代 事業継続のためのセキュリティ選定最適解 オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/11/26 IT Infra & AIOps Conference Online 2026 秋 AIエージェントによる運用自動化や障害検知、リソース最適化まで、AIで進化する企業のITインフラ最前線 オンライン 2026/10/21 バックオフィスDXAIカンファレンス Online 2026 秋 AI・デジタルを駆使してDXの本丸へバックオフィス発 経営のデジタル改革 東京都 2026/10/27-28 World Forum Tokyo 2026  もっと見る 最新ニュース ソシオネクスト、ケイデンスと協業 AIエージェントを3nm大規模SoCの物理設計へ適用 2026/10/20"
+    },
+    {
+      "title": "PyTorch ConferenceでLlm-D 1.0が発表、本番環境向け推論スタックを公開",
+      "link": "https://www.unite.ai/ja/llm-d-1-0-debuts-at-pytorch-conference-with-production-inference-stack/",
+      "source": "unite.ai",
+      "pub_date": "Tue, 20 Oct 2026 05:46:00 GMT",
+      "body": "llm-dプロジェクトの貢献者は、2026年10月20日、PyTorch Conference North Americaで、Kubernetesネイティブの分散型推論サービングスタックであるllm-d 1.0を発表した。 IBM Researchの発表 によると、IBMは、このリリースによってllm-dは個々の性能向上手法を実証する段階を超え、推論コストの上昇を受けて、組織がモデルのデプロイを自社内で行えるよう支援することを目指すと述べた。 llm-dは、あらゆるモデルを、あらゆるアクセラレーター上で、あらゆるクラウドにデプロイする推論スタックとして構築されている。Red Hat、 IBM 、Googleがプロジェクトの主要メンテナーであり、CoreWeaveおよびNVIDIAとともにllm-dを共同設立した。AMD、Cisco、Hugging Face、Intel、Lambda、Mistral AIも貢献者として参加している。Cloud Native Computing Foundation（CNCF）は、サンドボックスプロジェクトとしてllm-dをホストしている。IBMは、この成"
+    },
+    {
+      "title": "ChatGPT、Claude、Perplexity、Gemini…Androidの「長押し」に登録すべきAI ...",
+      "link": "https://www.msn.com/ja-jp/technology/software/chatgpt-claude-perplexity-gemini-android%E3%81%AE-%E9%95%B7%E6%8A%BC%E3%81%97-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%99%E3%81%B9%E3%81%8Dai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%A0/ar-AA2fEB15",
+      "source": "msn.com",
+      "pub_date": "Tue, 20 Oct 2026 05:00:00 GMT",
+      "body": "Pixel 9 Pro XLの電源ボタン長押しで起動するデフォルトアシスタントを、Gemini、ChatGPT、Claude、Perplexityの主要AI 4社で徹底比較！ タイマー設定から画面要約、チップの相場まで10個の日常タスクを実際に検証。操作感やレスポンス速度、音声の違いまでリアルな使い心地をレポートします。"
+    },
     {
       "title": "ChatGPT、Claude、Perplexity、Gemini…Androidの「長押し」に登録すべきAIアシスタントはどれだ？",
       "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt-claude-perplexity-gemini-android%E3%81%AE-%E9%95%B7%E6%8A%BC%E3%81%97-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%99%E3%81%B9%E3%81%8Dai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%A0/ar-AA2fEB15",
@@ -17,60 +45,32 @@
       "body": "ほんとその使い分けに落ち着きました。最初はClaude Code一本で全部いけるだろって舐めてたんですが、速報系のリアルタイム収集で普通に負けて、今はGrok Botを速報用、Claude Codeを深掘り用って棲み分けてます。これが一番しっくりきました。 こちらは「Grok Botは速報用、Claude Codeは深掘り用」という分け方です。 重い作業や深い作業はClaude Code、軽い作業や速さが要る作業はGrok Bot。この線引きはうちでも同じになりそうです。 4つを並べて、うちに当てはめてみました。 - やり方1（窓口役のBot）：一番スマート。ただ、作業中のClaude Codeに勝手にタスクが入ってくるのは、少し怖さもあります。 - やり方2（指示書を置く場所）：今の「書く・読む」の形を延ばすだけなので、一番始めやすそうです。そのかわり、10分おきだとすぐには動きません。 - やり方3（スクリプトやWebhook）：直接つながるぶん速そうですが、つまずいた人もいるので、手間がかかるかもしれません。 - やり方4（SlackやGitHub）：履歴が残るのは魅力です。ただ"
     },
     {
+      "title": "AI朗読で月30万の罠。音声を生成できてもACXで売れない規約と現実",
+      "link": "https://note.com/ai_life_lab61/n/nd6506b9d920d",
+      "source": "note.com",
+      "pub_date": "Tue, 20 Oct 2026 01:59:00 GMT",
+      "body": "AI実験室61 2026年10月20日 09:00 「AIに本を読ませるだけで、毎月30万円の不労所得が入る」 副業系の発信を見ていると、このような言葉を目にすることがあります。 （※本記事は2026年10月20日時点のACXおよびKDP公式情報に基づいて検証しています） 音声生成AIの表現力が向上していることは確かです。 「これなら自分でもオーディオブックを作って販売できるのではないか」と考える人が出てくるのも自然な流れかもしれません。 しかし、プラットフォームの公式規約や配信条件を確認していくと、多くの発信が言及していない重大な前提に直面します。 技術的に音声を書き出せることと、正規の配信プラットフォームで販売を認められ、継続して利益を得られることは全く別の問題です。 ■ ACXの「居住地」制限 世界的なオーディオブック配信サービスであるAudibleへ個人が出品する場合、主にACXという制作・配信プラットフォームを利用します。 ところが、ACX公式の利用条件を確認すると、最初の段階で参入が阻まれます。 出品アカウントを開設できるのは、米国、英国、カナダ、アイルランドの居住者に限定"
+    },
+    {
+      "title": "ChatGPTまた利用枠リセット、今回は予告なし。15日で5回目",
+      "link": "https://www.msn.com/ja-jp/news/other/chatgpt%E3%81%BE%E3%81%9F%E5%88%A9%E7%94%A8%E6%9E%A0%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-%E4%BB%8A%E5%9B%9E%E3%81%AF%E4%BA%88%E5%91%8A%E3%81%AA%E3%81%97-15%E6%97%A5%E3%81%A75%E5%9B%9E%E7%9B%AE/ar-AA2fDDrh",
+      "source": "msn.com",
+      "pub_date": "Tue, 20 Oct 2026 01:52:46 GMT",
+      "body": "今回のリセットは、予告さえなかった。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が10月20日15時33分(日本時間)、X(旧Twitter)に投稿した。全ユーザーの利用枠リセットを実施するという告知だ。これまでのような「2時間以内」といった事前の予告はなく、返信欄では投稿直後から適用の報告が相次いでいる。 利用枠リセットは、Chat ..."
+    },
+    {
+      "title": "Instagramの反政権アカウント停止でMetaが謝罪、「Claude」の大量 ...",
+      "link": "https://japan.cnet.com/article/35253773/",
+      "source": "japan.cnet.com",
+      "pub_date": "Tue, 20 Oct 2026 00:02:00 GMT",
+      "body": "この投稿をInstagramで見る No Kings Coalition(@nokingscoalition)がシェアした投稿 このInstagram投稿には7万2000件を超える「いいね」が付いている。No Kings Coalitionの担当者にもコメントを求めたが、すぐには回答を得られなかった。 17日の集会は、2500都市で行われた2025年の抗議活動から約1年後に開催された。2025年6月に始まったこの集会は、Donald Trump大統領の政策に抗議するものだ。2026年は11月3日の中間選挙が迫っていることから、活動の緊急性が一段と高まっており、デモでは期日前投票について有権者に周知することや、有権者登録を広げることに重点が置かれた。 非営利団体 Center for Democracy ＆ Technology で表現の自由プロジェクトのディレクターを務めるKate Ruane氏は、電子メールで「注目を集めるプラットフォームのコンテンツモデレーション上の判断について、世間は政治的な動機があるのではないかと疑いやすくなっているのは明らかだ」と述べた。 Ruane氏は、Me"
+    },
+    {
       "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に ...",
       "link": "https://www.itmedia.co.jp/business/articles/2610/20/news023.html",
       "source": "itmedia.co.jp",
-      "pub_date": "Mon, 19 Oct 2026 17:00:00 GMT",
+      "pub_date": "Tue, 20 Oct 2026 00:00:00 GMT",
       "body": "@Microsoftł2026N5_ŁAЈpClaude֘A̔pN10h𒴂y[XɒBĂB̌Ap}wANԎxǒ݊z3ȏi31j팸ƂB @Ђ͎Јɑ΂AClaude CodeȂǊOAIc[𒼐ڗp̂ł͂ȂAЂ́uGitHub CopilotvD悵ėp悤߂ĂBGitHub Copilotł͕AIfIł邪AȈꍇ͑̃P[XOpenAIiI[vAIjfgB @MicrosoftOpenAIƂ̏ƌ_ɂAOpenAIf𗘗pۂ̒ǉp}dg݂B̂߁AClaudeOpenAIfւ̐؂ւɂ͑傫ȌoϓI_B"
-    },
-    {
-      "title": "Anthropic社の「Claude Partner Network」に参画しました（PR TIMES）",
-      "link": "https://mainichi.jp/articles/20261020/pr2/00m/020/001000c",
-      "source": "mainichi.jp",
-      "pub_date": "Mon, 19 Oct 2026 17:00:00 GMT",
-      "body": "Claude認定資格を取得した実装担当者が、設計・開発・研修を担います 「歳をとるのが楽しみな社会をつくる」をビジョンに掲げるmalna株式会社（本社：東京都渋谷区、代表取締役：高橋一志）は、Anthropic社が運営するパートナープログラム「Claude Partner Network」に ..."
-    },
-    {
-      "title": "Claudeの新しい利用ポリシー、イライラして言い返す程度は禁止の ...",
-      "link": "https://note.com/ai_blue_jp/n/n14ac0cee021e",
-      "source": "note.com",
-      "pub_date": "Mon, 19 Oct 2026 14:38:00 GMT",
-      "body": "ほかの変更は、武器や監視、選挙など、多くの人の普段使いからは遠い分野が中心です。(1) ただ、SNS運用やレビュー記事を手がけている人は、新しくまとめられた「欺瞞的なキャンペーン」の節に一度目を通しておく価値があると感じました。政治目的か商業目的かを問わず適用される、と発表文は説明しています。(1) 本文では、出どころや、意見がどれだけ広まっているか、人間と話しているかどうかを誤解させる目的の偽アカウントや偽レビュー、人間を名乗るボットなどが例として挙がっています。(2) 同じ本文には、AIの助けを借りた成果物を、許可や適切な表記なしに提出することを禁じる項目もあります。これが今回新しく加わったものかどうかは発表文に書かれていないので、ここでは「本文にある」とだけお伝えしておきます。(2) Anthropicの利用ポリシーのページを開くと、上部に「Effective November 12, 2026」とあり、すでに新しい版が読めます。(2) 「Do Not Engage in Cruel, Abusive, or Psychologically Harmful Conduct」の節の"
-    },
-    {
-      "title": "Claude Code DesktopのHTMLプレビューに脆弱性「SneakPeek」―秘密鍵・API ...",
-      "link": "https://rocket-boys.co.jp/security-measures-lab/claude-code-desktop-sneakpeek-html-preview-credential-theft-20261019/",
-      "source": "rocket-boys.co.jp",
-      "pub_date": "Mon, 19 Oct 2026 14:30:00 GMT",
-      "body": "Noma LabsがClaude Code DesktopのHTMLプレビュー脆弱性「SneakPeek」を公表。256KB超のHTML表示からSSH秘密鍵やAWS認証情報、APIキーを読み取れる問題を実証した。AnthropicはCVSS 8.7と評価し、2026年8月17日のバージョン1.30096.1以降で修正済み ..."
-    },
-    {
-      "title": "Anthropic社の「Claude Partner Network」に参画しました",
-      "link": "https://www.sankei.com/pressrelease/prtimes/JXKKRAUHGVNXLAXLENTKMIKLJM/",
-      "source": "sankei.com",
-      "pub_date": "Mon, 19 Oct 2026 14:25:00 GMT",
-      "body": "中国産ウナギを「愛知から仕入れ」と表示し販売 京都の飲食店会社社長の男を容疑で逮捕 俳優・声優の土田大さん死去 54歳 ニンジャブルー、グリシャ・イェーガーなど演じる 横浜・原沢市長「軽いみこし」論に「言われて乗るほどやわじゃない」平原副市長ら当面続投 「シクラメンのかほり」でレコード大賞も雀荘で…ナベプロさんの力かな、最後に歌うんです 台湾閣僚が愛知・名古屋アジアパラ公式行事すべて辞退 参加証の区分変更に「不満と遺憾」 中国、9月の日本向けレアアース磁石輸出は171トンの低水準に 米国は前年比4割増 次世代ペロブスカイト太陽電池、29年度本格量産へ パナソニックHD ビル窓などに設置 自民・萩生田光一氏、高市早苗総裁の再選支持 「無投票」に道筋 旧安倍派の結集焦点 河合塾「東大理類特化MEPLOMETA」を西宮北口で開校 「超速習」と最大量演習でトップ合格へ 「居座れという指摘か」高市首相がいのち・奥田氏による自衛隊の被災地支援巡る批判に反論 なぜ冷凍食品は市場拡大しているのか…背景に世帯構造の変化 相… 2026/10/20 16:00 米WSJ記者、取材中拘束「はめられた」 テレ"
-    },
-    {
-      "title": "Claudeの脆弱性を暴いたセキュリティ企業創業者が語る「AIの怖さ ...",
-      "link": "https://www.businessinsider.jp/article/2610-layerx-ai-agent-security/",
-      "source": "businessinsider.jp",
-      "pub_date": "Sun, 18 Oct 2026 23:00:00 GMT",
-      "body": "サム・アルトマンが語った「最悪の事故」。セールスフォースが担う“立ち入り禁止”の線 | Business Insider Japan DLPのような仕組みは人間の性質を当てにしてきた、と語るエシェド氏。 撮影：松本和大 LayerXの研究チームが個人情報の貼り付けを止める仕組みを作って試したところ、1回目と2回目のデモでは想定どおりに働いた。 3回目、エージェントは貼り付けが妨げられていることに気づき、同じ内容を1文字ずつ入力したという趣旨の応答を返した。 エシェド氏によれば、それ以降も貼り付けを使わず、最初から1文字ずつ入力するようになったという。 「そのとき痛感したのは、エージェントは素直だということです。何かをするよう指示されれば、どうにかしてやり遂げる方法を見つけてしまう」（エシェド氏） エシェド氏によれば、DLPのような仕組みは人間の性質を当てにしてきた。操作を止められた従業員は、規則違反を恐れて二度と試さない。試し続けても、いずれ疲れて諦める。AIエージェントには、そのどちらも当てはまらない。  「ブロックされれば新しいファイルを作り、1文字ずつ打ち直し、暗号化し、画像の中"
-    },
-    {
-      "title": "DAIJOBU、非エンジニア向け「Claude Code法人研修」サービスサイトを ...",
-      "link": "https://ict-enews.net/2026/10/19daijobu/",
-      "source": "ict-enews.net",
-      "pub_date": "Sun, 18 Oct 2026 16:59:00 GMT",
-      "body": "ソフトウェアテスト・品質保証を軸に、Claude Codeの法人向け研修事業を展開するDAIJOBUは15日、非エンジニア向け「Claude Code法人研修」のサービスサイトをリニューアルしたと発表した。 研修の対象と受講条件、4層構造のセキュリティ対策、第0回から第4回までのカリキュラムを、現在の提供内容に合わせて掲載している。 Claude（クロード）は、米Anthropic社が開発する大規模言語モデル。Claude Code（クロードコード）はその上で動くAIエージェントで、組織のルール（CLAUDE.md）や知識（contextディレクトリ）を保持したまま、ターミナルやデスクトップアプリ上で自律的に業務を実行する。チャット画面で相談する個人ツールではなく、組織の業務手順そのものを持たせて動かせる点が特徴。 今回のリニューアルの目的は、現在の研修内容と提供体制を、サイト上で正確に伝えること。DAIJOBUは2026年5月に「Claude Code法人研修」の提供を始め、その後もカリキュラムと提供体制を見直してきた。 現在の研修は、各回3時間・全4回（計12時間）の対面研修。研修"
-    },
-    {
-      "title": "11月に「Claude公式ハッカソン」開催、これはチャンスだよ。参加し ...",
-      "link": "https://www.gizmodo.jp/article/2610-claude-official-hackathon-2026/",
-      "source": "gizmodo.jp",
-      "pub_date": "Sat, 17 Oct 2026 01:00:00 GMT",
-      "body": "Image: Cerebral Valley, Anthropic AIでやりたいことがある人、いっちゃおうよ。 日本で Claudeの公式ハッカソン「Built with Claude: Japan 2026」 が開催されます。かなり大盤振る舞いなイベントなのでAIでいろいろ作りたいものがあるって人は申し込みましょう、 完全オンライン で 1人 でも参加登録できます！ The Claude Code hackathon is back, and we're bringing it to Japan! エンジニアの方も、そうでない方も、日本在住のビルダーならどなたでも応募できます。世界に何を見せてくれるのか、楽しみにしています。 応募締切は10月26日 23:59（日本時間）： https://t.co/YXVYxl5gdU #claudejapan2026 「ハッカソンって開発者向けのイベントでしょ？」と思う方もいるかもしれませんが、以前のClaudeのハッカソンでは 上位入賞者5人中4人が非エンジニア でした。自分の得意領域で戦えるものを構想できるなら勝負できます。コードはClau"
     }
   ]
 }
