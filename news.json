@@ -1,7 +1,21 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-20T20:23:09.846455+00:00",
+  "updated_at": "2026-10-20T21:24:59.533406+00:00",
   "items": [
+    {
+      "title": "ChatGPT Team Tasks 定期作業をチーム共有の自動タスクに【速報】",
+      "link": "https://note.com/dende2023/n/nf3005553f438",
+      "source": "note.com",
+      "pub_date": "Tue, 20 Oct 2026 14:22:00 GMT",
+      "body": "Team Tasksは、メンバー個人のアカウントではなく、チームのサービスアカウントと、チームに設定した接続で動きます。中心になるのは「ワークスペース接続」で、管理者が承認した会社管理のアプリのアカウントです。個人がつないだアカウントをチームで共有する「チーム接続」もあります。メンバーが一人ずつ自分のアカウントをつなぐ必要はありません。 接続の権限が許せば、Slackへの投稿のような書き込みもできます。一方で、無人の実行では新しいアプリへのサインインは完了できず、操作の承認が必要な設定もそのまま適用されます。ChatGPTを閉じていても、PCがスリープしていても、スケジュールどおりに動きます。 管理者が使う権限は2つです。「チームの作成」と「チームタスクの作成・管理」で、ロールごとに許可を分けられます。チームの作成者はチームのオーナーになりますが、ワークスペースの管理者権限は持ちません。 監査については、チームのアクティビティ画面に変更履歴が残り、Compliance APIでも活動を確認できます。ただし公式ドキュメントは、どの記録が取れるかを先に確認してから監査に使うよう書いています"
+    },
+    {
+      "title": "ズーム、会議の会話をAIの仕事につなぐ「統合コンテキスト層 ...",
+      "link": "https://www.sbbit.jp/article/cont1/187629",
+      "source": "sbbit.jp",
+      "pub_date": "Tue, 20 Oct 2026 14:22:00 GMT",
+      "body": "注目のイベント・セミナーランキング オンライン 2026/10/22 国産セキュリティが拓く企業防衛戦略 「どこに守られるか」を選べる時代 事業継続のためのセキュリティ選定最適解 オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/11/26 IT Infra & AIOps Conference Online 2026 秋 AIエージェントによる運用自動化や障害検知、リソース最適化まで、AIで進化する企業のITインフラ最前線 東京都 2026/11/20 生成AI / AI エージェントフォーラム 東京 2026 秋 進化する人とAIの自律型共創社会 日本企業の生成AI・AIエージェント活用最前線 オンライン 2026/10/21 バックオフィスDXAIカンファレンス Online 2026 秋 AI・デジタルを駆使してDXの本丸へバックオフィス発 経営のデジタル改革 もっと見る 最新ニュース グーグル、政府機"
+    },
     {
       "title": "デジタル庁「源内」にAIエージェント機能、政府職員約18万人へ順次 ...",
       "link": "https://rocket-boys.co.jp/security-measures-lab/digital_agency_gennai_ai_agents_sovereign_ai_security_20261020/",
@@ -45,32 +59,18 @@
       "body": "全国・海外ニュース ニュースリリース 生成AIで観光業の問い合わせ対応を効率化！ 『DSチャットボット』が観光業向け専用ページを公開 配信会社提供のプレスリリースを原文のまま掲載しており、西日本新聞社が取材・執筆した記事ではありません。お問い合わせは各配信元へお願いいたします。 ニュースリリース 拡大 多言語での観光案内や24時間365日の問い合わせ対応など、AIチャットボットの活用方法を紹介 株式会社ディーエスブランド（本社:長崎県長崎市、販売本部:東京都中央区、代表取締役社長:下山大祐、以下「当社」）は、AIチャットボットサービス「DSチャットボット」の観光業向け専用ページを公開したことをお知らせいたします。 近年、観光業では、電話やメールによる問い合わせ対応の負担や、訪日外国人観光客への多言語対応などが課題となっています。こうした課題への対策として注目されているのが、生成AIを活用して利用者からの質問に自動で回答するAIチャットボットです。 今回公開した専用ページでは、観光業におけるAIチャットボットの活用方法や導入のメリット、「DSチャットボット」の特長について紹介しています。"
     },
     {
+      "title": "JPXと日立、取引システムの運用監視に生成AIを本格適用 PoCの判断 ...",
+      "link": "https://www.sbbit.jp/article/cont1/187602",
+      "source": "sbbit.jp",
+      "pub_date": "Tue, 20 Oct 2026 06:18:00 GMT",
+      "body": "注目のイベント・セミナーランキング オンライン 2026/10/22 国産セキュリティが拓く企業防衛戦略 「どこに守られるか」を選べる時代 事業継続のためのセキュリティ選定最適解 オンライン 2026/12/10-11 セキュリティマネジメントカンファレンス 2026 冬 現実化するAI vs AI のサイバーセキュリティの攻防 日本企業を守る「自律型能動的サイバー防御」を構築せよ オンライン 2026/11/26 IT Infra & AIOps Conference Online 2026 秋 AIエージェントによる運用自動化や障害検知、リソース最適化まで、AIで進化する企業のITインフラ最前線 東京都 2026/11/20 生成AI / AI エージェントフォーラム 東京 2026 秋 進化する人とAIの自律型共創社会 日本企業の生成AI・AIエージェント活用最前線 オンライン 2026/10/21 バックオフィスDXAIカンファレンス Online 2026 秋 AI・デジタルを駆使してDXの本丸へバックオフィス発 経営のデジタル改革 もっと見る 最新ニュース グーグル、政府機"
+    },
+    {
       "title": "PyTorch ConferenceでLlm-D 1.0が発表、本番環境向け推論スタックを公開",
       "link": "https://www.unite.ai/ja/llm-d-1-0-debuts-at-pytorch-conference-with-production-inference-stack/",
       "source": "unite.ai",
       "pub_date": "Tue, 20 Oct 2026 05:46:00 GMT",
       "body": "llm-dプロジェクトの貢献者は、Kubernetesネイティブの分散推論サービングスタック「llm-d 1.0」を、2026年10月20日に開催されたPyTorch Conference North Americaで発表した。 IBM Researchの発表 によると、IBMは今回のリリースについて、個々の性能向上手法の実証にとどまらず、推論コストが上昇するなか、組織がモデルのデプロイを自社内で行えるよう支援することを目的としていると述べた。 llm-dは、あらゆるモデルを、あらゆるアクセラレーター上で、あらゆるクラウドにデプロイする推論スタックとして構築されている。Red Hat、 IBM 、Googleがプロジェクトの主要メンテナーを務め、CoreWeaveおよびNVIDIAとともにllm-dを共同設立した。AMD、Cisco、Hugging Face、Intel、Lambda、Mistral AIも貢献者として加わっている。Cloud Native Computing Foundation（CNCF）は、サンドボックスプロジェクトとしてllm-dをホストしている。IBMは、この"
-    },
-    {
-      "title": "ChatGPT、Claude、Perplexity、Gemini…Androidの「長押し」に登録すべきAI ...",
-      "link": "https://www.msn.com/ja-jp/technology/software/chatgpt-claude-perplexity-gemini-android%E3%81%AE-%E9%95%B7%E6%8A%BC%E3%81%97-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%99%E3%81%B9%E3%81%8Dai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%A0/ar-AA2fEB15",
-      "source": "msn.com",
-      "pub_date": "Tue, 20 Oct 2026 05:00:00 GMT",
-      "body": "Pixel 9 Pro XLの電源ボタン長押しで起動するデフォルトアシスタントを、Gemini、ChatGPT、Claude、Perplexityの主要AI 4社で徹底比較！ タイマー設定から画面要約、チップの相場まで10個の日常タスクを実際に検証。操作感やレスポンス速度、音声の違いまでリアルな使い心地をレポートします。"
-    },
-    {
-      "title": "ChatGPT、Claude、Perplexity、Gemini…Androidの「長押し」に登録すべきAIアシスタントはどれだ？",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt-claude-perplexity-gemini-android%E3%81%AE-%E9%95%B7%E6%8A%BC%E3%81%97-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%99%E3%81%B9%E3%81%8Dai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%A0/ar-AA2fEB15",
-      "source": "msn.com",
-      "pub_date": "Tue, 20 Oct 2026 05:00:00 GMT",
-      "body": "Pixel 9 Pro XLの電源ボタン長押しで起動するデフォルトアシスタントを、Gemini、ChatGPT、Claude、Perplexityの主要AI 4社で徹底比較！ タイマー設定から画面要約、チップの相場まで10個の日常タスクを実際に検証。操作感やレスポンス速度、音声の違いまでリアルな使い心地をレポートします。"
-    },
-    {
-      "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に ...",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/20/news023.html",
-      "source": "itmedia.co.jp",
-      "pub_date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "body": "@Microsoftł2026N5_ŁAЈpClaude֘A̔pN10h𒴂y[XɒBĂB̌Ap}wANԎxǒ݊z3ȏi31j팸ƂB @Ђ͎Јɑ΂AClaude CodeȂǊOAIc[𒼐ڗp̂ł͂ȂAЂ́uGitHub CopilotvD悵ėp悤߂ĂBGitHub Copilotł͕AIfIł邪AȈꍇ͑̃P[XOpenAIiI[vAIjfgB @MicrosoftOpenAIƂ̏ƌ_ɂAOpenAIf𗘗pۂ̒ǉp}dg݂B̂߁AClaudeOpenAIfւ̐؂ւɂ͑傫ȌoϓI_B"
     }
   ]
 }
