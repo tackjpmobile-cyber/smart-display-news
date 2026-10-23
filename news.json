@@ -1,24 +1,45 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-10-23T03:26:18.418283+00:00",
+  "updated_at": "2026-10-23T04:26:27.448171+00:00",
   "items": [
+    {
+      "title": "Claudeのオート承認が標準に！Gemini API CLIプレビュー公開！1Password for ...",
+      "link": "https://note.com/redcord/n/n2ceb143d4db5",
+      "source": "note.com",
+      "pub_date": "Thu, 22 Oct 2026 21:26:00 GMT",
+      "body": "We're donating Agent Skills to the Agentic AI Foundation ( @AgenticAIFdn ), the same foundation we donated MCP to. Since December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code. Here's what that means for you: これは みなさんに関係あるニュース です！ 来週から、Claudeのウェブ・デスクトップ・モバイルの全セッションで、Pro・Max・Teamプランはデフォルトでオートモードになります。これまでのように「実行していいですか？」と毎回承認を求められなくなるんです。 サクサク進んで便利な反面、消してはいけないファイルを消してしまうリスクもゼロではありません。毎回しっかり確認したい人や、誰かに使わせている人は、手動承認モードに戻しておくのがおすすめです。 "
+    },
+    {
+      "title": "【11月13日発売予定】Claude Codeは「書かせる」から「自走を設計する ...",
+      "link": "https://note.com/alive_fairy7015/n/nf2edfddf6447",
+      "source": "note.com",
+      "pub_date": "Thu, 22 Oct 2026 21:26:00 GMT",
+      "body": "たとえば既存システムの小規模な修正では、ターンベースで差分を確認しながら進めればよい。一方、完了条件を明文化できるテスト追加はゴールベースと相性がよい。定期的な依存関係点検や品質チェックなら時間ベース、障害検知からの情報収集・原因候補整理ならイベント起点が候補になる。ただし、本番リリースや不可逆な操作は、ループが自走するからといって人間の承認を無条件に外すべきではない。ここで挙げた業務への当てはめは、私自身の設計提案であり、本書の実証結果ではない。 第5章の公開目次には、要件定義・基本設計・詳細設計、実装とコードレビュー、テスト仕様の生成、テスト実行、開発環境とフックまでが並ぶ。特に興味深いのは、レビューを複数観点で並列実行し、指摘を集約する流れと、テストコードの生成役と実行役を分離する構成だ。生成した人がそのまま「大丈夫」と判断するのではなく、役割と判定基準を分ける設計だと読み取れる。 ここは現場のAI開発にも応用しやすい。最初から大きな自律エージェントを組むより、仕様・完了条件を短く固定して、生成→lint→テスト→レビュー→承認という小さな循環から始める。その過程で、失敗を仕様の"
+    },
     {
       "title": "ChatGPTは「自分でも気づかない欲しいもの」まで見抜く？――会話を ...",
       "link": "https://news.yahoo.co.jp/expert/articles/8cad60f651d765e7bedd4aebefd1259dd6eed4f6",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Thu, 22 Oct 2026 20:26:00 GMT",
+      "pub_date": "Thu, 22 Oct 2026 21:18:00 GMT",
       "body": "（ 写真:ロイター/アフロ ） ChatGPTとの会話は、すでに広告にも利用されています。注目すべきは、私たちが入力した言葉だけでなく、会話の流れから「何をしたいのか」という目的までAIが読み取り、広告に利用するという点です。  OpenAIは10月21日、 広告配信の技術的な仕組み を詳しく公表しました。  ChatGPTでは2026年2月から米国で広告のテストが始まり、8月には日本でも提供が開始されています。対象は無料版と低価格の「Go」プランの利用者で、PlusやProなどの上位プランには広告は表示されません。  OpenAIによれば、同日に広告の提供を新たに26カ国に広げ、対象は世界89カ国になりました。これまでに10万以上の広告主がChatGPTで広告を出したといいます。  では、ChatGPTの広告は従来のインターネット広告と何が違うのでしょうか。  例えば、Googleなどの検索エンジンで「旅行 京都 ホテル」と検索すると、京都のホテルの広告が表示されることがあります。従来の検索広告では、こうした検索語句が利用者の関心を判断する重要な手がかりでした。  一方、ChatGP"
     },
     {
-      "title": "ChatGPT、Claude、Geminiを目的別に使い分ける具体的なワークフロー ...",
-      "link": "https://note.com/startai/n/n5b42c99f1904",
-      "source": "note.com",
-      "pub_date": "Thu, 22 Oct 2026 20:26:00 GMT",
-      "body": "株式 ＡＩエージェント投資 🧠🤑💸 2026年10月23日 08:37 💸「3つ全部契約」はもう古い。AIエージェント時代に成果と財布の差を生むのは\"役割分担の設計図\"です ChatGPT、Claude、Gemini。 気になって全部に課金してみたものの、気づけば毎月1万円近くが引き落とされている。それなのに、結局いつもひとつのAIにしか話しかけていない。そんな状態に心当たりはないでしょうか。 実は2026年は、AIの料金と機能が過去にないほど激しく動いた年です。 🔥 OpenAIは1月に新プラン「ChatGPT Go」を世界展開し、日本では月額1,500円で、メッセージ送信数やファイルアップロード数、画像生成数が無料プランの10倍使えると発表しました。 🔥 Googleは5月のI/Oで、最上位プラン「AI Ultra」の月額料金を249.99ドルから100ドルへと大幅に値下げしました。 🔥 さらに6月には、Google AI Plusが日本でも月額1,200円から725円に改定され、ストレージは200GBから400GBに増量されています。 つまり、半年前に「これが正解」と思って組んだ"
+      "title": "「1Password for Agents」が発表、AIエージェントにパスワードを見せずに ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/1password-for-agents-%E3%81%8C%E7%99%BA%E8%A1%A8-ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AB%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E8%A6%8B%E3%81%9B%E3%81%9A%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%95%E3%81%9B%E3%82%89%E3%82%8C%E3%82%8B-%E5%80%8B%E4%BA%BA-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91%E3%81%AF%E8%BF%BD%E5%8A%A0%E6%96%99%E9%87%91%E3%81%AA%E3%81%97-claude-duet-chatgpt-work-%E3%81%AA%E3%81%A9%E3%81%A8%E9%80%A3%E6%90%BA/ar-AA2fSqe6",
+      "source": "msn.com",
+      "pub_date": "Thu, 22 Oct 2026 21:05:16 GMT",
+      "body": "加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。"
+    },
+    {
+      "title": "AIエージェント競争にアンソロピックも参戦「Claude Duet」を公開",
+      "link": "https://www.msn.com/ja-jp/news/other/ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E7%AB%B6%E4%BA%89%E3%81%AB%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%82%82%E5%8F%82%E6%88%A6-claude-duet-%E3%82%92%E5%85%AC%E9%96%8B/ar-AA2fTr68",
+      "source": "msn.com",
+      "pub_date": "Thu, 22 Oct 2026 20:57:03 GMT",
+      "body": "アントロピックが新しいAIエージェント「クロードデュエット」の研究用プレビュー版を公開し、自動で業務を遂行する機能を搭載。"
     },
     {
       "title": "ChatGPT広告主が10万社突破、対象89カ国に拡大、年換算売上高約1600億 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/chatgpt%E5%BA%83%E5%91%8A%E4%B8%BB%E3%81%8C10%E4%B8%87%E7%A4%BE%E7%AA%81%E7%A0%B4-%E5%AF%BE%E8%B1%A189%E3%82%AB%E5%9B%BD%E3%81%AB%E6%8B%A1%E5%A4%A7-%E5%B9%B4%E6%8F%9B%E7%AE%97%E5%A3%B2%E4%B8%8A%E9%AB%98%E7%B4%841600%E5%84%84%E5%86%86-ai%E5%BA%83%E5%91%8A%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B/ar-AA2fRZ4t",
+      "link": "https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/chatgpt%E5%BA%83%E5%91%8A%E4%B8%BB%E3%81%8C10%E4%B8%87%E7%A4%BE%E7%AA%81%E7%A0%B4-%E5%AF%BE%E8%B1%A189%E3%82%AB%E5%9B%BD%E3%81%AB%E6%8B%A1%E5%A4%A7-%E5%B9%B4%E6%8F%9B%E7%AE%97%E5%A3%B2%E4%B8%8A%E9%AB%98%E7%B4%841600%E5%84%84%E5%86%86-ai%E5%BA%83%E5%91%8A%E5%B8%82%E5%A0%B4%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B/ar-AA2fRZ4t",
       "source": "msn.com",
       "pub_date": "Thu, 22 Oct 2026 19:08:28 GMT",
       "body": "オープAIがチャットGPTの広告主が10万を超えたと発表し、89カ国に広告事業を拡大することを決定した。"
@@ -50,27 +71,6 @@
       "source": "bloomberg.com",
       "pub_date": "Thu, 22 Oct 2026 17:00:00 GMT",
       "body": "対話型AI「ChatGPT」を展開する米OpenAIは、新たな資金調達ラウンドで約300億ドル（約4兆7000億円）の調達を目指しており、交渉が最終段階に入る中で現在は目標評価額を1兆2500億ドルとしている。事情に詳しい関係者が明らかにした。"
-    },
-    {
-      "title": "ChatGPTで「URL.canParse is not a function」、10月22日の障害は6時間32分で復旧",
-      "link": "https://hashout.jp/ai/13045/",
-      "source": "hashout.jp",
-      "pub_date": "Thu, 22 Oct 2026 17:00:00 GMT",
-      "body": "10月22日の午前、ChatGPTを開こうとすると画面が止まり、「url.canparse is not a function」という聞き慣れない英文エラーだけが表示される。 そんな状態になった人がいた。 見たことのないエラー文だけに、何が壊れたのか見当もつかない。 ChatGPTを仕事や日常のメモ代わりに使っている人にとっては、原因が分からないまま使えない時間が続くのは地味に困る出来事だった。 先に結論をまとめると： – OpenAIは10月22日、ChatGPTの会話機能とResponses API（開発者向けの応答生成機能）でエラーが増える障害を公式に認めた – 障害が起きていたのは日本時間の22日午前11時18分ごろから午後5時50分ごろまでの約6時間32分で、インド・日本・韓国などが影響範囲に挙がっていた – 「URL.canParse is not a function」という表示は利用者側が見たエラー文で、障害は同日中に全面復旧している OpenAIの障害情報を集計しているダッシュボード「AI Status Dashboard」には、10月22日のインシデントとして「El"
-    },
-    {
-      "title": "依然強いググる派と急伸するAI検索 利用者が最も警戒する落とし穴",
-      "link": "https://forbesjapan.com/articles/detail/106743",
-      "source": "forbesjapan.com",
-      "pub_date": "Thu, 22 Oct 2026 14:15:00 GMT",
-      "body": "(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved. 【重要】復旧のご報告 セキュリティ対策に伴うメンテナンスおよび会員機能の一時停止について 【重要】復旧のご報告 セキュリティ対策に伴うメンテナンスおよび会員機能の一時停止について トップ テクノロジー AI 依然強いググる派と急伸するAI検索 利用者が最も警戒する落とし穴 AI 2026.10.23 11:15 依然強いググる派と急伸するAI検索 利用者が最も警戒する落とし穴 Forbes JAPAN Web-News | Forbes JAPAN編集部 著者フォロー 記事を保存 Google検索で Forbes JAPANを 見つけやすく 詳しくはこちら › 日々の疑問や知りたいことを調べる際、インターネットでキーワードを入力して検索する行為はすっかり日常化している。一方で、近年急速に進化を遂げる生成AIの登場により、対話形式で答えを求める新しい調べ方も普及し始めた。情報の探し方が過渡期を迎えるなか、バリューファーストが運営する"
-    },
-    {
-      "title": "生成AIを全面活用した長編アニメ映画「星の唄が聞こえる」が完成 ...",
-      "link": "https://www.excite.co.jp/news/article/Animeanime_104090/",
-      "source": "excite.co.jp",
-      "pub_date": "Thu, 22 Oct 2026 12:30:00 GMT",
-      "body": "生成AIを全面活用して制作された長編アニメ映画『星の唄が聞こえる』が、「アニメの日」である2026年10月22日よりYouTubeにて無料公開された。3名からなる制作チームが実働3ヶ月の中、約1500カット・1万回以上の試行錯誤のうえで手掛けた「成果でしか自分を測れなくなった経営者」が心を取り戻すまでを描く作品となる。 『星の唄が聞こえる』は、わずか3名の少人数制作としては異例の長編作品となったア ..."
     }
   ]
 }
