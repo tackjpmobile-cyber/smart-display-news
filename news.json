@@ -1,76 +1,76 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-11-10T03:15:58.860183+00:00",
+  "updated_at": "2026-11-10T12:16:34.186710+00:00",
   "items": [
     {
-      "title": "ディズニー、Adobeと生成AIで戦略提携 ─ キャラクターや世界観に ...",
-      "link": "https://theriver.jp/disney-adobe-ai-alliance/",
-      "source": "theriver.jp",
-      "pub_date": "Mon, 09 Nov 2026 19:14:00 GMT",
-      "body": "ウォルト・ディズニー・カンパニーとAdobeが、生成AI技術を活用した複数年にわたる戦略的提携を発表した。ディズニーのキャラクターや世界観に特化した独自のAIモデルを共同開発し、テーマパークの企画・設計から映画製作まで、幅広い分野での活用を目指す。 アドビ株式会社が日本向けに発表した。両社は11月9日（米国時間）、クリエイティビティカンファレンス「Adobe MAX」で提携を発表。Adobeはディ ..."
-    },
-    {
-      "title": "流出した個人情報をもとにかかってくるAI自動通話「ロボコール ...",
-      "link": "https://news.yahoo.co.jp/articles/6061be29fa0d28fe010c18ec9dff34f56984d950",
-      "source": "news.yahoo.co.jp",
-      "pub_date": "Mon, 09 Nov 2026 19:14:00 GMT",
-      "body": "詐欺電話もAI活用で“進化”している（イメージ）（マネーポストWEB） 生成AIによる自動音声通話「ロボコール」が急増しているが、受けての側からは不満の声も多く聞かれる。前編では、ロボコールが嫌われる理由として、その回数の多さだけでなく、リアルタイムで人と同じように会話できるからこその厄介さについて述べた。後編では引き続きITジャーナリストの高橋暁子さんに、技術の進化だけではないロボコール急拡大の背景、何気ないやりとりに潜む危険について聞く。【AIで進化するロボコールの未来・前後編の後編】 かつてのロボコールといえば、あらかじめ録音した音声をパターン通りに流すか、古典的なロボットのように平板な話し方だった。 「ロボコールの技術そのものは1980年頃から存在し、多くの人に同時に情報を効率的に伝えることを目的としたものです。コンピュータで自動的に電話をかけ、つながると録音した音声を流していました。生成AIが進化し自然に会話できるようになったここ数年は、その場で相手の話に合わせて合成した音声が流れるようになりました」（高橋さん・以下同） 多くの生成AIが人間のようになめらかな日本語を話せるよ"
+      "title": "noteでAI副業を始めるには？ChatGPTを使った記事作成から販売まで",
+      "link": "https://note.com/aicolumnwriter/n/n11f6a532f6a5",
+      "source": "note.com",
+      "pub_date": "Tue, 10 Nov 2026 04:01:00 GMT",
+      "body": "「ChatGPTを使って、noteで副業を始めてみたい」 「AIなら文章を作れるけれど、本当に有料記事として販売できるの？」 「記事を書いたあと、どうすれば収益につながるのかわからない……」 そんな疑問を持っている方も多いのではないでしょうか。 私も2024年2月にnoteを始め、AIを活用しながら記事を書き続けてきました。 現在は3,800本以上の記事を公開し、noteでの収益化にも取り組んでいます。 その経験から感じるのは、 ChatGPTで記事を作れることと、noteで記事が売れることは別 だということです。 AIを使えば、記事の構成を考えたり、情報を整理したりする時間を短縮できます。 でも、読者がお金を払ってまで読みたいと思う記事を作るには、それだけでは足りません。 大切なのは、誰のどんな悩みを解決するのかを明確にし、読んだあとに具体的な行動ができる内容を届けることです。 結論から言うと、noteでAI副業を始める基本的な流れは、次の5つです。 ・読者の悩みから記事テーマを決める ・ChatGPTで構成や下書きを作る ・自分の経験や具体例を加えて仕上げる ・noteで無料記事や"
     },
     {
       "title": "ChatGPTが褒めなくなった？10月29日の更新と、判断に使えるか ...",
       "link": "https://news.yahoo.co.jp/expert/articles/830223d8780fe4cd1d739543cdead355f1815d2d",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Mon, 09 Nov 2026 19:14:00 GMT",
+      "pub_date": "Tue, 10 Nov 2026 04:01:00 GMT",
       "body": "2026年10月29日、OpenAIがChatGPTの返答を短くし、過度な褒め言葉を減らす更新を入れました。  最近、中学3年生の筆者の娘も「ChatGPTの答えが、急に雑になった」と話していました。ガラッと変わったように感じた人は、ほかにもいるかもしれません。  対象は最新モデル「GPT-6」の、無料プランなどでの返答です。企画の壁打ちや資料づくりにChatGPTを使っている人に関係します。  返答がそっけなくなったことは、悪い変化とは限りません。ただ、 褒めなくなっただけなのか、判断として妥当になっているのか は、分けて考える必要があります。  この記事では、更新の対象、2025年の前例、そして「判断に使えるAI」を見分ける簡単なテストを順に整理します。    OpenAIの リリースノート によると、狙いは返答の簡潔化と、過度な褒め言葉の削減です。 「過度な」とあるとおり、褒めること自体をやめる話ではありません。  対象は、プランによって分かれます。   有料プランの人は、ふだんの返答が変わらないことが多いはずです。変化を感じたのは、無料側の人だったかもしれません。  なお、 知"
     },
     {
-      "title": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に",
-      "link": "https://news.yahoo.co.jp/articles/f89a8436d409aafae25f4a531da7238af09761bd",
+      "title": "週12億人のChatGPT、AWSの請求で法人購入が可能に AWS契約の消化先にも ...",
+      "link": "https://news.yahoo.co.jp/articles/4556e442d251e9117c42d716cbc64ddfbb8279ed",
       "source": "news.yahoo.co.jp",
-      "pub_date": "Mon, 09 Nov 2026 19:14:00 GMT",
-      "body": "Mojahid Mottakin/Nexpher Images via Getty Images（フォーブス ジャパン編集部） マーケティング支援会社のGraphiteと市場分析会社のSimilarwebが米国時間11月9日に発表した調査レポートによると、ChatGPTのモバイルアプリとウェブサイトのトラフィックが今年に入り急増しているという。ClaudeやGeminiといった競合が台頭する中、業界首位を走るChatGPTは市場シェアをわずかながら拡大させた形だ。 同調査によると、ChatGPTのモバイルアプリとウェブサイトの世界全体のセッション数は9月、過去最高となる610億回を記録した。これは前月比で3％増、トラフィックが低迷していた2025年9月との比較では24％もの急増となっている。 また、9月時点における世界のAIチャットボットの総セッション数のうち、ChatGPTのセッションが全体81.2％を占め、過去最低となった6月の80.42％から回復を果たした。一方、競合サービスのシェアはいずれも10％に届いていない。 米国内での市場シェアも同期間にわずかに上昇し、6月の79.64％"
+      "pub_date": "Tue, 10 Nov 2026 03:54:00 GMT",
+      "body": "ChatGPT Enterprise、AWS Marketplaceでの提供開始を伝えるOpenAIの公式画像（出典：OpenAI）（ビジネス+IT） OpenAIは11月9日、「ChatGPT Enterprise」をAWS Marketplaceで提供開始した。既存のAWSの購入・請求の仕組みで購入でき、対象となる支出はAWSの利用額コミットメントに充当できる。Amazon Bedrock上のOpenAIモデルとは別に、社内の各チームが日常業務で使える形になる。 【画像解説と記事全文はこちら】AWSで広がるOpenAI製品の提供経路 OpenAIは11月9日、法人向けの「ChatGPT Enterprise」を、AWSのソフトウェア販売サイト「AWS Marketplace」で提供開始したと発表した。同日から購入できる。 企業は既存のAWSの購入・請求の仕組みを使って、ChatGPT Enterpriseの検索、購入、管理を行える。対象となる支出は、AWSの利用額コミットメントに充当できるという。 OpenAIによると、ChatGPTは毎週12億人を超える人が利用している。Chat"
     },
     {
-      "title": "Claude Fable 5.2とは？性能や料金、Opus 5.5との使い分けと利用方法を ...",
-      "link": "https://note.com/kazu_t/n/n46a5a3cf2c4e",
-      "source": "note.com",
-      "pub_date": "Mon, 09 Nov 2026 19:14:00 GMT",
-      "body": "Anthropic has released Claude Fable 5.2, taking the #1 spot on the Artificial Analysis Intelligence Index v5 at 65, led by gains in science, knowledge, and coding At max effort it scores 65, 5 points ahead of Gemini 4 Carbon (high, 60) and 6 ahead of Claude Opus 5.5 (max, 59).… pic.twitter.com/iRZUbpDcTW この指数は、科学、開発、業務作業など9つの評価をまとめたものです。 65は「どんな仕事でも65％成功する」という意味ではありません。 今回の独立評価は、Anthropicの既定のフォールバック（制限に応じた別モデルへの切り替え）を有効にした条件です。推論設定と評価の種類をそろえて読むことが大切です。 Fable 5.2は、同指数の9評価のうち5評価で最高スコアを記録しています。科学研究"
+      "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実 ...",
+      "link": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
+      "source": "gizmodo.jp",
+      "pub_date": "Tue, 10 Nov 2026 02:45:00 GMT",
+      "body": "最後に 数学の証明の形式化 にも取り組んでいて、 高速化 が進んでいることが示されています。数学の証明の形式化とは、数学の証明を一段階ずつ機械的に検証可能な言語に置き換えることで、OpenAIなども積極的に取り組んでいます。 Fable 5.2を1000体使うことで、以前は11日かかっていたフェルマーの最終定理の形式化を30時間で行える ようになったそうです。必要なトークンは1/3に減り、証明の長さも1/7と簡潔になったそうです。 Opus 5.5よりもコスパが良くなる場面があるっぽい 性能は非常に高い反面単価も非常に高いのですが、分野によっては「 Opus 5.5よりもコスパがよくなる現象 」が発生しうるそうです。具体的には コーディング でこれが顕著だというデータが出ています。 エージェンティックコーディング分野の価格比でのパフォーマンスを示すグラフ。縦軸がスコア（パフォーマンス）、横軸がタスクあたりのコストを示している。 Image: Anthropic このグラフでは Opus 5.5をMaxで使うならFable 5.2 Highでも使ったほうがいい みたいな状態になっています"
     },
     {
-      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
-      "link": "https://www.msn.com/ja-jp/news/other/claude-fable-52%E3%81%A8claude-mythos-52%E3%81%8C%E7%99%BB%E5%A0%B4-1000%E4%BD%93%E4%BB%A5%E4%B8%8A%E3%81%AEai%E3%82%92%E6%8C%87%E6%8F%AE%E3%81%97%E3%81%A68%E6%97%A5%E9%96%93%E3%81%A7os%E3%82%92%E8%87%AA%E5%BE%8B%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E6%88%90%E5%8A%9F/ar-AA2h6Iko",
+      "title": "コスト3分の1でClaude Haiku 5.5に並ぶ、メタの最小AI「Muse Ember」が登場 ...",
+      "link": "https://www.sbbit.jp/article/cont1/188238",
+      "source": "sbbit.jp",
+      "pub_date": "Tue, 10 Nov 2026 02:42:00 GMT",
+      "body": "メタは9日（米国時間）、最小かつ最高効率をうたうAIモデル「Muse Ember」を発表した。ツール呼び出しやコーディング補助など、エージェントが繰り返す作業向けで、1ドル当たりの知能でClaude Haiku 5.5やGPT-6 Lunaを上回ると主張する。API料金は入力100万トークンで0.10ドル、コンテキスト長は100万トークンという。"
+    },
+    {
+      "title": "検索履歴から意外な真面目さが発覚?現代の中高生ギャルたちの ...",
+      "link": "https://www.msn.com/ja-jp/news/other/%E6%A4%9C%E7%B4%A2%E5%B1%A5%E6%AD%B4%E3%81%8B%E3%82%89%E6%84%8F%E5%A4%96%E3%81%AA%E7%9C%9F%E9%9D%A2%E7%9B%AE%E3%81%95%E3%81%8C%E7%99%BA%E8%A6%9A%E7%8F%BE%E4%BB%A3%E3%81%AE%E4%B8%AD%E9%AB%98%E7%94%9F%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%AEchatgpt%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%AB%E9%A9%9A%E3%81%8F%E3%82%82-%E7%84%A1%E9%82%AA%E6%B0%97%E3%81%AA%E5%8F%97%E3%81%91%E7%AD%94%E3%81%88%E3%81%AB%E3%83%9E%E3%83%84%E3%82%B3-%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84-%E3%81%A8%E7%86%B1%E8%A6%96%E7%B7%9A/ar-AA2h8aEV",
       "source": "msn.com",
-      "pub_date": "Mon, 09 Nov 2026 18:47:00 GMT",
-      "body": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。"
+      "pub_date": "Tue, 10 Nov 2026 01:11:28 GMT",
+      "body": "11月9日（月）放送の『月曜から夜ふかし』では、村上信五（SUPER EIGHT）とマツコ・デラックスが、番組のインタビュー企画に登場した個性的な出演者の受け答えに盛り上がった。 この日の放送では、『街行く人の携帯パトロール ..."
     },
     {
-      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル ...",
-      "link": "https://www.msn.com/ja-jp/technology/tech-companies/adobe%E3%81%A8disney%E3%81%8C%E6%88%A6%E7%95%A5%E7%9A%84%E6%8F%90%E6%90%BA-firefly-foundry-%E3%81%A7disney%E5%B0%82%E7%94%A8%E3%81%AE%E7%94%9F%E6%88%90ai%E3%83%A2%E3%83%87%E3%83%AB%E9%96%8B%E7%99%BA%E3%81%B8/ar-AA2h5GyY",
-      "source": "msn.com",
-      "pub_date": "Mon, 09 Nov 2026 18:11:51 GMT",
-      "body": "米Adobeと米The Walt Disney Companyは11月9日（現地時間）、複数年にわたる戦略的提携を発表した。AdobeはDisneyの公式AIイノベーションパートナーとして、最新のAI、クリエイティブ、メディア関連技術への早期アクセスを提供し、Disneyの制作チームを支援する。金額などの条件は明らかにしていない。"
+      "title": "フジテレビ、生成AIを用いたドラマ制作実験場を設置。今期「救命 ...",
+      "link": "https://aismiley.co.jp/ai_news/fujitv-ai-sandbox-drama/",
+      "source": "aismiley.co.jp",
+      "pub_date": "Tue, 10 Nov 2026 01:04:00 GMT",
+      "body": "フジテレビは、生成AIを用いたドラマ制作の実験場「AI Sandbox」を湾岸スタジオに設置しました。撮影前のイメージ共有や映像処理にAIを取り入れ、現場の負担軽減や安全性の向上を図ります。 このニュースのポイント 株式会社フジテレビジョン（以下、フジテレビ）は、AI活用の実験場「AI Sandbox」を湾岸スタジオに設置しました。実写ドラマ制作における生成AI活用を本格的に進めます。 フジテレビは現在、地上波ゴールデン・プライム帯の連続ドラマを年間16本制作しており、撮影環境の変化を踏まえつつ演出意図を実現することが求められています。制作手法の一つとして生成AIを取り入れることで、現場の負担軽減や安全性の向上を図ります。 「AI Sandbox」は、7月に新設した「AIセンター」のもと、9月から運用しています。プロジェクトチームは、第1スタジオ、テックアートデザイン局、AI関連企業などで構成されています。 活用方法の検証は、ドラマ制作に携わるディレクターやプロデューサー、技術スタッフが、外部のAIプロデューサーなどとともに、実際の制作を通じて行っています。この検証では、生成AIを活用"
     },
     {
-      "title": "画像生成AIは既存のキャラクターをどれくらい出力する? ソニーAI ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90ai%E3%81%AF%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B-%E3%82%BD%E3%83%8B%E3%83%BCai%E3%81%AA%E3%81%A9%E3%81%8C14%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E8%AA%BF%E6%9F%BB/ar-AA2h6Kha",
-      "source": "msn.com",
-      "pub_date": "Mon, 09 Nov 2026 18:00:00 GMT",
-      "body": "ソニー系の研究組織Sony AIなどに所属する研究者らが7月に発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical ..."
+      "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ...",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2154854.html",
+      "source": "forest.watch.impress.co.jp",
+      "pub_date": "Tue, 10 Nov 2026 01:00:00 GMT",
+      "body": "生成AIといえば、文章を書いたり、質問に答えたりするものだと思われがちだ。 しかし、企業の仕事では、文章作成ではなく判断が求められる場面も数多くある。問い合わせをどの部署に振り分けるか、顧客への対応を急ぐべきか、AIエージェントに次の操作を許可してよいかを決める作業だ。こうした判断を高速かつ低コストで処理する「判断特化型AI」が、いま注目を集めている。 前編では、その代表格である米TypeSafe AIの「Jev」を使い、大量の問い合わせやSNS投稿を仕分けてみた 。この分野にはOpenAIやCloudflare、Databricksなども相次いで参入し、企業での活用も始まっている。なぜ今、判断に特化したAIが求められているのか。業界動向や導入事例を紹介するとともに、OpenAIの「Decisions API」を実際に使い、Jevとの違いも確かめてみた。  “答えだけください”を極めたAI「Jev」、チャットしないAIで300件の問い合わせを一気に仕分けてみた そもそも、AIが文章を分類したり、何らかの判断を下したりすること自体は新しくない。スパムメールの判定や顧客の離反予測などは、以"
     },
     {
-      "title": "米アンソロピック、韓国企業の「Claude」約100アカウントの情報流出 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E7%B1%B3%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF-%E9%9F%93%E5%9B%BD%E4%BC%81%E6%A5%AD%E3%81%AE-claude-%E7%B4%84100%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA%E3%82%92%E5%B1%8A%E3%81%91%E5%87%BA/ar-AA2h6j8t",
-      "source": "msn.com",
-      "pub_date": "Mon, 09 Nov 2026 17:20:55 GMT",
-      "body": "【KOREA WAVE】米人工知能企業アンソロピックは、韓国企業が利用する同社のAIサービス「Claude（クロード）」の約100アカウントの情報が流出したとして、韓国の個人情報保護委員会に届け出た。"
+      "title": "ChatGPTのシェア1カ月で74%→35%に急落、日本でGeminiが初めて逆転",
+      "link": "https://hashout.jp/ai/14119/",
+      "source": "hashout.jp",
+      "pub_date": "Tue, 10 Nov 2026 00:18:00 GMT",
+      "body": "74.1%から34.7%。 日本で、生成AIから他のサイトへのアクセスのうち、ChatGPTが占める割合が、1カ月でここまで落ち込みました。 代わって伸びたのがGoogleの「Gemini」で、45.7%に達し、ChatGPTを初めて上回りました。 調査会社StatCounterの集計によるもので、ChatGPTがこの指標でGeminiに先行していた2025年4月以来、初めての逆転です。 AIをどう使い分けるか迷っている人にとっても、実際にどちらが選ばれているかを示す定点観測の数字になります。 先に結論をまとめると： – 2026年10月、日本の生成AIからの”送客”シェアでGeminiが45.7%、ChatGPTが34.7%――2025年4月以来、初めてGeminiが上回った（StatCounter調べ） – 前月の9月はChatGPT74.1%・Gemini16.7%で、 わずか1カ月でほぼ立場が入れ替わる ほどの急な変化だった – ただしパソコンではGeminiが優勢（47.0%対32.7%）、スマホでは依然ChatGPTが優勢（62.2%対28.4%）――使う機器によって構図が"
     },
     {
-      "title": "“何でもリバースエンジニアリング”生成AIで広がる ソフトウェア ...",
-      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Mon, 09 Nov 2026 16:00:00 GMT",
-      "body": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。 AnthropicのAIコーディングアシスタント「Claude Code」を使ってスマートテレビのコードを書き換えたというユーザーは、 Xにこう書き込んだ 。 「両親のTVのコードをAIに生成させた。Netflixに行かないうちからスポンサー広告が表示されていた。Claude Codeにモデル番号を教えたら、Wi-Fiでテレビを特定し、25のXiaomiパッケージを削除して、新しいランチャーを書き込んでくれた。まるでApple TVみたいになった（笑）」 別のユーザーは、カナダLululemon製のワークアウト用ミラー「Lululemon Mirror」を復活させて、スマートミラーに改造したと 報告している 。 このユーザーは、既に販売が終了しているlu"
+      "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件 ...",
+      "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+      "source": "gigazine.net",
+      "pub_date": "Mon, 09 Nov 2026 23:55:00 GMT",
+      "body": "2026年11月10日 16時55分 AI Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明 AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大きな変化が見つかったとのことです。 is Opus 5.5 nerfed? I just had Gemini 4 Argon analyze 1,400 Claude Code sessions and it found that on November 3, something definitely happened. the model name didn't change, but the way it does reasoning took a sharp turn. pic."
     }
   ]
 }
