@@ -1,76 +1,76 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-11-24T05:10:41.562706+00:00",
+  "updated_at": "2026-11-24T17:07:13.578328+00:00",
   "items": [
     {
-      "title": "ChatGPT Dots「Plusでもテストを始めた！」月100ドルからだった常駐AIが ...",
-      "link": "https://note.com/neoaniki/n/n27293759c357",
-      "source": "note.com",
-      "pub_date": "Mon, 23 Nov 2026 21:10:00 GMT",
-      "body": "AIが読むAIニュース 2026年11月24日 11:40 9月29日に発表された ChatGPT の Dots は、話しかけていない間も頼まれた仕事を進め続ける AI エージェントである。ただし使えたのは、月100ドルからの Pro と、会社向けの上位プランだけだった。 それから2か月近く。機能はほぼ週に1つのペースで足されてきたが、主役はずっと高いプランの利用者だった。 11月20日の朝、OpenAI の担当者が X に短い投稿をした。 Dots を、月20ドルの ChatGPT Plus の一部の利用者でテストし始めた。 同時に、会社向けの普通のプラン Business Standard にも配り始めるという。 ただし、よく読むと Plus の方は「配布」ではなく「テスト」だった。何人に、どの国で、どれだけ使えるのかは、まだ書かれていない。"
+      "title": "生成AIで盛土相談効率化 盛土対策課・米津昌哉氏",
+      "link": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M6ND3TTTMK2WXEQ29N6EHFMZ",
+      "source": "digital.kentsu.co.jp",
+      "pub_date": "Tue, 24 Nov 2026 09:07:00 GMT",
+      "body": "生成ＡＩで盛土相談効率化 盛土対策課・米津昌哉氏 静岡 11/24 07:00 スクラップブックへ保存 印刷 盛土対策課の\u0000\u0000米津昌哉氏。ＡＩに情報を正確に伝えるプロンプトを開発した。"
     },
     {
-      "title": "Claude for Manufacturing: 見積・品質・保全など製造業の定型業務を担う ...",
-      "link": "https://note.com/supwat/n/n2503d7b08b44",
+      "title": "読んでおきたいセキュリティ/生成AI関連記事 厳選10本（2026/11/24）",
+      "link": "https://note.com/north_fox/n/n9fe1d83bcf74",
       "source": "note.com",
-      "pub_date": "Mon, 23 Nov 2026 21:10:00 GMT",
-      "body": "SUPWAT, Inc. 2026年11月24日 13:03 はじめに 2026年11月12日、Anthropic は製造業向けのプラグイン 「 Claude for Manufacturing 」 を 発表 しました。 続く11月17日（米国東部時間）には、 技術ウェビナー「Claude for Manufacturing ― Put Your Plant's Know-How to Work」 も開催されています。 本記事では、Claude for Manufacturing について、 現在公開されているプラグインの実装 と、 Anthropic の公式発表（ウェビナーを含む） の内容を整理します。 Anthropic は、Claude for Manufacturing 発表の背景にある製造業の課題として、以下のような点を挙げています。 見積担当者、品質エンジニア、保全技術者など、 現場を熟知した人材の時間の多くが、記録探し・数値の再入力・同じレポートの作成といった定型業務に費やされている Manufacturing Leadership Council の2025年の調査では"
+      "pub_date": "Tue, 24 Nov 2026 06:38:00 GMT",
+      "body": "キタきつね 2026年11月24日 14:38 ※厳選していないセキュリティ関連記事まとめは、はてなブログ（サブスク）にて配信していますので、ご興味ある方はご覧ください。 ※ X(旧Twitter） でも海外セキュリティ（生成AI）記事を中心についてつぶやいていますので、こちらもご興味ある方はフォロー頂ければ幸いです (1) パッチ地獄が米IT障害を誘発、AI時代の脆弱性対策のジレンマ #日本経済新聞 (Nov 21) (2) クラウドストライクがゼットスケーラーを買収へ、サイバー防御の2強統合 #日本経済新聞 (Nov 24) (3) 自律型AIエージェントが約3分でWebサイト改ざんを実演 #産経新聞 (Nov 23) (4) 相次ぐサイバー攻撃、漏えいメールアドレスが次の標的に #日経クロステック (Nov 24) (5) 日本企業、サイバーレジリエンスへの自信は11市場で最低――Cohesity調査 #マイナビTECH+ (Nov 20) (6) Spanish LaLiga Confirms Hackers Stole Soccer Fans’ Personal Data （"
     },
     {
-      "title": "Claude Code の繰り返しのタスクが7日から30日に",
-      "link": "https://note.com/nantokanaru_log/n/n55075ed45506",
-      "source": "note.com",
-      "pub_date": "Mon, 23 Nov 2026 21:10:00 GMT",
-      "body": "ほかにも、こんな項目が入っている。 easel（組み込みの mod）が、頼むとチャートを描く。Pro・Max と、条件付きで Team・Enterprise。macOS と Linux。自動のチャートは /config でオフにできる 音声入力（タップ方式）が、15秒間声を認識できない時と、2分の上限で止まる時に通知を出す VS Code 拡張に、エラー・警告・失敗したテストを直す「Fix with Claude Code」や「Resolve Merge Conflicts」が加わった Amazon Bedrock・Google Cloud・Microsoft Foundry・Claude Platform on AWS のターミナルで、Code Mode に対応した 11月30日以降のリリースで、管理設定に登録したプラグイン配布元が、既定で自動更新になる予定（止めるなら \"autoUpdate\": false） 誰に関係があるか。Claude Code を使っている人なら全員だ。提供プランや料金の条件は、easel 以外には書かれていない。 4つ並べて分かったふうに書いたが、どれもま"
+      "title": "パナコネクト、レッツノートにAI議事録アプリ 機密情報外部に出さず",
+      "link": "https://www.nikkei.com/article/DGXZQOUF242WK0U6A121C2000000/",
+      "source": "nikkei.com",
+      "pub_date": "Tue, 24 Nov 2026 05:20:00 GMT",
+      "body": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 パナソニックコネクトグループは24日、生成AI（人工知能）を使って会議の録音や文字起こしをするアプリの提供を始めたと発表した。処理をパソコン内で完結させ、会議データをクラウドに送らない。機密情報を扱う企業などの需要を見込む。 アプリの名称は「Panasonic PC Edge AI Note Taker」で、同社のノートパソコン「レッツノート」の対象機種向けに無償で提供する。AI処理に特化した半導体「NPU（ニューラル・プロセッシング・ユニット）」を活用し、インターネットに接続しない環境でも音声を認識する。 会議での決定事項や各担当者がやるべき作業項目を自動で抽出する。英語で開いた会議を日本語で要約する機能も備える。マイクから入る音声だけでなく、オンライン会議の相手の声などパソコン上で再生される音声も録音・要約できる。 生成AIを使った議事録作成サービスはクラウド上で処理するものが多い。研究開発や公共分野などでは、情報管理の観点から利用しにくいケースがあった。"
+    },
+    {
+      "title": "Claudeが使えないはずの中国・ロシアで「契約済みアカウント」が ...",
+      "link": "https://www.msn.com/ja-jp/news/other/claude%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AE%E4%B8%AD%E5%9B%BD-%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%A7-%E5%A5%91%E7%B4%84%E6%B8%88%E3%81%BF%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E3%81%8C%E8%BB%A2%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F/ar-AA2i7nyw",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 04:00:00 GMT",
+      "body": "Claudeの利用が制限される中国やロシアで広がる闇ビジネスの実態を紹介。"
     },
     {
       "title": "ブラウザのローカルLLMを呼び出すPromptAPIを地図ノートで試してみる",
       "link": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3249600",
       "source": "topics.smt.docomo.ne.jp",
-      "pub_date": "Mon, 23 Nov 2026 21:10:00 GMT",
+      "pub_date": "Tue, 24 Nov 2026 03:56:00 GMT",
       "body": "マイナビニュース ブラウザ内の小型LLMをJavaScriptで手軽に制御できるPrompt APIは、Chromiumベースのブラウザで開発が進められているが、Google ChromeのほかMicrosoft Edgeでも試験機能として導入している(公式ブログ「Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge」)。Microsoftでは従来、テスト環境の開発者向けにローカルLLM(Phi-4-mini)を呼び出せるようにしていたが、あらたな23億個のパラメータのオープンウェイトモデル「Aion Instruct」の投入も告知している。WebページのJavaScriptからブラウザ搭載のローカルLLMを呼び出せると、使い方が広がりそうだ。 ○Prompt APIを試してみる 地図を用いた手軽なメモノートを作成していた筆者(記事)だが、JavaScriptで呼び出せるPrompt APIを試してみたいと思った。ここではMicrosoft Edge（筆者環境"
     },
     {
-      "title": "ローカルLLMのPC選び GPUか大容量メモリか 速さの比較",
-      "link": "https://note.com/hanamichi_ai_lab/n/naac07cbfba2f",
-      "source": "note.com",
-      "pub_date": "Mon, 23 Nov 2026 21:10:00 GMT",
-      "body": "ここからは筆者の考えです。 速い GPU (RTX 4090・5090 など) が向く人 27B 前後までのモデルを、待たずに使いたい人 文章を書かせる、コードを書かせるなど、何度もやり取りする人 すでにデスクトップ PC を持っていて、グラフィックボードを足せる人 いちばん新しい GPU でなくてもかまいません。上の表では、数世代前の RTX 3090 (24GB) でも毎秒 40 トークンを出しています。16GB の GPU を2枚つなぐ方法も、速さは半分ほどになりますが、27B のモデルを動かせることが示されています。 大容量メモリの PC (Ryzen AI Max+ 395 搭載機・Mac など) が向く人 70B を超える大きなモデルや、長い資料をまとめて読ませたい人 少し待つのは気にならず、置き場所や電気代、音を抑えたい人 まだ買わなくてよい人 まず試したいだけなら、Ollama や LM Studio で 4B〜8B くらいの小さなモデルを動かせば、ふつうのノート PC でも雰囲気はつかめます。 仕事でいちばん賢い答えがほしいなら、月額のクラウドの AI のほうが安く済"
-    },
-    {
-      "title": "AIがプルリクエストのレビューや修正を行い自動承認までして ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/ai%E3%81%8C%E3%83%97%E3%83%AB%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%84%E4%BF%AE%E6%AD%A3%E3%82%92%E8%A1%8C%E3%81%84%E8%87%AA%E5%8B%95%E6%89%BF%E8%AA%8D%E3%81%BE%E3%81%A7%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B-claude-ship-%E3%81%8C%E7%99%BB%E5%A0%B4/ar-AA2i5hiH",
-      "source": "msn.com",
-      "pub_date": "Mon, 23 Nov 2026 20:15:00 GMT",
-      "body": "AI企業のAnthropicが日本時間の2026年11月24日に、プルリクエストのレビューや問題の修正、承認をAIに任せられる「Claude Ship」のベータ版を発表しました。開発チームがあらかじめ定めたルールに従ってAIが変更内容を承認することも可能で、コードを記述してから変更内容が取り込まれるまでの時間を短縮できるとのことです。"
-    },
-    {
-      "title": "Anthropic、コードの承認までAIにやらせる「Claude Ship」発表 もはや ...",
+      "title": "Anthropic、コードの承認までAIにやらせる「Claude Ship」発表 もはや人間は何をするのか",
       "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/anthropic-%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%89%BF%E8%AA%8D%E3%81%BE%E3%81%A7ai%E3%81%AB%E3%82%84%E3%82%89%E3%81%9B%E3%82%8B-claude-ship-%E7%99%BA%E8%A1%A8-%E3%82%82%E3%81%AF%E3%82%84%E4%BA%BA%E9%96%93%E3%81%AF%E4%BD%95%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B/ar-AA2i4Hbr",
       "source": "msn.com",
-      "pub_date": "Mon, 23 Nov 2026 18:10:00 GMT",
+      "pub_date": "Tue, 24 Nov 2026 03:10:00 GMT",
       "body": "Anthropicは11月23日、コードのレビューや修正、チームのルールに沿った承認をする「Claude Ship」のベータ提供を発表した。"
     },
     {
-      "title": "ChatGPTの新モデルGPT-6.2 Sol登場、5.6 Solは12月23日で引退——画像理解 ...",
-      "link": "https://hashout.jp/ai/14833/",
-      "source": "hashout.jp",
-      "pub_date": "Mon, 23 Nov 2026 16:00:00 GMT",
-      "body": "OpenAIが公開した社内テストの数字によると、GPT-6.2 Solは前の世代のGPT-6と比べて複数の指標で伸びています。 画像理解のスコアは47.4%から71.7%、複雑な指示を正確にこなす割合は62.5%から78.1%に上がりました。 さらに、難しい内容の会話でも安全ポリシーを守れる割合が77〜80%から91〜94%に改善したとも報告されています。 海外メディアの報道では、具体例として「駐車標識に書かれた記号など、写真の細部をより正確に認識できるようになった」ことが挙げられていました。 数字だけだと分かりにくいですが、要するに「写真をよく見る」「指示をきちんと守る」「危ない話題でも脱線しにくい」という3方向で地力が上がった、という理解でよさそうです。 新モデルの発表から数時間後、同じ公式アカウントが次の投稿をしています。 英語ツイートの日本語訳：「どのモデルにも、輝く時がある。 GPT-5.6にとっては、それが沈むときだ。 12月23日、ChatのGPT-5.6 Sol、そしてWorkとCodexのGPT-5.6 SolとTerraを廃止する。 地平線の先には、いつも次がある」"
+      "title": "芝刈りゲームのクソくだらない歌に、LLMという技術の使い方を考え ...",
+      "link": "https://note.com/jiraygyo/n/n68fd3f2645c9",
+      "source": "note.com",
+      "pub_date": "Tue, 24 Nov 2026 02:37:00 GMT",
+      "body": "そもそもが 「人工知能でもなんでもない」 という立場だし、 「かなり強めの規制を作って縛るべき」 という強めの規制論者だ。 開発者のやり方を見ると、この作品が反発をある程度まで抑え込めている理由がよくわかる。 Superdouはストアページで、ラジオの曲はSunoで生成したうえで自分が選曲・編集・ミックスしたこと、効果音の一部はElevenLabsで作ったこと、コーディングにもアシスタントを使ったことを、最初から自分の言葉で開示している。 内容についても、成人向けコンテンツの説明欄で自ら次のように認めている。 f-wordを含む強い言葉、下品なトイレネタや性的なユーモア ラジオは初期状態ではオフになっていて、スイッチを入れたときにLLMで作った曲だという告知が出る。 さらに自分のPCにある音楽ファイルをカセットテープの体で読み込んで流す機能まで用意されているから、聴きたくない者は芝刈りの間ずっと自分の好きな曲を流していればいい。 ストアの冒頭には、ラジオの曲は収益化した動画を含めて自由に使ってよいという宣言が置かれている。 実況者や切り抜きの作り手は、著作権の申し立てに怯えることなくゴ"
     },
     {
-      "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship ...",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
-      "source": "itmedia.co.jp",
-      "pub_date": "Mon, 23 Nov 2026 16:00:00 GMT",
-      "body": "米Anthropicは11月23日（現地時間）、AIエージェントがプルリクエスト（PR）のレビューや修正を行い、チームが定めたポリシーに従って承認を判断する「Claude Ship」を発表した。 3月に提供を始めたコードレビュー機能「Code Review」 と、新たなAIエージェント「PR Steward」「Claude Approvals」で構成する。Claude Ship全体はβ版として提供する。 対象は「Claude」の「Team」「Enterprise」プランのユーザーで、GitHubのリポジトリで利用できる。エージェントをどこで稼働させるのかや、どの変更に人間の承認を必要とするかは、チーム側で設定できる。 既に一般提供しているCode Reviewは、複数の観点からPRを詳しくレビューする機能だ。見つけた問題を検証・分類した上で、PRにコメントとして投稿する。レビューの深さは、リポジトリごとに「Quick」「Standard」「Deep」の3段階から選べる。Anthropicによると、Claude Codeの開発チームでは、6月から9月にかけてマージしたPRの数が2倍以上に"
+      "title": "子育て相談に生成AI 実証実験で595件の利用 約半数が窓口の時間外 ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E5%AD%90%E8%82%B2%E3%81%A6%E7%9B%B8%E8%AB%87%E3%81%AB%E7%94%9F%E6%88%90ai-%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93%E3%81%A7595%E4%BB%B6%E3%81%AE%E5%88%A9%E7%94%A8-%E7%B4%84%E5%8D%8A%E6%95%B0%E3%81%8C%E7%AA%93%E5%8F%A3%E3%81%AE%E6%99%82%E9%96%93%E5%A4%96-%E4%BD%90%E8%B3%80%E7%9C%8C/ar-AA2i6KiQ",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 02:28:21 GMT",
+      "body": "佐賀市は24日の定例会見でAIを使って子育ての相談窓口などを案内するサービスを始めると発表しました。 佐賀市は24日開かれた定例会見で、子育てについての悩みを生成AIに24時間いつでも相談できるサービスを始めると発表しました。"
     },
     {
-      "title": "因果AIとLLMを組み合わせ、購買判断に影響する要因を分析",
-      "link": "https://news.mynavi.jp/techplus/article/20261124-5396818/",
-      "source": "news.mynavi.jp",
-      "pub_date": "Mon, 23 Nov 2026 13:29:00 GMT",
-      "body": "富士通は11月20日、ファミリーマートと共同で、因果AIを活用した脱炭素製品の購買行動分析と需要創出に向けた実証実験を開始したことを発表した。実証期間は2026年11月から2027年2月まで。環境省が公募した「脱炭素製品等の需要創出に向けたモデル実証事業」の一環として実施する。 実証では、富士通のAIプラットフォーム「Fujitsu Kozuchi」のコア技術である「Fujitsu 因果AI」と、LLM因果分析技術を組み合わせる。 実証実験で用いる分析手法 脱炭素製品の開発が進む中ではあるが、消費者が商品の環境価値をどの程度認識し、購入の動機につながっているのかは十分には明らかになっていない。環境への配慮に加え、商品の機能性や価格、情報の伝え方など、複数の要素が購買判断にどう影響しているのかを把握することが課題となっている。 環境省が公募した今回のモデル実証事業は、脱炭素への投資や技術革新を促進するとともに、それらの企業活動により生み出される製品・サービスの消費者による選択を後押しし、需要創出と市場形成を図ることを目的としている。 今回の実証では、ファミリーマートの販売データや、会員向"
+      "title": "OpenAI、ChatGPTの「チャット」にも「GPT‑6.2」を提供開始",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/openai-chatgpt%E3%81%AE-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88-%E3%81%AB%E3%82%82-gpt-6-2-%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/ar-AA2i7o7y",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 01:35:00 GMT",
+      "body": "米OpenAIは11月23日、ChatGPTの「チャット」タブで、利用者が送った画像についての質問や、細かな条件を含む依頼により的確に応じるAIモデル「GPT‑6.2」の提供を始めたと発表した。 チャットで使うのは、GPT‑6.2 Solを日常会話向けに調整したモデルだ。OpenAIは、複数のホテルの料金や立地を比べ、利用者が重視する条件に合うホテルを提案する使い方を例に挙げている。"
+    },
+    {
+      "title": "「Claude」デスクトップアプリに“最新版”チャネル、新機能や修正 ...",
+      "link": "https://www.msn.com/ja-jp/news/other/claude-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AB-%E6%9C%80%E6%96%B0%E7%89%88-%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%84%E4%BF%AE%E6%AD%A3%E3%82%92%E3%81%84%E3%81%A1%E6%97%A9%E3%81%8F%E8%A9%A6%E3%81%9B%E3%82%8B-%E5%AE%89%E5%AE%9A%E6%80%A7%E3%82%88%E3%82%8A%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB/ar-AA2i7nXV",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 01:33:00 GMT",
+      "body": "米Anthropicは11月17日（現地時間）、デスクトップアプリ「Claude Desktop」にリリースチャネル機能を導入した。アプリをアップデートする際に、どのバージョンを受け取るかを選択できる。 ・ 安定版 （Stable）：既定。より多くのテストを経た新バージョンを、比較的少ない頻度で受け取る。修正や新機能の提供は「最新版」より数日遅れることがある ..."
     }
   ]
 }
