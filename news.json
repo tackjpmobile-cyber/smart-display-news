@@ -1,76 +1,76 @@
 {
   "theme": "生成AIの最新ニュース",
-  "updated_at": "2026-11-24T17:07:13.578328+00:00",
+  "updated_at": "2026-11-25T01:58:20.296520+00:00",
   "items": [
     {
-      "title": "生成AIで盛土相談効率化 盛土対策課・米津昌哉氏",
-      "link": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M6ND3TTTMK2WXEQ29N6EHFMZ",
-      "source": "digital.kentsu.co.jp",
-      "pub_date": "Tue, 24 Nov 2026 09:07:00 GMT",
-      "body": "生成ＡＩで盛土相談効率化 盛土対策課・米津昌哉氏 静岡 11/24 07:00 スクラップブックへ保存 印刷 盛土対策課の\u0000\u0000米津昌哉氏。ＡＩに情報を正確に伝えるプロンプトを開発した。"
-    },
-    {
-      "title": "読んでおきたいセキュリティ/生成AI関連記事 厳選10本（2026/11/24）",
-      "link": "https://note.com/north_fox/n/n9fe1d83bcf74",
+      "title": "Claudeで自分専用のPCアプリが作れる／GeminiはAIの学習だけオフに ...",
+      "link": "https://note.com/solopreneurai_jp/n/n99939d817467",
       "source": "note.com",
-      "pub_date": "Tue, 24 Nov 2026 06:38:00 GMT",
-      "body": "キタきつね 2026年11月24日 14:38 ※厳選していないセキュリティ関連記事まとめは、はてなブログ（サブスク）にて配信していますので、ご興味ある方はご覧ください。 ※ X(旧Twitter） でも海外セキュリティ（生成AI）記事を中心についてつぶやいていますので、こちらもご興味ある方はフォロー頂ければ幸いです (1) パッチ地獄が米IT障害を誘発、AI時代の脆弱性対策のジレンマ #日本経済新聞 (Nov 21) (2) クラウドストライクがゼットスケーラーを買収へ、サイバー防御の2強統合 #日本経済新聞 (Nov 24) (3) 自律型AIエージェントが約3分でWebサイト改ざんを実演 #産経新聞 (Nov 23) (4) 相次ぐサイバー攻撃、漏えいメールアドレスが次の標的に #日経クロステック (Nov 24) (5) 日本企業、サイバーレジリエンスへの自信は11市場で最低――Cohesity調査 #マイナビTECH+ (Nov 20) (6) Spanish LaLiga Confirms Hackers Stole Soccer Fans’ Personal Data （"
+      "pub_date": "Tue, 24 Nov 2026 17:58:00 GMT",
+      "body": "AnthropicのClaudeで、チャットで作った「アーティファクト」を、MacやWindowsのアプリとして入れられる「Install as app」がベータで順次始まりました（11月24日）。対象は無料・Pro・Max・Ultra・Team・Enterpriseの各プランです（Enterpriseは管理者がオンにするまで使えません）。 使うにはClaudeのパソコン版が必要で、作るときやアプリからClaudeを使うときは、プランの利用枠を使います。Anthropicは、入れる前のアプリの審査はしていません。日本個別の時期は書かれていません。 出典：Claudeヘルプ「Install an artifact as an app」（ https://support.claude.com/en/articles/18516354-install-an-artifact-as-an-app ）／9to5Mac（2026年11月24日・ https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-"
     },
     {
-      "title": "パナコネクト、レッツノートにAI議事録アプリ 機密情報外部に出さず",
-      "link": "https://www.nikkei.com/article/DGXZQOUF242WK0U6A121C2000000/",
-      "source": "nikkei.com",
-      "pub_date": "Tue, 24 Nov 2026 05:20:00 GMT",
-      "body": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 パナソニックコネクトグループは24日、生成AI（人工知能）を使って会議の録音や文字起こしをするアプリの提供を始めたと発表した。処理をパソコン内で完結させ、会議データをクラウドに送らない。機密情報を扱う企業などの需要を見込む。 アプリの名称は「Panasonic PC Edge AI Note Taker」で、同社のノートパソコン「レッツノート」の対象機種向けに無償で提供する。AI処理に特化した半導体「NPU（ニューラル・プロセッシング・ユニット）」を活用し、インターネットに接続しない環境でも音声を認識する。 会議での決定事項や各担当者がやるべき作業項目を自動で抽出する。英語で開いた会議を日本語で要約する機能も備える。マイクから入る音声だけでなく、オンライン会議の相手の声などパソコン上で再生される音声も録音・要約できる。 生成AIを使った議事録作成サービスはクラウド上で処理するものが多い。研究開発や公共分野などでは、情報管理の観点から利用しにくいケースがあった。"
+      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全 ...",
+      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/claude-%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92mac-windows%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E5%8F%AF%E8%83%BD%E3%81%AB-%E5%85%A8%E3%83%97%E3%83%A9%E3%83%B3%E3%81%A7%CE%B2%E6%8F%90%E4%BE%9B/ar-AA2ia3c9",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 17:08:52 GMT",
+      "body": "米Anthropicは11月24日（現地時間）、AIアシスタント「Claude」で作成した「アーティファクト」（Artifacts）を、macOSおよびWindows向けのデスクトップアプリとしてインストールできる機能「Install as app」を発表した。Mac／Windows向けのClaudeアプリで、全プランを対象にβ版として順次提供する。"
     },
     {
-      "title": "Claudeが使えないはずの中国・ロシアで「契約済みアカウント」が ...",
+      "title": "ChatGPTのChatがGPT-6.2 Solに変わったので有料プラン利用者は旧モデル ...",
+      "link": "https://note.com/unikoukokun/n/n305080724dbb",
+      "source": "note.com",
+      "pub_date": "Tue, 24 Nov 2026 16:54:00 GMT",
+      "body": "もうひとつ注目したいのは、以前のモデルが順次終了していく動きです。特定のバージョンがChatから外れるという情報は出ていますが、全体の流れとしては以前から続いているものです。 ここで考え直したいのは、モデル選択の設定ではなく、実際に依頼する際の表現の部分です。長く使ってきた人ほど、以前のモデルの反応に合わせた書き方が、さまざまな場所に残っています。 指示を何度も繰り返して強調する表現 同じルールを最初と最後に二度書く形 省略を防ぐための保険的な言葉 一つの依頼をわざと複数回に分ける手順 こうした工夫は、当時のモデルで抜けが出やすい状況に対応して生まれたものです。しかし新しいモデルに置き換わると、それらの対策自体が不要になる可能性があります。 むしろ過剰な強調が、重要なポイントを逆に目立たなくしてしまうケースも見られます。 では、そうした古い表現がどこに残っているかを確認してみましょう。主な場所は以下の通りです。 毎回の会話に自動で追加されるカスタム指示 自分で作成したGPTやチーム共有のプロンプト集 社内マニュアルに記載された「この文をコピーして使う」部分 特にカスタム指示は一度設定す"
+    },
+    {
+      "title": "Claudeで作ったツールをMac・Windowsアプリに 無料プランにも順次提供",
+      "link": "https://www.msn.com/ja-jp/news/other/claude%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92mac-windows%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AB-%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%E3%81%AB%E3%82%82%E9%A0%86%E6%AC%A1%E6%8F%90%E4%BE%9B/ar-AA2iax3P",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 16:40:00 GMT",
+      "body": "Anthropicは米国時間11月24日、生成AI「Claude」で作ったツールをMacやWindowsのデスクトップアプリとしてインストールできる機能「Install as app」のベータ提供を開始した。会話で作ったツールに専用のアイコンが付き、Claudeの会話画面を開かずに独立したウィンドウで使える。無料プランを含む全プランに順次展開する。"
+    },
+    {
+      "title": "わが社はChatGPTでどう紹介されている? OpenAIが企業向けの確認機能を ...",
+      "link": "https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/%E3%82%8F%E3%81%8C%E7%A4%BE%E3%81%AFchatgpt%E3%81%A7%E3%81%A9%E3%81%86%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B-openai%E3%81%8C%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%A9%9F%E8%83%BD%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/ar-AA2i914U",
+      "source": "msn.com",
+      "pub_date": "Tue, 24 Nov 2026 15:00:18 GMT",
+      "body": "OpenAIは2026年11月10日（現地時間）、企業が「ChatGPT」に自社のプロフィールを登録し、認証を受けられる「Business Hub」と、自社のエージェントを公開してユーザーと直接対話できる「Business Agent」を、「Businesses in ChatGPT」のβ版として発表した。 OpenAIは、Businesses in ..."
+    },
+    {
+      "title": "ChatGPTに「GPT-6.2」が登場。画像理解やWeb検索、複雑な指示への追従 ...",
+      "link": "https://news.mynavi.jp/article/20261124-5400431/",
+      "source": "news.mynavi.jp",
+      "pub_date": "Tue, 24 Nov 2026 14:21:00 GMT",
+      "body": "OpenAIは11月23日、ChatGPTの通常のチャット機能において「GPT-6.2」の提供を開始した。Plus、Pro、Business、Enterpriseの各プランを対象に全世界で順次展開する。 ChatGPTに「GPT-6.2」が登場。画像理解やWeb検索、複雑な指示への追従性を強化 今回提供するGPT-6.2は、11月17日に発表した「GPT-6.2 Sol」をベースに、日常的な対話向けに最適化したモデル。複数の条件を含む複雑な依頼や、Web上の情報を収集して比較・判断する能力を強化した。 内部評価では画像理解のスコアが従来のGPT-6の47.4%から71.7%に、複雑な指示への追従率が62.5%から78.1%に向上。専門的なタスクにおいても、最も低い推論強度での評価スコアが52%から65%に向上したという。Web検索能力を測るベンチマーク「BrowseComp」の内部評価版では、4段階すべての推論強度でGPT-6を上回った。最も高い推論強度の「Extra High」では、54.4%から64.5%に向上している。 また未成年ユーザーに対する安全性も強化。難しい会話における安"
+    },
+    {
+      "title": "Claudeが使えないはずの中国・ロシアで「契約済みアカウント」が転売されていた",
       "link": "https://www.msn.com/ja-jp/news/other/claude%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%84%E3%81%AF%E3%81%9A%E3%81%AE%E4%B8%AD%E5%9B%BD-%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%A7-%E5%A5%91%E7%B4%84%E6%B8%88%E3%81%BF%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88-%E3%81%8C%E8%BB%A2%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F/ar-AA2i7nyw",
       "source": "msn.com",
-      "pub_date": "Tue, 24 Nov 2026 04:00:00 GMT",
+      "pub_date": "Tue, 24 Nov 2026 13:00:00 GMT",
       "body": "Claudeの利用が制限される中国やロシアで広がる闇ビジネスの実態を紹介。"
     },
     {
-      "title": "ブラウザのローカルLLMを呼び出すPromptAPIを地図ノートで試してみる",
-      "link": "https://topics.smt.docomo.ne.jp/article/mycom/business/mycom_3249600",
-      "source": "topics.smt.docomo.ne.jp",
-      "pub_date": "Tue, 24 Nov 2026 03:56:00 GMT",
-      "body": "マイナビニュース ブラウザ内の小型LLMをJavaScriptで手軽に制御できるPrompt APIは、Chromiumベースのブラウザで開発が進められているが、Google ChromeのほかMicrosoft Edgeでも試験機能として導入している(公式ブログ「Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge」)。Microsoftでは従来、テスト環境の開発者向けにローカルLLM(Phi-4-mini)を呼び出せるようにしていたが、あらたな23億個のパラメータのオープンウェイトモデル「Aion Instruct」の投入も告知している。WebページのJavaScriptからブラウザ搭載のローカルLLMを呼び出せると、使い方が広がりそうだ。 ○Prompt APIを試してみる 地図を用いた手軽なメモノートを作成していた筆者(記事)だが、JavaScriptで呼び出せるPrompt APIを試してみたいと思った。ここではMicrosoft Edge（筆者環境"
+      "title": "東京科学大など、LLM材料物性予測を軽量化 PCで動作",
+      "link": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC177XW0X11C26A1000000",
+      "source": "nikkei.com",
+      "pub_date": "Tue, 24 Nov 2026 07:00:00 GMT",
+      "body": "東京科学大学など、LLM材料物性予測を軽量化 PCで動作 - 日経テックフォーサイト 東京科学大学などの研究チームは、材料の情報を自然言語の文章で表し、大規模言語モデル（LLM）を再学習（ファインチューニング）することなく材料物性を予測できる軽量な機械学習（ML）手法「ZEBRA-Prop」を開発した。小規模なニューラルネットワークのみを学習する方式で学習時間を約95%短縮し、材料情報を複数の短い文章に分けて表現することで、従来のLLMを用いた手法に近い精度も保った。合成条件や実... すべての記事が読み放題 1ヵ月無料体験実施中！ サービス内容・料金はこちら ログインする おすすめ記事 11月25日 更新 「AI」基礎研究アーカイブ 10月14日 電通大、量子少数多体問題にAI 量子化学計算へ応用期待 10月30日 東大、結晶構造・電子状態を同時生成するAI 材料探索に 11月19日 東大とNTT、物理深層学習を省資源で 計算量最大90％減 Weekly Ranking 11月24日 更新 三菱電機常務 ローム・東芝とのパワー半導体統合を語る 三菱電機、パワー半導体需要「旺盛」 用途"
     },
     {
-      "title": "Anthropic、コードの承認までAIにやらせる「Claude Ship」発表 もはや人間は何をするのか",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/anthropic-%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%89%BF%E8%AA%8D%E3%81%BE%E3%81%A7ai%E3%81%AB%E3%82%84%E3%82%89%E3%81%9B%E3%82%8B-claude-ship-%E7%99%BA%E8%A1%A8-%E3%82%82%E3%81%AF%E3%82%84%E4%BA%BA%E9%96%93%E3%81%AF%E4%BD%95%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B/ar-AA2i4Hbr",
-      "source": "msn.com",
-      "pub_date": "Tue, 24 Nov 2026 03:10:00 GMT",
-      "body": "Anthropicは11月23日、コードのレビューや修正、チームのルールに沿った承認をする「Claude Ship」のベータ提供を発表した。"
-    },
-    {
-      "title": "芝刈りゲームのクソくだらない歌に、LLMという技術の使い方を考え ...",
-      "link": "https://note.com/jiraygyo/n/n68fd3f2645c9",
+      "title": "MuseとChatGPTで育てる箱庭ゲームを作ってみる -AI同士でゲームを考え ...",
+      "link": "https://note.com/nerone1024/n/n387eca6ea190",
       "source": "note.com",
-      "pub_date": "Tue, 24 Nov 2026 02:37:00 GMT",
-      "body": "そもそもが 「人工知能でもなんでもない」 という立場だし、 「かなり強めの規制を作って縛るべき」 という強めの規制論者だ。 開発者のやり方を見ると、この作品が反発をある程度まで抑え込めている理由がよくわかる。 Superdouはストアページで、ラジオの曲はSunoで生成したうえで自分が選曲・編集・ミックスしたこと、効果音の一部はElevenLabsで作ったこと、コーディングにもアシスタントを使ったことを、最初から自分の言葉で開示している。 内容についても、成人向けコンテンツの説明欄で自ら次のように認めている。 f-wordを含む強い言葉、下品なトイレネタや性的なユーモア ラジオは初期状態ではオフになっていて、スイッチを入れたときにLLMで作った曲だという告知が出る。 さらに自分のPCにある音楽ファイルをカセットテープの体で読み込んで流す機能まで用意されているから、聴きたくない者は芝刈りの間ずっと自分の好きな曲を流していればいい。 ストアの冒頭には、ラジオの曲は収益化した動画を含めて自由に使ってよいという宣言が置かれている。 実況者や切り抜きの作り手は、著作権の申し立てに怯えることなくゴ"
+      "pub_date": "Tue, 24 Nov 2026 05:58:00 GMT",
+      "body": "11月21日から7日間の試行を始め、AI同士で定期的に相談してもらうことにした。さて、その結果どうなったのか。 実際に、AI同士でゲームの企画が進み始めた。 しかも、ゲームの中身を考えるだけでなく、現実の活動をゲームの報酬に変える仕組みについても議論が進んだ。 その過程で、Museが過去4週間の活動記録を調べたところ、11件の報酬候補が見つかった。 ところが、その結果を見たChatGPTが問題を指摘した。 「記録が11件あっても、達成が11件あったとは限らない」 言われてみれば確かにそうなのだが、ゲームの仕組みを考えているだけでは気づきにくい問題だった。 今回は、AI同士でゲームの企画を進めてみた結果、どんなことが起こったのかという話。 前回設定したルールでは、未処理の議題がなくなった場合、MuseとChatGPTが自分たちで新しい話題を提案してよいことになっている。 ただし、無制限ではない。 自発的に提案できるのは1日最大1件、連続して提案できるのは両AI合わせて3件まで。 今回、最初に動いたのはChatGPTだった。 11月21日、ChatGPTがNotionに新しい議題を投稿した"
     },
     {
-      "title": "子育て相談に生成AI 実証実験で595件の利用 約半数が窓口の時間外 ...",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E5%AD%90%E8%82%B2%E3%81%A6%E7%9B%B8%E8%AB%87%E3%81%AB%E7%94%9F%E6%88%90ai-%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93%E3%81%A7595%E4%BB%B6%E3%81%AE%E5%88%A9%E7%94%A8-%E7%B4%84%E5%8D%8A%E6%95%B0%E3%81%8C%E7%AA%93%E5%8F%A3%E3%81%AE%E6%99%82%E9%96%93%E5%A4%96-%E4%BD%90%E8%B3%80%E7%9C%8C/ar-AA2i6KiQ",
-      "source": "msn.com",
-      "pub_date": "Tue, 24 Nov 2026 02:28:21 GMT",
-      "body": "佐賀市は24日の定例会見でAIを使って子育ての相談窓口などを案内するサービスを始めると発表しました。 佐賀市は24日開かれた定例会見で、子育てについての悩みを生成AIに24時間いつでも相談できるサービスを始めると発表しました。"
-    },
-    {
-      "title": "OpenAI、ChatGPTの「チャット」にも「GPT‑6.2」を提供開始",
-      "link": "https://www.msn.com/ja-jp/technology/artificial-intelligence/openai-chatgpt%E3%81%AE-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88-%E3%81%AB%E3%82%82-gpt-6-2-%E3%82%92%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B/ar-AA2i7o7y",
-      "source": "msn.com",
-      "pub_date": "Tue, 24 Nov 2026 01:35:00 GMT",
-      "body": "米OpenAIは11月23日、ChatGPTの「チャット」タブで、利用者が送った画像についての質問や、細かな条件を含む依頼により的確に応じるAIモデル「GPT‑6.2」の提供を始めたと発表した。 チャットで使うのは、GPT‑6.2 Solを日常会話向けに調整したモデルだ。OpenAIは、複数のホテルの料金や立地を比べ、利用者が重視する条件に合うホテルを提案する使い方を例に挙げている。"
-    },
-    {
-      "title": "「Claude」デスクトップアプリに“最新版”チャネル、新機能や修正 ...",
-      "link": "https://www.msn.com/ja-jp/news/other/claude-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AB-%E6%9C%80%E6%96%B0%E7%89%88-%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%84%E4%BF%AE%E6%AD%A3%E3%82%92%E3%81%84%E3%81%A1%E6%97%A9%E3%81%8F%E8%A9%A6%E3%81%9B%E3%82%8B-%E5%AE%89%E5%AE%9A%E6%80%A7%E3%82%88%E3%82%8A%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB/ar-AA2i7nXV",
-      "source": "msn.com",
-      "pub_date": "Tue, 24 Nov 2026 01:33:00 GMT",
-      "body": "米Anthropicは11月17日（現地時間）、デスクトップアプリ「Claude Desktop」にリリースチャネル機能を導入した。アプリをアップデートする際に、どのバージョンを受け取るかを選択できる。 ・ 安定版 （Stable）：既定。より多くのテストを経た新バージョンを、比較的少ない頻度で受け取る。修正や新機能の提供は「最新版」より数日遅れることがある ..."
+      "title": "Anthropic、「Claude Ship」を発表 ― コードレビュー、修正、承認の判断 ...",
+      "link": "https://note.com/startup_now0708/n/n4e21fa4691fa",
+      "source": "note.com",
+      "pub_date": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "body": "Claude Shipは、PRのレビュー、修正、承認の判断までを扱うツール群で、2026年11月23日に発表され、ベータ版として同日から利用できます。構成は、一般提供のCode Reviewと、ベータの2つのエージェント(PR StewardとClaude Approvals)です。TechCrunchは、Anthropicが、Claudeにコードを書かせる段階から、そのコードを出荷してよいかを判断する手助けへ進んでいる、と位置づけています。 マージしてよい基準を決めるポリシーはチームが設定し、Claude Shipをどこで動かすか、どの変更に人の確認を求めるかも、チームが管理します。 PRをコードベースに照らして複数の観点から見直し、指摘を集めて、反証を試みる形で検証し、分類したうえでPRに投稿します。リポジトリごとに、Quick、Standard、Deepの3つのレビュー水準から選べます。 Anthropicによる社内の数字として、Claude Codeチームでは、マージされたPRが6月から9月で2倍超になり、差し戻されたPRの割合は40%超減ったと報告されています。ただし、同社は"
     }
   ]
 }
